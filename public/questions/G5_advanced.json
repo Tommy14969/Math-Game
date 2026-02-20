@@ -1,0 +1,4556 @@
+{
+  "grade": 5,
+  "difficulty": "advanced",
+  "questions": [
+    {
+      "id": "G5_A_001",
+      "type": "choice",
+      "question": "某数加33等于62，求这个数",
+      "answer": "29",
+      "explanation": "设数为x，x+33=62，x=29",
+      "options": [
+        22,
+        29,
+        36,
+        45
+      ]
+    },
+    {
+      "id": "G5_A_002",
+      "type": "choice",
+      "question": "某数的5倍是195，求这个数",
+      "answer": "39",
+      "explanation": "设数为x，5x=195，x=39",
+      "options": [
+        31,
+        39,
+        43,
+        54
+      ]
+    },
+    {
+      "id": "G5_A_003",
+      "type": "choice",
+      "question": "某数加17等于31，求这个数",
+      "answer": "14",
+      "explanation": "设数为x，x+17=31，x=14",
+      "options": [
+        9,
+        14,
+        16,
+        28
+      ]
+    },
+    {
+      "id": "G5_A_004",
+      "type": "choice",
+      "question": "某数的2倍是46，求这个数",
+      "answer": "23",
+      "explanation": "设数为x，2x=46，x=23",
+      "options": [
+        15,
+        23,
+        27,
+        35
+      ]
+    },
+    {
+      "id": "G5_A_005",
+      "type": "choice",
+      "question": "某数的3倍是39，求这个数",
+      "answer": "13",
+      "explanation": "设数为x，3x=39，x=13",
+      "options": [
+        9,
+        13,
+        18,
+        27
+      ]
+    },
+    {
+      "id": "G5_A_006",
+      "type": "choice",
+      "question": "某数加34等于66，求这个数",
+      "answer": "32",
+      "explanation": "设数为x，x+34=66，x=32",
+      "options": [
+        25,
+        32,
+        34,
+        48
+      ]
+    },
+    {
+      "id": "G5_A_007",
+      "type": "choice",
+      "question": "某数的2倍是76，求这个数",
+      "answer": "38",
+      "explanation": "设数为x，2x=76，x=38",
+      "options": [
+        34,
+        38,
+        45,
+        47
+      ]
+    },
+    {
+      "id": "G5_A_008",
+      "type": "choice",
+      "question": "某数加22等于28，求这个数",
+      "answer": "6",
+      "explanation": "设数为x，x+22=28，x=6",
+      "options": [
+        2,
+        6,
+        13,
+        20
+      ]
+    },
+    {
+      "id": "G5_A_009",
+      "type": "choice",
+      "question": "某数加19等于38，求这个数",
+      "answer": "19",
+      "explanation": "设数为x，x+19=38，x=19",
+      "options": [
+        17,
+        19,
+        26,
+        33
+      ]
+    },
+    {
+      "id": "G5_A_010",
+      "type": "choice",
+      "question": "某数的5倍是180，求这个数",
+      "answer": "36",
+      "explanation": "设数为x，5x=180，x=36",
+      "options": [
+        34,
+        36,
+        40,
+        50
+      ]
+    },
+    {
+      "id": "G5_A_011",
+      "type": "choice",
+      "question": "某数加23等于44，求这个数",
+      "answer": "21",
+      "explanation": "设数为x，x+23=44，x=21",
+      "options": [
+        17,
+        21,
+        27,
+        37
+      ]
+    },
+    {
+      "id": "G5_A_012",
+      "type": "choice",
+      "question": "某数加21等于45，求这个数",
+      "answer": "24",
+      "explanation": "设数为x，x+21=45，x=24",
+      "options": [
+        22,
+        24,
+        28,
+        34
+      ]
+    },
+    {
+      "id": "G5_A_013",
+      "type": "choice",
+      "question": "某数加35等于51，求这个数",
+      "answer": "16",
+      "explanation": "设数为x，x+35=51，x=16",
+      "options": [
+        14,
+        16,
+        21,
+        25
+      ]
+    },
+    {
+      "id": "G5_A_014",
+      "type": "choice",
+      "question": "某数加13等于52，求这个数",
+      "answer": "39",
+      "explanation": "设数为x，x+13=52，x=39",
+      "options": [
+        32,
+        39,
+        47,
+        53
+      ]
+    },
+    {
+      "id": "G5_A_015",
+      "type": "choice",
+      "question": "某数加18等于51，求这个数",
+      "answer": "33",
+      "explanation": "设数为x，x+18=51，x=33",
+      "options": [
+        27,
+        33,
+        41,
+        48
+      ]
+    },
+    {
+      "id": "G5_A_016",
+      "type": "choice",
+      "question": "某数的5倍是130，求这个数",
+      "answer": "26",
+      "explanation": "设数为x，5x=130，x=26",
+      "options": [
+        24,
+        26,
+        28,
+        37
+      ]
+    },
+    {
+      "id": "G5_A_017",
+      "type": "choice",
+      "question": "某数的4倍是64，求这个数",
+      "answer": "16",
+      "explanation": "设数为x，4x=64，x=16",
+      "options": [
+        11,
+        16,
+        20,
+        27
+      ]
+    },
+    {
+      "id": "G5_A_018",
+      "type": "choice",
+      "question": "某数加30等于63，求这个数",
+      "answer": "33",
+      "explanation": "设数为x，x+30=63，x=33",
+      "options": [
+        27,
+        33,
+        37,
+        42
+      ]
+    },
+    {
+      "id": "G5_A_019",
+      "type": "choice",
+      "question": "某数加38等于68，求这个数",
+      "answer": "30",
+      "explanation": "设数为x，x+38=68，x=30",
+      "options": [
+        24,
+        30,
+        38,
+        39
+      ]
+    },
+    {
+      "id": "G5_A_020",
+      "type": "choice",
+      "question": "某数加14等于37，求这个数",
+      "answer": "23",
+      "explanation": "设数为x，x+14=37，x=23",
+      "options": [
+        20,
+        23,
+        25,
+        36
+      ]
+    },
+    {
+      "id": "G5_A_021",
+      "type": "choice",
+      "question": "某数的2倍是46，求这个数",
+      "answer": "23",
+      "explanation": "设数为x，2x=46，x=23",
+      "options": [
+        15,
+        23,
+        26,
+        32
+      ]
+    },
+    {
+      "id": "G5_A_022",
+      "type": "choice",
+      "question": "某数加34等于56，求这个数",
+      "answer": "22",
+      "explanation": "设数为x，x+34=56，x=22",
+      "options": [
+        16,
+        22,
+        26,
+        34
+      ]
+    },
+    {
+      "id": "G5_A_023",
+      "type": "choice",
+      "question": "某数加40等于76，求这个数",
+      "answer": "36",
+      "explanation": "设数为x，x+40=76，x=36",
+      "options": [
+        35,
+        36,
+        42,
+        49
+      ]
+    },
+    {
+      "id": "G5_A_024",
+      "type": "choice",
+      "question": "某数的2倍是58，求这个数",
+      "answer": "29",
+      "explanation": "设数为x，2x=58，x=29",
+      "options": [
+        24,
+        29,
+        31,
+        40
+      ]
+    },
+    {
+      "id": "G5_A_025",
+      "type": "choice",
+      "question": "某数的3倍是114，求这个数",
+      "answer": "38",
+      "explanation": "设数为x，3x=114，x=38",
+      "options": [
+        31,
+        38,
+        40,
+        54
+      ]
+    },
+    {
+      "id": "G5_A_026",
+      "type": "choice",
+      "question": "某数加32等于70，求这个数",
+      "answer": "38",
+      "explanation": "设数为x，x+32=70，x=38",
+      "options": [
+        30,
+        38,
+        45,
+        54
+      ]
+    },
+    {
+      "id": "G5_A_027",
+      "type": "choice",
+      "question": "某数加28等于43，求这个数",
+      "answer": "15",
+      "explanation": "设数为x，x+28=43，x=15",
+      "options": [
+        12,
+        15,
+        22,
+        26
+      ]
+    },
+    {
+      "id": "G5_A_028",
+      "type": "choice",
+      "question": "某数加26等于43，求这个数",
+      "answer": "17",
+      "explanation": "设数为x，x+26=43，x=17",
+      "options": [
+        16,
+        17,
+        18,
+        27
+      ]
+    },
+    {
+      "id": "G5_A_029",
+      "type": "choice",
+      "question": "某数加10等于43，求这个数",
+      "answer": "33",
+      "explanation": "设数为x，x+10=43，x=33",
+      "options": [
+        29,
+        33,
+        39,
+        43
+      ]
+    },
+    {
+      "id": "G5_A_030",
+      "type": "choice",
+      "question": "某数加30等于48，求这个数",
+      "answer": "18",
+      "explanation": "设数为x，x+30=48，x=18",
+      "options": [
+        15,
+        18,
+        22,
+        31
+      ]
+    },
+    {
+      "id": "G5_A_031",
+      "type": "choice",
+      "question": "某数的4倍是72，求这个数",
+      "answer": "18",
+      "explanation": "设数为x，4x=72，x=18",
+      "options": [
+        15,
+        18,
+        22,
+        29
+      ]
+    },
+    {
+      "id": "G5_A_032",
+      "type": "choice",
+      "question": "某数加25等于53，求这个数",
+      "answer": "28",
+      "explanation": "设数为x，x+25=53，x=28",
+      "options": [
+        22,
+        28,
+        30,
+        41
+      ]
+    },
+    {
+      "id": "G5_A_033",
+      "type": "choice",
+      "question": "某数加13等于48，求这个数",
+      "answer": "35",
+      "explanation": "设数为x，x+13=48，x=35",
+      "options": [
+        33,
+        35,
+        39,
+        50
+      ]
+    },
+    {
+      "id": "G5_A_034",
+      "type": "choice",
+      "question": "某数的3倍是93，求这个数",
+      "answer": "31",
+      "explanation": "设数为x，3x=93，x=31",
+      "options": [
+        27,
+        31,
+        39,
+        46
+      ]
+    },
+    {
+      "id": "G5_A_035",
+      "type": "choice",
+      "question": "某数的2倍是12，求这个数",
+      "answer": "6",
+      "explanation": "设数为x，2x=12，x=6",
+      "options": [
+        2,
+        6,
+        9,
+        22
+      ]
+    },
+    {
+      "id": "G5_A_036",
+      "type": "choice",
+      "question": "某数加40等于79，求这个数",
+      "answer": "39",
+      "explanation": "设数为x，x+40=79，x=39",
+      "options": [
+        31,
+        39,
+        40,
+        48
+      ]
+    },
+    {
+      "id": "G5_A_037",
+      "type": "choice",
+      "question": "某数加10等于20，求这个数",
+      "answer": "10",
+      "explanation": "设数为x，x+10=20，x=10",
+      "options": [
+        4,
+        10,
+        12,
+        24
+      ]
+    },
+    {
+      "id": "G5_A_038",
+      "type": "choice",
+      "question": "某数加23等于35，求这个数",
+      "answer": "12",
+      "explanation": "设数为x，x+23=35，x=12",
+      "options": [
+        6,
+        12,
+        19,
+        26
+      ]
+    },
+    {
+      "id": "G5_A_039",
+      "type": "choice",
+      "question": "某数加30等于59，求这个数",
+      "answer": "29",
+      "explanation": "设数为x，x+30=59，x=29",
+      "options": [
+        23,
+        29,
+        30,
+        44
+      ]
+    },
+    {
+      "id": "G5_A_040",
+      "type": "choice",
+      "question": "某数加10等于42，求这个数",
+      "answer": "32",
+      "explanation": "设数为x，x+10=42，x=32",
+      "options": [
+        25,
+        32,
+        39,
+        43
+      ]
+    },
+    {
+      "id": "G5_A_041",
+      "type": "choice",
+      "question": "某数加31等于37，求这个数",
+      "answer": "6",
+      "explanation": "设数为x，x+31=37，x=6",
+      "options": [
+        1,
+        6,
+        12,
+        19
+      ]
+    },
+    {
+      "id": "G5_A_042",
+      "type": "choice",
+      "question": "某数加25等于50，求这个数",
+      "answer": "25",
+      "explanation": "设数为x，x+25=50，x=25",
+      "options": [
+        23,
+        25,
+        28,
+        34
+      ]
+    },
+    {
+      "id": "G5_A_043",
+      "type": "choice",
+      "question": "某数的3倍是21，求这个数",
+      "answer": "7",
+      "explanation": "设数为x，3x=21，x=7",
+      "options": [
+        5,
+        7,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G5_A_044",
+      "type": "choice",
+      "question": "某数的3倍是21，求这个数",
+      "answer": "7",
+      "explanation": "设数为x，3x=21，x=7",
+      "options": [
+        1,
+        7,
+        10,
+        22
+      ]
+    },
+    {
+      "id": "G5_A_045",
+      "type": "choice",
+      "question": "某数的5倍是145，求这个数",
+      "answer": "29",
+      "explanation": "设数为x，5x=145，x=29",
+      "options": [
+        22,
+        29,
+        35,
+        40
+      ]
+    },
+    {
+      "id": "G5_A_046",
+      "type": "choice",
+      "question": "某数的3倍是45，求这个数",
+      "answer": "15",
+      "explanation": "设数为x，3x=45，x=15",
+      "options": [
+        7,
+        15,
+        22,
+        30
+      ]
+    },
+    {
+      "id": "G5_A_047",
+      "type": "choice",
+      "question": "某数的3倍是15，求这个数",
+      "answer": "5",
+      "explanation": "设数为x，3x=15，x=5",
+      "options": [
+        4,
+        5,
+        13,
+        17
+      ]
+    },
+    {
+      "id": "G5_A_048",
+      "type": "choice",
+      "question": "某数的2倍是64，求这个数",
+      "answer": "32",
+      "explanation": "设数为x，2x=64，x=32",
+      "options": [
+        26,
+        32,
+        40,
+        46
+      ]
+    },
+    {
+      "id": "G5_A_049",
+      "type": "choice",
+      "question": "某数的3倍是81，求这个数",
+      "answer": "27",
+      "explanation": "设数为x，3x=81，x=27",
+      "options": [
+        25,
+        27,
+        28,
+        40
+      ]
+    },
+    {
+      "id": "G5_A_050",
+      "type": "choice",
+      "question": "某数的5倍是170，求这个数",
+      "answer": "34",
+      "explanation": "设数为x，5x=170，x=34",
+      "options": [
+        31,
+        34,
+        37,
+        44
+      ]
+    },
+    {
+      "id": "G5_A_051",
+      "type": "choice",
+      "question": "某数加36等于48，求这个数",
+      "answer": "12",
+      "explanation": "设数为x，x+36=48，x=12",
+      "options": [
+        4,
+        12,
+        19,
+        24
+      ]
+    },
+    {
+      "id": "G5_A_052",
+      "type": "choice",
+      "question": "某数加19等于54，求这个数",
+      "answer": "35",
+      "explanation": "设数为x，x+19=54，x=35",
+      "options": [
+        32,
+        35,
+        37,
+        47
+      ]
+    },
+    {
+      "id": "G5_A_053",
+      "type": "choice",
+      "question": "某数的5倍是75，求这个数",
+      "answer": "15",
+      "explanation": "设数为x，5x=75，x=15",
+      "options": [
+        11,
+        15,
+        20,
+        26
+      ]
+    },
+    {
+      "id": "G5_A_054",
+      "type": "choice",
+      "question": "某数加11等于33，求这个数",
+      "answer": "22",
+      "explanation": "设数为x，x+11=33，x=22",
+      "options": [
+        20,
+        22,
+        24,
+        31
+      ]
+    },
+    {
+      "id": "G5_A_055",
+      "type": "choice",
+      "question": "某数加25等于48，求这个数",
+      "answer": "23",
+      "explanation": "设数为x，x+25=48，x=23",
+      "options": [
+        17,
+        23,
+        25,
+        39
+      ]
+    },
+    {
+      "id": "G5_A_056",
+      "type": "choice",
+      "question": "某数的2倍是52，求这个数",
+      "answer": "26",
+      "explanation": "设数为x，2x=52，x=26",
+      "options": [
+        23,
+        26,
+        34,
+        38
+      ]
+    },
+    {
+      "id": "G5_A_057",
+      "type": "choice",
+      "question": "某数的2倍是48，求这个数",
+      "answer": "24",
+      "explanation": "设数为x，2x=48，x=24",
+      "options": [
+        18,
+        24,
+        31,
+        39
+      ]
+    },
+    {
+      "id": "G5_A_058",
+      "type": "choice",
+      "question": "某数的5倍是175，求这个数",
+      "answer": "35",
+      "explanation": "设数为x，5x=175，x=35",
+      "options": [
+        34,
+        35,
+        38,
+        44
+      ]
+    },
+    {
+      "id": "G5_A_059",
+      "type": "choice",
+      "question": "某数加34等于39，求这个数",
+      "answer": "5",
+      "explanation": "设数为x，x+34=39，x=5",
+      "options": [
+        2,
+        5,
+        10,
+        17
+      ]
+    },
+    {
+      "id": "G5_A_060",
+      "type": "choice",
+      "question": "某数的2倍是60，求这个数",
+      "answer": "30",
+      "explanation": "设数为x，2x=60，x=30",
+      "options": [
+        24,
+        30,
+        35,
+        45
+      ]
+    },
+    {
+      "id": "G5_A_061",
+      "type": "choice",
+      "question": "某数的2倍是14，求这个数",
+      "answer": "7",
+      "explanation": "设数为x，2x=14，x=7",
+      "options": [
+        1,
+        7,
+        13,
+        22
+      ]
+    },
+    {
+      "id": "G5_A_062",
+      "type": "choice",
+      "question": "某数的2倍是56，求这个数",
+      "answer": "28",
+      "explanation": "设数为x，2x=56，x=28",
+      "options": [
+        22,
+        28,
+        36,
+        40
+      ]
+    },
+    {
+      "id": "G5_A_063",
+      "type": "choice",
+      "question": "某数加25等于50，求这个数",
+      "answer": "25",
+      "explanation": "设数为x，x+25=50，x=25",
+      "options": [
+        20,
+        25,
+        28,
+        39
+      ]
+    },
+    {
+      "id": "G5_A_064",
+      "type": "choice",
+      "question": "某数加25等于47，求这个数",
+      "answer": "22",
+      "explanation": "设数为x，x+25=47，x=22",
+      "options": [
+        20,
+        22,
+        27,
+        34
+      ]
+    },
+    {
+      "id": "G5_A_065",
+      "type": "choice",
+      "question": "某数加29等于63，求这个数",
+      "answer": "34",
+      "explanation": "设数为x，x+29=63，x=34",
+      "options": [
+        30,
+        34,
+        39,
+        44
+      ]
+    },
+    {
+      "id": "G5_A_066",
+      "type": "choice",
+      "question": "某数的4倍是116，求这个数",
+      "answer": "29",
+      "explanation": "设数为x，4x=116，x=29",
+      "options": [
+        24,
+        29,
+        33,
+        42
+      ]
+    },
+    {
+      "id": "G5_A_067",
+      "type": "choice",
+      "question": "某数的3倍是99，求这个数",
+      "answer": "33",
+      "explanation": "设数为x，3x=99，x=33",
+      "options": [
+        30,
+        33,
+        38,
+        47
+      ]
+    },
+    {
+      "id": "G5_A_068",
+      "type": "choice",
+      "question": "某数加13等于36，求这个数",
+      "answer": "23",
+      "explanation": "设数为x，x+13=36，x=23",
+      "options": [
+        20,
+        23,
+        29,
+        33
+      ]
+    },
+    {
+      "id": "G5_A_069",
+      "type": "choice",
+      "question": "某数加35等于74，求这个数",
+      "answer": "39",
+      "explanation": "设数为x，x+35=74，x=39",
+      "options": [
+        34,
+        39,
+        42,
+        52
+      ]
+    },
+    {
+      "id": "G5_A_070",
+      "type": "choice",
+      "question": "某数的3倍是120，求这个数",
+      "answer": "40",
+      "explanation": "设数为x，3x=120，x=40",
+      "options": [
+        37,
+        40,
+        47,
+        55
+      ]
+    },
+    {
+      "id": "G5_A_071",
+      "type": "choice",
+      "question": "某数加37等于67，求这个数",
+      "answer": "30",
+      "explanation": "设数为x，x+37=67，x=30",
+      "options": [
+        27,
+        30,
+        32,
+        44
+      ]
+    },
+    {
+      "id": "G5_A_072",
+      "type": "choice",
+      "question": "某数的3倍是60，求这个数",
+      "answer": "20",
+      "explanation": "设数为x，3x=60，x=20",
+      "options": [
+        17,
+        20,
+        28,
+        30
+      ]
+    },
+    {
+      "id": "G5_A_073",
+      "type": "choice",
+      "question": "某数加25等于51，求这个数",
+      "answer": "26",
+      "explanation": "设数为x，x+25=51，x=26",
+      "options": [
+        22,
+        26,
+        29,
+        40
+      ]
+    },
+    {
+      "id": "G5_A_074",
+      "type": "choice",
+      "question": "某数的2倍是22，求这个数",
+      "answer": "11",
+      "explanation": "设数为x，2x=22，x=11",
+      "options": [
+        10,
+        11,
+        16,
+        22
+      ]
+    },
+    {
+      "id": "G5_A_075",
+      "type": "choice",
+      "question": "某数加26等于59，求这个数",
+      "answer": "33",
+      "explanation": "设数为x，x+26=59，x=33",
+      "options": [
+        32,
+        33,
+        34,
+        43
+      ]
+    },
+    {
+      "id": "G5_A_076",
+      "type": "choice",
+      "question": "某数的4倍是72，求这个数",
+      "answer": "18",
+      "explanation": "设数为x，4x=72，x=18",
+      "options": [
+        15,
+        18,
+        19,
+        28
+      ]
+    },
+    {
+      "id": "G5_A_077",
+      "type": "choice",
+      "question": "某数加27等于36，求这个数",
+      "answer": "9",
+      "explanation": "设数为x，x+27=36，x=9",
+      "options": [
+        7,
+        9,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G5_A_078",
+      "type": "choice",
+      "question": "某数的5倍是65，求这个数",
+      "answer": "13",
+      "explanation": "设数为x，5x=65，x=13",
+      "options": [
+        5,
+        13,
+        14,
+        23
+      ]
+    },
+    {
+      "id": "G5_A_079",
+      "type": "choice",
+      "question": "某数的4倍是108，求这个数",
+      "answer": "27",
+      "explanation": "设数为x，4x=108，x=27",
+      "options": [
+        23,
+        27,
+        33,
+        41
+      ]
+    },
+    {
+      "id": "G5_A_080",
+      "type": "choice",
+      "question": "某数加15等于50，求这个数",
+      "answer": "35",
+      "explanation": "设数为x，x+15=50，x=35",
+      "options": [
+        34,
+        35,
+        36,
+        49
+      ]
+    },
+    {
+      "id": "G5_A_081",
+      "type": "choice",
+      "question": "某数的3倍是60，求这个数",
+      "answer": "20",
+      "explanation": "设数为x，3x=60，x=20",
+      "options": [
+        14,
+        20,
+        25,
+        30
+      ]
+    },
+    {
+      "id": "G5_A_082",
+      "type": "choice",
+      "question": "某数的2倍是52，求这个数",
+      "answer": "26",
+      "explanation": "设数为x，2x=52，x=26",
+      "options": [
+        22,
+        26,
+        27,
+        41
+      ]
+    },
+    {
+      "id": "G5_A_083",
+      "type": "choice",
+      "question": "某数的3倍是78，求这个数",
+      "answer": "26",
+      "explanation": "设数为x，3x=78，x=26",
+      "options": [
+        18,
+        26,
+        27,
+        39
+      ]
+    },
+    {
+      "id": "G5_A_084",
+      "type": "choice",
+      "question": "某数的2倍是58，求这个数",
+      "answer": "29",
+      "explanation": "设数为x，2x=58，x=29",
+      "options": [
+        23,
+        29,
+        36,
+        41
+      ]
+    },
+    {
+      "id": "G5_A_085",
+      "type": "choice",
+      "question": "某数的5倍是145，求这个数",
+      "answer": "29",
+      "explanation": "设数为x，5x=145，x=29",
+      "options": [
+        21,
+        29,
+        32,
+        39
+      ]
+    },
+    {
+      "id": "G5_A_086",
+      "type": "choice",
+      "question": "某数加35等于72，求这个数",
+      "answer": "37",
+      "explanation": "设数为x，x+35=72，x=37",
+      "options": [
+        36,
+        37,
+        42,
+        53
+      ]
+    },
+    {
+      "id": "G5_A_087",
+      "type": "choice",
+      "question": "某数的3倍是57，求这个数",
+      "answer": "19",
+      "explanation": "设数为x，3x=57，x=19",
+      "options": [
+        17,
+        19,
+        20,
+        34
+      ]
+    },
+    {
+      "id": "G5_A_088",
+      "type": "choice",
+      "question": "某数的4倍是20，求这个数",
+      "answer": "5",
+      "explanation": "设数为x，4x=20，x=5",
+      "options": [
+        3,
+        5,
+        12,
+        20
+      ]
+    },
+    {
+      "id": "G5_A_089",
+      "type": "choice",
+      "question": "某数的5倍是90，求这个数",
+      "answer": "18",
+      "explanation": "设数为x，5x=90，x=18",
+      "options": [
+        11,
+        18,
+        21,
+        32
+      ]
+    },
+    {
+      "id": "G5_A_090",
+      "type": "choice",
+      "question": "某数的5倍是170，求这个数",
+      "answer": "34",
+      "explanation": "设数为x，5x=170，x=34",
+      "options": [
+        28,
+        34,
+        41,
+        44
+      ]
+    },
+    {
+      "id": "G5_A_091",
+      "type": "choice",
+      "question": "某数的5倍是105，求这个数",
+      "answer": "21",
+      "explanation": "设数为x，5x=105，x=21",
+      "options": [
+        14,
+        21,
+        27,
+        33
+      ]
+    },
+    {
+      "id": "G5_A_092",
+      "type": "choice",
+      "question": "某数的5倍是145，求这个数",
+      "answer": "29",
+      "explanation": "设数为x，5x=145，x=29",
+      "options": [
+        24,
+        29,
+        34,
+        38
+      ]
+    },
+    {
+      "id": "G5_A_093",
+      "type": "choice",
+      "question": "某数的5倍是110，求这个数",
+      "answer": "22",
+      "explanation": "设数为x，5x=110，x=22",
+      "options": [
+        14,
+        22,
+        24,
+        38
+      ]
+    },
+    {
+      "id": "G5_A_094",
+      "type": "choice",
+      "question": "某数加12等于33，求这个数",
+      "answer": "21",
+      "explanation": "设数为x，x+12=33，x=21",
+      "options": [
+        18,
+        21,
+        23,
+        37
+      ]
+    },
+    {
+      "id": "G5_A_095",
+      "type": "choice",
+      "question": "某数加38等于62，求这个数",
+      "answer": "24",
+      "explanation": "设数为x，x+38=62，x=24",
+      "options": [
+        16,
+        24,
+        29,
+        36
+      ]
+    },
+    {
+      "id": "G5_A_096",
+      "type": "choice",
+      "question": "某数的5倍是110，求这个数",
+      "answer": "22",
+      "explanation": "设数为x，5x=110，x=22",
+      "options": [
+        18,
+        22,
+        24,
+        35
+      ]
+    },
+    {
+      "id": "G5_A_097",
+      "type": "choice",
+      "question": "某数的2倍是12，求这个数",
+      "answer": "6",
+      "explanation": "设数为x，2x=12，x=6",
+      "options": [
+        1,
+        6,
+        7,
+        22
+      ]
+    },
+    {
+      "id": "G5_A_098",
+      "type": "choice",
+      "question": "某数的5倍是185，求这个数",
+      "answer": "37",
+      "explanation": "设数为x，5x=185，x=37",
+      "options": [
+        35,
+        37,
+        40,
+        49
+      ]
+    },
+    {
+      "id": "G5_A_099",
+      "type": "choice",
+      "question": "某数的5倍是135，求这个数",
+      "answer": "27",
+      "explanation": "设数为x，5x=135，x=27",
+      "options": [
+        24,
+        27,
+        32,
+        37
+      ]
+    },
+    {
+      "id": "G5_A_100",
+      "type": "choice",
+      "question": "某数加13等于27，求这个数",
+      "answer": "14",
+      "explanation": "设数为x，x+13=27，x=14",
+      "options": [
+        6,
+        14,
+        18,
+        24
+      ]
+    },
+    {
+      "id": "G5_A_101",
+      "type": "choice",
+      "question": "某数加25等于42，求这个数",
+      "answer": "17",
+      "explanation": "设数为x，x+25=42，x=17",
+      "options": [
+        15,
+        17,
+        18,
+        29
+      ]
+    },
+    {
+      "id": "G5_A_102",
+      "type": "choice",
+      "question": "某数加30等于42，求这个数",
+      "answer": "12",
+      "explanation": "设数为x，x+30=42，x=12",
+      "options": [
+        6,
+        12,
+        13,
+        23
+      ]
+    },
+    {
+      "id": "G5_A_103",
+      "type": "choice",
+      "question": "某数的4倍是60，求这个数",
+      "answer": "15",
+      "explanation": "设数为x，4x=60，x=15",
+      "options": [
+        12,
+        15,
+        22,
+        27
+      ]
+    },
+    {
+      "id": "G5_A_104",
+      "type": "choice",
+      "question": "某数的3倍是81，求这个数",
+      "answer": "27",
+      "explanation": "设数为x，3x=81，x=27",
+      "options": [
+        25,
+        27,
+        34,
+        42
+      ]
+    },
+    {
+      "id": "G5_A_105",
+      "type": "choice",
+      "question": "某数加27等于54，求这个数",
+      "answer": "27",
+      "explanation": "设数为x，x+27=54，x=27",
+      "options": [
+        21,
+        27,
+        32,
+        42
+      ]
+    },
+    {
+      "id": "G5_A_106",
+      "type": "choice",
+      "question": "某数加30等于36，求这个数",
+      "answer": "6",
+      "explanation": "设数为x，x+30=36，x=6",
+      "options": [
+        5,
+        6,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "G5_A_107",
+      "type": "choice",
+      "question": "某数加10等于29，求这个数",
+      "answer": "19",
+      "explanation": "设数为x，x+10=29，x=19",
+      "options": [
+        18,
+        19,
+        20,
+        35
+      ]
+    },
+    {
+      "id": "G5_A_108",
+      "type": "choice",
+      "question": "某数的2倍是60，求这个数",
+      "answer": "30",
+      "explanation": "设数为x，2x=60，x=30",
+      "options": [
+        27,
+        30,
+        31,
+        40
+      ]
+    },
+    {
+      "id": "G5_A_109",
+      "type": "choice",
+      "question": "某数加35等于72，求这个数",
+      "answer": "37",
+      "explanation": "设数为x，x+35=72，x=37",
+      "options": [
+        33,
+        37,
+        39,
+        53
+      ]
+    },
+    {
+      "id": "G5_A_110",
+      "type": "choice",
+      "question": "某数加37等于66，求这个数",
+      "answer": "29",
+      "explanation": "设数为x，x+37=66，x=29",
+      "options": [
+        25,
+        29,
+        31,
+        43
+      ]
+    },
+    {
+      "id": "G5_A_111",
+      "type": "choice",
+      "question": "某数的2倍是64，求这个数",
+      "answer": "32",
+      "explanation": "设数为x，2x=64，x=32",
+      "options": [
+        25,
+        32,
+        33,
+        48
+      ]
+    },
+    {
+      "id": "G5_A_112",
+      "type": "choice",
+      "question": "某数的4倍是140，求这个数",
+      "answer": "35",
+      "explanation": "设数为x，4x=140，x=35",
+      "options": [
+        29,
+        35,
+        37,
+        45
+      ]
+    },
+    {
+      "id": "G5_A_113",
+      "type": "choice",
+      "question": "某数的3倍是120，求这个数",
+      "answer": "40",
+      "explanation": "设数为x，3x=120，x=40",
+      "options": [
+        32,
+        40,
+        43,
+        53
+      ]
+    },
+    {
+      "id": "G5_A_114",
+      "type": "choice",
+      "question": "某数加36等于60，求这个数",
+      "answer": "24",
+      "explanation": "设数为x，x+36=60，x=24",
+      "options": [
+        22,
+        24,
+        26,
+        38
+      ]
+    },
+    {
+      "id": "G5_A_115",
+      "type": "choice",
+      "question": "某数加24等于60，求这个数",
+      "answer": "36",
+      "explanation": "设数为x，x+24=60，x=36",
+      "options": [
+        35,
+        36,
+        43,
+        45
+      ]
+    },
+    {
+      "id": "G5_A_116",
+      "type": "choice",
+      "question": "某数加15等于35，求这个数",
+      "answer": "20",
+      "explanation": "设数为x，x+15=35，x=20",
+      "options": [
+        12,
+        20,
+        21,
+        35
+      ]
+    },
+    {
+      "id": "G5_A_117",
+      "type": "choice",
+      "question": "某数的2倍是18，求这个数",
+      "answer": "9",
+      "explanation": "设数为x，2x=18，x=9",
+      "options": [
+        1,
+        9,
+        10,
+        23
+      ]
+    },
+    {
+      "id": "G5_A_118",
+      "type": "choice",
+      "question": "某数的4倍是148，求这个数",
+      "answer": "37",
+      "explanation": "设数为x，4x=148，x=37",
+      "options": [
+        35,
+        37,
+        40,
+        47
+      ]
+    },
+    {
+      "id": "G5_A_119",
+      "type": "choice",
+      "question": "某数加19等于55，求这个数",
+      "answer": "36",
+      "explanation": "设数为x，x+19=55，x=36",
+      "options": [
+        32,
+        36,
+        40,
+        45
+      ]
+    },
+    {
+      "id": "G5_A_120",
+      "type": "choice",
+      "question": "某数加30等于39，求这个数",
+      "answer": "9",
+      "explanation": "设数为x，x+30=39，x=9",
+      "options": [
+        5,
+        9,
+        15,
+        20
+      ]
+    },
+    {
+      "id": "G5_A_121",
+      "type": "choice",
+      "question": "某数加31等于54，求这个数",
+      "answer": "23",
+      "explanation": "设数为x，x+31=54，x=23",
+      "options": [
+        18,
+        23,
+        31,
+        32
+      ]
+    },
+    {
+      "id": "G5_A_122",
+      "type": "choice",
+      "question": "某数加37等于76，求这个数",
+      "answer": "39",
+      "explanation": "设数为x，x+37=76，x=39",
+      "options": [
+        34,
+        39,
+        44,
+        49
+      ]
+    },
+    {
+      "id": "G5_A_123",
+      "type": "choice",
+      "question": "某数的5倍是160，求这个数",
+      "answer": "32",
+      "explanation": "设数为x，5x=160，x=32",
+      "options": [
+        28,
+        32,
+        40,
+        46
+      ]
+    },
+    {
+      "id": "G5_A_124",
+      "type": "choice",
+      "question": "某数加33等于48，求这个数",
+      "answer": "15",
+      "explanation": "设数为x，x+33=48，x=15",
+      "options": [
+        12,
+        15,
+        17,
+        26
+      ]
+    },
+    {
+      "id": "G5_A_125",
+      "type": "choice",
+      "question": "某数加16等于33，求这个数",
+      "answer": "17",
+      "explanation": "设数为x，x+16=33，x=17",
+      "options": [
+        13,
+        17,
+        19,
+        30
+      ]
+    },
+    {
+      "id": "G5_A_126",
+      "type": "choice",
+      "question": "某数加27等于37，求这个数",
+      "answer": "10",
+      "explanation": "设数为x，x+27=37，x=10",
+      "options": [
+        6,
+        10,
+        11,
+        25
+      ]
+    },
+    {
+      "id": "G5_A_127",
+      "type": "choice",
+      "question": "某数加25等于52，求这个数",
+      "answer": "27",
+      "explanation": "设数为x，x+25=52，x=27",
+      "options": [
+        26,
+        27,
+        31,
+        40
+      ]
+    },
+    {
+      "id": "G5_A_128",
+      "type": "choice",
+      "question": "某数的4倍是148，求这个数",
+      "answer": "37",
+      "explanation": "设数为x，4x=148，x=37",
+      "options": [
+        32,
+        37,
+        38,
+        48
+      ]
+    },
+    {
+      "id": "G5_A_129",
+      "type": "choice",
+      "question": "某数加26等于48，求这个数",
+      "answer": "22",
+      "explanation": "设数为x，x+26=48，x=22",
+      "options": [
+        20,
+        22,
+        28,
+        31
+      ]
+    },
+    {
+      "id": "G5_A_130",
+      "type": "choice",
+      "question": "某数加39等于59，求这个数",
+      "answer": "20",
+      "explanation": "设数为x，x+39=59，x=20",
+      "options": [
+        13,
+        20,
+        26,
+        29
+      ]
+    },
+    {
+      "id": "G5_A_131",
+      "type": "choice",
+      "question": "某数加26等于64，求这个数",
+      "answer": "38",
+      "explanation": "设数为x，x+26=64，x=38",
+      "options": [
+        37,
+        38,
+        41,
+        53
+      ]
+    },
+    {
+      "id": "G5_A_132",
+      "type": "choice",
+      "question": "某数加19等于45，求这个数",
+      "answer": "26",
+      "explanation": "设数为x，x+19=45，x=26",
+      "options": [
+        23,
+        26,
+        32,
+        38
+      ]
+    },
+    {
+      "id": "G5_A_133",
+      "type": "choice",
+      "question": "某数的2倍是22，求这个数",
+      "answer": "11",
+      "explanation": "设数为x，2x=22，x=11",
+      "options": [
+        5,
+        11,
+        15,
+        22
+      ]
+    },
+    {
+      "id": "G5_A_134",
+      "type": "choice",
+      "question": "某数的2倍是62，求这个数",
+      "answer": "31",
+      "explanation": "设数为x，2x=62，x=31",
+      "options": [
+        25,
+        31,
+        33,
+        47
+      ]
+    },
+    {
+      "id": "G5_A_135",
+      "type": "choice",
+      "question": "某数的4倍是32，求这个数",
+      "answer": "8",
+      "explanation": "设数为x，4x=32，x=8",
+      "options": [
+        6,
+        8,
+        16,
+        23
+      ]
+    },
+    {
+      "id": "G5_A_136",
+      "type": "choice",
+      "question": "某数的3倍是81，求这个数",
+      "answer": "27",
+      "explanation": "设数为x，3x=81，x=27",
+      "options": [
+        19,
+        27,
+        34,
+        41
+      ]
+    },
+    {
+      "id": "G5_A_137",
+      "type": "choice",
+      "question": "某数加12等于44，求这个数",
+      "answer": "32",
+      "explanation": "设数为x，x+12=44，x=32",
+      "options": [
+        30,
+        32,
+        34,
+        43
+      ]
+    },
+    {
+      "id": "G5_A_138",
+      "type": "choice",
+      "question": "某数加28等于42，求这个数",
+      "answer": "14",
+      "explanation": "设数为x，x+28=42，x=14",
+      "options": [
+        13,
+        14,
+        18,
+        23
+      ]
+    },
+    {
+      "id": "G5_A_139",
+      "type": "choice",
+      "question": "某数的2倍是22，求这个数",
+      "answer": "11",
+      "explanation": "设数为x，2x=22，x=11",
+      "options": [
+        8,
+        11,
+        19,
+        21
+      ]
+    },
+    {
+      "id": "G5_A_140",
+      "type": "choice",
+      "question": "某数的5倍是60，求这个数",
+      "answer": "12",
+      "explanation": "设数为x，5x=60，x=12",
+      "options": [
+        5,
+        12,
+        13,
+        24
+      ]
+    },
+    {
+      "id": "G5_A_141",
+      "type": "choice",
+      "question": "某数的5倍是150，求这个数",
+      "answer": "30",
+      "explanation": "设数为x，5x=150，x=30",
+      "options": [
+        22,
+        30,
+        37,
+        46
+      ]
+    },
+    {
+      "id": "G5_A_142",
+      "type": "choice",
+      "question": "某数加25等于49，求这个数",
+      "answer": "24",
+      "explanation": "设数为x，x+25=49，x=24",
+      "options": [
+        16,
+        24,
+        26,
+        39
+      ]
+    },
+    {
+      "id": "G5_A_143",
+      "type": "choice",
+      "question": "某数加29等于64，求这个数",
+      "answer": "35",
+      "explanation": "设数为x，x+29=64，x=35",
+      "options": [
+        33,
+        35,
+        41,
+        49
+      ]
+    },
+    {
+      "id": "G5_A_144",
+      "type": "choice",
+      "question": "某数加32等于66，求这个数",
+      "answer": "34",
+      "explanation": "设数为x，x+32=66，x=34",
+      "options": [
+        28,
+        34,
+        39,
+        48
+      ]
+    },
+    {
+      "id": "G5_A_145",
+      "type": "choice",
+      "question": "某数的5倍是150，求这个数",
+      "answer": "30",
+      "explanation": "设数为x，5x=150，x=30",
+      "options": [
+        24,
+        30,
+        34,
+        45
+      ]
+    },
+    {
+      "id": "G5_A_146",
+      "type": "choice",
+      "question": "某数加36等于70，求这个数",
+      "answer": "34",
+      "explanation": "设数为x，x+36=70，x=34",
+      "options": [
+        27,
+        34,
+        36,
+        45
+      ]
+    },
+    {
+      "id": "G5_A_147",
+      "type": "choice",
+      "question": "某数加22等于48，求这个数",
+      "answer": "26",
+      "explanation": "设数为x，x+22=48，x=26",
+      "options": [
+        20,
+        26,
+        27,
+        41
+      ]
+    },
+    {
+      "id": "G5_A_148",
+      "type": "choice",
+      "question": "某数的4倍是112，求这个数",
+      "answer": "28",
+      "explanation": "设数为x，4x=112，x=28",
+      "options": [
+        23,
+        28,
+        36,
+        37
+      ]
+    },
+    {
+      "id": "G5_A_149",
+      "type": "choice",
+      "question": "某数的3倍是30，求这个数",
+      "answer": "10",
+      "explanation": "设数为x，3x=30，x=10",
+      "options": [
+        7,
+        10,
+        11,
+        25
+      ]
+    },
+    {
+      "id": "G5_A_150",
+      "type": "choice",
+      "question": "某数的5倍是135，求这个数",
+      "answer": "27",
+      "explanation": "设数为x，5x=135，x=27",
+      "options": [
+        22,
+        27,
+        30,
+        42
+      ]
+    },
+    {
+      "id": "G5_A_151",
+      "type": "choice",
+      "question": "三角形底19cm，高15cm，面积？",
+      "answer": "142",
+      "explanation": "面积=19×15÷2=142cm²",
+      "options": [
+        130,
+        142,
+        149,
+        170
+      ]
+    },
+    {
+      "id": "G5_A_152",
+      "type": "choice",
+      "question": "三角形底12cm，高6cm，面积？",
+      "answer": "36",
+      "explanation": "面积=12×6÷2=36cm²",
+      "options": [
+        24,
+        36,
+        48,
+        53
+      ]
+    },
+    {
+      "id": "G5_A_153",
+      "type": "choice",
+      "question": "三角形底10cm，高15cm，面积？",
+      "answer": "75",
+      "explanation": "面积=10×15÷2=75cm²",
+      "options": [
+        60,
+        75,
+        81,
+        101
+      ]
+    },
+    {
+      "id": "G5_A_154",
+      "type": "choice",
+      "question": "三角形底19cm，高9cm，面积？",
+      "answer": "85",
+      "explanation": "面积=19×9÷2=85cm²",
+      "options": [
+        76,
+        85,
+        92,
+        101
+      ]
+    },
+    {
+      "id": "G5_A_155",
+      "type": "choice",
+      "question": "三角形底19cm，高13cm，面积？",
+      "answer": "123",
+      "explanation": "面积=19×13÷2=123cm²",
+      "options": [
+        114,
+        123,
+        136,
+        145
+      ]
+    },
+    {
+      "id": "G5_A_156",
+      "type": "choice",
+      "question": "三角形底14cm，高10cm，面积？",
+      "answer": "70",
+      "explanation": "面积=14×10÷2=70cm²",
+      "options": [
+        57,
+        70,
+        85,
+        89
+      ]
+    },
+    {
+      "id": "G5_A_157",
+      "type": "choice",
+      "question": "三角形底18cm，高5cm，面积？",
+      "answer": "45",
+      "explanation": "面积=18×5÷2=45cm²",
+      "options": [
+        37,
+        45,
+        52,
+        65
+      ]
+    },
+    {
+      "id": "G5_A_158",
+      "type": "choice",
+      "question": "三角形底9cm，高9cm，面积？",
+      "answer": "40",
+      "explanation": "面积=9×9÷2=40cm²",
+      "options": [
+        28,
+        40,
+        51,
+        62
+      ]
+    },
+    {
+      "id": "G5_A_159",
+      "type": "choice",
+      "question": "三角形底20cm，高13cm，面积？",
+      "answer": "130",
+      "explanation": "面积=20×13÷2=130cm²",
+      "options": [
+        120,
+        130,
+        141,
+        157
+      ]
+    },
+    {
+      "id": "G5_A_160",
+      "type": "choice",
+      "question": "三角形底7cm，高9cm，面积？",
+      "answer": "31",
+      "explanation": "面积=7×9÷2=31cm²",
+      "options": [
+        17,
+        31,
+        46,
+        53
+      ]
+    },
+    {
+      "id": "G5_A_161",
+      "type": "choice",
+      "question": "三角形底7cm，高14cm，面积？",
+      "answer": "49",
+      "explanation": "面积=7×14÷2=49cm²",
+      "options": [
+        43,
+        49,
+        64,
+        75
+      ]
+    },
+    {
+      "id": "G5_A_162",
+      "type": "choice",
+      "question": "三角形底8cm，高10cm，面积？",
+      "answer": "40",
+      "explanation": "面积=8×10÷2=40cm²",
+      "options": [
+        31,
+        40,
+        47,
+        69
+      ]
+    },
+    {
+      "id": "G5_A_163",
+      "type": "choice",
+      "question": "三角形底9cm，高15cm，面积？",
+      "answer": "67",
+      "explanation": "面积=9×15÷2=67cm²",
+      "options": [
+        52,
+        67,
+        72,
+        85
+      ]
+    },
+    {
+      "id": "G5_A_164",
+      "type": "choice",
+      "question": "三角形底10cm，高8cm，面积？",
+      "answer": "40",
+      "explanation": "面积=10×8÷2=40cm²",
+      "options": [
+        30,
+        40,
+        53,
+        66
+      ]
+    },
+    {
+      "id": "G5_A_165",
+      "type": "choice",
+      "question": "三角形底8cm，高12cm，面积？",
+      "answer": "48",
+      "explanation": "面积=8×12÷2=48cm²",
+      "options": [
+        38,
+        48,
+        55,
+        77
+      ]
+    },
+    {
+      "id": "G5_A_166",
+      "type": "choice",
+      "question": "三角形底19cm，高11cm，面积？",
+      "answer": "104",
+      "explanation": "面积=19×11÷2=104cm²",
+      "options": [
+        93,
+        104,
+        118,
+        123
+      ]
+    },
+    {
+      "id": "G5_A_167",
+      "type": "choice",
+      "question": "三角形底10cm，高7cm，面积？",
+      "answer": "35",
+      "explanation": "面积=10×7÷2=35cm²",
+      "options": [
+        29,
+        35,
+        47,
+        59
+      ]
+    },
+    {
+      "id": "G5_A_168",
+      "type": "choice",
+      "question": "三角形底15cm，高15cm，面积？",
+      "answer": "112",
+      "explanation": "面积=15×15÷2=112cm²",
+      "options": [
+        106,
+        112,
+        126,
+        128
+      ]
+    },
+    {
+      "id": "G5_A_169",
+      "type": "choice",
+      "question": "三角形底6cm，高7cm，面积？",
+      "answer": "21",
+      "explanation": "面积=6×7÷2=21cm²",
+      "options": [
+        14,
+        21,
+        28,
+        37
+      ]
+    },
+    {
+      "id": "G5_A_170",
+      "type": "choice",
+      "question": "三角形底17cm，高13cm，面积？",
+      "answer": "110",
+      "explanation": "面积=17×13÷2=110cm²",
+      "options": [
+        100,
+        110,
+        120,
+        135
+      ]
+    },
+    {
+      "id": "G5_A_171",
+      "type": "choice",
+      "question": "三角形底19cm，高10cm，面积？",
+      "answer": "95",
+      "explanation": "面积=19×10÷2=95cm²",
+      "options": [
+        86,
+        95,
+        105,
+        113
+      ]
+    },
+    {
+      "id": "G5_A_172",
+      "type": "choice",
+      "question": "三角形底13cm，高11cm，面积？",
+      "answer": "71",
+      "explanation": "面积=13×11÷2=71cm²",
+      "options": [
+        63,
+        71,
+        80,
+        89
+      ]
+    },
+    {
+      "id": "G5_A_173",
+      "type": "choice",
+      "question": "三角形底7cm，高7cm，面积？",
+      "answer": "24",
+      "explanation": "面积=7×7÷2=24cm²",
+      "options": [
+        16,
+        24,
+        35,
+        54
+      ]
+    },
+    {
+      "id": "G5_A_174",
+      "type": "choice",
+      "question": "三角形底6cm，高9cm，面积？",
+      "answer": "27",
+      "explanation": "面积=6×9÷2=27cm²",
+      "options": [
+        20,
+        27,
+        35,
+        57
+      ]
+    },
+    {
+      "id": "G5_A_175",
+      "type": "choice",
+      "question": "三角形底14cm，高13cm，面积？",
+      "answer": "91",
+      "explanation": "面积=14×13÷2=91cm²",
+      "options": [
+        85,
+        91,
+        104,
+        120
+      ]
+    },
+    {
+      "id": "G5_A_176",
+      "type": "choice",
+      "question": "三角形底15cm，高4cm，面积？",
+      "answer": "30",
+      "explanation": "面积=15×4÷2=30cm²",
+      "options": [
+        23,
+        30,
+        44,
+        51
+      ]
+    },
+    {
+      "id": "G5_A_177",
+      "type": "choice",
+      "question": "三角形底17cm，高15cm，面积？",
+      "answer": "127",
+      "explanation": "面积=17×15÷2=127cm²",
+      "options": [
+        115,
+        127,
+        138,
+        153
+      ]
+    },
+    {
+      "id": "G5_A_178",
+      "type": "choice",
+      "question": "三角形底11cm，高8cm，面积？",
+      "answer": "44",
+      "explanation": "面积=11×8÷2=44cm²",
+      "options": [
+        34,
+        44,
+        54,
+        65
+      ]
+    },
+    {
+      "id": "G5_A_179",
+      "type": "choice",
+      "question": "三角形底12cm，高7cm，面积？",
+      "answer": "42",
+      "explanation": "面积=12×7÷2=42cm²",
+      "options": [
+        34,
+        42,
+        57,
+        60
+      ]
+    },
+    {
+      "id": "G5_A_180",
+      "type": "choice",
+      "question": "三角形底18cm，高8cm，面积？",
+      "answer": "72",
+      "explanation": "面积=18×8÷2=72cm²",
+      "options": [
+        62,
+        72,
+        86,
+        100
+      ]
+    },
+    {
+      "id": "G5_A_181",
+      "type": "choice",
+      "question": "三角形底18cm，高7cm，面积？",
+      "answer": "63",
+      "explanation": "面积=18×7÷2=63cm²",
+      "options": [
+        55,
+        63,
+        76,
+        90
+      ]
+    },
+    {
+      "id": "G5_A_182",
+      "type": "choice",
+      "question": "三角形底13cm，高12cm，面积？",
+      "answer": "78",
+      "explanation": "面积=13×12÷2=78cm²",
+      "options": [
+        69,
+        78,
+        86,
+        104
+      ]
+    },
+    {
+      "id": "G5_A_183",
+      "type": "choice",
+      "question": "三角形底14cm，高10cm，面积？",
+      "answer": "70",
+      "explanation": "面积=14×10÷2=70cm²",
+      "options": [
+        56,
+        70,
+        85,
+        90
+      ]
+    },
+    {
+      "id": "G5_A_184",
+      "type": "choice",
+      "question": "三角形底11cm，高8cm，面积？",
+      "answer": "44",
+      "explanation": "面积=11×8÷2=44cm²",
+      "options": [
+        29,
+        44,
+        54,
+        72
+      ]
+    },
+    {
+      "id": "G5_A_185",
+      "type": "choice",
+      "question": "三角形底9cm，高15cm，面积？",
+      "answer": "67",
+      "explanation": "面积=9×15÷2=67cm²",
+      "options": [
+        60,
+        67,
+        81,
+        85
+      ]
+    },
+    {
+      "id": "G5_A_186",
+      "type": "choice",
+      "question": "三角形底17cm，高6cm，面积？",
+      "answer": "51",
+      "explanation": "面积=17×6÷2=51cm²",
+      "options": [
+        38,
+        51,
+        64,
+        68
+      ]
+    },
+    {
+      "id": "G5_A_187",
+      "type": "choice",
+      "question": "三角形底7cm，高5cm，面积？",
+      "answer": "17",
+      "explanation": "面积=7×5÷2=17cm²",
+      "options": [
+        6,
+        17,
+        31,
+        36
+      ]
+    },
+    {
+      "id": "G5_A_188",
+      "type": "choice",
+      "question": "三角形底10cm，高9cm，面积？",
+      "answer": "45",
+      "explanation": "面积=10×9÷2=45cm²",
+      "options": [
+        40,
+        45,
+        57,
+        72
+      ]
+    },
+    {
+      "id": "G5_A_189",
+      "type": "choice",
+      "question": "三角形底12cm，高14cm，面积？",
+      "answer": "84",
+      "explanation": "面积=12×14÷2=84cm²",
+      "options": [
+        69,
+        84,
+        91,
+        111
+      ]
+    },
+    {
+      "id": "G5_A_190",
+      "type": "choice",
+      "question": "三角形底14cm，高14cm，面积？",
+      "answer": "98",
+      "explanation": "面积=14×14÷2=98cm²",
+      "options": [
+        83,
+        98,
+        110,
+        118
+      ]
+    },
+    {
+      "id": "G5_A_191",
+      "type": "choice",
+      "question": "三角形底20cm，高4cm，面积？",
+      "answer": "40",
+      "explanation": "面积=20×4÷2=40cm²",
+      "options": [
+        25,
+        40,
+        47,
+        57
+      ]
+    },
+    {
+      "id": "G5_A_192",
+      "type": "choice",
+      "question": "三角形底7cm，高14cm，面积？",
+      "answer": "49",
+      "explanation": "面积=7×14÷2=49cm²",
+      "options": [
+        37,
+        49,
+        57,
+        68
+      ]
+    },
+    {
+      "id": "G5_A_193",
+      "type": "choice",
+      "question": "三角形底17cm，高9cm，面积？",
+      "answer": "76",
+      "explanation": "面积=17×9÷2=76cm²",
+      "options": [
+        69,
+        76,
+        83,
+        103
+      ]
+    },
+    {
+      "id": "G5_A_194",
+      "type": "choice",
+      "question": "三角形底15cm，高15cm，面积？",
+      "answer": "112",
+      "explanation": "面积=15×15÷2=112cm²",
+      "options": [
+        99,
+        112,
+        126,
+        134
+      ]
+    },
+    {
+      "id": "G5_A_195",
+      "type": "choice",
+      "question": "三角形底16cm，高6cm，面积？",
+      "answer": "48",
+      "explanation": "面积=16×6÷2=48cm²",
+      "options": [
+        39,
+        48,
+        55,
+        70
+      ]
+    },
+    {
+      "id": "G5_A_196",
+      "type": "choice",
+      "question": "三角形底9cm，高14cm，面积？",
+      "answer": "63",
+      "explanation": "面积=9×14÷2=63cm²",
+      "options": [
+        58,
+        63,
+        78,
+        88
+      ]
+    },
+    {
+      "id": "G5_A_197",
+      "type": "choice",
+      "question": "三角形底7cm，高5cm，面积？",
+      "answer": "17",
+      "explanation": "面积=7×5÷2=17cm²",
+      "options": [
+        7,
+        17,
+        29,
+        43
+      ]
+    },
+    {
+      "id": "G5_A_198",
+      "type": "choice",
+      "question": "三角形底17cm，高14cm，面积？",
+      "answer": "119",
+      "explanation": "面积=17×14÷2=119cm²",
+      "options": [
+        110,
+        119,
+        125,
+        140
+      ]
+    },
+    {
+      "id": "G5_A_199",
+      "type": "choice",
+      "question": "三角形底17cm，高15cm，面积？",
+      "answer": "127",
+      "explanation": "面积=17×15÷2=127cm²",
+      "options": [
+        116,
+        127,
+        136,
+        154
+      ]
+    },
+    {
+      "id": "G5_A_200",
+      "type": "choice",
+      "question": "三角形底8cm，高11cm，面积？",
+      "answer": "44",
+      "explanation": "面积=8×11÷2=44cm²",
+      "options": [
+        38,
+        44,
+        56,
+        62
+      ]
+    },
+    {
+      "id": "G5_A_201",
+      "type": "choice",
+      "question": "三角形底8cm，高13cm，面积？",
+      "answer": "52",
+      "explanation": "面积=8×13÷2=52cm²",
+      "options": [
+        40,
+        52,
+        59,
+        81
+      ]
+    },
+    {
+      "id": "G5_A_202",
+      "type": "choice",
+      "question": "三角形底16cm，高12cm，面积？",
+      "answer": "96",
+      "explanation": "面积=16×12÷2=96cm²",
+      "options": [
+        81,
+        96,
+        103,
+        121
+      ]
+    },
+    {
+      "id": "G5_A_203",
+      "type": "choice",
+      "question": "三角形底6cm，高11cm，面积？",
+      "answer": "33",
+      "explanation": "面积=6×11÷2=33cm²",
+      "options": [
+        22,
+        33,
+        38,
+        55
+      ]
+    },
+    {
+      "id": "G5_A_204",
+      "type": "choice",
+      "question": "三角形底6cm，高14cm，面积？",
+      "answer": "42",
+      "explanation": "面积=6×14÷2=42cm²",
+      "options": [
+        36,
+        42,
+        54,
+        63
+      ]
+    },
+    {
+      "id": "G5_A_205",
+      "type": "choice",
+      "question": "三角形底17cm，高7cm，面积？",
+      "answer": "59",
+      "explanation": "面积=17×7÷2=59cm²",
+      "options": [
+        54,
+        59,
+        66,
+        76
+      ]
+    },
+    {
+      "id": "G5_A_206",
+      "type": "choice",
+      "question": "三角形底7cm，高10cm，面积？",
+      "answer": "35",
+      "explanation": "面积=7×10÷2=35cm²",
+      "options": [
+        25,
+        35,
+        46,
+        60
+      ]
+    },
+    {
+      "id": "G5_A_207",
+      "type": "choice",
+      "question": "三角形底20cm，高4cm，面积？",
+      "answer": "40",
+      "explanation": "面积=20×4÷2=40cm²",
+      "options": [
+        32,
+        40,
+        51,
+        60
+      ]
+    },
+    {
+      "id": "G5_A_208",
+      "type": "choice",
+      "question": "三角形底13cm，高10cm，面积？",
+      "answer": "65",
+      "explanation": "面积=13×10÷2=65cm²",
+      "options": [
+        52,
+        65,
+        76,
+        86
+      ]
+    },
+    {
+      "id": "G5_A_209",
+      "type": "choice",
+      "question": "三角形底6cm，高9cm，面积？",
+      "answer": "27",
+      "explanation": "面积=6×9÷2=27cm²",
+      "options": [
+        14,
+        27,
+        36,
+        46
+      ]
+    },
+    {
+      "id": "G5_A_210",
+      "type": "choice",
+      "question": "三角形底10cm，高4cm，面积？",
+      "answer": "20",
+      "explanation": "面积=10×4÷2=20cm²",
+      "options": [
+        10,
+        20,
+        28,
+        46
+      ]
+    },
+    {
+      "id": "G5_A_211",
+      "type": "choice",
+      "question": "三角形底11cm，高14cm，面积？",
+      "answer": "77",
+      "explanation": "面积=11×14÷2=77cm²",
+      "options": [
+        65,
+        77,
+        86,
+        100
+      ]
+    },
+    {
+      "id": "G5_A_212",
+      "type": "choice",
+      "question": "三角形底9cm，高5cm，面积？",
+      "answer": "22",
+      "explanation": "面积=9×5÷2=22cm²",
+      "options": [
+        14,
+        22,
+        31,
+        43
+      ]
+    },
+    {
+      "id": "G5_A_213",
+      "type": "choice",
+      "question": "三角形底8cm，高7cm，面积？",
+      "answer": "28",
+      "explanation": "面积=8×7÷2=28cm²",
+      "options": [
+        17,
+        28,
+        41,
+        44
+      ]
+    },
+    {
+      "id": "G5_A_214",
+      "type": "choice",
+      "question": "三角形底13cm，高14cm，面积？",
+      "answer": "91",
+      "explanation": "面积=13×14÷2=91cm²",
+      "options": [
+        77,
+        91,
+        101,
+        108
+      ]
+    },
+    {
+      "id": "G5_A_215",
+      "type": "choice",
+      "question": "三角形底19cm，高12cm，面积？",
+      "answer": "114",
+      "explanation": "面积=19×12÷2=114cm²",
+      "options": [
+        107,
+        114,
+        119,
+        143
+      ]
+    },
+    {
+      "id": "G5_A_216",
+      "type": "choice",
+      "question": "三角形底12cm，高14cm，面积？",
+      "answer": "84",
+      "explanation": "面积=12×14÷2=84cm²",
+      "options": [
+        79,
+        84,
+        96,
+        111
+      ]
+    },
+    {
+      "id": "G5_A_217",
+      "type": "choice",
+      "question": "三角形底7cm，高4cm，面积？",
+      "answer": "14",
+      "explanation": "面积=7×4÷2=14cm²",
+      "options": [
+        0,
+        14,
+        21,
+        43
+      ]
+    },
+    {
+      "id": "G5_A_218",
+      "type": "choice",
+      "question": "三角形底13cm，高13cm，面积？",
+      "answer": "84",
+      "explanation": "面积=13×13÷2=84cm²",
+      "options": [
+        76,
+        84,
+        90,
+        109
+      ]
+    },
+    {
+      "id": "G5_A_219",
+      "type": "choice",
+      "question": "三角形底17cm，高14cm，面积？",
+      "answer": "119",
+      "explanation": "面积=17×14÷2=119cm²",
+      "options": [
+        113,
+        119,
+        126,
+        149
+      ]
+    },
+    {
+      "id": "G5_A_220",
+      "type": "choice",
+      "question": "三角形底16cm，高7cm，面积？",
+      "answer": "56",
+      "explanation": "面积=16×7÷2=56cm²",
+      "options": [
+        41,
+        56,
+        70,
+        84
+      ]
+    },
+    {
+      "id": "G5_A_221",
+      "type": "choice",
+      "question": "三角形底15cm，高14cm，面积？",
+      "answer": "105",
+      "explanation": "面积=15×14÷2=105cm²",
+      "options": [
+        93,
+        105,
+        119,
+        132
+      ]
+    },
+    {
+      "id": "G5_A_222",
+      "type": "choice",
+      "question": "三角形底12cm，高12cm，面积？",
+      "answer": "72",
+      "explanation": "面积=12×12÷2=72cm²",
+      "options": [
+        59,
+        72,
+        84,
+        101
+      ]
+    },
+    {
+      "id": "G5_A_223",
+      "type": "choice",
+      "question": "三角形底17cm，高15cm，面积？",
+      "answer": "127",
+      "explanation": "面积=17×15÷2=127cm²",
+      "options": [
+        114,
+        127,
+        133,
+        154
+      ]
+    },
+    {
+      "id": "G5_A_224",
+      "type": "choice",
+      "question": "三角形底19cm，高8cm，面积？",
+      "answer": "76",
+      "explanation": "面积=19×8÷2=76cm²",
+      "options": [
+        71,
+        76,
+        88,
+        101
+      ]
+    },
+    {
+      "id": "G5_A_225",
+      "type": "choice",
+      "question": "三角形底14cm，高12cm，面积？",
+      "answer": "84",
+      "explanation": "面积=14×12÷2=84cm²",
+      "options": [
+        79,
+        84,
+        95,
+        110
+      ]
+    },
+    {
+      "id": "G5_A_226",
+      "type": "choice",
+      "question": "三角形底17cm，高10cm，面积？",
+      "answer": "85",
+      "explanation": "面积=17×10÷2=85cm²",
+      "options": [
+        77,
+        85,
+        95,
+        105
+      ]
+    },
+    {
+      "id": "G5_A_227",
+      "type": "choice",
+      "question": "三角形底13cm，高13cm，面积？",
+      "answer": "84",
+      "explanation": "面积=13×13÷2=84cm²",
+      "options": [
+        76,
+        84,
+        91,
+        107
+      ]
+    },
+    {
+      "id": "G5_A_228",
+      "type": "choice",
+      "question": "三角形底12cm，高10cm，面积？",
+      "answer": "60",
+      "explanation": "面积=12×10÷2=60cm²",
+      "options": [
+        52,
+        60,
+        66,
+        82
+      ]
+    },
+    {
+      "id": "G5_A_229",
+      "type": "choice",
+      "question": "三角形底16cm，高11cm，面积？",
+      "answer": "88",
+      "explanation": "面积=16×11÷2=88cm²",
+      "options": [
+        83,
+        88,
+        98,
+        105
+      ]
+    },
+    {
+      "id": "G5_A_230",
+      "type": "choice",
+      "question": "三角形底9cm，高5cm，面积？",
+      "answer": "22",
+      "explanation": "面积=9×5÷2=22cm²",
+      "options": [
+        17,
+        22,
+        29,
+        45
+      ]
+    },
+    {
+      "id": "G5_A_231",
+      "type": "choice",
+      "question": "三角形底16cm，高7cm，面积？",
+      "answer": "56",
+      "explanation": "面积=16×7÷2=56cm²",
+      "options": [
+        41,
+        56,
+        61,
+        86
+      ]
+    },
+    {
+      "id": "G5_A_232",
+      "type": "choice",
+      "question": "三角形底8cm，高6cm，面积？",
+      "answer": "24",
+      "explanation": "面积=8×6÷2=24cm²",
+      "options": [
+        9,
+        24,
+        29,
+        45
+      ]
+    },
+    {
+      "id": "G5_A_233",
+      "type": "choice",
+      "question": "三角形底14cm，高5cm，面积？",
+      "answer": "35",
+      "explanation": "面积=14×5÷2=35cm²",
+      "options": [
+        27,
+        35,
+        46,
+        61
+      ]
+    },
+    {
+      "id": "G5_A_234",
+      "type": "choice",
+      "question": "三角形底10cm，高10cm，面积？",
+      "answer": "50",
+      "explanation": "面积=10×10÷2=50cm²",
+      "options": [
+        45,
+        50,
+        63,
+        80
+      ]
+    },
+    {
+      "id": "G5_A_235",
+      "type": "choice",
+      "question": "三角形底7cm，高13cm，面积？",
+      "answer": "45",
+      "explanation": "面积=7×13÷2=45cm²",
+      "options": [
+        36,
+        45,
+        51,
+        65
+      ]
+    },
+    {
+      "id": "G5_A_236",
+      "type": "choice",
+      "question": "三角形底16cm，高6cm，面积？",
+      "answer": "48",
+      "explanation": "面积=16×6÷2=48cm²",
+      "options": [
+        35,
+        48,
+        61,
+        68
+      ]
+    },
+    {
+      "id": "G5_A_237",
+      "type": "choice",
+      "question": "三角形底6cm，高4cm，面积？",
+      "answer": "12",
+      "explanation": "面积=6×4÷2=12cm²",
+      "options": [
+        -2,
+        12,
+        25,
+        28
+      ]
+    },
+    {
+      "id": "G5_A_238",
+      "type": "choice",
+      "question": "三角形底14cm，高8cm，面积？",
+      "answer": "56",
+      "explanation": "面积=14×8÷2=56cm²",
+      "options": [
+        48,
+        56,
+        62,
+        80
+      ]
+    },
+    {
+      "id": "G5_A_239",
+      "type": "choice",
+      "question": "三角形底16cm，高4cm，面积？",
+      "answer": "32",
+      "explanation": "面积=16×4÷2=32cm²",
+      "options": [
+        21,
+        32,
+        47,
+        52
+      ]
+    },
+    {
+      "id": "G5_A_240",
+      "type": "choice",
+      "question": "三角形底13cm，高12cm，面积？",
+      "answer": "78",
+      "explanation": "面积=13×12÷2=78cm²",
+      "options": [
+        69,
+        78,
+        86,
+        106
+      ]
+    },
+    {
+      "id": "G5_A_241",
+      "type": "choice",
+      "question": "三角形底14cm，高15cm，面积？",
+      "answer": "105",
+      "explanation": "面积=14×15÷2=105cm²",
+      "options": [
+        92,
+        105,
+        117,
+        134
+      ]
+    },
+    {
+      "id": "G5_A_242",
+      "type": "choice",
+      "question": "三角形底16cm，高15cm，面积？",
+      "answer": "120",
+      "explanation": "面积=16×15÷2=120cm²",
+      "options": [
+        115,
+        120,
+        131,
+        142
+      ]
+    },
+    {
+      "id": "G5_A_243",
+      "type": "choice",
+      "question": "三角形底6cm，高4cm，面积？",
+      "answer": "12",
+      "explanation": "面积=6×4÷2=12cm²",
+      "options": [
+        -1,
+        12,
+        20,
+        39
+      ]
+    },
+    {
+      "id": "G5_A_244",
+      "type": "choice",
+      "question": "三角形底20cm，高7cm，面积？",
+      "answer": "70",
+      "explanation": "面积=20×7÷2=70cm²",
+      "options": [
+        57,
+        70,
+        77,
+        93
+      ]
+    },
+    {
+      "id": "G5_A_245",
+      "type": "choice",
+      "question": "三角形底14cm，高15cm，面积？",
+      "answer": "105",
+      "explanation": "面积=14×15÷2=105cm²",
+      "options": [
+        94,
+        105,
+        119,
+        125
+      ]
+    },
+    {
+      "id": "G5_A_246",
+      "type": "choice",
+      "question": "三角形底17cm，高14cm，面积？",
+      "answer": "119",
+      "explanation": "面积=17×14÷2=119cm²",
+      "options": [
+        111,
+        119,
+        124,
+        143
+      ]
+    },
+    {
+      "id": "G5_A_247",
+      "type": "choice",
+      "question": "三角形底14cm，高7cm，面积？",
+      "answer": "49",
+      "explanation": "面积=14×7÷2=49cm²",
+      "options": [
+        39,
+        49,
+        55,
+        65
+      ]
+    },
+    {
+      "id": "G5_A_248",
+      "type": "choice",
+      "question": "三角形底18cm，高5cm，面积？",
+      "answer": "45",
+      "explanation": "面积=18×5÷2=45cm²",
+      "options": [
+        37,
+        45,
+        54,
+        64
+      ]
+    },
+    {
+      "id": "G5_A_249",
+      "type": "choice",
+      "question": "三角形底9cm，高4cm，面积？",
+      "answer": "18",
+      "explanation": "面积=9×4÷2=18cm²",
+      "options": [
+        7,
+        18,
+        29,
+        37
+      ]
+    },
+    {
+      "id": "G5_A_250",
+      "type": "choice",
+      "question": "三角形底7cm，高7cm，面积？",
+      "answer": "24",
+      "explanation": "面积=7×7÷2=24cm²",
+      "options": [
+        10,
+        24,
+        33,
+        40
+      ]
+    },
+    {
+      "id": "G5_A_251",
+      "type": "choice",
+      "question": "平行四边形底6cm，高7cm，面积？",
+      "answer": "42",
+      "explanation": "面积=6×7=42cm²",
+      "options": [
+        34,
+        42,
+        57,
+        83
+      ]
+    },
+    {
+      "id": "G5_A_252",
+      "type": "choice",
+      "question": "平行四边形底19cm，高12cm，面积？",
+      "answer": "228",
+      "explanation": "面积=19×12=228cm²",
+      "options": [
+        214,
+        228,
+        247,
+        256
+      ]
+    },
+    {
+      "id": "G5_A_253",
+      "type": "choice",
+      "question": "平行四边形底5cm，高5cm，面积？",
+      "answer": "25",
+      "explanation": "面积=5×5=25cm²",
+      "options": [
+        10,
+        25,
+        39,
+        54
+      ]
+    },
+    {
+      "id": "G5_A_254",
+      "type": "choice",
+      "question": "平行四边形底20cm，高6cm，面积？",
+      "answer": "120",
+      "explanation": "面积=20×6=120cm²",
+      "options": [
+        110,
+        120,
+        140,
+        149
+      ]
+    },
+    {
+      "id": "G5_A_255",
+      "type": "choice",
+      "question": "平行四边形底15cm，高9cm，面积？",
+      "answer": "135",
+      "explanation": "面积=15×9=135cm²",
+      "options": [
+        130,
+        135,
+        143,
+        183
+      ]
+    },
+    {
+      "id": "G5_A_256",
+      "type": "choice",
+      "question": "平行四边形底6cm，高6cm，面积？",
+      "answer": "36",
+      "explanation": "面积=6×6=36cm²",
+      "options": [
+        30,
+        36,
+        56,
+        86
+      ]
+    },
+    {
+      "id": "G5_A_257",
+      "type": "choice",
+      "question": "平行四边形底7cm，高5cm，面积？",
+      "answer": "35",
+      "explanation": "面积=7×5=35cm²",
+      "options": [
+        24,
+        35,
+        52,
+        70
+      ]
+    },
+    {
+      "id": "G5_A_258",
+      "type": "choice",
+      "question": "平行四边形底15cm，高8cm，面积？",
+      "answer": "120",
+      "explanation": "面积=15×8=120cm²",
+      "options": [
+        111,
+        120,
+        133,
+        169
+      ]
+    },
+    {
+      "id": "G5_A_259",
+      "type": "choice",
+      "question": "平行四边形底14cm，高11cm，面积？",
+      "answer": "154",
+      "explanation": "面积=14×11=154cm²",
+      "options": [
+        139,
+        154,
+        162,
+        182
+      ]
+    },
+    {
+      "id": "G5_A_260",
+      "type": "choice",
+      "question": "平行四边形底7cm，高4cm，面积？",
+      "answer": "28",
+      "explanation": "面积=7×4=28cm²",
+      "options": [
+        14,
+        28,
+        39,
+        67
+      ]
+    },
+    {
+      "id": "G5_A_261",
+      "type": "choice",
+      "question": "平行四边形底17cm，高9cm，面积？",
+      "answer": "153",
+      "explanation": "面积=17×9=153cm²",
+      "options": [
+        138,
+        153,
+        163,
+        191
+      ]
+    },
+    {
+      "id": "G5_A_262",
+      "type": "choice",
+      "question": "平行四边形底5cm，高5cm，面积？",
+      "answer": "25",
+      "explanation": "面积=5×5=25cm²",
+      "options": [
+        15,
+        25,
+        33,
+        69
+      ]
+    },
+    {
+      "id": "G5_A_263",
+      "type": "choice",
+      "question": "平行四边形底16cm，高4cm，面积？",
+      "answer": "64",
+      "explanation": "面积=16×4=64cm²",
+      "options": [
+        53,
+        64,
+        73,
+        112
+      ]
+    },
+    {
+      "id": "G5_A_264",
+      "type": "choice",
+      "question": "平行四边形底7cm，高13cm，面积？",
+      "answer": "91",
+      "explanation": "面积=7×13=91cm²",
+      "options": [
+        86,
+        91,
+        100,
+        125
+      ]
+    },
+    {
+      "id": "G5_A_265",
+      "type": "choice",
+      "question": "平行四边形底15cm，高13cm，面积？",
+      "answer": "195",
+      "explanation": "面积=15×13=195cm²",
+      "options": [
+        190,
+        195,
+        201,
+        216
+      ]
+    },
+    {
+      "id": "G5_A_266",
+      "type": "choice",
+      "question": "平行四边形底5cm，高14cm，面积？",
+      "answer": "70",
+      "explanation": "面积=5×14=70cm²",
+      "options": [
+        65,
+        70,
+        88,
+        96
+      ]
+    },
+    {
+      "id": "G5_A_267",
+      "type": "choice",
+      "question": "平行四边形底19cm，高15cm，面积？",
+      "answer": "285",
+      "explanation": "面积=19×15=285cm²",
+      "options": [
+        278,
+        285,
+        291,
+        325
+      ]
+    },
+    {
+      "id": "G5_A_268",
+      "type": "choice",
+      "question": "平行四边形底19cm，高14cm，面积？",
+      "answer": "266",
+      "explanation": "面积=19×14=266cm²",
+      "options": [
+        256,
+        266,
+        279,
+        296
+      ]
+    },
+    {
+      "id": "G5_A_269",
+      "type": "choice",
+      "question": "平行四边形底12cm，高13cm，面积？",
+      "answer": "156",
+      "explanation": "面积=12×13=156cm²",
+      "options": [
+        141,
+        156,
+        171,
+        184
+      ]
+    },
+    {
+      "id": "G5_A_270",
+      "type": "choice",
+      "question": "平行四边形底13cm，高4cm，面积？",
+      "answer": "52",
+      "explanation": "面积=13×4=52cm²",
+      "options": [
+        42,
+        52,
+        63,
+        89
+      ]
+    },
+    {
+      "id": "G5_A_271",
+      "type": "choice",
+      "question": "平行四边形底15cm，高10cm，面积？",
+      "answer": "150",
+      "explanation": "面积=15×10=150cm²",
+      "options": [
+        142,
+        150,
+        155,
+        182
+      ]
+    },
+    {
+      "id": "G5_A_272",
+      "type": "choice",
+      "question": "平行四边形底5cm，高9cm，面积？",
+      "answer": "45",
+      "explanation": "面积=5×9=45cm²",
+      "options": [
+        32,
+        45,
+        56,
+        79
+      ]
+    },
+    {
+      "id": "G5_A_273",
+      "type": "choice",
+      "question": "平行四边形底16cm，高6cm，面积？",
+      "answer": "96",
+      "explanation": "面积=16×6=96cm²",
+      "options": [
+        83,
+        96,
+        106,
+        121
+      ]
+    },
+    {
+      "id": "G5_A_274",
+      "type": "choice",
+      "question": "平行四边形底16cm，高10cm，面积？",
+      "answer": "160",
+      "explanation": "面积=16×10=160cm²",
+      "options": [
+        146,
+        160,
+        175,
+        195
+      ]
+    },
+    {
+      "id": "G5_A_275",
+      "type": "choice",
+      "question": "平行四边形底12cm，高15cm，面积？",
+      "answer": "180",
+      "explanation": "面积=12×15=180cm²",
+      "options": [
+        166,
+        180,
+        196,
+        226
+      ]
+    },
+    {
+      "id": "G5_A_276",
+      "type": "choice",
+      "question": "平行四边形底20cm，高12cm，面积？",
+      "answer": "240",
+      "explanation": "面积=20×12=240cm²",
+      "options": [
+        228,
+        240,
+        258,
+        269
+      ]
+    },
+    {
+      "id": "G5_A_277",
+      "type": "choice",
+      "question": "平行四边形底9cm，高4cm，面积？",
+      "answer": "36",
+      "explanation": "面积=9×4=36cm²",
+      "options": [
+        18,
+        36,
+        50,
+        76
+      ]
+    },
+    {
+      "id": "G5_A_278",
+      "type": "choice",
+      "question": "平行四边形底10cm，高15cm，面积？",
+      "answer": "150",
+      "explanation": "面积=10×15=150cm²",
+      "options": [
+        140,
+        150,
+        161,
+        184
+      ]
+    },
+    {
+      "id": "G5_A_279",
+      "type": "choice",
+      "question": "平行四边形底14cm，高12cm，面积？",
+      "answer": "168",
+      "explanation": "面积=14×12=168cm²",
+      "options": [
+        160,
+        168,
+        176,
+        198
+      ]
+    },
+    {
+      "id": "G5_A_280",
+      "type": "choice",
+      "question": "平行四边形底16cm，高11cm，面积？",
+      "answer": "176",
+      "explanation": "面积=16×11=176cm²",
+      "options": [
+        169,
+        176,
+        188,
+        208
+      ]
+    },
+    {
+      "id": "G5_A_281",
+      "type": "choice",
+      "question": "平行四边形底18cm，高10cm，面积？",
+      "answer": "180",
+      "explanation": "面积=18×10=180cm²",
+      "options": [
+        161,
+        180,
+        189,
+        211
+      ]
+    },
+    {
+      "id": "G5_A_282",
+      "type": "choice",
+      "question": "平行四边形底14cm，高15cm，面积？",
+      "answer": "210",
+      "explanation": "面积=14×15=210cm²",
+      "options": [
+        195,
+        210,
+        225,
+        257
+      ]
+    },
+    {
+      "id": "G5_A_283",
+      "type": "choice",
+      "question": "平行四边形底8cm，高6cm，面积？",
+      "answer": "48",
+      "explanation": "面积=8×6=48cm²",
+      "options": [
+        31,
+        48,
+        55,
+        71
+      ]
+    },
+    {
+      "id": "G5_A_284",
+      "type": "choice",
+      "question": "平行四边形底15cm，高14cm，面积？",
+      "answer": "210",
+      "explanation": "面积=15×14=210cm²",
+      "options": [
+        195,
+        210,
+        229,
+        242
+      ]
+    },
+    {
+      "id": "G5_A_285",
+      "type": "choice",
+      "question": "平行四边形底17cm，高9cm，面积？",
+      "answer": "153",
+      "explanation": "面积=17×9=153cm²",
+      "options": [
+        138,
+        153,
+        171,
+        185
+      ]
+    },
+    {
+      "id": "G5_A_286",
+      "type": "choice",
+      "question": "平行四边形底11cm，高5cm，面积？",
+      "answer": "55",
+      "explanation": "面积=11×5=55cm²",
+      "options": [
+        43,
+        55,
+        72,
+        103
+      ]
+    },
+    {
+      "id": "G5_A_287",
+      "type": "choice",
+      "question": "平行四边形底20cm，高13cm，面积？",
+      "answer": "260",
+      "explanation": "面积=20×13=260cm²",
+      "options": [
+        250,
+        260,
+        275,
+        304
+      ]
+    },
+    {
+      "id": "G5_A_288",
+      "type": "choice",
+      "question": "平行四边形底14cm，高15cm，面积？",
+      "answer": "210",
+      "explanation": "面积=14×15=210cm²",
+      "options": [
+        196,
+        210,
+        217,
+        259
+      ]
+    },
+    {
+      "id": "G5_A_289",
+      "type": "choice",
+      "question": "平行四边形底19cm，高7cm，面积？",
+      "answer": "133",
+      "explanation": "面积=19×7=133cm²",
+      "options": [
+        128,
+        133,
+        153,
+        181
+      ]
+    },
+    {
+      "id": "G5_A_290",
+      "type": "choice",
+      "question": "平行四边形底8cm，高15cm，面积？",
+      "answer": "120",
+      "explanation": "面积=8×15=120cm²",
+      "options": [
+        106,
+        120,
+        136,
+        143
+      ]
+    },
+    {
+      "id": "G5_A_291",
+      "type": "choice",
+      "question": "平行四边形底13cm，高14cm，面积？",
+      "answer": "182",
+      "explanation": "面积=13×14=182cm²",
+      "options": [
+        167,
+        182,
+        199,
+        229
+      ]
+    },
+    {
+      "id": "G5_A_292",
+      "type": "choice",
+      "question": "平行四边形底12cm，高4cm，面积？",
+      "answer": "48",
+      "explanation": "面积=12×4=48cm²",
+      "options": [
+        33,
+        48,
+        64,
+        95
+      ]
+    },
+    {
+      "id": "G5_A_293",
+      "type": "choice",
+      "question": "平行四边形底9cm，高4cm，面积？",
+      "answer": "36",
+      "explanation": "面积=9×4=36cm²",
+      "options": [
+        28,
+        36,
+        42,
+        83
+      ]
+    },
+    {
+      "id": "G5_A_294",
+      "type": "choice",
+      "question": "平行四边形底12cm，高11cm，面积？",
+      "answer": "132",
+      "explanation": "面积=12×11=132cm²",
+      "options": [
+        127,
+        132,
+        145,
+        173
+      ]
+    },
+    {
+      "id": "G5_A_295",
+      "type": "choice",
+      "question": "平行四边形底11cm，高6cm，面积？",
+      "answer": "66",
+      "explanation": "面积=11×6=66cm²",
+      "options": [
+        46,
+        66,
+        78,
+        98
+      ]
+    },
+    {
+      "id": "G5_A_296",
+      "type": "choice",
+      "question": "平行四边形底10cm，高15cm，面积？",
+      "answer": "150",
+      "explanation": "面积=10×15=150cm²",
+      "options": [
+        132,
+        150,
+        162,
+        198
+      ]
+    },
+    {
+      "id": "G5_A_297",
+      "type": "choice",
+      "question": "平行四边形底12cm，高7cm，面积？",
+      "answer": "84",
+      "explanation": "面积=12×7=84cm²",
+      "options": [
+        66,
+        84,
+        101,
+        106
+      ]
+    },
+    {
+      "id": "G5_A_298",
+      "type": "choice",
+      "question": "平行四边形底7cm，高12cm，面积？",
+      "answer": "84",
+      "explanation": "面积=7×12=84cm²",
+      "options": [
+        69,
+        84,
+        101,
+        129
+      ]
+    },
+    {
+      "id": "G5_A_299",
+      "type": "choice",
+      "question": "平行四边形底17cm，高12cm，面积？",
+      "answer": "204",
+      "explanation": "面积=17×12=204cm²",
+      "options": [
+        187,
+        204,
+        209,
+        252
+      ]
+    },
+    {
+      "id": "G5_A_300",
+      "type": "choice",
+      "question": "平行四边形底13cm，高10cm，面积？",
+      "answer": "130",
+      "explanation": "面积=13×10=130cm²",
+      "options": [
+        111,
+        130,
+        146,
+        173
+      ]
+    },
+    {
+      "id": "G5_A_301",
+      "type": "choice",
+      "question": "平行四边形底8cm，高10cm，面积？",
+      "answer": "80",
+      "explanation": "面积=8×10=80cm²",
+      "options": [
+        62,
+        80,
+        95,
+        114
+      ]
+    },
+    {
+      "id": "G5_A_302",
+      "type": "choice",
+      "question": "平行四边形底8cm，高4cm，面积？",
+      "answer": "32",
+      "explanation": "面积=8×4=32cm²",
+      "options": [
+        18,
+        32,
+        40,
+        55
+      ]
+    },
+    {
+      "id": "G5_A_303",
+      "type": "choice",
+      "question": "平行四边形底17cm，高11cm，面积？",
+      "answer": "187",
+      "explanation": "面积=17×11=187cm²",
+      "options": [
+        173,
+        187,
+        195,
+        212
+      ]
+    },
+    {
+      "id": "G5_A_304",
+      "type": "choice",
+      "question": "平行四边形底5cm，高14cm，面积？",
+      "answer": "70",
+      "explanation": "面积=5×14=70cm²",
+      "options": [
+        62,
+        70,
+        82,
+        115
+      ]
+    },
+    {
+      "id": "G5_A_305",
+      "type": "choice",
+      "question": "平行四边形底16cm，高15cm，面积？",
+      "answer": "240",
+      "explanation": "面积=16×15=240cm²",
+      "options": [
+        231,
+        240,
+        250,
+        277
+      ]
+    },
+    {
+      "id": "G5_A_306",
+      "type": "choice",
+      "question": "平行四边形底11cm，高15cm，面积？",
+      "answer": "165",
+      "explanation": "面积=11×15=165cm²",
+      "options": [
+        149,
+        165,
+        170,
+        206
+      ]
+    },
+    {
+      "id": "G5_A_307",
+      "type": "choice",
+      "question": "平行四边形底14cm，高4cm，面积？",
+      "answer": "56",
+      "explanation": "面积=14×4=56cm²",
+      "options": [
+        40,
+        56,
+        74,
+        87
+      ]
+    },
+    {
+      "id": "G5_A_308",
+      "type": "choice",
+      "question": "平行四边形底10cm，高4cm，面积？",
+      "answer": "40",
+      "explanation": "面积=10×4=40cm²",
+      "options": [
+        34,
+        40,
+        51,
+        74
+      ]
+    },
+    {
+      "id": "G5_A_309",
+      "type": "choice",
+      "question": "平行四边形底13cm，高14cm，面积？",
+      "answer": "182",
+      "explanation": "面积=13×14=182cm²",
+      "options": [
+        169,
+        182,
+        197,
+        218
+      ]
+    },
+    {
+      "id": "G5_A_310",
+      "type": "choice",
+      "question": "平行四边形底13cm，高7cm，面积？",
+      "answer": "91",
+      "explanation": "面积=13×7=91cm²",
+      "options": [
+        81,
+        91,
+        99,
+        132
+      ]
+    },
+    {
+      "id": "G5_A_311",
+      "type": "choice",
+      "question": "平行四边形底8cm，高13cm，面积？",
+      "answer": "104",
+      "explanation": "面积=8×13=104cm²",
+      "options": [
+        96,
+        104,
+        116,
+        129
+      ]
+    },
+    {
+      "id": "G5_A_312",
+      "type": "choice",
+      "question": "平行四边形底20cm，高12cm，面积？",
+      "answer": "240",
+      "explanation": "面积=20×12=240cm²",
+      "options": [
+        231,
+        240,
+        258,
+        272
+      ]
+    },
+    {
+      "id": "G5_A_313",
+      "type": "choice",
+      "question": "平行四边形底15cm，高13cm，面积？",
+      "answer": "195",
+      "explanation": "面积=15×13=195cm²",
+      "options": [
+        178,
+        195,
+        200,
+        235
+      ]
+    },
+    {
+      "id": "G5_A_314",
+      "type": "choice",
+      "question": "平行四边形底17cm，高5cm，面积？",
+      "answer": "85",
+      "explanation": "面积=17×5=85cm²",
+      "options": [
+        79,
+        85,
+        98,
+        118
+      ]
+    },
+    {
+      "id": "G5_A_315",
+      "type": "choice",
+      "question": "平行四边形底17cm，高15cm，面积？",
+      "answer": "255",
+      "explanation": "面积=17×15=255cm²",
+      "options": [
+        242,
+        255,
+        263,
+        303
+      ]
+    },
+    {
+      "id": "G5_A_316",
+      "type": "choice",
+      "question": "平行四边形底8cm，高9cm，面积？",
+      "answer": "72",
+      "explanation": "面积=8×9=72cm²",
+      "options": [
+        67,
+        72,
+        91,
+        114
+      ]
+    },
+    {
+      "id": "G5_A_317",
+      "type": "choice",
+      "question": "平行四边形底5cm，高7cm，面积？",
+      "answer": "35",
+      "explanation": "面积=5×7=35cm²",
+      "options": [
+        23,
+        35,
+        45,
+        61
+      ]
+    },
+    {
+      "id": "G5_A_318",
+      "type": "choice",
+      "question": "平行四边形底12cm，高4cm，面积？",
+      "answer": "48",
+      "explanation": "面积=12×4=48cm²",
+      "options": [
+        30,
+        48,
+        65,
+        84
+      ]
+    },
+    {
+      "id": "G5_A_319",
+      "type": "choice",
+      "question": "平行四边形底7cm，高14cm，面积？",
+      "answer": "98",
+      "explanation": "面积=7×14=98cm²",
+      "options": [
+        90,
+        98,
+        108,
+        121
+      ]
+    },
+    {
+      "id": "G5_A_320",
+      "type": "choice",
+      "question": "平行四边形底19cm，高8cm，面积？",
+      "answer": "152",
+      "explanation": "面积=19×8=152cm²",
+      "options": [
+        145,
+        152,
+        157,
+        201
+      ]
+    },
+    {
+      "id": "G5_A_321",
+      "type": "choice",
+      "question": "平行四边形底8cm，高9cm，面积？",
+      "answer": "72",
+      "explanation": "面积=8×9=72cm²",
+      "options": [
+        60,
+        72,
+        80,
+        106
+      ]
+    },
+    {
+      "id": "G5_A_322",
+      "type": "choice",
+      "question": "平行四边形底11cm，高6cm，面积？",
+      "answer": "66",
+      "explanation": "面积=11×6=66cm²",
+      "options": [
+        53,
+        66,
+        81,
+        111
+      ]
+    },
+    {
+      "id": "G5_A_323",
+      "type": "choice",
+      "question": "平行四边形底15cm，高11cm，面积？",
+      "answer": "165",
+      "explanation": "面积=15×11=165cm²",
+      "options": [
+        156,
+        165,
+        185,
+        190
+      ]
+    },
+    {
+      "id": "G5_A_324",
+      "type": "choice",
+      "question": "平行四边形底20cm，高12cm，面积？",
+      "answer": "240",
+      "explanation": "面积=20×12=240cm²",
+      "options": [
+        228,
+        240,
+        249,
+        281
+      ]
+    },
+    {
+      "id": "G5_A_325",
+      "type": "choice",
+      "question": "平行四边形底9cm，高6cm，面积？",
+      "answer": "54",
+      "explanation": "面积=9×6=54cm²",
+      "options": [
+        48,
+        54,
+        71,
+        84
+      ]
+    },
+    {
+      "id": "G5_A_326",
+      "type": "choice",
+      "question": "平行四边形底16cm，高13cm，面积？",
+      "answer": "208",
+      "explanation": "面积=16×13=208cm²",
+      "options": [
+        193,
+        208,
+        214,
+        258
+      ]
+    },
+    {
+      "id": "G5_A_327",
+      "type": "choice",
+      "question": "平行四边形底20cm，高6cm，面积？",
+      "answer": "120",
+      "explanation": "面积=20×6=120cm²",
+      "options": [
+        115,
+        120,
+        139,
+        156
+      ]
+    },
+    {
+      "id": "G5_A_328",
+      "type": "choice",
+      "question": "平行四边形底8cm，高12cm，面积？",
+      "answer": "96",
+      "explanation": "面积=8×12=96cm²",
+      "options": [
+        82,
+        96,
+        102,
+        131
+      ]
+    },
+    {
+      "id": "G5_A_329",
+      "type": "choice",
+      "question": "平行四边形底10cm，高11cm，面积？",
+      "answer": "110",
+      "explanation": "面积=10×11=110cm²",
+      "options": [
+        101,
+        110,
+        125,
+        141
+      ]
+    },
+    {
+      "id": "G5_A_330",
+      "type": "choice",
+      "question": "平行四边形底7cm，高8cm，面积？",
+      "answer": "56",
+      "explanation": "面积=7×8=56cm²",
+      "options": [
+        36,
+        56,
+        61,
+        95
+      ]
+    },
+    {
+      "id": "G5_A_331",
+      "type": "choice",
+      "question": "平行四边形底18cm，高13cm，面积？",
+      "answer": "234",
+      "explanation": "面积=18×13=234cm²",
+      "options": [
+        223,
+        234,
+        244,
+        275
+      ]
+    },
+    {
+      "id": "G5_A_332",
+      "type": "choice",
+      "question": "平行四边形底17cm，高5cm，面积？",
+      "answer": "85",
+      "explanation": "面积=17×5=85cm²",
+      "options": [
+        72,
+        85,
+        96,
+        109
+      ]
+    },
+    {
+      "id": "G5_A_333",
+      "type": "choice",
+      "question": "平行四边形底8cm，高15cm，面积？",
+      "answer": "120",
+      "explanation": "面积=8×15=120cm²",
+      "options": [
+        105,
+        120,
+        126,
+        168
+      ]
+    },
+    {
+      "id": "G5_A_334",
+      "type": "choice",
+      "question": "平行四边形底10cm，高9cm，面积？",
+      "answer": "90",
+      "explanation": "面积=10×9=90cm²",
+      "options": [
+        77,
+        90,
+        107,
+        123
+      ]
+    },
+    {
+      "id": "G5_A_335",
+      "type": "choice",
+      "question": "平行四边形底12cm，高12cm，面积？",
+      "answer": "144",
+      "explanation": "面积=12×12=144cm²",
+      "options": [
+        125,
+        144,
+        164,
+        181
+      ]
+    },
+    {
+      "id": "G5_A_336",
+      "type": "choice",
+      "question": "平行四边形底7cm，高14cm，面积？",
+      "answer": "98",
+      "explanation": "面积=7×14=98cm²",
+      "options": [
+        78,
+        98,
+        113,
+        129
+      ]
+    },
+    {
+      "id": "G5_A_337",
+      "type": "choice",
+      "question": "平行四边形底5cm，高15cm，面积？",
+      "answer": "75",
+      "explanation": "面积=5×15=75cm²",
+      "options": [
+        64,
+        75,
+        90,
+        116
+      ]
+    },
+    {
+      "id": "G5_A_338",
+      "type": "choice",
+      "question": "平行四边形底14cm，高12cm，面积？",
+      "answer": "168",
+      "explanation": "面积=14×12=168cm²",
+      "options": [
+        155,
+        168,
+        178,
+        218
+      ]
+    },
+    {
+      "id": "G5_A_339",
+      "type": "choice",
+      "question": "平行四边形底17cm，高4cm，面积？",
+      "answer": "68",
+      "explanation": "面积=17×4=68cm²",
+      "options": [
+        52,
+        68,
+        75,
+        91
+      ]
+    },
+    {
+      "id": "G5_A_340",
+      "type": "choice",
+      "question": "平行四边形底9cm，高12cm，面积？",
+      "answer": "108",
+      "explanation": "面积=9×12=108cm²",
+      "options": [
+        93,
+        108,
+        125,
+        149
+      ]
+    },
+    {
+      "id": "G5_A_341",
+      "type": "choice",
+      "question": "平行四边形底16cm，高9cm，面积？",
+      "answer": "144",
+      "explanation": "面积=16×9=144cm²",
+      "options": [
+        131,
+        144,
+        163,
+        186
+      ]
+    },
+    {
+      "id": "G5_A_342",
+      "type": "choice",
+      "question": "平行四边形底17cm，高14cm，面积？",
+      "answer": "238",
+      "explanation": "面积=17×14=238cm²",
+      "options": [
+        230,
+        238,
+        249,
+        261
+      ]
+    },
+    {
+      "id": "G5_A_343",
+      "type": "choice",
+      "question": "平行四边形底17cm，高8cm，面积？",
+      "answer": "136",
+      "explanation": "面积=17×8=136cm²",
+      "options": [
+        127,
+        136,
+        146,
+        158
+      ]
+    },
+    {
+      "id": "G5_A_344",
+      "type": "choice",
+      "question": "平行四边形底9cm，高4cm，面积？",
+      "answer": "36",
+      "explanation": "面积=9×4=36cm²",
+      "options": [
+        17,
+        36,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "G5_A_345",
+      "type": "choice",
+      "question": "平行四边形底18cm，高12cm，面积？",
+      "answer": "216",
+      "explanation": "面积=18×12=216cm²",
+      "options": [
+        206,
+        216,
+        235,
+        240
+      ]
+    },
+    {
+      "id": "G5_A_346",
+      "type": "choice",
+      "question": "平行四边形底18cm，高11cm，面积？",
+      "answer": "198",
+      "explanation": "面积=18×11=198cm²",
+      "options": [
+        191,
+        198,
+        208,
+        244
+      ]
+    },
+    {
+      "id": "G5_A_347",
+      "type": "choice",
+      "question": "平行四边形底6cm，高4cm，面积？",
+      "answer": "24",
+      "explanation": "面积=6×4=24cm²",
+      "options": [
+        18,
+        24,
+        34,
+        45
+      ]
+    },
+    {
+      "id": "G5_A_348",
+      "type": "choice",
+      "question": "平行四边形底17cm，高6cm，面积？",
+      "answer": "102",
+      "explanation": "面积=17×6=102cm²",
+      "options": [
+        95,
+        102,
+        114,
+        145
+      ]
+    },
+    {
+      "id": "G5_A_349",
+      "type": "choice",
+      "question": "平行四边形底14cm，高11cm，面积？",
+      "answer": "154",
+      "explanation": "面积=14×11=154cm²",
+      "options": [
+        136,
+        154,
+        159,
+        186
+      ]
+    },
+    {
+      "id": "G5_A_350",
+      "type": "choice",
+      "question": "平行四边形底9cm，高13cm，面积？",
+      "answer": "117",
+      "explanation": "面积=9×13=117cm²",
+      "options": [
+        106,
+        117,
+        126,
+        158
+      ]
+    }
+  ]
+}

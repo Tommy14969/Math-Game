@@ -1,0 +1,4211 @@
+{
+  "grade": 1,
+  "difficulty": "basic",
+  "questions": [
+    {
+      "id": "G1_B_001",
+      "type": "choice",
+      "question": "2 + 3 = ?",
+      "answer": "5",
+      "explanation": "2加3等于5",
+      "options": [
+        3,
+        5,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_002",
+      "type": "choice",
+      "question": "7 + 2 = ?",
+      "answer": "9",
+      "explanation": "7加2等于9",
+      "options": [
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_003",
+      "type": "choice",
+      "question": "2 + 6 = ?",
+      "answer": "8",
+      "explanation": "2加6等于8",
+      "options": [
+        7,
+        8,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_004",
+      "type": "choice",
+      "question": "1 + 8 = ?",
+      "answer": "9",
+      "explanation": "1加8等于9",
+      "options": [
+        8,
+        9,
+        10,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_005",
+      "type": "choice",
+      "question": "2 + 2 = ?",
+      "answer": "4",
+      "explanation": "2加2等于4",
+      "options": [
+        2,
+        4,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_006",
+      "type": "choice",
+      "question": "5 + 4 = ?",
+      "answer": "9",
+      "explanation": "5加4等于9",
+      "options": [
+        8,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_007",
+      "type": "choice",
+      "question": "2 + 6 = ?",
+      "answer": "8",
+      "explanation": "2加6等于8",
+      "options": [
+        7,
+        8,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_008",
+      "type": "choice",
+      "question": "7 + 3 = ?",
+      "answer": "10",
+      "explanation": "7加3等于10",
+      "options": [
+        8,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_009",
+      "type": "choice",
+      "question": "3 + 7 = ?",
+      "answer": "10",
+      "explanation": "3加7等于10",
+      "options": [
+        9,
+        10,
+        11,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_010",
+      "type": "choice",
+      "question": "0 + 9 = ?",
+      "answer": "9",
+      "explanation": "0加9等于9",
+      "options": [
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_011",
+      "type": "choice",
+      "question": "0 + 2 = ?",
+      "answer": "2",
+      "explanation": "0加2等于2",
+      "options": [
+        1,
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_012",
+      "type": "choice",
+      "question": "1 + 1 = ?",
+      "answer": "2",
+      "explanation": "1加1等于2",
+      "options": [
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_013",
+      "type": "choice",
+      "question": "1 + 0 = ?",
+      "answer": "1",
+      "explanation": "1加0等于1",
+      "options": [
+        0,
+        1,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_014",
+      "type": "choice",
+      "question": "1 + 3 = ?",
+      "answer": "4",
+      "explanation": "1加3等于4",
+      "options": [
+        3,
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_015",
+      "type": "choice",
+      "question": "8 + 0 = ?",
+      "answer": "8",
+      "explanation": "8加0等于8",
+      "options": [
+        7,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_016",
+      "type": "choice",
+      "question": "4 + 3 = ?",
+      "answer": "7",
+      "explanation": "4加3等于7",
+      "options": [
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_017",
+      "type": "choice",
+      "question": "6 + 3 = ?",
+      "answer": "9",
+      "explanation": "6加3等于9",
+      "options": [
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_018",
+      "type": "choice",
+      "question": "1 + 2 = ?",
+      "answer": "3",
+      "explanation": "1加2等于3",
+      "options": [
+        1,
+        3,
+        4,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_019",
+      "type": "choice",
+      "question": "6 + 4 = ?",
+      "answer": "10",
+      "explanation": "6加4等于10",
+      "options": [
+        8,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_020",
+      "type": "choice",
+      "question": "1 + 6 = ?",
+      "answer": "7",
+      "explanation": "1加6等于7",
+      "options": [
+        5,
+        7,
+        8,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_021",
+      "type": "choice",
+      "question": "5 + 5 = ?",
+      "answer": "10",
+      "explanation": "5加5等于10",
+      "options": [
+        8,
+        10,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_022",
+      "type": "choice",
+      "question": "2 + 0 = ?",
+      "answer": "2",
+      "explanation": "2加0等于2",
+      "options": [
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_023",
+      "type": "choice",
+      "question": "0 + 2 = ?",
+      "answer": "2",
+      "explanation": "0加2等于2",
+      "options": [
+        0,
+        2,
+        3,
+        7
+      ]
+    },
+    {
+      "id": "G1_B_024",
+      "type": "choice",
+      "question": "5 + 1 = ?",
+      "answer": "6",
+      "explanation": "5加1等于6",
+      "options": [
+        5,
+        6,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_025",
+      "type": "choice",
+      "question": "3 + 2 = ?",
+      "answer": "5",
+      "explanation": "3加2等于5",
+      "options": [
+        4,
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_026",
+      "type": "choice",
+      "question": "3 + 4 = ?",
+      "answer": "7",
+      "explanation": "3加4等于7",
+      "options": [
+        5,
+        7,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_027",
+      "type": "choice",
+      "question": "2 + 0 = ?",
+      "answer": "2",
+      "explanation": "2加0等于2",
+      "options": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "G1_B_028",
+      "type": "choice",
+      "question": "1 + 6 = ?",
+      "answer": "7",
+      "explanation": "1加6等于7",
+      "options": [
+        6,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_029",
+      "type": "choice",
+      "question": "3 + 1 = ?",
+      "answer": "4",
+      "explanation": "3加1等于4",
+      "options": [
+        2,
+        4,
+        6,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_030",
+      "type": "choice",
+      "question": "5 + 3 = ?",
+      "answer": "8",
+      "explanation": "5加3等于8",
+      "options": [
+        7,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_031",
+      "type": "choice",
+      "question": "1 + 2 = ?",
+      "answer": "3",
+      "explanation": "1加2等于3",
+      "options": [
+        2,
+        3,
+        4,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_032",
+      "type": "choice",
+      "question": "5 + 5 = ?",
+      "answer": "10",
+      "explanation": "5加5等于10",
+      "options": [
+        8,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_033",
+      "type": "choice",
+      "question": "2 + 3 = ?",
+      "answer": "5",
+      "explanation": "2加3等于5",
+      "options": [
+        4,
+        5,
+        7,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_034",
+      "type": "choice",
+      "question": "6 + 1 = ?",
+      "answer": "7",
+      "explanation": "6加1等于7",
+      "options": [
+        5,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_035",
+      "type": "choice",
+      "question": "8 + 1 = ?",
+      "answer": "9",
+      "explanation": "8加1等于9",
+      "options": [
+        7,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_036",
+      "type": "choice",
+      "question": "4 + 2 = ?",
+      "answer": "6",
+      "explanation": "4加2等于6",
+      "options": [
+        4,
+        6,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_037",
+      "type": "choice",
+      "question": "4 + 6 = ?",
+      "answer": "10",
+      "explanation": "4加6等于10",
+      "options": [
+        8,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_038",
+      "type": "choice",
+      "question": "4 + 6 = ?",
+      "answer": "10",
+      "explanation": "4加6等于10",
+      "options": [
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_039",
+      "type": "choice",
+      "question": "0 + 10 = ?",
+      "answer": "10",
+      "explanation": "0加10等于10",
+      "options": [
+        9,
+        10,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_040",
+      "type": "choice",
+      "question": "1 + 8 = ?",
+      "answer": "9",
+      "explanation": "1加8等于9",
+      "options": [
+        8,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_041",
+      "type": "choice",
+      "question": "1 + 6 = ?",
+      "answer": "7",
+      "explanation": "1加6等于7",
+      "options": [
+        6,
+        7,
+        8,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_042",
+      "type": "choice",
+      "question": "5 + 4 = ?",
+      "answer": "9",
+      "explanation": "5加4等于9",
+      "options": [
+        8,
+        9,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_043",
+      "type": "choice",
+      "question": "7 + 0 = ?",
+      "answer": "7",
+      "explanation": "7加0等于7",
+      "options": [
+        6,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_044",
+      "type": "choice",
+      "question": "4 + 2 = ?",
+      "answer": "6",
+      "explanation": "4加2等于6",
+      "options": [
+        5,
+        6,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_045",
+      "type": "choice",
+      "question": "4 + 2 = ?",
+      "answer": "6",
+      "explanation": "4加2等于6",
+      "options": [
+        4,
+        6,
+        7,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_046",
+      "type": "choice",
+      "question": "2 + 3 = ?",
+      "answer": "5",
+      "explanation": "2加3等于5",
+      "options": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_047",
+      "type": "choice",
+      "question": "1 + 9 = ?",
+      "answer": "10",
+      "explanation": "1加9等于10",
+      "options": [
+        9,
+        10,
+        11,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_048",
+      "type": "choice",
+      "question": "6 + 4 = ?",
+      "answer": "10",
+      "explanation": "6加4等于10",
+      "options": [
+        9,
+        10,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_049",
+      "type": "choice",
+      "question": "7 + 0 = ?",
+      "answer": "7",
+      "explanation": "7加0等于7",
+      "options": [
+        6,
+        7,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_050",
+      "type": "choice",
+      "question": "5 + 4 = ?",
+      "answer": "9",
+      "explanation": "5加4等于9",
+      "options": [
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_051",
+      "type": "choice",
+      "question": "7 + 2 = ?",
+      "answer": "9",
+      "explanation": "7加2等于9",
+      "options": [
+        7,
+        9,
+        10,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_052",
+      "type": "choice",
+      "question": "1 + 2 = ?",
+      "answer": "3",
+      "explanation": "1加2等于3",
+      "options": [
+        1,
+        3,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "G1_B_053",
+      "type": "choice",
+      "question": "0 + 1 = ?",
+      "answer": "1",
+      "explanation": "0加1等于1",
+      "options": [
+        0,
+        1,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_054",
+      "type": "choice",
+      "question": "9 + 1 = ?",
+      "answer": "10",
+      "explanation": "9加1等于10",
+      "options": [
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_055",
+      "type": "choice",
+      "question": "7 + 3 = ?",
+      "answer": "10",
+      "explanation": "7加3等于10",
+      "options": [
+        8,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_056",
+      "type": "choice",
+      "question": "0 + 3 = ?",
+      "answer": "3",
+      "explanation": "0加3等于3",
+      "options": [
+        2,
+        3,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_057",
+      "type": "choice",
+      "question": "0 + 4 = ?",
+      "answer": "4",
+      "explanation": "0加4等于4",
+      "options": [
+        3,
+        4,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_058",
+      "type": "choice",
+      "question": "5 + 5 = ?",
+      "answer": "10",
+      "explanation": "5加5等于10",
+      "options": [
+        8,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_059",
+      "type": "choice",
+      "question": "1 + 7 = ?",
+      "answer": "8",
+      "explanation": "1加7等于8",
+      "options": [
+        7,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_060",
+      "type": "choice",
+      "question": "3 + 0 = ?",
+      "answer": "3",
+      "explanation": "3加0等于3",
+      "options": [
+        1,
+        3,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "G1_B_061",
+      "type": "choice",
+      "question": "1 + 2 = ?",
+      "answer": "3",
+      "explanation": "1加2等于3",
+      "options": [
+        2,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "G1_B_062",
+      "type": "choice",
+      "question": "10 + 0 = ?",
+      "answer": "10",
+      "explanation": "10加0等于10",
+      "options": [
+        8,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_063",
+      "type": "choice",
+      "question": "10 - 0 = ?",
+      "answer": "10",
+      "explanation": "10减0等于10",
+      "options": [
+        8,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_064",
+      "type": "choice",
+      "question": "5 - 3 = ?",
+      "answer": "2",
+      "explanation": "5减3等于2",
+      "options": [
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_065",
+      "type": "choice",
+      "question": "6 - 4 = ?",
+      "answer": "2",
+      "explanation": "6减4等于2",
+      "options": [
+        1,
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_066",
+      "type": "choice",
+      "question": "6 - 2 = ?",
+      "answer": "4",
+      "explanation": "6减2等于4",
+      "options": [
+        2,
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_067",
+      "type": "choice",
+      "question": "0 - 0 = ?",
+      "answer": "0",
+      "explanation": "0减0等于0",
+      "options": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "G1_B_068",
+      "type": "choice",
+      "question": "8 - 1 = ?",
+      "answer": "7",
+      "explanation": "8减1等于7",
+      "options": [
+        6,
+        7,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_069",
+      "type": "choice",
+      "question": "10 - 7 = ?",
+      "answer": "3",
+      "explanation": "10减7等于3",
+      "options": [
+        1,
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_070",
+      "type": "choice",
+      "question": "9 - 7 = ?",
+      "answer": "2",
+      "explanation": "9减7等于2",
+      "options": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "G1_B_071",
+      "type": "choice",
+      "question": "9 - 7 = ?",
+      "answer": "2",
+      "explanation": "9减7等于2",
+      "options": [
+        0,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "G1_B_072",
+      "type": "choice",
+      "question": "6 - 5 = ?",
+      "answer": "1",
+      "explanation": "6减5等于1",
+      "options": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "G1_B_073",
+      "type": "choice",
+      "question": "2 - 0 = ?",
+      "answer": "2",
+      "explanation": "2减0等于2",
+      "options": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "G1_B_074",
+      "type": "choice",
+      "question": "7 - 4 = ?",
+      "answer": "3",
+      "explanation": "7减4等于3",
+      "options": [
+        2,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "G1_B_075",
+      "type": "choice",
+      "question": "9 - 1 = ?",
+      "answer": "8",
+      "explanation": "9减1等于8",
+      "options": [
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_076",
+      "type": "choice",
+      "question": "10 - 1 = ?",
+      "answer": "9",
+      "explanation": "10减1等于9",
+      "options": [
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_077",
+      "type": "choice",
+      "question": "8 - 7 = ?",
+      "answer": "1",
+      "explanation": "8减7等于1",
+      "options": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "G1_B_078",
+      "type": "choice",
+      "question": "3 - 0 = ?",
+      "answer": "3",
+      "explanation": "3减0等于3",
+      "options": [
+        1,
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_079",
+      "type": "choice",
+      "question": "9 - 1 = ?",
+      "answer": "8",
+      "explanation": "9减1等于8",
+      "options": [
+        7,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_080",
+      "type": "choice",
+      "question": "4 - 4 = ?",
+      "answer": "0",
+      "explanation": "4减4等于0",
+      "options": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "G1_B_081",
+      "type": "choice",
+      "question": "4 - 2 = ?",
+      "answer": "2",
+      "explanation": "4减2等于2",
+      "options": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "G1_B_082",
+      "type": "choice",
+      "question": "0 - 0 = ?",
+      "answer": "0",
+      "explanation": "0减0等于0",
+      "options": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "G1_B_083",
+      "type": "choice",
+      "question": "2 - 0 = ?",
+      "answer": "2",
+      "explanation": "2减0等于2",
+      "options": [
+        0,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "G1_B_084",
+      "type": "choice",
+      "question": "9 - 6 = ?",
+      "answer": "3",
+      "explanation": "9减6等于3",
+      "options": [
+        1,
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_085",
+      "type": "choice",
+      "question": "6 - 4 = ?",
+      "answer": "2",
+      "explanation": "6减4等于2",
+      "options": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "G1_B_086",
+      "type": "choice",
+      "question": "10 - 8 = ?",
+      "answer": "2",
+      "explanation": "10减8等于2",
+      "options": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "G1_B_087",
+      "type": "choice",
+      "question": "7 - 1 = ?",
+      "answer": "6",
+      "explanation": "7减1等于6",
+      "options": [
+        4,
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_088",
+      "type": "choice",
+      "question": "4 - 2 = ?",
+      "answer": "2",
+      "explanation": "4减2等于2",
+      "options": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "G1_B_089",
+      "type": "choice",
+      "question": "4 - 3 = ?",
+      "answer": "1",
+      "explanation": "4减3等于1",
+      "options": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "G1_B_090",
+      "type": "choice",
+      "question": "10 - 10 = ?",
+      "answer": "0",
+      "explanation": "10减10等于0",
+      "options": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "G1_B_091",
+      "type": "choice",
+      "question": "0 - 0 = ?",
+      "answer": "0",
+      "explanation": "0减0等于0",
+      "options": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "G1_B_092",
+      "type": "choice",
+      "question": "8 - 2 = ?",
+      "answer": "6",
+      "explanation": "8减2等于6",
+      "options": [
+        5,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_093",
+      "type": "choice",
+      "question": "2 - 1 = ?",
+      "answer": "1",
+      "explanation": "2减1等于1",
+      "options": [
+        0,
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "G1_B_094",
+      "type": "choice",
+      "question": "7 - 4 = ?",
+      "answer": "3",
+      "explanation": "7减4等于3",
+      "options": [
+        1,
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_095",
+      "type": "choice",
+      "question": "7 - 6 = ?",
+      "answer": "1",
+      "explanation": "7减6等于1",
+      "options": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "G1_B_096",
+      "type": "choice",
+      "question": "1 - 1 = ?",
+      "answer": "0",
+      "explanation": "1减1等于0",
+      "options": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "G1_B_097",
+      "type": "choice",
+      "question": "9 - 1 = ?",
+      "answer": "8",
+      "explanation": "9减1等于8",
+      "options": [
+        6,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_098",
+      "type": "choice",
+      "question": "8 - 7 = ?",
+      "answer": "1",
+      "explanation": "8减7等于1",
+      "options": [
+        0,
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "G1_B_099",
+      "type": "choice",
+      "question": "9 - 3 = ?",
+      "answer": "6",
+      "explanation": "9减3等于6",
+      "options": [
+        5,
+        6,
+        7,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_100",
+      "type": "choice",
+      "question": "5 - 3 = ?",
+      "answer": "2",
+      "explanation": "5减3等于2",
+      "options": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "G1_B_101",
+      "type": "choice",
+      "question": "3 - 0 = ?",
+      "answer": "3",
+      "explanation": "3减0等于3",
+      "options": [
+        1,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_102",
+      "type": "choice",
+      "question": "2 - 2 = ?",
+      "answer": "0",
+      "explanation": "2减2等于0",
+      "options": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "G1_B_103",
+      "type": "choice",
+      "question": "7 - 6 = ?",
+      "answer": "1",
+      "explanation": "7减6等于1",
+      "options": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "G1_B_104",
+      "type": "choice",
+      "question": "10 - 1 = ?",
+      "answer": "9",
+      "explanation": "10减1等于9",
+      "options": [
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_105",
+      "type": "choice",
+      "question": "8 + 5 = ?",
+      "answer": "13",
+      "explanation": "8加5等于13",
+      "options": [
+        12,
+        13,
+        15,
+        16
+      ]
+    },
+    {
+      "id": "G1_B_106",
+      "type": "choice",
+      "question": "9 + 4 = ?",
+      "answer": "13",
+      "explanation": "9加4等于13",
+      "options": [
+        12,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_B_107",
+      "type": "choice",
+      "question": "2 + 7 = ?",
+      "answer": "9",
+      "explanation": "2加7等于9",
+      "options": [
+        7,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_108",
+      "type": "choice",
+      "question": "4 + 6 = ?",
+      "answer": "10",
+      "explanation": "4加6等于10",
+      "options": [
+        8,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_109",
+      "type": "choice",
+      "question": "9 + 5 = ?",
+      "answer": "14",
+      "explanation": "9加5等于14",
+      "options": [
+        13,
+        14,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_110",
+      "type": "choice",
+      "question": "2 + 2 = ?",
+      "answer": "4",
+      "explanation": "2加2等于4",
+      "options": [
+        2,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_111",
+      "type": "choice",
+      "question": "2 + 5 = ?",
+      "answer": "7",
+      "explanation": "2加5等于7",
+      "options": [
+        6,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_112",
+      "type": "choice",
+      "question": "9 + 7 = ?",
+      "answer": "16",
+      "explanation": "9加7等于16",
+      "options": [
+        14,
+        16,
+        17,
+        20
+      ]
+    },
+    {
+      "id": "G1_B_113",
+      "type": "choice",
+      "question": "1 + 6 = ?",
+      "answer": "7",
+      "explanation": "1加6等于7",
+      "options": [
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_114",
+      "type": "choice",
+      "question": "7 + 7 = ?",
+      "answer": "14",
+      "explanation": "7加7等于14",
+      "options": [
+        12,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_115",
+      "type": "choice",
+      "question": "2 + 9 = ?",
+      "answer": "11",
+      "explanation": "2加9等于11",
+      "options": [
+        10,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_116",
+      "type": "choice",
+      "question": "9 + 1 = ?",
+      "answer": "10",
+      "explanation": "9加1等于10",
+      "options": [
+        9,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_117",
+      "type": "choice",
+      "question": "5 + 8 = ?",
+      "answer": "13",
+      "explanation": "5加8等于13",
+      "options": [
+        11,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_B_118",
+      "type": "choice",
+      "question": "6 + 7 = ?",
+      "answer": "13",
+      "explanation": "6加7等于13",
+      "options": [
+        12,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_B_119",
+      "type": "choice",
+      "question": "2 + 3 = ?",
+      "answer": "5",
+      "explanation": "2加3等于5",
+      "options": [
+        3,
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_120",
+      "type": "choice",
+      "question": "2 + 8 = ?",
+      "answer": "10",
+      "explanation": "2加8等于10",
+      "options": [
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_121",
+      "type": "choice",
+      "question": "8 + 7 = ?",
+      "answer": "15",
+      "explanation": "8加7等于15",
+      "options": [
+        14,
+        15,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_122",
+      "type": "choice",
+      "question": "4 + 8 = ?",
+      "answer": "12",
+      "explanation": "4加8等于12",
+      "options": [
+        11,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "G1_B_123",
+      "type": "choice",
+      "question": "8 + 9 = ?",
+      "answer": "17",
+      "explanation": "8加9等于17",
+      "options": [
+        16,
+        17,
+        18,
+        20
+      ]
+    },
+    {
+      "id": "G1_B_124",
+      "type": "choice",
+      "question": "2 + 4 = ?",
+      "answer": "6",
+      "explanation": "2加4等于6",
+      "options": [
+        5,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_125",
+      "type": "choice",
+      "question": "3 + 1 = ?",
+      "answer": "4",
+      "explanation": "3加1等于4",
+      "options": [
+        2,
+        4,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "G1_B_126",
+      "type": "choice",
+      "question": "4 + 1 = ?",
+      "answer": "5",
+      "explanation": "4加1等于5",
+      "options": [
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_127",
+      "type": "choice",
+      "question": "4 + 5 = ?",
+      "answer": "9",
+      "explanation": "4加5等于9",
+      "options": [
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_128",
+      "type": "choice",
+      "question": "7 + 7 = ?",
+      "answer": "14",
+      "explanation": "7加7等于14",
+      "options": [
+        13,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_129",
+      "type": "choice",
+      "question": "1 + 4 = ?",
+      "answer": "5",
+      "explanation": "1加4等于5",
+      "options": [
+        3,
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_130",
+      "type": "choice",
+      "question": "4 + 1 = ?",
+      "answer": "5",
+      "explanation": "4加1等于5",
+      "options": [
+        4,
+        5,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_131",
+      "type": "choice",
+      "question": "3 + 7 = ?",
+      "answer": "10",
+      "explanation": "3加7等于10",
+      "options": [
+        9,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_132",
+      "type": "choice",
+      "question": "6 + 5 = ?",
+      "answer": "11",
+      "explanation": "6加5等于11",
+      "options": [
+        9,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_133",
+      "type": "choice",
+      "question": "8 + 2 = ?",
+      "answer": "10",
+      "explanation": "8加2等于10",
+      "options": [
+        8,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_134",
+      "type": "choice",
+      "question": "2 + 2 = ?",
+      "answer": "4",
+      "explanation": "2加2等于4",
+      "options": [
+        3,
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_135",
+      "type": "choice",
+      "question": "2 + 1 = ?",
+      "answer": "3",
+      "explanation": "2加1等于3",
+      "options": [
+        1,
+        3,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "G1_B_136",
+      "type": "choice",
+      "question": "7 + 6 = ?",
+      "answer": "13",
+      "explanation": "7加6等于13",
+      "options": [
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_B_137",
+      "type": "choice",
+      "question": "3 + 2 = ?",
+      "answer": "5",
+      "explanation": "3加2等于5",
+      "options": [
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_138",
+      "type": "choice",
+      "question": "6 + 6 = ?",
+      "answer": "12",
+      "explanation": "6加6等于12",
+      "options": [
+        11,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_139",
+      "type": "choice",
+      "question": "6 + 2 = ?",
+      "answer": "8",
+      "explanation": "6加2等于8",
+      "options": [
+        7,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_140",
+      "type": "choice",
+      "question": "6 + 5 = ?",
+      "answer": "11",
+      "explanation": "6加5等于11",
+      "options": [
+        9,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_141",
+      "type": "choice",
+      "question": "6 + 5 = ?",
+      "answer": "11",
+      "explanation": "6加5等于11",
+      "options": [
+        10,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_142",
+      "type": "choice",
+      "question": "9 + 1 = ?",
+      "answer": "10",
+      "explanation": "9加1等于10",
+      "options": [
+        8,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_143",
+      "type": "choice",
+      "question": "1 + 9 = ?",
+      "answer": "10",
+      "explanation": "1加9等于10",
+      "options": [
+        9,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_144",
+      "type": "choice",
+      "question": "1 + 8 = ?",
+      "answer": "9",
+      "explanation": "1加8等于9",
+      "options": [
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_145",
+      "type": "choice",
+      "question": "8 + 2 = ?",
+      "answer": "10",
+      "explanation": "8加2等于10",
+      "options": [
+        8,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_146",
+      "type": "choice",
+      "question": "5 + 1 = ?",
+      "answer": "6",
+      "explanation": "5加1等于6",
+      "options": [
+        4,
+        6,
+        7,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_147",
+      "type": "choice",
+      "question": "9 + 6 = ?",
+      "answer": "15",
+      "explanation": "9加6等于15",
+      "options": [
+        14,
+        15,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_148",
+      "type": "choice",
+      "question": "4 + 2 = ?",
+      "answer": "6",
+      "explanation": "4加2等于6",
+      "options": [
+        4,
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_149",
+      "type": "choice",
+      "question": "7 + 5 = ?",
+      "answer": "12",
+      "explanation": "7加5等于12",
+      "options": [
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_150",
+      "type": "choice",
+      "question": "1 + 3 = ?",
+      "answer": "4",
+      "explanation": "1加3等于4",
+      "options": [
+        2,
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_151",
+      "type": "choice",
+      "question": "2 + 1 = ?",
+      "answer": "3",
+      "explanation": "2加1等于3",
+      "options": [
+        2,
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_152",
+      "type": "choice",
+      "question": "3 + 4 = ?",
+      "answer": "7",
+      "explanation": "3加4等于7",
+      "options": [
+        5,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_153",
+      "type": "choice",
+      "question": "6 + 1 = ?",
+      "answer": "7",
+      "explanation": "6加1等于7",
+      "options": [
+        5,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_154",
+      "type": "choice",
+      "question": "8 + 6 = ?",
+      "answer": "14",
+      "explanation": "8加6等于14",
+      "options": [
+        12,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_155",
+      "type": "choice",
+      "question": "5 + 2 = ?",
+      "answer": "7",
+      "explanation": "5加2等于7",
+      "options": [
+        5,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_156",
+      "type": "choice",
+      "question": "7 + 7 = ?",
+      "answer": "14",
+      "explanation": "7加7等于14",
+      "options": [
+        12,
+        14,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_157",
+      "type": "choice",
+      "question": "2 + 8 = ?",
+      "answer": "10",
+      "explanation": "2加8等于10",
+      "options": [
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_158",
+      "type": "choice",
+      "question": "8 + 7 = ?",
+      "answer": "15",
+      "explanation": "8加7等于15",
+      "options": [
+        14,
+        15,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_159",
+      "type": "choice",
+      "question": "3 + 5 = ?",
+      "answer": "8",
+      "explanation": "3加5等于8",
+      "options": [
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_160",
+      "type": "choice",
+      "question": "1 + 8 = ?",
+      "answer": "9",
+      "explanation": "1加8等于9",
+      "options": [
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_161",
+      "type": "choice",
+      "question": "7 + 7 = ?",
+      "answer": "14",
+      "explanation": "7加7等于14",
+      "options": [
+        13,
+        14,
+        16,
+        17
+      ]
+    },
+    {
+      "id": "G1_B_162",
+      "type": "choice",
+      "question": "1 + 6 = ?",
+      "answer": "7",
+      "explanation": "1加6等于7",
+      "options": [
+        5,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_163",
+      "type": "choice",
+      "question": "5 + 8 = ?",
+      "answer": "13",
+      "explanation": "5加8等于13",
+      "options": [
+        12,
+        13,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_B_164",
+      "type": "choice",
+      "question": "7 + 5 = ?",
+      "answer": "12",
+      "explanation": "7加5等于12",
+      "options": [
+        11,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_165",
+      "type": "choice",
+      "question": "8 + 2 = ?",
+      "answer": "10",
+      "explanation": "8加2等于10",
+      "options": [
+        9,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_166",
+      "type": "choice",
+      "question": "6 + 7 = ?",
+      "answer": "13",
+      "explanation": "6加7等于13",
+      "options": [
+        11,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_B_167",
+      "type": "choice",
+      "question": "1 + 3 = ?",
+      "answer": "4",
+      "explanation": "1加3等于4",
+      "options": [
+        3,
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "G1_B_168",
+      "type": "choice",
+      "question": "6 + 1 = ?",
+      "answer": "7",
+      "explanation": "6加1等于7",
+      "options": [
+        5,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_169",
+      "type": "choice",
+      "question": "2 + 8 = ?",
+      "answer": "10",
+      "explanation": "2加8等于10",
+      "options": [
+        8,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_170",
+      "type": "choice",
+      "question": "5 + 8 = ?",
+      "answer": "13",
+      "explanation": "5加8等于13",
+      "options": [
+        11,
+        13,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_B_171",
+      "type": "choice",
+      "question": "3 + 2 = ?",
+      "answer": "5",
+      "explanation": "3加2等于5",
+      "options": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_172",
+      "type": "choice",
+      "question": "5 + 3 = ?",
+      "answer": "8",
+      "explanation": "5加3等于8",
+      "options": [
+        7,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_173",
+      "type": "choice",
+      "question": "8 + 2 = ?",
+      "answer": "10",
+      "explanation": "8加2等于10",
+      "options": [
+        8,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_174",
+      "type": "choice",
+      "question": "4 + 1 = ?",
+      "answer": "5",
+      "explanation": "4加1等于5",
+      "options": [
+        4,
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_175",
+      "type": "choice",
+      "question": "7 + 7 = ?",
+      "answer": "14",
+      "explanation": "7加7等于14",
+      "options": [
+        12,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_B_176",
+      "type": "choice",
+      "question": "9 + 6 = ?",
+      "answer": "15",
+      "explanation": "9加6等于15",
+      "options": [
+        14,
+        15,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_177",
+      "type": "choice",
+      "question": "2 + 8 = ?",
+      "answer": "10",
+      "explanation": "2加8等于10",
+      "options": [
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_178",
+      "type": "choice",
+      "question": "8 + 5 = ?",
+      "answer": "13",
+      "explanation": "8加5等于13",
+      "options": [
+        12,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_B_179",
+      "type": "choice",
+      "question": "2 + 6 = ?",
+      "answer": "8",
+      "explanation": "2加6等于8",
+      "options": [
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_180",
+      "type": "choice",
+      "question": "9 + 6 = ?",
+      "answer": "15",
+      "explanation": "9加6等于15",
+      "options": [
+        14,
+        15,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_181",
+      "type": "choice",
+      "question": "2 + 2 = ?",
+      "answer": "4",
+      "explanation": "2加2等于4",
+      "options": [
+        2,
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_182",
+      "type": "choice",
+      "question": "4 + 1 = ?",
+      "answer": "5",
+      "explanation": "4加1等于5",
+      "options": [
+        4,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_183",
+      "type": "choice",
+      "question": "1 + 6 = ?",
+      "answer": "7",
+      "explanation": "1加6等于7",
+      "options": [
+        5,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_184",
+      "type": "choice",
+      "question": "9 + 3 = ?",
+      "answer": "12",
+      "explanation": "9加3等于12",
+      "options": [
+        11,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "G1_B_185",
+      "type": "choice",
+      "question": "2 + 2 = ?",
+      "answer": "4",
+      "explanation": "2加2等于4",
+      "options": [
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_186",
+      "type": "choice",
+      "question": "8 + 6 = ?",
+      "answer": "14",
+      "explanation": "8加6等于14",
+      "options": [
+        12,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_B_187",
+      "type": "choice",
+      "question": "8 + 2 = ?",
+      "answer": "10",
+      "explanation": "8加2等于10",
+      "options": [
+        8,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_188",
+      "type": "choice",
+      "question": "8 + 1 = ?",
+      "answer": "9",
+      "explanation": "8加1等于9",
+      "options": [
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_189",
+      "type": "choice",
+      "question": "6 + 1 = ?",
+      "answer": "7",
+      "explanation": "6加1等于7",
+      "options": [
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_190",
+      "type": "choice",
+      "question": "8 + 8 = ?",
+      "answer": "16",
+      "explanation": "8加8等于16",
+      "options": [
+        15,
+        16,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_191",
+      "type": "choice",
+      "question": "1 + 4 = ?",
+      "answer": "5",
+      "explanation": "1加4等于5",
+      "options": [
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_192",
+      "type": "choice",
+      "question": "2 + 1 = ?",
+      "answer": "3",
+      "explanation": "2加1等于3",
+      "options": [
+        1,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_193",
+      "type": "choice",
+      "question": "5 + 7 = ?",
+      "answer": "12",
+      "explanation": "5加7等于12",
+      "options": [
+        11,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "G1_B_194",
+      "type": "choice",
+      "question": "6 + 9 = ?",
+      "answer": "15",
+      "explanation": "6加9等于15",
+      "options": [
+        13,
+        15,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_195",
+      "type": "choice",
+      "question": "5 + 3 = ?",
+      "answer": "8",
+      "explanation": "5加3等于8",
+      "options": [
+        6,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_196",
+      "type": "choice",
+      "question": "5 + 8 = ?",
+      "answer": "13",
+      "explanation": "5加8等于13",
+      "options": [
+        11,
+        13,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_B_197",
+      "type": "choice",
+      "question": "3 + 7 = ?",
+      "answer": "10",
+      "explanation": "3加7等于10",
+      "options": [
+        8,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_198",
+      "type": "choice",
+      "question": "8 + 8 = ?",
+      "answer": "16",
+      "explanation": "8加8等于16",
+      "options": [
+        14,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_199",
+      "type": "choice",
+      "question": "6 + 9 = ?",
+      "answer": "15",
+      "explanation": "6加9等于15",
+      "options": [
+        14,
+        15,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_200",
+      "type": "choice",
+      "question": "7 + 5 = ?",
+      "answer": "12",
+      "explanation": "7加5等于12",
+      "options": [
+        10,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "G1_B_201",
+      "type": "choice",
+      "question": "6 + 9 = ?",
+      "answer": "15",
+      "explanation": "6加9等于15",
+      "options": [
+        13,
+        15,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_202",
+      "type": "choice",
+      "question": "7 + 5 = ?",
+      "answer": "12",
+      "explanation": "7加5等于12",
+      "options": [
+        10,
+        12,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_B_203",
+      "type": "choice",
+      "question": "8 + 9 = ?",
+      "answer": "17",
+      "explanation": "8加9等于17",
+      "options": [
+        15,
+        17,
+        18,
+        20
+      ]
+    },
+    {
+      "id": "G1_B_204",
+      "type": "choice",
+      "question": "3 + 7 = ?",
+      "answer": "10",
+      "explanation": "3加7等于10",
+      "options": [
+        9,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_205",
+      "type": "choice",
+      "question": "9 + 7 = ?",
+      "answer": "16",
+      "explanation": "9加7等于16",
+      "options": [
+        14,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_206",
+      "type": "choice",
+      "question": "8 + 4 = ?",
+      "answer": "12",
+      "explanation": "8加4等于12",
+      "options": [
+        10,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_207",
+      "type": "choice",
+      "question": "2 + 5 = ?",
+      "answer": "7",
+      "explanation": "2加5等于7",
+      "options": [
+        5,
+        7,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_208",
+      "type": "choice",
+      "question": "2 + 5 = ?",
+      "answer": "7",
+      "explanation": "2加5等于7",
+      "options": [
+        6,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_209",
+      "type": "choice",
+      "question": "9 + 4 = ?",
+      "answer": "13",
+      "explanation": "9加4等于13",
+      "options": [
+        11,
+        13,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_B_210",
+      "type": "choice",
+      "question": "5 + 7 = ?",
+      "answer": "12",
+      "explanation": "5加7等于12",
+      "options": [
+        10,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_211",
+      "type": "choice",
+      "question": "2 + 3 = ?",
+      "answer": "5",
+      "explanation": "2加3等于5",
+      "options": [
+        4,
+        5,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_212",
+      "type": "choice",
+      "question": "2 + 2 = ?",
+      "answer": "4",
+      "explanation": "2加2等于4",
+      "options": [
+        3,
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "G1_B_213",
+      "type": "choice",
+      "question": "7 + 5 = ?",
+      "answer": "12",
+      "explanation": "7加5等于12",
+      "options": [
+        11,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_214",
+      "type": "choice",
+      "question": "1 + 7 = ?",
+      "answer": "8",
+      "explanation": "1加7等于8",
+      "options": [
+        6,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_215",
+      "type": "choice",
+      "question": "9 + 9 = ?",
+      "answer": "18",
+      "explanation": "9加9等于18",
+      "options": [
+        16,
+        18,
+        20,
+        22
+      ]
+    },
+    {
+      "id": "G1_B_216",
+      "type": "choice",
+      "question": "2 + 9 = ?",
+      "answer": "11",
+      "explanation": "2加9等于11",
+      "options": [
+        9,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_217",
+      "type": "choice",
+      "question": "9 + 1 = ?",
+      "answer": "10",
+      "explanation": "9加1等于10",
+      "options": [
+        8,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_218",
+      "type": "choice",
+      "question": "1 + 1 = ?",
+      "answer": "2",
+      "explanation": "1加1等于2",
+      "options": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "G1_B_219",
+      "type": "choice",
+      "question": "5 + 9 = ?",
+      "answer": "14",
+      "explanation": "5加9等于14",
+      "options": [
+        12,
+        14,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_220",
+      "type": "choice",
+      "question": "6 + 3 = ?",
+      "answer": "9",
+      "explanation": "6加3等于9",
+      "options": [
+        8,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_221",
+      "type": "choice",
+      "question": "5 + 6 = ?",
+      "answer": "11",
+      "explanation": "5加6等于11",
+      "options": [
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_222",
+      "type": "choice",
+      "question": "8 + 1 = ?",
+      "answer": "9",
+      "explanation": "8加1等于9",
+      "options": [
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_223",
+      "type": "choice",
+      "question": "5 + 3 = ?",
+      "answer": "8",
+      "explanation": "5加3等于8",
+      "options": [
+        6,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_224",
+      "type": "choice",
+      "question": "2 + 7 = ?",
+      "answer": "9",
+      "explanation": "2加7等于9",
+      "options": [
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_225",
+      "type": "choice",
+      "question": "13 - 4 = ?",
+      "answer": "9",
+      "explanation": "13减4等于9",
+      "options": [
+        7,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_226",
+      "type": "choice",
+      "question": "11 - 5 = ?",
+      "answer": "6",
+      "explanation": "11减5等于6",
+      "options": [
+        4,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_227",
+      "type": "choice",
+      "question": "16 - 2 = ?",
+      "answer": "14",
+      "explanation": "16减2等于14",
+      "options": [
+        12,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_228",
+      "type": "choice",
+      "question": "13 - 7 = ?",
+      "answer": "6",
+      "explanation": "13减7等于6",
+      "options": [
+        4,
+        6,
+        7,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_229",
+      "type": "choice",
+      "question": "12 - 3 = ?",
+      "answer": "9",
+      "explanation": "12减3等于9",
+      "options": [
+        7,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_230",
+      "type": "choice",
+      "question": "17 - 7 = ?",
+      "answer": "10",
+      "explanation": "17减7等于10",
+      "options": [
+        9,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_231",
+      "type": "choice",
+      "question": "16 - 8 = ?",
+      "answer": "8",
+      "explanation": "16减8等于8",
+      "options": [
+        7,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_232",
+      "type": "choice",
+      "question": "15 - 7 = ?",
+      "answer": "8",
+      "explanation": "15减7等于8",
+      "options": [
+        6,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_233",
+      "type": "choice",
+      "question": "16 - 5 = ?",
+      "answer": "11",
+      "explanation": "16减5等于11",
+      "options": [
+        9,
+        11,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_234",
+      "type": "choice",
+      "question": "12 - 1 = ?",
+      "answer": "11",
+      "explanation": "12减1等于11",
+      "options": [
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_235",
+      "type": "choice",
+      "question": "11 - 3 = ?",
+      "answer": "8",
+      "explanation": "11减3等于8",
+      "options": [
+        7,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_236",
+      "type": "choice",
+      "question": "12 - 5 = ?",
+      "answer": "7",
+      "explanation": "12减5等于7",
+      "options": [
+        5,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_237",
+      "type": "choice",
+      "question": "14 - 6 = ?",
+      "answer": "8",
+      "explanation": "14减6等于8",
+      "options": [
+        6,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_238",
+      "type": "choice",
+      "question": "17 - 8 = ?",
+      "answer": "9",
+      "explanation": "17减8等于9",
+      "options": [
+        8,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_239",
+      "type": "choice",
+      "question": "12 - 5 = ?",
+      "answer": "7",
+      "explanation": "12减5等于7",
+      "options": [
+        5,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_240",
+      "type": "choice",
+      "question": "12 - 7 = ?",
+      "answer": "5",
+      "explanation": "12减7等于5",
+      "options": [
+        4,
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_241",
+      "type": "choice",
+      "question": "15 - 5 = ?",
+      "answer": "10",
+      "explanation": "15减5等于10",
+      "options": [
+        8,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_242",
+      "type": "choice",
+      "question": "17 - 2 = ?",
+      "answer": "15",
+      "explanation": "17减2等于15",
+      "options": [
+        13,
+        15,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_243",
+      "type": "choice",
+      "question": "13 - 9 = ?",
+      "answer": "4",
+      "explanation": "13减9等于4",
+      "options": [
+        2,
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_244",
+      "type": "choice",
+      "question": "17 - 5 = ?",
+      "answer": "12",
+      "explanation": "17减5等于12",
+      "options": [
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_245",
+      "type": "choice",
+      "question": "11 - 8 = ?",
+      "answer": "3",
+      "explanation": "11减8等于3",
+      "options": [
+        2,
+        3,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "G1_B_246",
+      "type": "choice",
+      "question": "16 - 5 = ?",
+      "answer": "11",
+      "explanation": "16减5等于11",
+      "options": [
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_247",
+      "type": "choice",
+      "question": "13 - 4 = ?",
+      "answer": "9",
+      "explanation": "13减4等于9",
+      "options": [
+        7,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_248",
+      "type": "choice",
+      "question": "13 - 4 = ?",
+      "answer": "9",
+      "explanation": "13减4等于9",
+      "options": [
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_249",
+      "type": "choice",
+      "question": "18 - 2 = ?",
+      "answer": "16",
+      "explanation": "18减2等于16",
+      "options": [
+        15,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_250",
+      "type": "choice",
+      "question": "16 - 6 = ?",
+      "answer": "10",
+      "explanation": "16减6等于10",
+      "options": [
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_251",
+      "type": "choice",
+      "question": "11 - 2 = ?",
+      "answer": "9",
+      "explanation": "11减2等于9",
+      "options": [
+        7,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_252",
+      "type": "choice",
+      "question": "17 - 7 = ?",
+      "answer": "10",
+      "explanation": "17减7等于10",
+      "options": [
+        9,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_253",
+      "type": "choice",
+      "question": "13 - 5 = ?",
+      "answer": "8",
+      "explanation": "13减5等于8",
+      "options": [
+        6,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_254",
+      "type": "choice",
+      "question": "17 - 6 = ?",
+      "answer": "11",
+      "explanation": "17减6等于11",
+      "options": [
+        10,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_255",
+      "type": "choice",
+      "question": "13 - 7 = ?",
+      "answer": "6",
+      "explanation": "13减7等于6",
+      "options": [
+        5,
+        6,
+        7,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_256",
+      "type": "choice",
+      "question": "11 - 8 = ?",
+      "answer": "3",
+      "explanation": "11减8等于3",
+      "options": [
+        1,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_257",
+      "type": "choice",
+      "question": "17 - 1 = ?",
+      "answer": "16",
+      "explanation": "17减1等于16",
+      "options": [
+        15,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_258",
+      "type": "choice",
+      "question": "11 - 8 = ?",
+      "answer": "3",
+      "explanation": "11减8等于3",
+      "options": [
+        2,
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "G1_B_259",
+      "type": "choice",
+      "question": "14 - 4 = ?",
+      "answer": "10",
+      "explanation": "14减4等于10",
+      "options": [
+        9,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_260",
+      "type": "choice",
+      "question": "17 - 9 = ?",
+      "answer": "8",
+      "explanation": "17减9等于8",
+      "options": [
+        6,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_261",
+      "type": "choice",
+      "question": "13 - 1 = ?",
+      "answer": "12",
+      "explanation": "13减1等于12",
+      "options": [
+        11,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_262",
+      "type": "choice",
+      "question": "13 - 6 = ?",
+      "answer": "7",
+      "explanation": "13减6等于7",
+      "options": [
+        6,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_263",
+      "type": "choice",
+      "question": "13 - 9 = ?",
+      "answer": "4",
+      "explanation": "13减9等于4",
+      "options": [
+        3,
+        4,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "G1_B_264",
+      "type": "choice",
+      "question": "13 - 5 = ?",
+      "answer": "8",
+      "explanation": "13减5等于8",
+      "options": [
+        6,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_265",
+      "type": "choice",
+      "question": "11 - 2 = ?",
+      "answer": "9",
+      "explanation": "11减2等于9",
+      "options": [
+        7,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_266",
+      "type": "choice",
+      "question": "18 - 1 = ?",
+      "answer": "17",
+      "explanation": "18减1等于17",
+      "options": [
+        15,
+        17,
+        18,
+        21
+      ]
+    },
+    {
+      "id": "G1_B_267",
+      "type": "choice",
+      "question": "16 - 6 = ?",
+      "answer": "10",
+      "explanation": "16减6等于10",
+      "options": [
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_268",
+      "type": "choice",
+      "question": "13 - 1 = ?",
+      "answer": "12",
+      "explanation": "13减1等于12",
+      "options": [
+        10,
+        12,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_B_269",
+      "type": "choice",
+      "question": "17 - 3 = ?",
+      "answer": "14",
+      "explanation": "17减3等于14",
+      "options": [
+        12,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_270",
+      "type": "choice",
+      "question": "13 - 8 = ?",
+      "answer": "5",
+      "explanation": "13减8等于5",
+      "options": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_271",
+      "type": "choice",
+      "question": "16 - 7 = ?",
+      "answer": "9",
+      "explanation": "16减7等于9",
+      "options": [
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_272",
+      "type": "choice",
+      "question": "13 - 2 = ?",
+      "answer": "11",
+      "explanation": "13减2等于11",
+      "options": [
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_273",
+      "type": "choice",
+      "question": "17 - 5 = ?",
+      "answer": "12",
+      "explanation": "17减5等于12",
+      "options": [
+        10,
+        12,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_B_274",
+      "type": "choice",
+      "question": "16 - 2 = ?",
+      "answer": "14",
+      "explanation": "16减2等于14",
+      "options": [
+        12,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_B_275",
+      "type": "choice",
+      "question": "18 - 2 = ?",
+      "answer": "16",
+      "explanation": "18减2等于16",
+      "options": [
+        14,
+        16,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_276",
+      "type": "choice",
+      "question": "18 - 9 = ?",
+      "answer": "9",
+      "explanation": "18减9等于9",
+      "options": [
+        8,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_277",
+      "type": "choice",
+      "question": "11 - 6 = ?",
+      "answer": "5",
+      "explanation": "11减6等于5",
+      "options": [
+        3,
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_278",
+      "type": "choice",
+      "question": "17 - 4 = ?",
+      "answer": "13",
+      "explanation": "17减4等于13",
+      "options": [
+        12,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_B_279",
+      "type": "choice",
+      "question": "12 - 2 = ?",
+      "answer": "10",
+      "explanation": "12减2等于10",
+      "options": [
+        9,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_280",
+      "type": "choice",
+      "question": "16 - 6 = ?",
+      "answer": "10",
+      "explanation": "16减6等于10",
+      "options": [
+        8,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_281",
+      "type": "choice",
+      "question": "11 - 1 = ?",
+      "answer": "10",
+      "explanation": "11减1等于10",
+      "options": [
+        9,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_282",
+      "type": "choice",
+      "question": "15 - 4 = ?",
+      "answer": "11",
+      "explanation": "15减4等于11",
+      "options": [
+        10,
+        11,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_283",
+      "type": "choice",
+      "question": "11 - 1 = ?",
+      "answer": "10",
+      "explanation": "11减1等于10",
+      "options": [
+        8,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_284",
+      "type": "choice",
+      "question": "15 - 8 = ?",
+      "answer": "7",
+      "explanation": "15减8等于7",
+      "options": [
+        6,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_285",
+      "type": "choice",
+      "question": "17 - 5 = ?",
+      "answer": "12",
+      "explanation": "17减5等于12",
+      "options": [
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_286",
+      "type": "choice",
+      "question": "14 - 9 = ?",
+      "answer": "5",
+      "explanation": "14减9等于5",
+      "options": [
+        4,
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_287",
+      "type": "choice",
+      "question": "15 - 8 = ?",
+      "answer": "7",
+      "explanation": "15减8等于7",
+      "options": [
+        5,
+        7,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_288",
+      "type": "choice",
+      "question": "13 - 8 = ?",
+      "answer": "5",
+      "explanation": "13减8等于5",
+      "options": [
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_289",
+      "type": "choice",
+      "question": "12 - 1 = ?",
+      "answer": "11",
+      "explanation": "12减1等于11",
+      "options": [
+        9,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_290",
+      "type": "choice",
+      "question": "12 - 3 = ?",
+      "answer": "9",
+      "explanation": "12减3等于9",
+      "options": [
+        7,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_291",
+      "type": "choice",
+      "question": "12 - 9 = ?",
+      "answer": "3",
+      "explanation": "12减9等于3",
+      "options": [
+        1,
+        3,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "G1_B_292",
+      "type": "choice",
+      "question": "17 - 6 = ?",
+      "answer": "11",
+      "explanation": "17减6等于11",
+      "options": [
+        10,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_293",
+      "type": "choice",
+      "question": "18 - 3 = ?",
+      "answer": "15",
+      "explanation": "18减3等于15",
+      "options": [
+        13,
+        15,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_294",
+      "type": "choice",
+      "question": "12 - 5 = ?",
+      "answer": "7",
+      "explanation": "12减5等于7",
+      "options": [
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_295",
+      "type": "choice",
+      "question": "17 - 3 = ?",
+      "answer": "14",
+      "explanation": "17减3等于14",
+      "options": [
+        12,
+        14,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_296",
+      "type": "choice",
+      "question": "11 - 5 = ?",
+      "answer": "6",
+      "explanation": "11减5等于6",
+      "options": [
+        4,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_297",
+      "type": "choice",
+      "question": "12 - 4 = ?",
+      "answer": "8",
+      "explanation": "12减4等于8",
+      "options": [
+        7,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G1_B_298",
+      "type": "choice",
+      "question": "12 - 2 = ?",
+      "answer": "10",
+      "explanation": "12减2等于10",
+      "options": [
+        8,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_299",
+      "type": "choice",
+      "question": "16 - 7 = ?",
+      "answer": "9",
+      "explanation": "16减7等于9",
+      "options": [
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_300",
+      "type": "choice",
+      "question": "17 - 1 = ?",
+      "answer": "16",
+      "explanation": "17减1等于16",
+      "options": [
+        14,
+        16,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_301",
+      "type": "choice",
+      "question": "16 - 6 = ?",
+      "answer": "10",
+      "explanation": "16减6等于10",
+      "options": [
+        9,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_302",
+      "type": "choice",
+      "question": "11 - 6 = ?",
+      "answer": "5",
+      "explanation": "11减6等于5",
+      "options": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_303",
+      "type": "choice",
+      "question": "13 - 7 = ?",
+      "answer": "6",
+      "explanation": "13减7等于6",
+      "options": [
+        4,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "G1_B_304",
+      "type": "choice",
+      "question": "18 - 9 = ?",
+      "answer": "9",
+      "explanation": "18减9等于9",
+      "options": [
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_305",
+      "type": "choice",
+      "question": "17 - 1 = ?",
+      "answer": "16",
+      "explanation": "17减1等于16",
+      "options": [
+        14,
+        16,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_B_306",
+      "type": "choice",
+      "question": "15 - 1 = ?",
+      "answer": "14",
+      "explanation": "15减1等于14",
+      "options": [
+        12,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_B_307",
+      "type": "choice",
+      "question": "12 - 1 = ?",
+      "answer": "11",
+      "explanation": "12减1等于11",
+      "options": [
+        9,
+        11,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_308",
+      "type": "choice",
+      "question": "14 - 2 = ?",
+      "answer": "12",
+      "explanation": "14减2等于12",
+      "options": [
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_309",
+      "type": "choice",
+      "question": "11 - 5 = ?",
+      "answer": "6",
+      "explanation": "11减5等于6",
+      "options": [
+        5,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_310",
+      "type": "choice",
+      "question": "16 - 5 = ?",
+      "answer": "11",
+      "explanation": "16减5等于11",
+      "options": [
+        10,
+        11,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_311",
+      "type": "choice",
+      "question": "15 - 8 = ?",
+      "answer": "7",
+      "explanation": "15减8等于7",
+      "options": [
+        5,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_B_312",
+      "type": "choice",
+      "question": "16 - 2 = ?",
+      "answer": "14",
+      "explanation": "16减2等于14",
+      "options": [
+        13,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_313",
+      "type": "choice",
+      "question": "17 - 3 = ?",
+      "answer": "14",
+      "explanation": "17减3等于14",
+      "options": [
+        13,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_B_314",
+      "type": "choice",
+      "question": "14 - 2 = ?",
+      "answer": "12",
+      "explanation": "14减2等于12",
+      "options": [
+        10,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "G1_B_315",
+      "type": "choice",
+      "question": "11 - 6 = ?",
+      "answer": "5",
+      "explanation": "11减6等于5",
+      "options": [
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "G1_B_316",
+      "type": "choice",
+      "question": "12 - 2 = ?",
+      "answer": "10",
+      "explanation": "12减2等于10",
+      "options": [
+        8,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_317",
+      "type": "choice",
+      "question": "17 - 3 = ?",
+      "answer": "14",
+      "explanation": "17减3等于14",
+      "options": [
+        13,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_318",
+      "type": "choice",
+      "question": "18 - 3 = ?",
+      "answer": "15",
+      "explanation": "18减3等于15",
+      "options": [
+        14,
+        15,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_319",
+      "type": "choice",
+      "question": "16 - 5 = ?",
+      "answer": "11",
+      "explanation": "16减5等于11",
+      "options": [
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_B_320",
+      "type": "choice",
+      "question": "11 - 5 = ?",
+      "answer": "6",
+      "explanation": "11减5等于6",
+      "options": [
+        5,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_B_321",
+      "type": "choice",
+      "question": "16 - 6 = ?",
+      "answer": "10",
+      "explanation": "16减6等于10",
+      "options": [
+        8,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_B_322",
+      "type": "choice",
+      "question": "15 - 6 = ?",
+      "answer": "9",
+      "explanation": "15减6等于9",
+      "options": [
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_B_323",
+      "type": "choice",
+      "question": "15 - 1 = ?",
+      "answer": "14",
+      "explanation": "15减1等于14",
+      "options": [
+        12,
+        14,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_B_324",
+      "type": "choice",
+      "question": "11 - 2 = ?",
+      "answer": "9",
+      "explanation": "11减2等于9",
+      "options": [
+        7,
+        9,
+        10,
+        13
+      ]
+    }
+  ]
+}

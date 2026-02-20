@@ -1,0 +1,2776 @@
+{
+  "grade": 1,
+  "difficulty": "olympic",
+  "questions": [
+    {
+      "id": "G1_O_001",
+      "type": "choice",
+      "question": "找规律填数：2, 7, 12, 17, ?",
+      "answer": "22",
+      "explanation": "每次增加5，下一个是22",
+      "options": [
+        20,
+        22,
+        24,
+        27
+      ]
+    },
+    {
+      "id": "G1_O_002",
+      "type": "choice",
+      "question": "找规律填数：5, 6, 7, 8, ?",
+      "answer": "9",
+      "explanation": "每次增加1，下一个是9",
+      "options": [
+        6,
+        9,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_O_003",
+      "type": "choice",
+      "question": "找规律填数：2, 12, 22, 32, ?",
+      "answer": "42",
+      "explanation": "每次增加10，下一个是42",
+      "options": [
+        39,
+        42,
+        44,
+        47
+      ]
+    },
+    {
+      "id": "G1_O_004",
+      "type": "choice",
+      "question": "找规律填数：1, 3, 5, 7, ?",
+      "answer": "9",
+      "explanation": "每次增加2，下一个是9",
+      "options": [
+        8,
+        9,
+        10,
+        15
+      ]
+    },
+    {
+      "id": "G1_O_005",
+      "type": "choice",
+      "question": "找规律填数：5, 15, 25, 35, ?",
+      "answer": "45",
+      "explanation": "每次增加10，下一个是45",
+      "options": [
+        42,
+        45,
+        47,
+        50
+      ]
+    },
+    {
+      "id": "G1_O_006",
+      "type": "choice",
+      "question": "找规律填数：1, 6, 11, 16, ?",
+      "answer": "21",
+      "explanation": "每次增加5，下一个是21",
+      "options": [
+        19,
+        21,
+        24,
+        27
+      ]
+    },
+    {
+      "id": "G1_O_007",
+      "type": "choice",
+      "question": "找规律填数：2, 7, 12, 17, ?",
+      "answer": "22",
+      "explanation": "每次增加5，下一个是22",
+      "options": [
+        19,
+        22,
+        25,
+        28
+      ]
+    },
+    {
+      "id": "G1_O_008",
+      "type": "choice",
+      "question": "找规律填数：8, 10, 12, 14, ?",
+      "answer": "16",
+      "explanation": "每次增加2，下一个是16",
+      "options": [
+        13,
+        16,
+        18,
+        21
+      ]
+    },
+    {
+      "id": "G1_O_009",
+      "type": "choice",
+      "question": "找规律填数：10, 11, 12, 13, ?",
+      "answer": "14",
+      "explanation": "每次增加1，下一个是14",
+      "options": [
+        13,
+        14,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_O_010",
+      "type": "choice",
+      "question": "找规律填数：9, 19, 29, 39, ?",
+      "answer": "49",
+      "explanation": "每次增加10，下一个是49",
+      "options": [
+        46,
+        49,
+        50,
+        53
+      ]
+    },
+    {
+      "id": "G1_O_011",
+      "type": "choice",
+      "question": "找规律填数：2, 3, 4, 5, ?",
+      "answer": "6",
+      "explanation": "每次增加1，下一个是6",
+      "options": [
+        5,
+        6,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_O_012",
+      "type": "choice",
+      "question": "找规律填数：8, 9, 10, 11, ?",
+      "answer": "12",
+      "explanation": "每次增加1，下一个是12",
+      "options": [
+        11,
+        12,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_O_013",
+      "type": "choice",
+      "question": "找规律填数：8, 13, 18, 23, ?",
+      "answer": "28",
+      "explanation": "每次增加5，下一个是28",
+      "options": [
+        27,
+        28,
+        30,
+        33
+      ]
+    },
+    {
+      "id": "G1_O_014",
+      "type": "choice",
+      "question": "找规律填数：10, 15, 20, 25, ?",
+      "answer": "30",
+      "explanation": "每次增加5，下一个是30",
+      "options": [
+        27,
+        30,
+        32,
+        36
+      ]
+    },
+    {
+      "id": "G1_O_015",
+      "type": "choice",
+      "question": "找规律填数：2, 4, 6, 8, ?",
+      "answer": "10",
+      "explanation": "每次增加2，下一个是10",
+      "options": [
+        8,
+        10,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_O_016",
+      "type": "choice",
+      "question": "找规律填数：7, 17, 27, 37, ?",
+      "answer": "47",
+      "explanation": "每次增加10，下一个是47",
+      "options": [
+        46,
+        47,
+        48,
+        53
+      ]
+    },
+    {
+      "id": "G1_O_017",
+      "type": "choice",
+      "question": "找规律填数：10, 11, 12, 13, ?",
+      "answer": "14",
+      "explanation": "每次增加1，下一个是14",
+      "options": [
+        13,
+        14,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_O_018",
+      "type": "choice",
+      "question": "找规律填数：6, 11, 16, 21, ?",
+      "answer": "26",
+      "explanation": "每次增加5，下一个是26",
+      "options": [
+        24,
+        26,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "G1_O_019",
+      "type": "choice",
+      "question": "找规律填数：7, 9, 11, 13, ?",
+      "answer": "15",
+      "explanation": "每次增加2，下一个是15",
+      "options": [
+        13,
+        15,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_O_020",
+      "type": "choice",
+      "question": "找规律填数：5, 15, 25, 35, ?",
+      "answer": "45",
+      "explanation": "每次增加10，下一个是45",
+      "options": [
+        44,
+        45,
+        47,
+        49
+      ]
+    },
+    {
+      "id": "G1_O_021",
+      "type": "choice",
+      "question": "找规律填数：8, 10, 12, 14, ?",
+      "answer": "16",
+      "explanation": "每次增加2，下一个是16",
+      "options": [
+        15,
+        16,
+        18,
+        22
+      ]
+    },
+    {
+      "id": "G1_O_022",
+      "type": "choice",
+      "question": "找规律填数：3, 4, 5, 6, ?",
+      "answer": "7",
+      "explanation": "每次增加1，下一个是7",
+      "options": [
+        5,
+        7,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_O_023",
+      "type": "choice",
+      "question": "找规律填数：8, 13, 18, 23, ?",
+      "answer": "28",
+      "explanation": "每次增加5，下一个是28",
+      "options": [
+        26,
+        28,
+        31,
+        34
+      ]
+    },
+    {
+      "id": "G1_O_024",
+      "type": "choice",
+      "question": "找规律填数：4, 6, 8, 10, ?",
+      "answer": "12",
+      "explanation": "每次增加2，下一个是12",
+      "options": [
+        9,
+        12,
+        13,
+        17
+      ]
+    },
+    {
+      "id": "G1_O_025",
+      "type": "choice",
+      "question": "找规律填数：9, 19, 29, 39, ?",
+      "answer": "49",
+      "explanation": "每次增加10，下一个是49",
+      "options": [
+        46,
+        49,
+        52,
+        53
+      ]
+    },
+    {
+      "id": "G1_O_026",
+      "type": "choice",
+      "question": "找规律填数：3, 5, 7, 9, ?",
+      "answer": "11",
+      "explanation": "每次增加2，下一个是11",
+      "options": [
+        9,
+        11,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_O_027",
+      "type": "choice",
+      "question": "找规律填数：7, 8, 9, 10, ?",
+      "answer": "11",
+      "explanation": "每次增加1，下一个是11",
+      "options": [
+        10,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_O_028",
+      "type": "choice",
+      "question": "找规律填数：3, 8, 13, 18, ?",
+      "answer": "23",
+      "explanation": "每次增加5，下一个是23",
+      "options": [
+        22,
+        23,
+        24,
+        27
+      ]
+    },
+    {
+      "id": "G1_O_029",
+      "type": "choice",
+      "question": "找规律填数：9, 10, 11, 12, ?",
+      "answer": "13",
+      "explanation": "每次增加1，下一个是13",
+      "options": [
+        12,
+        13,
+        15,
+        19
+      ]
+    },
+    {
+      "id": "G1_O_030",
+      "type": "choice",
+      "question": "找规律填数：7, 9, 11, 13, ?",
+      "answer": "15",
+      "explanation": "每次增加2，下一个是15",
+      "options": [
+        13,
+        15,
+        17,
+        20
+      ]
+    },
+    {
+      "id": "G1_O_031",
+      "type": "choice",
+      "question": "找规律填数：5, 7, 9, 11, ?",
+      "answer": "13",
+      "explanation": "每次增加2，下一个是13",
+      "options": [
+        11,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_O_032",
+      "type": "choice",
+      "question": "找规律填数：10, 15, 20, 25, ?",
+      "answer": "30",
+      "explanation": "每次增加5，下一个是30",
+      "options": [
+        28,
+        30,
+        32,
+        34
+      ]
+    },
+    {
+      "id": "G1_O_033",
+      "type": "choice",
+      "question": "找规律填数：9, 11, 13, 15, ?",
+      "answer": "17",
+      "explanation": "每次增加2，下一个是17",
+      "options": [
+        15,
+        17,
+        20,
+        21
+      ]
+    },
+    {
+      "id": "G1_O_034",
+      "type": "choice",
+      "question": "找规律填数：1, 3, 5, 7, ?",
+      "answer": "9",
+      "explanation": "每次增加2，下一个是9",
+      "options": [
+        6,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_O_035",
+      "type": "choice",
+      "question": "找规律填数：7, 9, 11, 13, ?",
+      "answer": "15",
+      "explanation": "每次增加2，下一个是15",
+      "options": [
+        14,
+        15,
+        16,
+        21
+      ]
+    },
+    {
+      "id": "G1_O_036",
+      "type": "choice",
+      "question": "找规律填数：1, 2, 3, 4, ?",
+      "answer": "5",
+      "explanation": "每次增加1，下一个是5",
+      "options": [
+        3,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "G1_O_037",
+      "type": "choice",
+      "question": "找规律填数：6, 16, 26, 36, ?",
+      "answer": "46",
+      "explanation": "每次增加10，下一个是46",
+      "options": [
+        44,
+        46,
+        47,
+        50
+      ]
+    },
+    {
+      "id": "G1_O_038",
+      "type": "choice",
+      "question": "找规律填数：3, 4, 5, 6, ?",
+      "answer": "7",
+      "explanation": "每次增加1，下一个是7",
+      "options": [
+        5,
+        7,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_O_039",
+      "type": "choice",
+      "question": "找规律填数：10, 20, 30, 40, ?",
+      "answer": "50",
+      "explanation": "每次增加10，下一个是50",
+      "options": [
+        48,
+        50,
+        51,
+        54
+      ]
+    },
+    {
+      "id": "G1_O_040",
+      "type": "choice",
+      "question": "找规律填数：6, 7, 8, 9, ?",
+      "answer": "10",
+      "explanation": "每次增加1，下一个是10",
+      "options": [
+        9,
+        10,
+        11,
+        15
+      ]
+    },
+    {
+      "id": "G1_O_041",
+      "type": "choice",
+      "question": "找规律填数：10, 11, 12, 13, ?",
+      "answer": "14",
+      "explanation": "每次增加1，下一个是14",
+      "options": [
+        12,
+        14,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_O_042",
+      "type": "choice",
+      "question": "找规律填数：10, 11, 12, 13, ?",
+      "answer": "14",
+      "explanation": "每次增加1，下一个是14",
+      "options": [
+        11,
+        14,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_O_043",
+      "type": "choice",
+      "question": "找规律填数：7, 17, 27, 37, ?",
+      "answer": "47",
+      "explanation": "每次增加10，下一个是47",
+      "options": [
+        46,
+        47,
+        48,
+        53
+      ]
+    },
+    {
+      "id": "G1_O_044",
+      "type": "choice",
+      "question": "找规律填数：9, 14, 19, 24, ?",
+      "answer": "29",
+      "explanation": "每次增加5，下一个是29",
+      "options": [
+        26,
+        29,
+        30,
+        34
+      ]
+    },
+    {
+      "id": "G1_O_045",
+      "type": "choice",
+      "question": "找规律填数：3, 13, 23, 33, ?",
+      "answer": "43",
+      "explanation": "每次增加10，下一个是43",
+      "options": [
+        42,
+        43,
+        46,
+        47
+      ]
+    },
+    {
+      "id": "G1_O_046",
+      "type": "choice",
+      "question": "找规律填数：2, 4, 6, 8, ?",
+      "answer": "10",
+      "explanation": "每次增加2，下一个是10",
+      "options": [
+        9,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_O_047",
+      "type": "choice",
+      "question": "找规律填数：6, 8, 10, 12, ?",
+      "answer": "14",
+      "explanation": "每次增加2，下一个是14",
+      "options": [
+        11,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_O_048",
+      "type": "choice",
+      "question": "找规律填数：6, 11, 16, 21, ?",
+      "answer": "26",
+      "explanation": "每次增加5，下一个是26",
+      "options": [
+        23,
+        26,
+        28,
+        30
+      ]
+    },
+    {
+      "id": "G1_O_049",
+      "type": "choice",
+      "question": "找规律填数：8, 9, 10, 11, ?",
+      "answer": "12",
+      "explanation": "每次增加1，下一个是12",
+      "options": [
+        11,
+        12,
+        13,
+        17
+      ]
+    },
+    {
+      "id": "G1_O_050",
+      "type": "choice",
+      "question": "找规律填数：5, 7, 9, 11, ?",
+      "answer": "13",
+      "explanation": "每次增加2，下一个是13",
+      "options": [
+        11,
+        13,
+        16,
+        17
+      ]
+    },
+    {
+      "id": "G1_O_051",
+      "type": "choice",
+      "question": "找规律填数：4, 9, 14, 19, ?",
+      "answer": "24",
+      "explanation": "每次增加5，下一个是24",
+      "options": [
+        21,
+        24,
+        27,
+        28
+      ]
+    },
+    {
+      "id": "G1_O_052",
+      "type": "choice",
+      "question": "找规律填数：7, 9, 11, 13, ?",
+      "answer": "15",
+      "explanation": "每次增加2，下一个是15",
+      "options": [
+        14,
+        15,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_O_053",
+      "type": "choice",
+      "question": "找规律填数：4, 5, 6, 7, ?",
+      "answer": "8",
+      "explanation": "每次增加1，下一个是8",
+      "options": [
+        5,
+        8,
+        9,
+        14
+      ]
+    },
+    {
+      "id": "G1_O_054",
+      "type": "choice",
+      "question": "找规律填数：9, 10, 11, 12, ?",
+      "answer": "13",
+      "explanation": "每次增加1，下一个是13",
+      "options": [
+        10,
+        13,
+        15,
+        19
+      ]
+    },
+    {
+      "id": "G1_O_055",
+      "type": "choice",
+      "question": "找规律填数：1, 6, 11, 16, ?",
+      "answer": "21",
+      "explanation": "每次增加5，下一个是21",
+      "options": [
+        20,
+        21,
+        23,
+        26
+      ]
+    },
+    {
+      "id": "G1_O_056",
+      "type": "choice",
+      "question": "找规律填数：7, 9, 11, 13, ?",
+      "answer": "15",
+      "explanation": "每次增加2，下一个是15",
+      "options": [
+        13,
+        15,
+        16,
+        21
+      ]
+    },
+    {
+      "id": "G1_O_057",
+      "type": "choice",
+      "question": "找规律填数：10, 11, 12, 13, ?",
+      "answer": "14",
+      "explanation": "每次增加1，下一个是14",
+      "options": [
+        12,
+        14,
+        15,
+        20
+      ]
+    },
+    {
+      "id": "G1_O_058",
+      "type": "choice",
+      "question": "找规律填数：6, 16, 26, 36, ?",
+      "answer": "46",
+      "explanation": "每次增加10，下一个是46",
+      "options": [
+        45,
+        46,
+        49,
+        50
+      ]
+    },
+    {
+      "id": "G1_O_059",
+      "type": "choice",
+      "question": "找规律填数：2, 7, 12, 17, ?",
+      "answer": "22",
+      "explanation": "每次增加5，下一个是22",
+      "options": [
+        20,
+        22,
+        24,
+        27
+      ]
+    },
+    {
+      "id": "G1_O_060",
+      "type": "choice",
+      "question": "找规律填数：8, 18, 28, 38, ?",
+      "answer": "48",
+      "explanation": "每次增加10，下一个是48",
+      "options": [
+        45,
+        48,
+        50,
+        53
+      ]
+    },
+    {
+      "id": "G1_O_061",
+      "type": "choice",
+      "question": "找规律填数：2, 3, 4, 5, ?",
+      "answer": "6",
+      "explanation": "每次增加1，下一个是6",
+      "options": [
+        5,
+        6,
+        8,
+        12
+      ]
+    },
+    {
+      "id": "G1_O_062",
+      "type": "choice",
+      "question": "找规律填数：3, 13, 23, 33, ?",
+      "answer": "43",
+      "explanation": "每次增加10，下一个是43",
+      "options": [
+        40,
+        43,
+        46,
+        48
+      ]
+    },
+    {
+      "id": "G1_O_063",
+      "type": "choice",
+      "question": "找规律填数：8, 9, 10, 11, ?",
+      "answer": "12",
+      "explanation": "每次增加1，下一个是12",
+      "options": [
+        10,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "G1_O_064",
+      "type": "choice",
+      "question": "找规律填数：7, 17, 27, 37, ?",
+      "answer": "47",
+      "explanation": "每次增加10，下一个是47",
+      "options": [
+        45,
+        47,
+        49,
+        52
+      ]
+    },
+    {
+      "id": "G1_O_065",
+      "type": "choice",
+      "question": "找规律填数：10, 15, 20, 25, ?",
+      "answer": "30",
+      "explanation": "每次增加5，下一个是30",
+      "options": [
+        29,
+        30,
+        31,
+        36
+      ]
+    },
+    {
+      "id": "G1_O_066",
+      "type": "choice",
+      "question": "找规律填数：3, 8, 13, 18, ?",
+      "answer": "23",
+      "explanation": "每次增加5，下一个是23",
+      "options": [
+        22,
+        23,
+        26,
+        27
+      ]
+    },
+    {
+      "id": "G1_O_067",
+      "type": "choice",
+      "question": "找规律填数：4, 5, 6, 7, ?",
+      "answer": "8",
+      "explanation": "每次增加1，下一个是8",
+      "options": [
+        7,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "id": "G1_O_068",
+      "type": "choice",
+      "question": "找规律填数：1, 11, 21, 31, ?",
+      "answer": "41",
+      "explanation": "每次增加10，下一个是41",
+      "options": [
+        39,
+        41,
+        42,
+        47
+      ]
+    },
+    {
+      "id": "G1_O_069",
+      "type": "choice",
+      "question": "找规律填数：9, 11, 13, 15, ?",
+      "answer": "17",
+      "explanation": "每次增加2，下一个是17",
+      "options": [
+        14,
+        17,
+        19,
+        23
+      ]
+    },
+    {
+      "id": "G1_O_070",
+      "type": "choice",
+      "question": "找规律填数：3, 13, 23, 33, ?",
+      "answer": "43",
+      "explanation": "每次增加10，下一个是43",
+      "options": [
+        42,
+        43,
+        46,
+        47
+      ]
+    },
+    {
+      "id": "G1_O_071",
+      "type": "choice",
+      "question": "找规律填数：6, 11, 16, 21, ?",
+      "answer": "26",
+      "explanation": "每次增加5，下一个是26",
+      "options": [
+        25,
+        26,
+        29,
+        31
+      ]
+    },
+    {
+      "id": "G1_O_072",
+      "type": "choice",
+      "question": "找规律填数：10, 15, 20, 25, ?",
+      "answer": "30",
+      "explanation": "每次增加5，下一个是30",
+      "options": [
+        27,
+        30,
+        31,
+        35
+      ]
+    },
+    {
+      "id": "G1_O_073",
+      "type": "choice",
+      "question": "找规律填数：4, 6, 8, 10, ?",
+      "answer": "12",
+      "explanation": "每次增加2，下一个是12",
+      "options": [
+        11,
+        12,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_O_074",
+      "type": "choice",
+      "question": "找规律填数：9, 19, 29, 39, ?",
+      "answer": "49",
+      "explanation": "每次增加10，下一个是49",
+      "options": [
+        47,
+        49,
+        50,
+        54
+      ]
+    },
+    {
+      "id": "G1_O_075",
+      "type": "choice",
+      "question": "找规律填数：8, 13, 18, 23, ?",
+      "answer": "28",
+      "explanation": "每次增加5，下一个是28",
+      "options": [
+        27,
+        28,
+        29,
+        34
+      ]
+    },
+    {
+      "id": "G1_O_076",
+      "type": "choice",
+      "question": "找规律填数：4, 14, 24, 34, ?",
+      "answer": "44",
+      "explanation": "每次增加10，下一个是44",
+      "options": [
+        42,
+        44,
+        45,
+        49
+      ]
+    },
+    {
+      "id": "G1_O_077",
+      "type": "choice",
+      "question": "找规律填数：5, 15, 25, 35, ?",
+      "answer": "45",
+      "explanation": "每次增加10，下一个是45",
+      "options": [
+        44,
+        45,
+        48,
+        50
+      ]
+    },
+    {
+      "id": "G1_O_078",
+      "type": "choice",
+      "question": "找规律填数：2, 12, 22, 32, ?",
+      "answer": "42",
+      "explanation": "每次增加10，下一个是42",
+      "options": [
+        39,
+        42,
+        44,
+        47
+      ]
+    },
+    {
+      "id": "G1_O_079",
+      "type": "choice",
+      "question": "找规律填数：8, 9, 10, 11, ?",
+      "answer": "12",
+      "explanation": "每次增加1，下一个是12",
+      "options": [
+        11,
+        12,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_O_080",
+      "type": "choice",
+      "question": "找规律填数：8, 13, 18, 23, ?",
+      "answer": "28",
+      "explanation": "每次增加5，下一个是28",
+      "options": [
+        27,
+        28,
+        31,
+        32
+      ]
+    },
+    {
+      "id": "G1_O_081",
+      "type": "choice",
+      "question": "找规律填数：1, 2, 3, 4, ?",
+      "answer": "5",
+      "explanation": "每次增加1，下一个是5",
+      "options": [
+        2,
+        5,
+        7,
+        11
+      ]
+    },
+    {
+      "id": "G1_O_082",
+      "type": "choice",
+      "question": "找规律填数：9, 11, 13, 15, ?",
+      "answer": "17",
+      "explanation": "每次增加2，下一个是17",
+      "options": [
+        15,
+        17,
+        20,
+        22
+      ]
+    },
+    {
+      "id": "G1_O_083",
+      "type": "choice",
+      "question": "找规律填数：5, 10, 15, 20, ?",
+      "answer": "25",
+      "explanation": "每次增加5，下一个是25",
+      "options": [
+        24,
+        25,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "G1_O_084",
+      "type": "choice",
+      "question": "找规律填数：8, 13, 18, 23, ?",
+      "answer": "28",
+      "explanation": "每次增加5，下一个是28",
+      "options": [
+        27,
+        28,
+        29,
+        34
+      ]
+    },
+    {
+      "id": "G1_O_085",
+      "type": "choice",
+      "question": "找规律填数：1, 6, 11, 16, ?",
+      "answer": "21",
+      "explanation": "每次增加5，下一个是21",
+      "options": [
+        20,
+        21,
+        24,
+        27
+      ]
+    },
+    {
+      "id": "G1_O_086",
+      "type": "choice",
+      "question": "找规律填数：1, 3, 5, 7, ?",
+      "answer": "9",
+      "explanation": "每次增加2，下一个是9",
+      "options": [
+        7,
+        9,
+        10,
+        14
+      ]
+    },
+    {
+      "id": "G1_O_087",
+      "type": "choice",
+      "question": "找规律填数：5, 7, 9, 11, ?",
+      "answer": "13",
+      "explanation": "每次增加2，下一个是13",
+      "options": [
+        10,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_O_088",
+      "type": "choice",
+      "question": "找规律填数：5, 15, 25, 35, ?",
+      "answer": "45",
+      "explanation": "每次增加10，下一个是45",
+      "options": [
+        42,
+        45,
+        48,
+        50
+      ]
+    },
+    {
+      "id": "G1_O_089",
+      "type": "choice",
+      "question": "找规律填数：5, 10, 15, 20, ?",
+      "answer": "25",
+      "explanation": "每次增加5，下一个是25",
+      "options": [
+        22,
+        25,
+        28,
+        31
+      ]
+    },
+    {
+      "id": "G1_O_090",
+      "type": "choice",
+      "question": "找规律填数：4, 14, 24, 34, ?",
+      "answer": "44",
+      "explanation": "每次增加10，下一个是44",
+      "options": [
+        43,
+        44,
+        47,
+        49
+      ]
+    },
+    {
+      "id": "G1_O_091",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有3人，这队一共有几人？",
+      "answer": "6",
+      "explanation": "前面2人 + 小明1人 + 后面3人 = 6人"
+    },
+    {
+      "id": "G1_O_092",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有3人，这队一共有几人？",
+      "answer": "9",
+      "explanation": "前面5人 + 小明1人 + 后面3人 = 9人"
+    },
+    {
+      "id": "G1_O_093",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有3人，这队一共有几人？",
+      "answer": "6",
+      "explanation": "前面2人 + 小明1人 + 后面3人 = 6人"
+    },
+    {
+      "id": "G1_O_094",
+      "type": "fill",
+      "question": "小明排队，前面有1人，后面有3人，这队一共有几人？",
+      "answer": "5",
+      "explanation": "前面1人 + 小明1人 + 后面3人 = 5人"
+    },
+    {
+      "id": "G1_O_095",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有3人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面3人 + 小明1人 + 后面3人 = 7人"
+    },
+    {
+      "id": "G1_O_096",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有4人，这队一共有几人？",
+      "answer": "8",
+      "explanation": "前面3人 + 小明1人 + 后面4人 = 8人"
+    },
+    {
+      "id": "G1_O_097",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有5人，这队一共有几人？",
+      "answer": "9",
+      "explanation": "前面3人 + 小明1人 + 后面5人 = 9人"
+    },
+    {
+      "id": "G1_O_098",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有3人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面3人 + 小明1人 + 后面3人 = 7人"
+    },
+    {
+      "id": "G1_O_099",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有2人，这队一共有几人？",
+      "answer": "8",
+      "explanation": "前面5人 + 小明1人 + 后面2人 = 8人"
+    },
+    {
+      "id": "G1_O_100",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有3人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面3人 + 小明1人 + 后面3人 = 7人"
+    },
+    {
+      "id": "G1_O_101",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有4人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面2人 + 小明1人 + 后面4人 = 7人"
+    },
+    {
+      "id": "G1_O_102",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有1人，这队一共有几人？",
+      "answer": "5",
+      "explanation": "前面3人 + 小明1人 + 后面1人 = 5人"
+    },
+    {
+      "id": "G1_O_103",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有5人，这队一共有几人？",
+      "answer": "10",
+      "explanation": "前面4人 + 小明1人 + 后面5人 = 10人"
+    },
+    {
+      "id": "G1_O_104",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有5人，这队一共有几人？",
+      "answer": "11",
+      "explanation": "前面5人 + 小明1人 + 后面5人 = 11人"
+    },
+    {
+      "id": "G1_O_105",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有4人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面2人 + 小明1人 + 后面4人 = 7人"
+    },
+    {
+      "id": "G1_O_106",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有1人，这队一共有几人？",
+      "answer": "5",
+      "explanation": "前面3人 + 小明1人 + 后面1人 = 5人"
+    },
+    {
+      "id": "G1_O_107",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有2人，这队一共有几人？",
+      "answer": "5",
+      "explanation": "前面2人 + 小明1人 + 后面2人 = 5人"
+    },
+    {
+      "id": "G1_O_108",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有4人，这队一共有几人？",
+      "answer": "8",
+      "explanation": "前面3人 + 小明1人 + 后面4人 = 8人"
+    },
+    {
+      "id": "G1_O_109",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有2人，这队一共有几人？",
+      "answer": "8",
+      "explanation": "前面5人 + 小明1人 + 后面2人 = 8人"
+    },
+    {
+      "id": "G1_O_110",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有5人，这队一共有几人？",
+      "answer": "11",
+      "explanation": "前面5人 + 小明1人 + 后面5人 = 11人"
+    },
+    {
+      "id": "G1_O_111",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有1人，这队一共有几人？",
+      "answer": "5",
+      "explanation": "前面3人 + 小明1人 + 后面1人 = 5人"
+    },
+    {
+      "id": "G1_O_112",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有4人，这队一共有几人？",
+      "answer": "9",
+      "explanation": "前面4人 + 小明1人 + 后面4人 = 9人"
+    },
+    {
+      "id": "G1_O_113",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有3人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面3人 + 小明1人 + 后面3人 = 7人"
+    },
+    {
+      "id": "G1_O_114",
+      "type": "fill",
+      "question": "小明排队，前面有1人，后面有5人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面1人 + 小明1人 + 后面5人 = 7人"
+    },
+    {
+      "id": "G1_O_115",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有2人，这队一共有几人？",
+      "answer": "5",
+      "explanation": "前面2人 + 小明1人 + 后面2人 = 5人"
+    },
+    {
+      "id": "G1_O_116",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有2人，这队一共有几人？",
+      "answer": "6",
+      "explanation": "前面3人 + 小明1人 + 后面2人 = 6人"
+    },
+    {
+      "id": "G1_O_117",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有5人，这队一共有几人？",
+      "answer": "11",
+      "explanation": "前面5人 + 小明1人 + 后面5人 = 11人"
+    },
+    {
+      "id": "G1_O_118",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有2人，这队一共有几人？",
+      "answer": "8",
+      "explanation": "前面5人 + 小明1人 + 后面2人 = 8人"
+    },
+    {
+      "id": "G1_O_119",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有1人，这队一共有几人？",
+      "answer": "6",
+      "explanation": "前面4人 + 小明1人 + 后面1人 = 6人"
+    },
+    {
+      "id": "G1_O_120",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有3人，这队一共有几人？",
+      "answer": "9",
+      "explanation": "前面5人 + 小明1人 + 后面3人 = 9人"
+    },
+    {
+      "id": "G1_O_121",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有4人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面2人 + 小明1人 + 后面4人 = 7人"
+    },
+    {
+      "id": "G1_O_122",
+      "type": "fill",
+      "question": "小明排队，前面有1人，后面有3人，这队一共有几人？",
+      "answer": "5",
+      "explanation": "前面1人 + 小明1人 + 后面3人 = 5人"
+    },
+    {
+      "id": "G1_O_123",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有1人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面5人 + 小明1人 + 后面1人 = 7人"
+    },
+    {
+      "id": "G1_O_124",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有4人，这队一共有几人？",
+      "answer": "9",
+      "explanation": "前面4人 + 小明1人 + 后面4人 = 9人"
+    },
+    {
+      "id": "G1_O_125",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有5人，这队一共有几人？",
+      "answer": "9",
+      "explanation": "前面3人 + 小明1人 + 后面5人 = 9人"
+    },
+    {
+      "id": "G1_O_126",
+      "type": "fill",
+      "question": "小明排队，前面有1人，后面有3人，这队一共有几人？",
+      "answer": "5",
+      "explanation": "前面1人 + 小明1人 + 后面3人 = 5人"
+    },
+    {
+      "id": "G1_O_127",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有4人，这队一共有几人？",
+      "answer": "9",
+      "explanation": "前面4人 + 小明1人 + 后面4人 = 9人"
+    },
+    {
+      "id": "G1_O_128",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有5人，这队一共有几人？",
+      "answer": "11",
+      "explanation": "前面5人 + 小明1人 + 后面5人 = 11人"
+    },
+    {
+      "id": "G1_O_129",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有4人，这队一共有几人？",
+      "answer": "8",
+      "explanation": "前面3人 + 小明1人 + 后面4人 = 8人"
+    },
+    {
+      "id": "G1_O_130",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有3人，这队一共有几人？",
+      "answer": "9",
+      "explanation": "前面5人 + 小明1人 + 后面3人 = 9人"
+    },
+    {
+      "id": "G1_O_131",
+      "type": "fill",
+      "question": "小明排队，前面有1人，后面有4人，这队一共有几人？",
+      "answer": "6",
+      "explanation": "前面1人 + 小明1人 + 后面4人 = 6人"
+    },
+    {
+      "id": "G1_O_132",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有4人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面2人 + 小明1人 + 后面4人 = 7人"
+    },
+    {
+      "id": "G1_O_133",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有2人，这队一共有几人？",
+      "answer": "6",
+      "explanation": "前面3人 + 小明1人 + 后面2人 = 6人"
+    },
+    {
+      "id": "G1_O_134",
+      "type": "fill",
+      "question": "小明排队，前面有1人，后面有2人，这队一共有几人？",
+      "answer": "4",
+      "explanation": "前面1人 + 小明1人 + 后面2人 = 4人"
+    },
+    {
+      "id": "G1_O_135",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有1人，这队一共有几人？",
+      "answer": "4",
+      "explanation": "前面2人 + 小明1人 + 后面1人 = 4人"
+    },
+    {
+      "id": "G1_O_136",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有2人，这队一共有几人？",
+      "answer": "6",
+      "explanation": "前面3人 + 小明1人 + 后面2人 = 6人"
+    },
+    {
+      "id": "G1_O_137",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有2人，这队一共有几人？",
+      "answer": "5",
+      "explanation": "前面2人 + 小明1人 + 后面2人 = 5人"
+    },
+    {
+      "id": "G1_O_138",
+      "type": "fill",
+      "question": "小明排队，前面有1人，后面有4人，这队一共有几人？",
+      "answer": "6",
+      "explanation": "前面1人 + 小明1人 + 后面4人 = 6人"
+    },
+    {
+      "id": "G1_O_139",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有4人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面2人 + 小明1人 + 后面4人 = 7人"
+    },
+    {
+      "id": "G1_O_140",
+      "type": "fill",
+      "question": "小明排队，前面有1人，后面有2人，这队一共有几人？",
+      "answer": "4",
+      "explanation": "前面1人 + 小明1人 + 后面2人 = 4人"
+    },
+    {
+      "id": "G1_O_141",
+      "type": "fill",
+      "question": "小明排队，前面有1人，后面有3人，这队一共有几人？",
+      "answer": "5",
+      "explanation": "前面1人 + 小明1人 + 后面3人 = 5人"
+    },
+    {
+      "id": "G1_O_142",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有5人，这队一共有几人？",
+      "answer": "10",
+      "explanation": "前面4人 + 小明1人 + 后面5人 = 10人"
+    },
+    {
+      "id": "G1_O_143",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有1人，这队一共有几人？",
+      "answer": "4",
+      "explanation": "前面2人 + 小明1人 + 后面1人 = 4人"
+    },
+    {
+      "id": "G1_O_144",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有1人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面5人 + 小明1人 + 后面1人 = 7人"
+    },
+    {
+      "id": "G1_O_145",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有5人，这队一共有几人？",
+      "answer": "10",
+      "explanation": "前面4人 + 小明1人 + 后面5人 = 10人"
+    },
+    {
+      "id": "G1_O_146",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有1人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面5人 + 小明1人 + 后面1人 = 7人"
+    },
+    {
+      "id": "G1_O_147",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有3人，这队一共有几人？",
+      "answer": "9",
+      "explanation": "前面5人 + 小明1人 + 后面3人 = 9人"
+    },
+    {
+      "id": "G1_O_148",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有4人，这队一共有几人？",
+      "answer": "10",
+      "explanation": "前面5人 + 小明1人 + 后面4人 = 10人"
+    },
+    {
+      "id": "G1_O_149",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有4人，这队一共有几人？",
+      "answer": "10",
+      "explanation": "前面5人 + 小明1人 + 后面4人 = 10人"
+    },
+    {
+      "id": "G1_O_150",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有2人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面4人 + 小明1人 + 后面2人 = 7人"
+    },
+    {
+      "id": "G1_O_151",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有1人，这队一共有几人？",
+      "answer": "6",
+      "explanation": "前面4人 + 小明1人 + 后面1人 = 6人"
+    },
+    {
+      "id": "G1_O_152",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有1人，这队一共有几人？",
+      "answer": "4",
+      "explanation": "前面2人 + 小明1人 + 后面1人 = 4人"
+    },
+    {
+      "id": "G1_O_153",
+      "type": "fill",
+      "question": "小明排队，前面有1人，后面有2人，这队一共有几人？",
+      "answer": "4",
+      "explanation": "前面1人 + 小明1人 + 后面2人 = 4人"
+    },
+    {
+      "id": "G1_O_154",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有2人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面4人 + 小明1人 + 后面2人 = 7人"
+    },
+    {
+      "id": "G1_O_155",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有3人，这队一共有几人？",
+      "answer": "9",
+      "explanation": "前面5人 + 小明1人 + 后面3人 = 9人"
+    },
+    {
+      "id": "G1_O_156",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有1人，这队一共有几人？",
+      "answer": "6",
+      "explanation": "前面4人 + 小明1人 + 后面1人 = 6人"
+    },
+    {
+      "id": "G1_O_157",
+      "type": "fill",
+      "question": "小明排队，前面有1人，后面有3人，这队一共有几人？",
+      "answer": "5",
+      "explanation": "前面1人 + 小明1人 + 后面3人 = 5人"
+    },
+    {
+      "id": "G1_O_158",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有3人，这队一共有几人？",
+      "answer": "6",
+      "explanation": "前面2人 + 小明1人 + 后面3人 = 6人"
+    },
+    {
+      "id": "G1_O_159",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有2人，这队一共有几人？",
+      "answer": "8",
+      "explanation": "前面5人 + 小明1人 + 后面2人 = 8人"
+    },
+    {
+      "id": "G1_O_160",
+      "type": "fill",
+      "question": "小明排队，前面有1人，后面有5人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面1人 + 小明1人 + 后面5人 = 7人"
+    },
+    {
+      "id": "G1_O_161",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有1人，这队一共有几人？",
+      "answer": "5",
+      "explanation": "前面3人 + 小明1人 + 后面1人 = 5人"
+    },
+    {
+      "id": "G1_O_162",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有3人，这队一共有几人？",
+      "answer": "8",
+      "explanation": "前面4人 + 小明1人 + 后面3人 = 8人"
+    },
+    {
+      "id": "G1_O_163",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有3人，这队一共有几人？",
+      "answer": "8",
+      "explanation": "前面4人 + 小明1人 + 后面3人 = 8人"
+    },
+    {
+      "id": "G1_O_164",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有2人，这队一共有几人？",
+      "answer": "7",
+      "explanation": "前面4人 + 小明1人 + 后面2人 = 7人"
+    },
+    {
+      "id": "G1_O_165",
+      "type": "fill",
+      "question": "小明排队，前面有3人，后面有1人，这队一共有几人？",
+      "answer": "5",
+      "explanation": "前面3人 + 小明1人 + 后面1人 = 5人"
+    },
+    {
+      "id": "G1_O_166",
+      "type": "fill",
+      "question": "小明排队，前面有5人，后面有4人，这队一共有几人？",
+      "answer": "10",
+      "explanation": "前面5人 + 小明1人 + 后面4人 = 10人"
+    },
+    {
+      "id": "G1_O_167",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有4人，这队一共有几人？",
+      "answer": "9",
+      "explanation": "前面4人 + 小明1人 + 后面4人 = 9人"
+    },
+    {
+      "id": "G1_O_168",
+      "type": "fill",
+      "question": "小明排队，前面有2人，后面有5人，这队一共有几人？",
+      "answer": "8",
+      "explanation": "前面2人 + 小明1人 + 后面5人 = 8人"
+    },
+    {
+      "id": "G1_O_169",
+      "type": "fill",
+      "question": "小明排队，前面有4人，后面有5人，这队一共有几人？",
+      "answer": "10",
+      "explanation": "前面4人 + 小明1人 + 后面5人 = 10人"
+    },
+    {
+      "id": "G1_O_170",
+      "type": "fill",
+      "question": "小明排队，前面有1人，后面有4人，这队一共有几人？",
+      "answer": "6",
+      "explanation": "前面1人 + 小明1人 + 后面4人 = 6人"
+    },
+    {
+      "id": "G1_O_171",
+      "type": "choice",
+      "question": "图中有7个正方形，请问有几个正方形？",
+      "answer": "7",
+      "explanation": "数一数，一共有7个正方形",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "id": "G1_O_172",
+      "type": "choice",
+      "question": "图中有8个长方形，请问有几个长方形？",
+      "answer": "8",
+      "explanation": "数一数，一共有8个长方形",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "id": "G1_O_173",
+      "type": "choice",
+      "question": "图中有11个正方形，请问有几个正方形？",
+      "answer": "11",
+      "explanation": "数一数，一共有11个正方形",
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ]
+    },
+    {
+      "id": "G1_O_174",
+      "type": "choice",
+      "question": "图中有10个三角形，请问有几个三角形？",
+      "answer": "10",
+      "explanation": "数一数，一共有10个三角形",
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "id": "G1_O_175",
+      "type": "choice",
+      "question": "图中有8个正方形，请问有几个正方形？",
+      "answer": "8",
+      "explanation": "数一数，一共有8个正方形",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "id": "G1_O_176",
+      "type": "choice",
+      "question": "图中有9个三角形，请问有几个三角形？",
+      "answer": "9",
+      "explanation": "数一数，一共有9个三角形",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ]
+    },
+    {
+      "id": "G1_O_177",
+      "type": "choice",
+      "question": "图中有6个三角形，请问有几个三角形？",
+      "answer": "6",
+      "explanation": "数一数，一共有6个三角形",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ]
+    },
+    {
+      "id": "G1_O_178",
+      "type": "choice",
+      "question": "图中有6个三角形，请问有几个三角形？",
+      "answer": "6",
+      "explanation": "数一数，一共有6个三角形",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ]
+    },
+    {
+      "id": "G1_O_179",
+      "type": "choice",
+      "question": "图中有12个正方形，请问有几个正方形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个正方形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": "G1_O_180",
+      "type": "choice",
+      "question": "图中有12个三角形，请问有几个三角形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个三角形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": "G1_O_181",
+      "type": "choice",
+      "question": "图中有7个三角形，请问有几个三角形？",
+      "answer": "7",
+      "explanation": "数一数，一共有7个三角形",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "id": "G1_O_182",
+      "type": "choice",
+      "question": "图中有12个正方形，请问有几个正方形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个正方形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": "G1_O_183",
+      "type": "choice",
+      "question": "图中有9个长方形，请问有几个长方形？",
+      "answer": "9",
+      "explanation": "数一数，一共有9个长方形",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ]
+    },
+    {
+      "id": "G1_O_184",
+      "type": "choice",
+      "question": "图中有10个三角形，请问有几个三角形？",
+      "answer": "10",
+      "explanation": "数一数，一共有10个三角形",
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "id": "G1_O_185",
+      "type": "choice",
+      "question": "图中有5个三角形，请问有几个三角形？",
+      "answer": "5",
+      "explanation": "数一数，一共有5个三角形",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": "G1_O_186",
+      "type": "choice",
+      "question": "图中有9个正方形，请问有几个正方形？",
+      "answer": "9",
+      "explanation": "数一数，一共有9个正方形",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ]
+    },
+    {
+      "id": "G1_O_187",
+      "type": "choice",
+      "question": "图中有5个三角形，请问有几个三角形？",
+      "answer": "5",
+      "explanation": "数一数，一共有5个三角形",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": "G1_O_188",
+      "type": "choice",
+      "question": "图中有9个长方形，请问有几个长方形？",
+      "answer": "9",
+      "explanation": "数一数，一共有9个长方形",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ]
+    },
+    {
+      "id": "G1_O_189",
+      "type": "choice",
+      "question": "图中有10个三角形，请问有几个三角形？",
+      "answer": "10",
+      "explanation": "数一数，一共有10个三角形",
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "id": "G1_O_190",
+      "type": "choice",
+      "question": "图中有10个长方形，请问有几个长方形？",
+      "answer": "10",
+      "explanation": "数一数，一共有10个长方形",
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "id": "G1_O_191",
+      "type": "choice",
+      "question": "图中有9个正方形，请问有几个正方形？",
+      "answer": "9",
+      "explanation": "数一数，一共有9个正方形",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ]
+    },
+    {
+      "id": "G1_O_192",
+      "type": "choice",
+      "question": "图中有8个长方形，请问有几个长方形？",
+      "answer": "8",
+      "explanation": "数一数，一共有8个长方形",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "id": "G1_O_193",
+      "type": "choice",
+      "question": "图中有12个长方形，请问有几个长方形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个长方形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": "G1_O_194",
+      "type": "choice",
+      "question": "图中有5个正方形，请问有几个正方形？",
+      "answer": "5",
+      "explanation": "数一数，一共有5个正方形",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": "G1_O_195",
+      "type": "choice",
+      "question": "图中有7个长方形，请问有几个长方形？",
+      "answer": "7",
+      "explanation": "数一数，一共有7个长方形",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "id": "G1_O_196",
+      "type": "choice",
+      "question": "图中有12个三角形，请问有几个三角形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个三角形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": "G1_O_197",
+      "type": "choice",
+      "question": "图中有11个长方形，请问有几个长方形？",
+      "answer": "11",
+      "explanation": "数一数，一共有11个长方形",
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ]
+    },
+    {
+      "id": "G1_O_198",
+      "type": "choice",
+      "question": "图中有12个圆形，请问有几个圆形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个圆形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": "G1_O_199",
+      "type": "choice",
+      "question": "图中有7个三角形，请问有几个三角形？",
+      "answer": "7",
+      "explanation": "数一数，一共有7个三角形",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "id": "G1_O_200",
+      "type": "choice",
+      "question": "图中有9个正方形，请问有几个正方形？",
+      "answer": "9",
+      "explanation": "数一数，一共有9个正方形",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ]
+    },
+    {
+      "id": "G1_O_201",
+      "type": "choice",
+      "question": "图中有8个圆形，请问有几个圆形？",
+      "answer": "8",
+      "explanation": "数一数，一共有8个圆形",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "id": "G1_O_202",
+      "type": "choice",
+      "question": "图中有10个正方形，请问有几个正方形？",
+      "answer": "10",
+      "explanation": "数一数，一共有10个正方形",
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "id": "G1_O_203",
+      "type": "choice",
+      "question": "图中有9个长方形，请问有几个长方形？",
+      "answer": "9",
+      "explanation": "数一数，一共有9个长方形",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ]
+    },
+    {
+      "id": "G1_O_204",
+      "type": "choice",
+      "question": "图中有6个长方形，请问有几个长方形？",
+      "answer": "6",
+      "explanation": "数一数，一共有6个长方形",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ]
+    },
+    {
+      "id": "G1_O_205",
+      "type": "choice",
+      "question": "图中有9个正方形，请问有几个正方形？",
+      "answer": "9",
+      "explanation": "数一数，一共有9个正方形",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ]
+    },
+    {
+      "id": "G1_O_206",
+      "type": "choice",
+      "question": "图中有6个正方形，请问有几个正方形？",
+      "answer": "6",
+      "explanation": "数一数，一共有6个正方形",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ]
+    },
+    {
+      "id": "G1_O_207",
+      "type": "choice",
+      "question": "图中有5个正方形，请问有几个正方形？",
+      "answer": "5",
+      "explanation": "数一数，一共有5个正方形",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": "G1_O_208",
+      "type": "choice",
+      "question": "图中有10个三角形，请问有几个三角形？",
+      "answer": "10",
+      "explanation": "数一数，一共有10个三角形",
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "id": "G1_O_209",
+      "type": "choice",
+      "question": "图中有5个长方形，请问有几个长方形？",
+      "answer": "5",
+      "explanation": "数一数，一共有5个长方形",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": "G1_O_210",
+      "type": "choice",
+      "question": "图中有8个圆形，请问有几个圆形？",
+      "answer": "8",
+      "explanation": "数一数，一共有8个圆形",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "id": "G1_O_211",
+      "type": "choice",
+      "question": "图中有12个三角形，请问有几个三角形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个三角形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": "G1_O_212",
+      "type": "choice",
+      "question": "图中有6个长方形，请问有几个长方形？",
+      "answer": "6",
+      "explanation": "数一数，一共有6个长方形",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ]
+    },
+    {
+      "id": "G1_O_213",
+      "type": "choice",
+      "question": "图中有12个长方形，请问有几个长方形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个长方形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": "G1_O_214",
+      "type": "choice",
+      "question": "图中有5个圆形，请问有几个圆形？",
+      "answer": "5",
+      "explanation": "数一数，一共有5个圆形",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": "G1_O_215",
+      "type": "choice",
+      "question": "图中有6个三角形，请问有几个三角形？",
+      "answer": "6",
+      "explanation": "数一数，一共有6个三角形",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ]
+    },
+    {
+      "id": "G1_O_216",
+      "type": "choice",
+      "question": "图中有12个正方形，请问有几个正方形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个正方形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": "G1_O_217",
+      "type": "choice",
+      "question": "图中有5个三角形，请问有几个三角形？",
+      "answer": "5",
+      "explanation": "数一数，一共有5个三角形",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": "G1_O_218",
+      "type": "choice",
+      "question": "图中有12个圆形，请问有几个圆形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个圆形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": "G1_O_219",
+      "type": "choice",
+      "question": "图中有12个三角形，请问有几个三角形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个三角形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": "G1_O_220",
+      "type": "choice",
+      "question": "图中有7个圆形，请问有几个圆形？",
+      "answer": "7",
+      "explanation": "数一数，一共有7个圆形",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "id": "G1_O_221",
+      "type": "choice",
+      "question": "图中有5个三角形，请问有几个三角形？",
+      "answer": "5",
+      "explanation": "数一数，一共有5个三角形",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": "G1_O_222",
+      "type": "choice",
+      "question": "图中有9个三角形，请问有几个三角形？",
+      "answer": "9",
+      "explanation": "数一数，一共有9个三角形",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ]
+    },
+    {
+      "id": "G1_O_223",
+      "type": "choice",
+      "question": "图中有12个圆形，请问有几个圆形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个圆形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": "G1_O_224",
+      "type": "choice",
+      "question": "图中有7个长方形，请问有几个长方形？",
+      "answer": "7",
+      "explanation": "数一数，一共有7个长方形",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "id": "G1_O_225",
+      "type": "choice",
+      "question": "图中有5个正方形，请问有几个正方形？",
+      "answer": "5",
+      "explanation": "数一数，一共有5个正方形",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": "G1_O_226",
+      "type": "choice",
+      "question": "图中有6个三角形，请问有几个三角形？",
+      "answer": "6",
+      "explanation": "数一数，一共有6个三角形",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ]
+    },
+    {
+      "id": "G1_O_227",
+      "type": "choice",
+      "question": "图中有5个圆形，请问有几个圆形？",
+      "answer": "5",
+      "explanation": "数一数，一共有5个圆形",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": "G1_O_228",
+      "type": "choice",
+      "question": "图中有12个圆形，请问有几个圆形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个圆形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": "G1_O_229",
+      "type": "choice",
+      "question": "图中有10个正方形，请问有几个正方形？",
+      "answer": "10",
+      "explanation": "数一数，一共有10个正方形",
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "id": "G1_O_230",
+      "type": "choice",
+      "question": "图中有10个正方形，请问有几个正方形？",
+      "answer": "10",
+      "explanation": "数一数，一共有10个正方形",
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "id": "G1_O_231",
+      "type": "choice",
+      "question": "图中有8个正方形，请问有几个正方形？",
+      "answer": "8",
+      "explanation": "数一数，一共有8个正方形",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "id": "G1_O_232",
+      "type": "choice",
+      "question": "图中有6个长方形，请问有几个长方形？",
+      "answer": "6",
+      "explanation": "数一数，一共有6个长方形",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ]
+    },
+    {
+      "id": "G1_O_233",
+      "type": "choice",
+      "question": "图中有9个三角形，请问有几个三角形？",
+      "answer": "9",
+      "explanation": "数一数，一共有9个三角形",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ]
+    },
+    {
+      "id": "G1_O_234",
+      "type": "choice",
+      "question": "图中有7个长方形，请问有几个长方形？",
+      "answer": "7",
+      "explanation": "数一数，一共有7个长方形",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "id": "G1_O_235",
+      "type": "choice",
+      "question": "图中有11个长方形，请问有几个长方形？",
+      "answer": "11",
+      "explanation": "数一数，一共有11个长方形",
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ]
+    },
+    {
+      "id": "G1_O_236",
+      "type": "choice",
+      "question": "图中有8个正方形，请问有几个正方形？",
+      "answer": "8",
+      "explanation": "数一数，一共有8个正方形",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "id": "G1_O_237",
+      "type": "choice",
+      "question": "图中有8个三角形，请问有几个三角形？",
+      "answer": "8",
+      "explanation": "数一数，一共有8个三角形",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "id": "G1_O_238",
+      "type": "choice",
+      "question": "图中有8个三角形，请问有几个三角形？",
+      "answer": "8",
+      "explanation": "数一数，一共有8个三角形",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "id": "G1_O_239",
+      "type": "choice",
+      "question": "图中有7个长方形，请问有几个长方形？",
+      "answer": "7",
+      "explanation": "数一数，一共有7个长方形",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "id": "G1_O_240",
+      "type": "choice",
+      "question": "图中有5个正方形，请问有几个正方形？",
+      "answer": "5",
+      "explanation": "数一数，一共有5个正方形",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": "G1_O_241",
+      "type": "choice",
+      "question": "图中有7个长方形，请问有几个长方形？",
+      "answer": "7",
+      "explanation": "数一数，一共有7个长方形",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "id": "G1_O_242",
+      "type": "choice",
+      "question": "图中有5个三角形，请问有几个三角形？",
+      "answer": "5",
+      "explanation": "数一数，一共有5个三角形",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "id": "G1_O_243",
+      "type": "choice",
+      "question": "图中有8个圆形，请问有几个圆形？",
+      "answer": "8",
+      "explanation": "数一数，一共有8个圆形",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "id": "G1_O_244",
+      "type": "choice",
+      "question": "图中有7个圆形，请问有几个圆形？",
+      "answer": "7",
+      "explanation": "数一数，一共有7个圆形",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "id": "G1_O_245",
+      "type": "choice",
+      "question": "图中有8个长方形，请问有几个长方形？",
+      "answer": "8",
+      "explanation": "数一数，一共有8个长方形",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "id": "G1_O_246",
+      "type": "choice",
+      "question": "图中有9个三角形，请问有几个三角形？",
+      "answer": "9",
+      "explanation": "数一数，一共有9个三角形",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ]
+    },
+    {
+      "id": "G1_O_247",
+      "type": "choice",
+      "question": "图中有8个正方形，请问有几个正方形？",
+      "answer": "8",
+      "explanation": "数一数，一共有8个正方形",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "id": "G1_O_248",
+      "type": "choice",
+      "question": "图中有7个三角形，请问有几个三角形？",
+      "answer": "7",
+      "explanation": "数一数，一共有7个三角形",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "id": "G1_O_249",
+      "type": "choice",
+      "question": "图中有11个长方形，请问有几个长方形？",
+      "answer": "11",
+      "explanation": "数一数，一共有11个长方形",
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ]
+    },
+    {
+      "id": "G1_O_250",
+      "type": "choice",
+      "question": "图中有12个正方形，请问有几个正方形？",
+      "answer": "12",
+      "explanation": "数一数，一共有12个正方形",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ]
+    }
+  ]
+}

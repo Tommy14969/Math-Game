@@ -1,0 +1,1756 @@
+{
+  "grade": 6,
+  "difficulty": "olympic",
+  "questions": [
+    {
+      "id": "G6_O_001",
+      "type": "fill",
+      "question": "甲12天完成工程，乙22天，合作几天？（保留2位小数）",
+      "answer": "7.76",
+      "explanation": "1÷(1/12+1/22)=7.76天"
+    },
+    {
+      "id": "G6_O_002",
+      "type": "fill",
+      "question": "甲6天完成工程，乙13天，合作几天？（保留2位小数）",
+      "answer": "4.11",
+      "explanation": "1÷(1/6+1/13)=4.11天"
+    },
+    {
+      "id": "G6_O_003",
+      "type": "fill",
+      "question": "甲5天完成工程，乙15天，合作几天？（保留2位小数）",
+      "answer": "3.75",
+      "explanation": "1÷(1/5+1/15)=3.75天"
+    },
+    {
+      "id": "G6_O_004",
+      "type": "fill",
+      "question": "甲8天完成工程，乙15天，合作几天？（保留2位小数）",
+      "answer": "5.22",
+      "explanation": "1÷(1/8+1/15)=5.22天"
+    },
+    {
+      "id": "G6_O_005",
+      "type": "fill",
+      "question": "甲5天完成工程，乙13天，合作几天？（保留2位小数）",
+      "answer": "3.61",
+      "explanation": "1÷(1/5+1/13)=3.61天"
+    },
+    {
+      "id": "G6_O_006",
+      "type": "fill",
+      "question": "甲6天完成工程，乙16天，合作几天？（保留2位小数）",
+      "answer": "4.36",
+      "explanation": "1÷(1/6+1/16)=4.36天"
+    },
+    {
+      "id": "G6_O_007",
+      "type": "fill",
+      "question": "甲6天完成工程，乙13天，合作几天？（保留2位小数）",
+      "answer": "4.11",
+      "explanation": "1÷(1/6+1/13)=4.11天"
+    },
+    {
+      "id": "G6_O_008",
+      "type": "fill",
+      "question": "甲6天完成工程，乙21天，合作几天？（保留2位小数）",
+      "answer": "4.67",
+      "explanation": "1÷(1/6+1/21)=4.67天"
+    },
+    {
+      "id": "G6_O_009",
+      "type": "fill",
+      "question": "甲11天完成工程，乙21天，合作几天？（保留2位小数）",
+      "answer": "7.22",
+      "explanation": "1÷(1/11+1/21)=7.22天"
+    },
+    {
+      "id": "G6_O_010",
+      "type": "fill",
+      "question": "甲8天完成工程，乙13天，合作几天？（保留2位小数）",
+      "answer": "4.95",
+      "explanation": "1÷(1/8+1/13)=4.95天"
+    },
+    {
+      "id": "G6_O_011",
+      "type": "fill",
+      "question": "甲12天完成工程，乙26天，合作几天？（保留2位小数）",
+      "answer": "8.21",
+      "explanation": "1÷(1/12+1/26)=8.21天"
+    },
+    {
+      "id": "G6_O_012",
+      "type": "fill",
+      "question": "甲5天完成工程，乙14天，合作几天？（保留2位小数）",
+      "answer": "3.68",
+      "explanation": "1÷(1/5+1/14)=3.68天"
+    },
+    {
+      "id": "G6_O_013",
+      "type": "fill",
+      "question": "甲10天完成工程，乙25天，合作几天？（保留2位小数）",
+      "answer": "7.14",
+      "explanation": "1÷(1/10+1/25)=7.14天"
+    },
+    {
+      "id": "G6_O_014",
+      "type": "fill",
+      "question": "甲5天完成工程，乙20天，合作几天？（保留2位小数）",
+      "answer": "4.0",
+      "explanation": "1÷(1/5+1/20)=4.0天"
+    },
+    {
+      "id": "G6_O_015",
+      "type": "fill",
+      "question": "甲10天完成工程，乙24天，合作几天？（保留2位小数）",
+      "answer": "7.06",
+      "explanation": "1÷(1/10+1/24)=7.06天"
+    },
+    {
+      "id": "G6_O_016",
+      "type": "fill",
+      "question": "甲12天完成工程，乙25天，合作几天？（保留2位小数）",
+      "answer": "8.11",
+      "explanation": "1÷(1/12+1/25)=8.11天"
+    },
+    {
+      "id": "G6_O_017",
+      "type": "fill",
+      "question": "甲9天完成工程，乙18天，合作几天？（保留2位小数）",
+      "answer": "6.0",
+      "explanation": "1÷(1/9+1/18)=6.0天"
+    },
+    {
+      "id": "G6_O_018",
+      "type": "fill",
+      "question": "甲11天完成工程，乙19天，合作几天？（保留2位小数）",
+      "answer": "6.97",
+      "explanation": "1÷(1/11+1/19)=6.97天"
+    },
+    {
+      "id": "G6_O_019",
+      "type": "fill",
+      "question": "甲6天完成工程，乙15天，合作几天？（保留2位小数）",
+      "answer": "4.29",
+      "explanation": "1÷(1/6+1/15)=4.29天"
+    },
+    {
+      "id": "G6_O_020",
+      "type": "fill",
+      "question": "甲11天完成工程，乙16天，合作几天？（保留2位小数）",
+      "answer": "6.52",
+      "explanation": "1÷(1/11+1/16)=6.52天"
+    },
+    {
+      "id": "G6_O_021",
+      "type": "fill",
+      "question": "甲10天完成工程，乙20天，合作几天？（保留2位小数）",
+      "answer": "6.67",
+      "explanation": "1÷(1/10+1/20)=6.67天"
+    },
+    {
+      "id": "G6_O_022",
+      "type": "fill",
+      "question": "甲5天完成工程，乙18天，合作几天？（保留2位小数）",
+      "answer": "3.91",
+      "explanation": "1÷(1/5+1/18)=3.91天"
+    },
+    {
+      "id": "G6_O_023",
+      "type": "fill",
+      "question": "甲7天完成工程，乙13天，合作几天？（保留2位小数）",
+      "answer": "4.55",
+      "explanation": "1÷(1/7+1/13)=4.55天"
+    },
+    {
+      "id": "G6_O_024",
+      "type": "fill",
+      "question": "甲5天完成工程，乙14天，合作几天？（保留2位小数）",
+      "answer": "3.68",
+      "explanation": "1÷(1/5+1/14)=3.68天"
+    },
+    {
+      "id": "G6_O_025",
+      "type": "fill",
+      "question": "甲7天完成工程，乙20天，合作几天？（保留2位小数）",
+      "answer": "5.19",
+      "explanation": "1÷(1/7+1/20)=5.19天"
+    },
+    {
+      "id": "G6_O_026",
+      "type": "fill",
+      "question": "甲9天完成工程，乙16天，合作几天？（保留2位小数）",
+      "answer": "5.76",
+      "explanation": "1÷(1/9+1/16)=5.76天"
+    },
+    {
+      "id": "G6_O_027",
+      "type": "fill",
+      "question": "甲12天完成工程，乙23天，合作几天？（保留2位小数）",
+      "answer": "7.89",
+      "explanation": "1÷(1/12+1/23)=7.89天"
+    },
+    {
+      "id": "G6_O_028",
+      "type": "fill",
+      "question": "甲9天完成工程，乙23天，合作几天？（保留2位小数）",
+      "answer": "6.47",
+      "explanation": "1÷(1/9+1/23)=6.47天"
+    },
+    {
+      "id": "G6_O_029",
+      "type": "fill",
+      "question": "甲6天完成工程，乙17天，合作几天？（保留2位小数）",
+      "answer": "4.43",
+      "explanation": "1÷(1/6+1/17)=4.43天"
+    },
+    {
+      "id": "G6_O_030",
+      "type": "fill",
+      "question": "甲8天完成工程，乙16天，合作几天？（保留2位小数）",
+      "answer": "5.33",
+      "explanation": "1÷(1/8+1/16)=5.33天"
+    },
+    {
+      "id": "G6_O_031",
+      "type": "fill",
+      "question": "甲8天完成工程，乙22天，合作几天？（保留2位小数）",
+      "answer": "5.87",
+      "explanation": "1÷(1/8+1/22)=5.87天"
+    },
+    {
+      "id": "G6_O_032",
+      "type": "fill",
+      "question": "甲8天完成工程，乙20天，合作几天？（保留2位小数）",
+      "answer": "5.71",
+      "explanation": "1÷(1/8+1/20)=5.71天"
+    },
+    {
+      "id": "G6_O_033",
+      "type": "fill",
+      "question": "甲6天完成工程，乙15天，合作几天？（保留2位小数）",
+      "answer": "4.29",
+      "explanation": "1÷(1/6+1/15)=4.29天"
+    },
+    {
+      "id": "G6_O_034",
+      "type": "fill",
+      "question": "甲7天完成工程，乙21天，合作几天？（保留2位小数）",
+      "answer": "5.25",
+      "explanation": "1÷(1/7+1/21)=5.25天"
+    },
+    {
+      "id": "G6_O_035",
+      "type": "fill",
+      "question": "甲7天完成工程，乙19天，合作几天？（保留2位小数）",
+      "answer": "5.12",
+      "explanation": "1÷(1/7+1/19)=5.12天"
+    },
+    {
+      "id": "G6_O_036",
+      "type": "fill",
+      "question": "甲6天完成工程，乙13天，合作几天？（保留2位小数）",
+      "answer": "4.11",
+      "explanation": "1÷(1/6+1/13)=4.11天"
+    },
+    {
+      "id": "G6_O_037",
+      "type": "fill",
+      "question": "甲5天完成工程，乙11天，合作几天？（保留2位小数）",
+      "answer": "3.44",
+      "explanation": "1÷(1/5+1/11)=3.44天"
+    },
+    {
+      "id": "G6_O_038",
+      "type": "fill",
+      "question": "甲10天完成工程，乙20天，合作几天？（保留2位小数）",
+      "answer": "6.67",
+      "explanation": "1÷(1/10+1/20)=6.67天"
+    },
+    {
+      "id": "G6_O_039",
+      "type": "fill",
+      "question": "甲5天完成工程，乙11天，合作几天？（保留2位小数）",
+      "answer": "3.44",
+      "explanation": "1÷(1/5+1/11)=3.44天"
+    },
+    {
+      "id": "G6_O_040",
+      "type": "fill",
+      "question": "甲10天完成工程，乙23天，合作几天？（保留2位小数）",
+      "answer": "6.97",
+      "explanation": "1÷(1/10+1/23)=6.97天"
+    },
+    {
+      "id": "G6_O_041",
+      "type": "fill",
+      "question": "甲6天完成工程，乙21天，合作几天？（保留2位小数）",
+      "answer": "4.67",
+      "explanation": "1÷(1/6+1/21)=4.67天"
+    },
+    {
+      "id": "G6_O_042",
+      "type": "fill",
+      "question": "甲5天完成工程，乙16天，合作几天？（保留2位小数）",
+      "answer": "3.81",
+      "explanation": "1÷(1/5+1/16)=3.81天"
+    },
+    {
+      "id": "G6_O_043",
+      "type": "fill",
+      "question": "甲7天完成工程，乙21天，合作几天？（保留2位小数）",
+      "answer": "5.25",
+      "explanation": "1÷(1/7+1/21)=5.25天"
+    },
+    {
+      "id": "G6_O_044",
+      "type": "fill",
+      "question": "甲5天完成工程，乙11天，合作几天？（保留2位小数）",
+      "answer": "3.44",
+      "explanation": "1÷(1/5+1/11)=3.44天"
+    },
+    {
+      "id": "G6_O_045",
+      "type": "fill",
+      "question": "甲6天完成工程，乙13天，合作几天？（保留2位小数）",
+      "answer": "4.11",
+      "explanation": "1÷(1/6+1/13)=4.11天"
+    },
+    {
+      "id": "G6_O_046",
+      "type": "fill",
+      "question": "甲11天完成工程，乙24天，合作几天？（保留2位小数）",
+      "answer": "7.54",
+      "explanation": "1÷(1/11+1/24)=7.54天"
+    },
+    {
+      "id": "G6_O_047",
+      "type": "fill",
+      "question": "甲8天完成工程，乙22天，合作几天？（保留2位小数）",
+      "answer": "5.87",
+      "explanation": "1÷(1/8+1/22)=5.87天"
+    },
+    {
+      "id": "G6_O_048",
+      "type": "fill",
+      "question": "甲8天完成工程，乙14天，合作几天？（保留2位小数）",
+      "answer": "5.09",
+      "explanation": "1÷(1/8+1/14)=5.09天"
+    },
+    {
+      "id": "G6_O_049",
+      "type": "fill",
+      "question": "甲6天完成工程，乙18天，合作几天？（保留2位小数）",
+      "answer": "4.5",
+      "explanation": "1÷(1/6+1/18)=4.5天"
+    },
+    {
+      "id": "G6_O_050",
+      "type": "fill",
+      "question": "甲6天完成工程，乙14天，合作几天？（保留2位小数）",
+      "answer": "4.2",
+      "explanation": "1÷(1/6+1/14)=4.2天"
+    },
+    {
+      "id": "G6_O_051",
+      "type": "fill",
+      "question": "甲10天完成工程，乙18天，合作几天？（保留2位小数）",
+      "answer": "6.43",
+      "explanation": "1÷(1/10+1/18)=6.43天"
+    },
+    {
+      "id": "G6_O_052",
+      "type": "fill",
+      "question": "甲11天完成工程，乙19天，合作几天？（保留2位小数）",
+      "answer": "6.97",
+      "explanation": "1÷(1/11+1/19)=6.97天"
+    },
+    {
+      "id": "G6_O_053",
+      "type": "fill",
+      "question": "甲7天完成工程，乙16天，合作几天？（保留2位小数）",
+      "answer": "4.87",
+      "explanation": "1÷(1/7+1/16)=4.87天"
+    },
+    {
+      "id": "G6_O_054",
+      "type": "fill",
+      "question": "甲9天完成工程，乙19天，合作几天？（保留2位小数）",
+      "answer": "6.11",
+      "explanation": "1÷(1/9+1/19)=6.11天"
+    },
+    {
+      "id": "G6_O_055",
+      "type": "fill",
+      "question": "甲10天完成工程，乙16天，合作几天？（保留2位小数）",
+      "answer": "6.15",
+      "explanation": "1÷(1/10+1/16)=6.15天"
+    },
+    {
+      "id": "G6_O_056",
+      "type": "fill",
+      "question": "甲9天完成工程，乙24天，合作几天？（保留2位小数）",
+      "answer": "6.55",
+      "explanation": "1÷(1/9+1/24)=6.55天"
+    },
+    {
+      "id": "G6_O_057",
+      "type": "fill",
+      "question": "甲11天完成工程，乙25天，合作几天？（保留2位小数）",
+      "answer": "7.64",
+      "explanation": "1÷(1/11+1/25)=7.64天"
+    },
+    {
+      "id": "G6_O_058",
+      "type": "fill",
+      "question": "甲7天完成工程，乙21天，合作几天？（保留2位小数）",
+      "answer": "5.25",
+      "explanation": "1÷(1/7+1/21)=5.25天"
+    },
+    {
+      "id": "G6_O_059",
+      "type": "fill",
+      "question": "甲7天完成工程，乙13天，合作几天？（保留2位小数）",
+      "answer": "4.55",
+      "explanation": "1÷(1/7+1/13)=4.55天"
+    },
+    {
+      "id": "G6_O_060",
+      "type": "fill",
+      "question": "甲5天完成工程，乙12天，合作几天？（保留2位小数）",
+      "answer": "3.53",
+      "explanation": "1÷(1/5+1/12)=3.53天"
+    },
+    {
+      "id": "G6_O_061",
+      "type": "fill",
+      "question": "甲6天完成工程，乙19天，合作几天？（保留2位小数）",
+      "answer": "4.56",
+      "explanation": "1÷(1/6+1/19)=4.56天"
+    },
+    {
+      "id": "G6_O_062",
+      "type": "fill",
+      "question": "甲7天完成工程，乙14天，合作几天？（保留2位小数）",
+      "answer": "4.67",
+      "explanation": "1÷(1/7+1/14)=4.67天"
+    },
+    {
+      "id": "G6_O_063",
+      "type": "fill",
+      "question": "甲5天完成工程，乙17天，合作几天？（保留2位小数）",
+      "answer": "3.86",
+      "explanation": "1÷(1/5+1/17)=3.86天"
+    },
+    {
+      "id": "G6_O_064",
+      "type": "fill",
+      "question": "甲12天完成工程，乙21天，合作几天？（保留2位小数）",
+      "answer": "7.64",
+      "explanation": "1÷(1/12+1/21)=7.64天"
+    },
+    {
+      "id": "G6_O_065",
+      "type": "fill",
+      "question": "甲12天完成工程，乙18天，合作几天？（保留2位小数）",
+      "answer": "7.2",
+      "explanation": "1÷(1/12+1/18)=7.2天"
+    },
+    {
+      "id": "G6_O_066",
+      "type": "fill",
+      "question": "甲8天完成工程，乙15天，合作几天？（保留2位小数）",
+      "answer": "5.22",
+      "explanation": "1÷(1/8+1/15)=5.22天"
+    },
+    {
+      "id": "G6_O_067",
+      "type": "fill",
+      "question": "甲7天完成工程，乙16天，合作几天？（保留2位小数）",
+      "answer": "4.87",
+      "explanation": "1÷(1/7+1/16)=4.87天"
+    },
+    {
+      "id": "G6_O_068",
+      "type": "fill",
+      "question": "甲7天完成工程，乙12天，合作几天？（保留2位小数）",
+      "answer": "4.42",
+      "explanation": "1÷(1/7+1/12)=4.42天"
+    },
+    {
+      "id": "G6_O_069",
+      "type": "fill",
+      "question": "甲11天完成工程，乙25天，合作几天？（保留2位小数）",
+      "answer": "7.64",
+      "explanation": "1÷(1/11+1/25)=7.64天"
+    },
+    {
+      "id": "G6_O_070",
+      "type": "fill",
+      "question": "甲6天完成工程，乙21天，合作几天？（保留2位小数）",
+      "answer": "4.67",
+      "explanation": "1÷(1/6+1/21)=4.67天"
+    },
+    {
+      "id": "G6_O_071",
+      "type": "fill",
+      "question": "甲8天完成工程，乙15天，合作几天？（保留2位小数）",
+      "answer": "5.22",
+      "explanation": "1÷(1/8+1/15)=5.22天"
+    },
+    {
+      "id": "G6_O_072",
+      "type": "fill",
+      "question": "甲9天完成工程，乙24天，合作几天？（保留2位小数）",
+      "answer": "6.55",
+      "explanation": "1÷(1/9+1/24)=6.55天"
+    },
+    {
+      "id": "G6_O_073",
+      "type": "fill",
+      "question": "甲7天完成工程，乙21天，合作几天？（保留2位小数）",
+      "answer": "5.25",
+      "explanation": "1÷(1/7+1/21)=5.25天"
+    },
+    {
+      "id": "G6_O_074",
+      "type": "fill",
+      "question": "甲10天完成工程，乙18天，合作几天？（保留2位小数）",
+      "answer": "6.43",
+      "explanation": "1÷(1/10+1/18)=6.43天"
+    },
+    {
+      "id": "G6_O_075",
+      "type": "fill",
+      "question": "甲6天完成工程，乙11天，合作几天？（保留2位小数）",
+      "answer": "3.88",
+      "explanation": "1÷(1/6+1/11)=3.88天"
+    },
+    {
+      "id": "G6_O_076",
+      "type": "fill",
+      "question": "甲9天完成工程，乙21天，合作几天？（保留2位小数）",
+      "answer": "6.3",
+      "explanation": "1÷(1/9+1/21)=6.3天"
+    },
+    {
+      "id": "G6_O_077",
+      "type": "fill",
+      "question": "甲9天完成工程，乙17天，合作几天？（保留2位小数）",
+      "answer": "5.88",
+      "explanation": "1÷(1/9+1/17)=5.88天"
+    },
+    {
+      "id": "G6_O_078",
+      "type": "fill",
+      "question": "甲7天完成工程，乙18天，合作几天？（保留2位小数）",
+      "answer": "5.04",
+      "explanation": "1÷(1/7+1/18)=5.04天"
+    },
+    {
+      "id": "G6_O_079",
+      "type": "fill",
+      "question": "甲12天完成工程，乙19天，合作几天？（保留2位小数）",
+      "answer": "7.35",
+      "explanation": "1÷(1/12+1/19)=7.35天"
+    },
+    {
+      "id": "G6_O_080",
+      "type": "fill",
+      "question": "甲8天完成工程，乙23天，合作几天？（保留2位小数）",
+      "answer": "5.94",
+      "explanation": "1÷(1/8+1/23)=5.94天"
+    },
+    {
+      "id": "G6_O_081",
+      "type": "fill",
+      "question": "甲7天完成工程，乙15天，合作几天？（保留2位小数）",
+      "answer": "4.77",
+      "explanation": "1÷(1/7+1/15)=4.77天"
+    },
+    {
+      "id": "G6_O_082",
+      "type": "fill",
+      "question": "甲5天完成工程，乙11天，合作几天？（保留2位小数）",
+      "answer": "3.44",
+      "explanation": "1÷(1/5+1/11)=3.44天"
+    },
+    {
+      "id": "G6_O_083",
+      "type": "fill",
+      "question": "甲10天完成工程，乙15天，合作几天？（保留2位小数）",
+      "answer": "6.0",
+      "explanation": "1÷(1/10+1/15)=6.0天"
+    },
+    {
+      "id": "G6_O_084",
+      "type": "fill",
+      "question": "甲6天完成工程，乙18天，合作几天？（保留2位小数）",
+      "answer": "4.5",
+      "explanation": "1÷(1/6+1/18)=4.5天"
+    },
+    {
+      "id": "G6_O_085",
+      "type": "fill",
+      "question": "甲6天完成工程，乙18天，合作几天？（保留2位小数）",
+      "answer": "4.5",
+      "explanation": "1÷(1/6+1/18)=4.5天"
+    },
+    {
+      "id": "G6_O_086",
+      "type": "fill",
+      "question": "甲11天完成工程，乙26天，合作几天？（保留2位小数）",
+      "answer": "7.73",
+      "explanation": "1÷(1/11+1/26)=7.73天"
+    },
+    {
+      "id": "G6_O_087",
+      "type": "fill",
+      "question": "甲12天完成工程，乙24天，合作几天？（保留2位小数）",
+      "answer": "8.0",
+      "explanation": "1÷(1/12+1/24)=8.0天"
+    },
+    {
+      "id": "G6_O_088",
+      "type": "fill",
+      "question": "甲11天完成工程，乙17天，合作几天？（保留2位小数）",
+      "answer": "6.68",
+      "explanation": "1÷(1/11+1/17)=6.68天"
+    },
+    {
+      "id": "G6_O_089",
+      "type": "fill",
+      "question": "甲12天完成工程，乙17天，合作几天？（保留2位小数）",
+      "answer": "7.03",
+      "explanation": "1÷(1/12+1/17)=7.03天"
+    },
+    {
+      "id": "G6_O_090",
+      "type": "fill",
+      "question": "甲10天完成工程，乙20天，合作几天？（保留2位小数）",
+      "answer": "6.67",
+      "explanation": "1÷(1/10+1/20)=6.67天"
+    },
+    {
+      "id": "G6_O_091",
+      "type": "fill",
+      "question": "甲5天完成工程，乙11天，合作几天？（保留2位小数）",
+      "answer": "3.44",
+      "explanation": "1÷(1/5+1/11)=3.44天"
+    },
+    {
+      "id": "G6_O_092",
+      "type": "fill",
+      "question": "甲5天完成工程，乙18天，合作几天？（保留2位小数）",
+      "answer": "3.91",
+      "explanation": "1÷(1/5+1/18)=3.91天"
+    },
+    {
+      "id": "G6_O_093",
+      "type": "fill",
+      "question": "甲8天完成工程，乙14天，合作几天？（保留2位小数）",
+      "answer": "5.09",
+      "explanation": "1÷(1/8+1/14)=5.09天"
+    },
+    {
+      "id": "G6_O_094",
+      "type": "fill",
+      "question": "甲5天完成工程，乙11天，合作几天？（保留2位小数）",
+      "answer": "3.44",
+      "explanation": "1÷(1/5+1/11)=3.44天"
+    },
+    {
+      "id": "G6_O_095",
+      "type": "fill",
+      "question": "甲8天完成工程，乙21天，合作几天？（保留2位小数）",
+      "answer": "5.79",
+      "explanation": "1÷(1/8+1/21)=5.79天"
+    },
+    {
+      "id": "G6_O_096",
+      "type": "fill",
+      "question": "甲9天完成工程，乙20天，合作几天？（保留2位小数）",
+      "answer": "6.21",
+      "explanation": "1÷(1/9+1/20)=6.21天"
+    },
+    {
+      "id": "G6_O_097",
+      "type": "fill",
+      "question": "甲6天完成工程，乙21天，合作几天？（保留2位小数）",
+      "answer": "4.67",
+      "explanation": "1÷(1/6+1/21)=4.67天"
+    },
+    {
+      "id": "G6_O_098",
+      "type": "fill",
+      "question": "甲7天完成工程，乙21天，合作几天？（保留2位小数）",
+      "answer": "5.25",
+      "explanation": "1÷(1/7+1/21)=5.25天"
+    },
+    {
+      "id": "G6_O_099",
+      "type": "fill",
+      "question": "甲9天完成工程，乙15天，合作几天？（保留2位小数）",
+      "answer": "5.63",
+      "explanation": "1÷(1/9+1/15)=5.63天"
+    },
+    {
+      "id": "G6_O_100",
+      "type": "fill",
+      "question": "甲6天完成工程，乙18天，合作几天？（保留2位小数）",
+      "answer": "4.5",
+      "explanation": "1÷(1/6+1/18)=4.5天"
+    },
+    {
+      "id": "G6_O_101",
+      "type": "fill",
+      "question": "35g盐218g水，浓度？",
+      "answer": "13.83%",
+      "explanation": "35÷253×100%=13.83%"
+    },
+    {
+      "id": "G6_O_102",
+      "type": "fill",
+      "question": "24g盐177g水，浓度？",
+      "answer": "11.94%",
+      "explanation": "24÷201×100%=11.94%"
+    },
+    {
+      "id": "G6_O_103",
+      "type": "fill",
+      "question": "33g盐114g水，浓度？",
+      "answer": "22.45%",
+      "explanation": "33÷147×100%=22.45%"
+    },
+    {
+      "id": "G6_O_104",
+      "type": "fill",
+      "question": "48g盐145g水，浓度？",
+      "answer": "24.87%",
+      "explanation": "48÷193×100%=24.87%"
+    },
+    {
+      "id": "G6_O_105",
+      "type": "fill",
+      "question": "25g盐260g水，浓度？",
+      "answer": "8.77%",
+      "explanation": "25÷285×100%=8.77%"
+    },
+    {
+      "id": "G6_O_106",
+      "type": "fill",
+      "question": "13g盐200g水，浓度？",
+      "answer": "6.1%",
+      "explanation": "13÷213×100%=6.1%"
+    },
+    {
+      "id": "G6_O_107",
+      "type": "fill",
+      "question": "22g盐195g水，浓度？",
+      "answer": "10.14%",
+      "explanation": "22÷217×100%=10.14%"
+    },
+    {
+      "id": "G6_O_108",
+      "type": "fill",
+      "question": "23g盐188g水，浓度？",
+      "answer": "10.9%",
+      "explanation": "23÷211×100%=10.9%"
+    },
+    {
+      "id": "G6_O_109",
+      "type": "fill",
+      "question": "48g盐147g水，浓度？",
+      "answer": "24.62%",
+      "explanation": "48÷195×100%=24.62%"
+    },
+    {
+      "id": "G6_O_110",
+      "type": "fill",
+      "question": "27g盐293g水，浓度？",
+      "answer": "8.44%",
+      "explanation": "27÷320×100%=8.44%"
+    },
+    {
+      "id": "G6_O_111",
+      "type": "fill",
+      "question": "41g盐127g水，浓度？",
+      "answer": "24.4%",
+      "explanation": "41÷168×100%=24.4%"
+    },
+    {
+      "id": "G6_O_112",
+      "type": "fill",
+      "question": "50g盐272g水，浓度？",
+      "answer": "15.53%",
+      "explanation": "50÷322×100%=15.53%"
+    },
+    {
+      "id": "G6_O_113",
+      "type": "fill",
+      "question": "43g盐259g水，浓度？",
+      "answer": "14.24%",
+      "explanation": "43÷302×100%=14.24%"
+    },
+    {
+      "id": "G6_O_114",
+      "type": "fill",
+      "question": "50g盐148g水，浓度？",
+      "answer": "25.25%",
+      "explanation": "50÷198×100%=25.25%"
+    },
+    {
+      "id": "G6_O_115",
+      "type": "fill",
+      "question": "45g盐116g水，浓度？",
+      "answer": "27.95%",
+      "explanation": "45÷161×100%=27.95%"
+    },
+    {
+      "id": "G6_O_116",
+      "type": "fill",
+      "question": "40g盐114g水，浓度？",
+      "answer": "25.97%",
+      "explanation": "40÷154×100%=25.97%"
+    },
+    {
+      "id": "G6_O_117",
+      "type": "fill",
+      "question": "50g盐177g水，浓度？",
+      "answer": "22.03%",
+      "explanation": "50÷227×100%=22.03%"
+    },
+    {
+      "id": "G6_O_118",
+      "type": "fill",
+      "question": "11g盐135g水，浓度？",
+      "answer": "7.53%",
+      "explanation": "11÷146×100%=7.53%"
+    },
+    {
+      "id": "G6_O_119",
+      "type": "fill",
+      "question": "41g盐148g水，浓度？",
+      "answer": "21.69%",
+      "explanation": "41÷189×100%=21.69%"
+    },
+    {
+      "id": "G6_O_120",
+      "type": "fill",
+      "question": "38g盐194g水，浓度？",
+      "answer": "16.38%",
+      "explanation": "38÷232×100%=16.38%"
+    },
+    {
+      "id": "G6_O_121",
+      "type": "fill",
+      "question": "19g盐215g水，浓度？",
+      "answer": "8.12%",
+      "explanation": "19÷234×100%=8.12%"
+    },
+    {
+      "id": "G6_O_122",
+      "type": "fill",
+      "question": "30g盐243g水，浓度？",
+      "answer": "10.99%",
+      "explanation": "30÷273×100%=10.99%"
+    },
+    {
+      "id": "G6_O_123",
+      "type": "fill",
+      "question": "11g盐206g水，浓度？",
+      "answer": "5.07%",
+      "explanation": "11÷217×100%=5.07%"
+    },
+    {
+      "id": "G6_O_124",
+      "type": "fill",
+      "question": "28g盐127g水，浓度？",
+      "answer": "18.06%",
+      "explanation": "28÷155×100%=18.06%"
+    },
+    {
+      "id": "G6_O_125",
+      "type": "fill",
+      "question": "41g盐276g水，浓度？",
+      "answer": "12.93%",
+      "explanation": "41÷317×100%=12.93%"
+    },
+    {
+      "id": "G6_O_126",
+      "type": "fill",
+      "question": "48g盐273g水，浓度？",
+      "answer": "14.95%",
+      "explanation": "48÷321×100%=14.95%"
+    },
+    {
+      "id": "G6_O_127",
+      "type": "fill",
+      "question": "10g盐139g水，浓度？",
+      "answer": "6.71%",
+      "explanation": "10÷149×100%=6.71%"
+    },
+    {
+      "id": "G6_O_128",
+      "type": "fill",
+      "question": "34g盐238g水，浓度？",
+      "answer": "12.5%",
+      "explanation": "34÷272×100%=12.5%"
+    },
+    {
+      "id": "G6_O_129",
+      "type": "fill",
+      "question": "39g盐165g水，浓度？",
+      "answer": "19.12%",
+      "explanation": "39÷204×100%=19.12%"
+    },
+    {
+      "id": "G6_O_130",
+      "type": "fill",
+      "question": "27g盐223g水，浓度？",
+      "answer": "10.8%",
+      "explanation": "27÷250×100%=10.8%"
+    },
+    {
+      "id": "G6_O_131",
+      "type": "fill",
+      "question": "49g盐214g水，浓度？",
+      "answer": "18.63%",
+      "explanation": "49÷263×100%=18.63%"
+    },
+    {
+      "id": "G6_O_132",
+      "type": "fill",
+      "question": "34g盐236g水，浓度？",
+      "answer": "12.59%",
+      "explanation": "34÷270×100%=12.59%"
+    },
+    {
+      "id": "G6_O_133",
+      "type": "fill",
+      "question": "47g盐215g水，浓度？",
+      "answer": "17.94%",
+      "explanation": "47÷262×100%=17.94%"
+    },
+    {
+      "id": "G6_O_134",
+      "type": "fill",
+      "question": "48g盐186g水，浓度？",
+      "answer": "20.51%",
+      "explanation": "48÷234×100%=20.51%"
+    },
+    {
+      "id": "G6_O_135",
+      "type": "fill",
+      "question": "28g盐216g水，浓度？",
+      "answer": "11.48%",
+      "explanation": "28÷244×100%=11.48%"
+    },
+    {
+      "id": "G6_O_136",
+      "type": "fill",
+      "question": "37g盐253g水，浓度？",
+      "answer": "12.76%",
+      "explanation": "37÷290×100%=12.76%"
+    },
+    {
+      "id": "G6_O_137",
+      "type": "fill",
+      "question": "35g盐204g水，浓度？",
+      "answer": "14.64%",
+      "explanation": "35÷239×100%=14.64%"
+    },
+    {
+      "id": "G6_O_138",
+      "type": "fill",
+      "question": "11g盐158g水，浓度？",
+      "answer": "6.51%",
+      "explanation": "11÷169×100%=6.51%"
+    },
+    {
+      "id": "G6_O_139",
+      "type": "fill",
+      "question": "17g盐242g水，浓度？",
+      "answer": "6.56%",
+      "explanation": "17÷259×100%=6.56%"
+    },
+    {
+      "id": "G6_O_140",
+      "type": "fill",
+      "question": "36g盐246g水，浓度？",
+      "answer": "12.77%",
+      "explanation": "36÷282×100%=12.77%"
+    },
+    {
+      "id": "G6_O_141",
+      "type": "fill",
+      "question": "29g盐122g水，浓度？",
+      "answer": "19.21%",
+      "explanation": "29÷151×100%=19.21%"
+    },
+    {
+      "id": "G6_O_142",
+      "type": "fill",
+      "question": "26g盐270g水，浓度？",
+      "answer": "8.78%",
+      "explanation": "26÷296×100%=8.78%"
+    },
+    {
+      "id": "G6_O_143",
+      "type": "fill",
+      "question": "20g盐245g水，浓度？",
+      "answer": "7.55%",
+      "explanation": "20÷265×100%=7.55%"
+    },
+    {
+      "id": "G6_O_144",
+      "type": "fill",
+      "question": "19g盐243g水，浓度？",
+      "answer": "7.25%",
+      "explanation": "19÷262×100%=7.25%"
+    },
+    {
+      "id": "G6_O_145",
+      "type": "fill",
+      "question": "16g盐165g水，浓度？",
+      "answer": "8.84%",
+      "explanation": "16÷181×100%=8.84%"
+    },
+    {
+      "id": "G6_O_146",
+      "type": "fill",
+      "question": "46g盐299g水，浓度？",
+      "answer": "13.33%",
+      "explanation": "46÷345×100%=13.33%"
+    },
+    {
+      "id": "G6_O_147",
+      "type": "fill",
+      "question": "25g盐202g水，浓度？",
+      "answer": "11.01%",
+      "explanation": "25÷227×100%=11.01%"
+    },
+    {
+      "id": "G6_O_148",
+      "type": "fill",
+      "question": "42g盐226g水，浓度？",
+      "answer": "15.67%",
+      "explanation": "42÷268×100%=15.67%"
+    },
+    {
+      "id": "G6_O_149",
+      "type": "fill",
+      "question": "29g盐276g水，浓度？",
+      "answer": "9.51%",
+      "explanation": "29÷305×100%=9.51%"
+    },
+    {
+      "id": "G6_O_150",
+      "type": "fill",
+      "question": "38g盐202g水，浓度？",
+      "answer": "15.83%",
+      "explanation": "38÷240×100%=15.83%"
+    },
+    {
+      "id": "G6_O_151",
+      "type": "fill",
+      "question": "11g盐216g水，浓度？",
+      "answer": "4.85%",
+      "explanation": "11÷227×100%=4.85%"
+    },
+    {
+      "id": "G6_O_152",
+      "type": "fill",
+      "question": "11g盐201g水，浓度？",
+      "answer": "5.19%",
+      "explanation": "11÷212×100%=5.19%"
+    },
+    {
+      "id": "G6_O_153",
+      "type": "fill",
+      "question": "19g盐191g水，浓度？",
+      "answer": "9.05%",
+      "explanation": "19÷210×100%=9.05%"
+    },
+    {
+      "id": "G6_O_154",
+      "type": "fill",
+      "question": "43g盐189g水，浓度？",
+      "answer": "18.53%",
+      "explanation": "43÷232×100%=18.53%"
+    },
+    {
+      "id": "G6_O_155",
+      "type": "fill",
+      "question": "48g盐199g水，浓度？",
+      "answer": "19.43%",
+      "explanation": "48÷247×100%=19.43%"
+    },
+    {
+      "id": "G6_O_156",
+      "type": "fill",
+      "question": "26g盐157g水，浓度？",
+      "answer": "14.21%",
+      "explanation": "26÷183×100%=14.21%"
+    },
+    {
+      "id": "G6_O_157",
+      "type": "fill",
+      "question": "41g盐122g水，浓度？",
+      "answer": "25.15%",
+      "explanation": "41÷163×100%=25.15%"
+    },
+    {
+      "id": "G6_O_158",
+      "type": "fill",
+      "question": "36g盐297g水，浓度？",
+      "answer": "10.81%",
+      "explanation": "36÷333×100%=10.81%"
+    },
+    {
+      "id": "G6_O_159",
+      "type": "fill",
+      "question": "33g盐221g水，浓度？",
+      "answer": "12.99%",
+      "explanation": "33÷254×100%=12.99%"
+    },
+    {
+      "id": "G6_O_160",
+      "type": "fill",
+      "question": "36g盐242g水，浓度？",
+      "answer": "12.95%",
+      "explanation": "36÷278×100%=12.95%"
+    },
+    {
+      "id": "G6_O_161",
+      "type": "fill",
+      "question": "11g盐175g水，浓度？",
+      "answer": "5.91%",
+      "explanation": "11÷186×100%=5.91%"
+    },
+    {
+      "id": "G6_O_162",
+      "type": "fill",
+      "question": "41g盐254g水，浓度？",
+      "answer": "13.9%",
+      "explanation": "41÷295×100%=13.9%"
+    },
+    {
+      "id": "G6_O_163",
+      "type": "fill",
+      "question": "50g盐293g水，浓度？",
+      "answer": "14.58%",
+      "explanation": "50÷343×100%=14.58%"
+    },
+    {
+      "id": "G6_O_164",
+      "type": "fill",
+      "question": "38g盐240g水，浓度？",
+      "answer": "13.67%",
+      "explanation": "38÷278×100%=13.67%"
+    },
+    {
+      "id": "G6_O_165",
+      "type": "fill",
+      "question": "37g盐226g水，浓度？",
+      "answer": "14.07%",
+      "explanation": "37÷263×100%=14.07%"
+    },
+    {
+      "id": "G6_O_166",
+      "type": "fill",
+      "question": "14g盐103g水，浓度？",
+      "answer": "11.97%",
+      "explanation": "14÷117×100%=11.97%"
+    },
+    {
+      "id": "G6_O_167",
+      "type": "fill",
+      "question": "12g盐245g水，浓度？",
+      "answer": "4.67%",
+      "explanation": "12÷257×100%=4.67%"
+    },
+    {
+      "id": "G6_O_168",
+      "type": "fill",
+      "question": "47g盐282g水，浓度？",
+      "answer": "14.29%",
+      "explanation": "47÷329×100%=14.29%"
+    },
+    {
+      "id": "G6_O_169",
+      "type": "fill",
+      "question": "12g盐158g水，浓度？",
+      "answer": "7.06%",
+      "explanation": "12÷170×100%=7.06%"
+    },
+    {
+      "id": "G6_O_170",
+      "type": "fill",
+      "question": "38g盐277g水，浓度？",
+      "answer": "12.06%",
+      "explanation": "38÷315×100%=12.06%"
+    },
+    {
+      "id": "G6_O_171",
+      "type": "fill",
+      "question": "48g盐293g水，浓度？",
+      "answer": "14.08%",
+      "explanation": "48÷341×100%=14.08%"
+    },
+    {
+      "id": "G6_O_172",
+      "type": "fill",
+      "question": "35g盐119g水，浓度？",
+      "answer": "22.73%",
+      "explanation": "35÷154×100%=22.73%"
+    },
+    {
+      "id": "G6_O_173",
+      "type": "fill",
+      "question": "28g盐188g水，浓度？",
+      "answer": "12.96%",
+      "explanation": "28÷216×100%=12.96%"
+    },
+    {
+      "id": "G6_O_174",
+      "type": "fill",
+      "question": "33g盐297g水，浓度？",
+      "answer": "10.0%",
+      "explanation": "33÷330×100%=10.0%"
+    },
+    {
+      "id": "G6_O_175",
+      "type": "fill",
+      "question": "20g盐168g水，浓度？",
+      "answer": "10.64%",
+      "explanation": "20÷188×100%=10.64%"
+    },
+    {
+      "id": "G6_O_176",
+      "type": "fill",
+      "question": "41g盐265g水，浓度？",
+      "answer": "13.4%",
+      "explanation": "41÷306×100%=13.4%"
+    },
+    {
+      "id": "G6_O_177",
+      "type": "fill",
+      "question": "16g盐126g水，浓度？",
+      "answer": "11.27%",
+      "explanation": "16÷142×100%=11.27%"
+    },
+    {
+      "id": "G6_O_178",
+      "type": "fill",
+      "question": "47g盐166g水，浓度？",
+      "answer": "22.07%",
+      "explanation": "47÷213×100%=22.07%"
+    },
+    {
+      "id": "G6_O_179",
+      "type": "fill",
+      "question": "11g盐103g水，浓度？",
+      "answer": "9.65%",
+      "explanation": "11÷114×100%=9.65%"
+    },
+    {
+      "id": "G6_O_180",
+      "type": "fill",
+      "question": "44g盐217g水，浓度？",
+      "answer": "16.86%",
+      "explanation": "44÷261×100%=16.86%"
+    },
+    {
+      "id": "G6_O_181",
+      "type": "fill",
+      "question": "成本112元，40%利润率，售价？",
+      "answer": "156.79999999999998",
+      "explanation": "112×(1+40%)=156.79999999999998元"
+    },
+    {
+      "id": "G6_O_182",
+      "type": "fill",
+      "question": "成本185元，25%利润率，售价？",
+      "answer": "231.25",
+      "explanation": "185×(1+25%)=231.25元"
+    },
+    {
+      "id": "G6_O_183",
+      "type": "fill",
+      "question": "成本86元，25%利润率，售价？",
+      "answer": "107.5",
+      "explanation": "86×(1+25%)=107.5元"
+    },
+    {
+      "id": "G6_O_184",
+      "type": "fill",
+      "question": "成本123元，25%利润率，售价？",
+      "answer": "153.75",
+      "explanation": "123×(1+25%)=153.75元"
+    },
+    {
+      "id": "G6_O_185",
+      "type": "fill",
+      "question": "成本73元，40%利润率，售价？",
+      "answer": "102.19999999999999",
+      "explanation": "73×(1+40%)=102.19999999999999元"
+    },
+    {
+      "id": "G6_O_186",
+      "type": "fill",
+      "question": "成本62元，40%利润率，售价？",
+      "answer": "86.8",
+      "explanation": "62×(1+40%)=86.8元"
+    },
+    {
+      "id": "G6_O_187",
+      "type": "fill",
+      "question": "成本118元，30%利润率，售价？",
+      "answer": "153.4",
+      "explanation": "118×(1+30%)=153.4元"
+    },
+    {
+      "id": "G6_O_188",
+      "type": "fill",
+      "question": "成本124元，30%利润率，售价？",
+      "answer": "161.20000000000002",
+      "explanation": "124×(1+30%)=161.20000000000002元"
+    },
+    {
+      "id": "G6_O_189",
+      "type": "fill",
+      "question": "成本56元，30%利润率，售价？",
+      "answer": "72.8",
+      "explanation": "56×(1+30%)=72.8元"
+    },
+    {
+      "id": "G6_O_190",
+      "type": "fill",
+      "question": "成本155元，40%利润率，售价？",
+      "answer": "217.0",
+      "explanation": "155×(1+40%)=217.0元"
+    },
+    {
+      "id": "G6_O_191",
+      "type": "fill",
+      "question": "成本185元，30%利润率，售价？",
+      "answer": "240.5",
+      "explanation": "185×(1+30%)=240.5元"
+    },
+    {
+      "id": "G6_O_192",
+      "type": "fill",
+      "question": "成本131元，25%利润率，售价？",
+      "answer": "163.75",
+      "explanation": "131×(1+25%)=163.75元"
+    },
+    {
+      "id": "G6_O_193",
+      "type": "fill",
+      "question": "成本188元，20%利润率，售价？",
+      "answer": "225.6",
+      "explanation": "188×(1+20%)=225.6元"
+    },
+    {
+      "id": "G6_O_194",
+      "type": "fill",
+      "question": "成本177元，40%利润率，售价？",
+      "answer": "247.79999999999998",
+      "explanation": "177×(1+40%)=247.79999999999998元"
+    },
+    {
+      "id": "G6_O_195",
+      "type": "fill",
+      "question": "成本144元，40%利润率，售价？",
+      "answer": "201.6",
+      "explanation": "144×(1+40%)=201.6元"
+    },
+    {
+      "id": "G6_O_196",
+      "type": "fill",
+      "question": "成本120元，20%利润率，售价？",
+      "answer": "144.0",
+      "explanation": "120×(1+20%)=144.0元"
+    },
+    {
+      "id": "G6_O_197",
+      "type": "fill",
+      "question": "成本77元，40%利润率，售价？",
+      "answer": "107.8",
+      "explanation": "77×(1+40%)=107.8元"
+    },
+    {
+      "id": "G6_O_198",
+      "type": "fill",
+      "question": "成本192元，20%利润率，售价？",
+      "answer": "230.39999999999998",
+      "explanation": "192×(1+20%)=230.39999999999998元"
+    },
+    {
+      "id": "G6_O_199",
+      "type": "fill",
+      "question": "成本143元，30%利润率，售价？",
+      "answer": "185.9",
+      "explanation": "143×(1+30%)=185.9元"
+    },
+    {
+      "id": "G6_O_200",
+      "type": "fill",
+      "question": "成本75元，20%利润率，售价？",
+      "answer": "90.0",
+      "explanation": "75×(1+20%)=90.0元"
+    },
+    {
+      "id": "G6_O_201",
+      "type": "fill",
+      "question": "成本79元，40%利润率，售价？",
+      "answer": "110.6",
+      "explanation": "79×(1+40%)=110.6元"
+    },
+    {
+      "id": "G6_O_202",
+      "type": "fill",
+      "question": "成本69元，40%利润率，售价？",
+      "answer": "96.6",
+      "explanation": "69×(1+40%)=96.6元"
+    },
+    {
+      "id": "G6_O_203",
+      "type": "fill",
+      "question": "成本92元，25%利润率，售价？",
+      "answer": "115.0",
+      "explanation": "92×(1+25%)=115.0元"
+    },
+    {
+      "id": "G6_O_204",
+      "type": "fill",
+      "question": "成本71元，25%利润率，售价？",
+      "answer": "88.75",
+      "explanation": "71×(1+25%)=88.75元"
+    },
+    {
+      "id": "G6_O_205",
+      "type": "fill",
+      "question": "成本114元，40%利润率，售价？",
+      "answer": "159.6",
+      "explanation": "114×(1+40%)=159.6元"
+    },
+    {
+      "id": "G6_O_206",
+      "type": "fill",
+      "question": "成本81元，25%利润率，售价？",
+      "answer": "101.25",
+      "explanation": "81×(1+25%)=101.25元"
+    },
+    {
+      "id": "G6_O_207",
+      "type": "fill",
+      "question": "成本83元，25%利润率，售价？",
+      "answer": "103.75",
+      "explanation": "83×(1+25%)=103.75元"
+    },
+    {
+      "id": "G6_O_208",
+      "type": "fill",
+      "question": "成本141元，20%利润率，售价？",
+      "answer": "169.2",
+      "explanation": "141×(1+20%)=169.2元"
+    },
+    {
+      "id": "G6_O_209",
+      "type": "fill",
+      "question": "成本66元，40%利润率，售价？",
+      "answer": "92.39999999999999",
+      "explanation": "66×(1+40%)=92.39999999999999元"
+    },
+    {
+      "id": "G6_O_210",
+      "type": "fill",
+      "question": "成本180元，40%利润率，售价？",
+      "answer": "251.99999999999997",
+      "explanation": "180×(1+40%)=251.99999999999997元"
+    },
+    {
+      "id": "G6_O_211",
+      "type": "fill",
+      "question": "成本97元，40%利润率，售价？",
+      "answer": "135.79999999999998",
+      "explanation": "97×(1+40%)=135.79999999999998元"
+    },
+    {
+      "id": "G6_O_212",
+      "type": "fill",
+      "question": "成本138元，25%利润率，售价？",
+      "answer": "172.5",
+      "explanation": "138×(1+25%)=172.5元"
+    },
+    {
+      "id": "G6_O_213",
+      "type": "fill",
+      "question": "成本123元，40%利润率，售价？",
+      "answer": "172.2",
+      "explanation": "123×(1+40%)=172.2元"
+    },
+    {
+      "id": "G6_O_214",
+      "type": "fill",
+      "question": "成本145元，20%利润率，售价？",
+      "answer": "174.0",
+      "explanation": "145×(1+20%)=174.0元"
+    },
+    {
+      "id": "G6_O_215",
+      "type": "fill",
+      "question": "成本198元，30%利润率，售价？",
+      "answer": "257.40000000000003",
+      "explanation": "198×(1+30%)=257.40000000000003元"
+    },
+    {
+      "id": "G6_O_216",
+      "type": "fill",
+      "question": "成本132元，30%利润率，售价？",
+      "answer": "171.6",
+      "explanation": "132×(1+30%)=171.6元"
+    },
+    {
+      "id": "G6_O_217",
+      "type": "fill",
+      "question": "成本200元，20%利润率，售价？",
+      "answer": "240.0",
+      "explanation": "200×(1+20%)=240.0元"
+    },
+    {
+      "id": "G6_O_218",
+      "type": "fill",
+      "question": "成本126元，20%利润率，售价？",
+      "answer": "151.2",
+      "explanation": "126×(1+20%)=151.2元"
+    },
+    {
+      "id": "G6_O_219",
+      "type": "fill",
+      "question": "成本96元，20%利润率，售价？",
+      "answer": "115.19999999999999",
+      "explanation": "96×(1+20%)=115.19999999999999元"
+    },
+    {
+      "id": "G6_O_220",
+      "type": "fill",
+      "question": "成本169元，20%利润率，售价？",
+      "answer": "202.79999999999998",
+      "explanation": "169×(1+20%)=202.79999999999998元"
+    },
+    {
+      "id": "G6_O_221",
+      "type": "fill",
+      "question": "成本150元，40%利润率，售价？",
+      "answer": "210.0",
+      "explanation": "150×(1+40%)=210.0元"
+    },
+    {
+      "id": "G6_O_222",
+      "type": "fill",
+      "question": "成本141元，20%利润率，售价？",
+      "answer": "169.2",
+      "explanation": "141×(1+20%)=169.2元"
+    },
+    {
+      "id": "G6_O_223",
+      "type": "fill",
+      "question": "成本159元，30%利润率，售价？",
+      "answer": "206.70000000000002",
+      "explanation": "159×(1+30%)=206.70000000000002元"
+    },
+    {
+      "id": "G6_O_224",
+      "type": "fill",
+      "question": "成本163元，40%利润率，售价？",
+      "answer": "228.2",
+      "explanation": "163×(1+40%)=228.2元"
+    },
+    {
+      "id": "G6_O_225",
+      "type": "fill",
+      "question": "成本162元，30%利润率，售价？",
+      "answer": "210.6",
+      "explanation": "162×(1+30%)=210.6元"
+    },
+    {
+      "id": "G6_O_226",
+      "type": "fill",
+      "question": "成本135元，20%利润率，售价？",
+      "answer": "162.0",
+      "explanation": "135×(1+20%)=162.0元"
+    },
+    {
+      "id": "G6_O_227",
+      "type": "fill",
+      "question": "成本146元，20%利润率，售价？",
+      "answer": "175.2",
+      "explanation": "146×(1+20%)=175.2元"
+    },
+    {
+      "id": "G6_O_228",
+      "type": "fill",
+      "question": "成本164元，20%利润率，售价？",
+      "answer": "196.79999999999998",
+      "explanation": "164×(1+20%)=196.79999999999998元"
+    },
+    {
+      "id": "G6_O_229",
+      "type": "fill",
+      "question": "成本107元，40%利润率，售价？",
+      "answer": "149.79999999999998",
+      "explanation": "107×(1+40%)=149.79999999999998元"
+    },
+    {
+      "id": "G6_O_230",
+      "type": "fill",
+      "question": "成本188元，40%利润率，售价？",
+      "answer": "263.2",
+      "explanation": "188×(1+40%)=263.2元"
+    },
+    {
+      "id": "G6_O_231",
+      "type": "fill",
+      "question": "成本54元，30%利润率，售价？",
+      "answer": "70.2",
+      "explanation": "54×(1+30%)=70.2元"
+    },
+    {
+      "id": "G6_O_232",
+      "type": "fill",
+      "question": "成本75元，40%利润率，售价？",
+      "answer": "105.0",
+      "explanation": "75×(1+40%)=105.0元"
+    },
+    {
+      "id": "G6_O_233",
+      "type": "fill",
+      "question": "成本144元，25%利润率，售价？",
+      "answer": "180.0",
+      "explanation": "144×(1+25%)=180.0元"
+    },
+    {
+      "id": "G6_O_234",
+      "type": "fill",
+      "question": "成本63元，20%利润率，售价？",
+      "answer": "75.6",
+      "explanation": "63×(1+20%)=75.6元"
+    },
+    {
+      "id": "G6_O_235",
+      "type": "fill",
+      "question": "成本62元，25%利润率，售价？",
+      "answer": "77.5",
+      "explanation": "62×(1+25%)=77.5元"
+    },
+    {
+      "id": "G6_O_236",
+      "type": "fill",
+      "question": "成本100元，30%利润率，售价？",
+      "answer": "130.0",
+      "explanation": "100×(1+30%)=130.0元"
+    },
+    {
+      "id": "G6_O_237",
+      "type": "fill",
+      "question": "成本148元，25%利润率，售价？",
+      "answer": "185.0",
+      "explanation": "148×(1+25%)=185.0元"
+    },
+    {
+      "id": "G6_O_238",
+      "type": "fill",
+      "question": "成本115元，30%利润率，售价？",
+      "answer": "149.5",
+      "explanation": "115×(1+30%)=149.5元"
+    },
+    {
+      "id": "G6_O_239",
+      "type": "fill",
+      "question": "成本90元，25%利润率，售价？",
+      "answer": "112.5",
+      "explanation": "90×(1+25%)=112.5元"
+    },
+    {
+      "id": "G6_O_240",
+      "type": "fill",
+      "question": "成本70元，25%利润率，售价？",
+      "answer": "87.5",
+      "explanation": "70×(1+25%)=87.5元"
+    },
+    {
+      "id": "G6_O_241",
+      "type": "fill",
+      "question": "成本128元，40%利润率，售价？",
+      "answer": "179.2",
+      "explanation": "128×(1+40%)=179.2元"
+    },
+    {
+      "id": "G6_O_242",
+      "type": "fill",
+      "question": "成本115元，40%利润率，售价？",
+      "answer": "161.0",
+      "explanation": "115×(1+40%)=161.0元"
+    },
+    {
+      "id": "G6_O_243",
+      "type": "fill",
+      "question": "成本117元，20%利润率，售价？",
+      "answer": "140.4",
+      "explanation": "117×(1+20%)=140.4元"
+    },
+    {
+      "id": "G6_O_244",
+      "type": "fill",
+      "question": "成本200元，25%利润率，售价？",
+      "answer": "250.0",
+      "explanation": "200×(1+25%)=250.0元"
+    },
+    {
+      "id": "G6_O_245",
+      "type": "fill",
+      "question": "成本80元，30%利润率，售价？",
+      "answer": "104.0",
+      "explanation": "80×(1+30%)=104.0元"
+    },
+    {
+      "id": "G6_O_246",
+      "type": "fill",
+      "question": "成本104元，20%利润率，售价？",
+      "answer": "124.8",
+      "explanation": "104×(1+20%)=124.8元"
+    },
+    {
+      "id": "G6_O_247",
+      "type": "fill",
+      "question": "成本118元，40%利润率，售价？",
+      "answer": "165.2",
+      "explanation": "118×(1+40%)=165.2元"
+    },
+    {
+      "id": "G6_O_248",
+      "type": "fill",
+      "question": "成本85元，40%利润率，售价？",
+      "answer": "118.99999999999999",
+      "explanation": "85×(1+40%)=118.99999999999999元"
+    },
+    {
+      "id": "G6_O_249",
+      "type": "fill",
+      "question": "成本75元，40%利润率，售价？",
+      "answer": "105.0",
+      "explanation": "75×(1+40%)=105.0元"
+    },
+    {
+      "id": "G6_O_250",
+      "type": "fill",
+      "question": "成本100元，40%利润率，售价？",
+      "answer": "140.0",
+      "explanation": "100×(1+40%)=140.0元"
+    }
+  ]
+}

@@ -1,0 +1,4179 @@
+{
+  "grade": 3,
+  "difficulty": "advanced",
+  "questions": [
+    {
+      "id": "G3_A_001",
+      "type": "choice",
+      "question": "18 + 4 × 6 = ?",
+      "answer": "42",
+      "explanation": "先算4×6=24，再加18，得42",
+      "options": [
+        33,
+        42,
+        51,
+        67
+      ]
+    },
+    {
+      "id": "G3_A_002",
+      "type": "choice",
+      "question": "25 + 7 × 7 = ?",
+      "answer": "74",
+      "explanation": "先算7×7=49，再加25，得74",
+      "options": [
+        67,
+        74,
+        92,
+        108
+      ]
+    },
+    {
+      "id": "G3_A_003",
+      "type": "choice",
+      "question": "35 + 4 × 3 = ?",
+      "answer": "47",
+      "explanation": "先算4×3=12，再加35，得47",
+      "options": [
+        34,
+        47,
+        56,
+        71
+      ]
+    },
+    {
+      "id": "G3_A_004",
+      "type": "choice",
+      "question": "39 × 10 ÷ 10 = ?",
+      "answer": "39",
+      "explanation": "先算39×10=390，再除以10，得39",
+      "options": [
+        33,
+        39,
+        47,
+        56
+      ]
+    },
+    {
+      "id": "G3_A_005",
+      "type": "choice",
+      "question": "45 + 4 × 7 = ?",
+      "answer": "73",
+      "explanation": "先算4×7=28，再加45，得73",
+      "options": [
+        64,
+        73,
+        78,
+        108
+      ]
+    },
+    {
+      "id": "G3_A_006",
+      "type": "choice",
+      "question": "12 + 6 × 10 = ?",
+      "answer": "72",
+      "explanation": "先算6×10=60，再加12，得72",
+      "options": [
+        60,
+        72,
+        78,
+        105
+      ]
+    },
+    {
+      "id": "G3_A_007",
+      "type": "choice",
+      "question": "50 + 7 × 8 = ?",
+      "answer": "106",
+      "explanation": "先算7×8=56，再加50，得106",
+      "options": [
+        95,
+        106,
+        116,
+        141
+      ]
+    },
+    {
+      "id": "G3_A_008",
+      "type": "choice",
+      "question": "42 × 7 ÷ 3 = ?",
+      "answer": "98",
+      "explanation": "先算42×7=294，再除以3，得98",
+      "options": [
+        93,
+        98,
+        107,
+        116
+      ]
+    },
+    {
+      "id": "G3_A_009",
+      "type": "choice",
+      "question": "38 + 5 × 3 = ?",
+      "answer": "53",
+      "explanation": "先算5×3=15，再加38，得53",
+      "options": [
+        48,
+        53,
+        65,
+        91
+      ]
+    },
+    {
+      "id": "G3_A_010",
+      "type": "choice",
+      "question": "44 × 4 ÷ 8 = ?",
+      "answer": "22",
+      "explanation": "先算44×4=176，再除以8，得22",
+      "options": [
+        12,
+        22,
+        26,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_011",
+      "type": "choice",
+      "question": "19 + 7 × 7 = ?",
+      "answer": "68",
+      "explanation": "先算7×7=49，再加19，得68",
+      "options": [
+        57,
+        68,
+        81,
+        106
+      ]
+    },
+    {
+      "id": "G3_A_012",
+      "type": "choice",
+      "question": "22 × 3 ÷ 6 = ?",
+      "answer": "11",
+      "explanation": "先算22×3=66，再除以6，得11",
+      "options": [
+        9,
+        11,
+        20,
+        30
+      ]
+    },
+    {
+      "id": "G3_A_013",
+      "type": "choice",
+      "question": "30 + 8 × 9 = ?",
+      "answer": "102",
+      "explanation": "先算8×9=72，再加30，得102",
+      "options": [
+        92,
+        102,
+        114,
+        132
+      ]
+    },
+    {
+      "id": "G3_A_014",
+      "type": "choice",
+      "question": "46 × 5 ÷ 5 = ?",
+      "answer": "46",
+      "explanation": "先算46×5=230，再除以5，得46",
+      "options": [
+        37,
+        46,
+        56,
+        64
+      ]
+    },
+    {
+      "id": "G3_A_015",
+      "type": "choice",
+      "question": "41 + 10 × 9 = ?",
+      "answer": "131",
+      "explanation": "先算10×9=90，再加41，得131",
+      "options": [
+        116,
+        131,
+        147,
+        164
+      ]
+    },
+    {
+      "id": "G3_A_016",
+      "type": "choice",
+      "question": "14 + 10 × 6 = ?",
+      "answer": "74",
+      "explanation": "先算10×6=60，再加14，得74",
+      "options": [
+        58,
+        74,
+        90,
+        102
+      ]
+    },
+    {
+      "id": "G3_A_017",
+      "type": "choice",
+      "question": "33 + 9 × 8 = ?",
+      "answer": "105",
+      "explanation": "先算9×8=72，再加33，得105",
+      "options": [
+        85,
+        105,
+        119,
+        143
+      ]
+    },
+    {
+      "id": "G3_A_018",
+      "type": "choice",
+      "question": "16 × 9 ÷ 9 = ?",
+      "answer": "16",
+      "explanation": "先算16×9=144，再除以9，得16",
+      "options": [
+        9,
+        16,
+        25,
+        30
+      ]
+    },
+    {
+      "id": "G3_A_019",
+      "type": "choice",
+      "question": "12 + 4 × 3 = ?",
+      "answer": "24",
+      "explanation": "先算4×3=12，再加12，得24",
+      "options": [
+        15,
+        24,
+        36,
+        61
+      ]
+    },
+    {
+      "id": "G3_A_020",
+      "type": "choice",
+      "question": "23 × 2 ÷ 2 = ?",
+      "answer": "23",
+      "explanation": "先算23×2=46，再除以2，得23",
+      "options": [
+        15,
+        23,
+        30,
+        43
+      ]
+    },
+    {
+      "id": "G3_A_021",
+      "type": "choice",
+      "question": "48 + 7 × 7 = ?",
+      "answer": "97",
+      "explanation": "先算7×7=49，再加48，得97",
+      "options": [
+        79,
+        97,
+        113,
+        122
+      ]
+    },
+    {
+      "id": "G3_A_022",
+      "type": "choice",
+      "question": "14 + 4 × 10 = ?",
+      "answer": "54",
+      "explanation": "先算4×10=40，再加14，得54",
+      "options": [
+        34,
+        54,
+        70,
+        87
+      ]
+    },
+    {
+      "id": "G3_A_023",
+      "type": "choice",
+      "question": "16 + 3 × 4 = ?",
+      "answer": "28",
+      "explanation": "先算3×4=12，再加16，得28",
+      "options": [
+        23,
+        28,
+        43,
+        52
+      ]
+    },
+    {
+      "id": "G3_A_024",
+      "type": "choice",
+      "question": "28 + 9 × 7 = ?",
+      "answer": "91",
+      "explanation": "先算9×7=63，再加28，得91",
+      "options": [
+        71,
+        91,
+        101,
+        131
+      ]
+    },
+    {
+      "id": "G3_A_025",
+      "type": "choice",
+      "question": "45 + 9 × 4 = ?",
+      "answer": "81",
+      "explanation": "先算9×4=36，再加45，得81",
+      "options": [
+        71,
+        81,
+        99,
+        111
+      ]
+    },
+    {
+      "id": "G3_A_026",
+      "type": "choice",
+      "question": "46 × 5 ÷ 2 = ?",
+      "answer": "115",
+      "explanation": "先算46×5=230，再除以2，得115",
+      "options": [
+        109,
+        115,
+        117,
+        135
+      ]
+    },
+    {
+      "id": "G3_A_027",
+      "type": "choice",
+      "question": "27 × 10 ÷ 2 = ?",
+      "answer": "135",
+      "explanation": "先算27×10=270，再除以2，得135",
+      "options": [
+        128,
+        135,
+        144,
+        151
+      ]
+    },
+    {
+      "id": "G3_A_028",
+      "type": "choice",
+      "question": "48 + 9 × 5 = ?",
+      "answer": "93",
+      "explanation": "先算9×5=45，再加48，得93",
+      "options": [
+        76,
+        93,
+        101,
+        118
+      ]
+    },
+    {
+      "id": "G3_A_029",
+      "type": "choice",
+      "question": "49 + 3 × 7 = ?",
+      "answer": "70",
+      "explanation": "先算3×7=21，再加49，得70",
+      "options": [
+        50,
+        70,
+        88,
+        103
+      ]
+    },
+    {
+      "id": "G3_A_030",
+      "type": "choice",
+      "question": "21 + 4 × 3 = ?",
+      "answer": "33",
+      "explanation": "先算4×3=12，再加21，得33",
+      "options": [
+        19,
+        33,
+        38,
+        58
+      ]
+    },
+    {
+      "id": "G3_A_031",
+      "type": "choice",
+      "question": "48 × 9 ÷ 6 = ?",
+      "answer": "72",
+      "explanation": "先算48×9=432，再除以6，得72",
+      "options": [
+        68,
+        72,
+        81,
+        83
+      ]
+    },
+    {
+      "id": "G3_A_032",
+      "type": "choice",
+      "question": "40 × 3 ÷ 5 = ?",
+      "answer": "24",
+      "explanation": "先算40×3=120，再除以5，得24",
+      "options": [
+        22,
+        24,
+        27,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_033",
+      "type": "choice",
+      "question": "41 × 4 ÷ 2 = ?",
+      "answer": "82",
+      "explanation": "先算41×4=164，再除以2，得82",
+      "options": [
+        76,
+        82,
+        87,
+        98
+      ]
+    },
+    {
+      "id": "G3_A_034",
+      "type": "choice",
+      "question": "29 × 6 ÷ 6 = ?",
+      "answer": "29",
+      "explanation": "先算29×6=174，再除以6，得29",
+      "options": [
+        22,
+        29,
+        34,
+        49
+      ]
+    },
+    {
+      "id": "G3_A_035",
+      "type": "choice",
+      "question": "25 × 3 ÷ 3 = ?",
+      "answer": "25",
+      "explanation": "先算25×3=75，再除以3，得25",
+      "options": [
+        21,
+        25,
+        34,
+        37
+      ]
+    },
+    {
+      "id": "G3_A_036",
+      "type": "choice",
+      "question": "24 × 2 ÷ 6 = ?",
+      "answer": "8",
+      "explanation": "先算24×2=48，再除以6，得8",
+      "options": [
+        5,
+        8,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_037",
+      "type": "choice",
+      "question": "40 + 6 × 8 = ?",
+      "answer": "88",
+      "explanation": "先算6×8=48，再加40，得88",
+      "options": [
+        72,
+        88,
+        96,
+        116
+      ]
+    },
+    {
+      "id": "G3_A_038",
+      "type": "choice",
+      "question": "18 × 7 ÷ 6 = ?",
+      "answer": "21",
+      "explanation": "先算18×7=126，再除以6，得21",
+      "options": [
+        14,
+        21,
+        26,
+        40
+      ]
+    },
+    {
+      "id": "G3_A_039",
+      "type": "choice",
+      "question": "35 + 3 × 10 = ?",
+      "answer": "65",
+      "explanation": "先算3×10=30，再加35，得65",
+      "options": [
+        57,
+        65,
+        70,
+        94
+      ]
+    },
+    {
+      "id": "G3_A_040",
+      "type": "choice",
+      "question": "44 + 9 × 6 = ?",
+      "answer": "98",
+      "explanation": "先算9×6=54，再加44，得98",
+      "options": [
+        78,
+        98,
+        108,
+        135
+      ]
+    },
+    {
+      "id": "G3_A_041",
+      "type": "choice",
+      "question": "12 + 3 × 10 = ?",
+      "answer": "42",
+      "explanation": "先算3×10=30，再加12，得42",
+      "options": [
+        25,
+        42,
+        61,
+        63
+      ]
+    },
+    {
+      "id": "G3_A_042",
+      "type": "choice",
+      "question": "45 + 3 × 10 = ?",
+      "answer": "75",
+      "explanation": "先算3×10=30，再加45，得75",
+      "options": [
+        67,
+        75,
+        87,
+        97
+      ]
+    },
+    {
+      "id": "G3_A_043",
+      "type": "choice",
+      "question": "42 + 6 × 2 = ?",
+      "answer": "54",
+      "explanation": "先算6×2=12，再加42，得54",
+      "options": [
+        44,
+        54,
+        61,
+        80
+      ]
+    },
+    {
+      "id": "G3_A_044",
+      "type": "choice",
+      "question": "20 + 2 × 2 = ?",
+      "answer": "24",
+      "explanation": "先算2×2=4，再加20，得24",
+      "options": [
+        14,
+        24,
+        40,
+        46
+      ]
+    },
+    {
+      "id": "G3_A_045",
+      "type": "choice",
+      "question": "29 + 5 × 5 = ?",
+      "answer": "54",
+      "explanation": "先算5×5=25，再加29，得54",
+      "options": [
+        42,
+        54,
+        62,
+        91
+      ]
+    },
+    {
+      "id": "G3_A_046",
+      "type": "choice",
+      "question": "18 + 7 × 8 = ?",
+      "answer": "74",
+      "explanation": "先算7×8=56，再加18，得74",
+      "options": [
+        64,
+        74,
+        92,
+        110
+      ]
+    },
+    {
+      "id": "G3_A_047",
+      "type": "choice",
+      "question": "18 × 6 ÷ 4 = ?",
+      "answer": "27",
+      "explanation": "先算18×6=108，再除以4，得27",
+      "options": [
+        18,
+        27,
+        34,
+        41
+      ]
+    },
+    {
+      "id": "G3_A_048",
+      "type": "choice",
+      "question": "29 + 3 × 2 = ?",
+      "answer": "35",
+      "explanation": "先算3×2=6，再加29，得35",
+      "options": [
+        30,
+        35,
+        53,
+        56
+      ]
+    },
+    {
+      "id": "G3_A_049",
+      "type": "choice",
+      "question": "41 + 5 × 8 = ?",
+      "answer": "81",
+      "explanation": "先算5×8=40，再加41，得81",
+      "options": [
+        75,
+        81,
+        91,
+        107
+      ]
+    },
+    {
+      "id": "G3_A_050",
+      "type": "choice",
+      "question": "11 + 9 × 3 = ?",
+      "answer": "38",
+      "explanation": "先算9×3=27，再加11，得38",
+      "options": [
+        30,
+        38,
+        47,
+        75
+      ]
+    },
+    {
+      "id": "G3_A_051",
+      "type": "choice",
+      "question": "20 × 2 ÷ 5 = ?",
+      "answer": "8",
+      "explanation": "先算20×2=40，再除以5，得8",
+      "options": [
+        1,
+        8,
+        11,
+        27
+      ]
+    },
+    {
+      "id": "G3_A_052",
+      "type": "choice",
+      "question": "35 + 5 × 8 = ?",
+      "answer": "75",
+      "explanation": "先算5×8=40，再加35，得75",
+      "options": [
+        58,
+        75,
+        95,
+        109
+      ]
+    },
+    {
+      "id": "G3_A_053",
+      "type": "choice",
+      "question": "48 × 6 ÷ 8 = ?",
+      "answer": "36",
+      "explanation": "先算48×6=288，再除以8，得36",
+      "options": [
+        33,
+        36,
+        43,
+        54
+      ]
+    },
+    {
+      "id": "G3_A_054",
+      "type": "choice",
+      "question": "24 + 4 × 4 = ?",
+      "answer": "40",
+      "explanation": "先算4×4=16，再加24，得40",
+      "options": [
+        23,
+        40,
+        58,
+        68
+      ]
+    },
+    {
+      "id": "G3_A_055",
+      "type": "choice",
+      "question": "49 × 6 ÷ 6 = ?",
+      "answer": "49",
+      "explanation": "先算49×6=294，再除以6，得49",
+      "options": [
+        39,
+        49,
+        55,
+        60
+      ]
+    },
+    {
+      "id": "G3_A_056",
+      "type": "choice",
+      "question": "23 × 2 ÷ 2 = ?",
+      "answer": "23",
+      "explanation": "先算23×2=46，再除以2，得23",
+      "options": [
+        20,
+        23,
+        30,
+        37
+      ]
+    },
+    {
+      "id": "G3_A_057",
+      "type": "choice",
+      "question": "37 + 10 × 9 = ?",
+      "answer": "127",
+      "explanation": "先算10×9=90，再加37，得127",
+      "options": [
+        113,
+        127,
+        146,
+        156
+      ]
+    },
+    {
+      "id": "G3_A_058",
+      "type": "choice",
+      "question": "12 + 4 × 4 = ?",
+      "answer": "28",
+      "explanation": "先算4×4=16，再加12，得28",
+      "options": [
+        16,
+        28,
+        45,
+        51
+      ]
+    },
+    {
+      "id": "G3_A_059",
+      "type": "choice",
+      "question": "50 + 4 × 5 = ?",
+      "answer": "70",
+      "explanation": "先算4×5=20，再加50，得70",
+      "options": [
+        50,
+        70,
+        85,
+        101
+      ]
+    },
+    {
+      "id": "G3_A_060",
+      "type": "choice",
+      "question": "40 + 2 × 8 = ?",
+      "answer": "56",
+      "explanation": "先算2×8=16，再加40，得56",
+      "options": [
+        37,
+        56,
+        76,
+        94
+      ]
+    },
+    {
+      "id": "G3_A_061",
+      "type": "choice",
+      "question": "25 + 8 × 8 = ?",
+      "answer": "89",
+      "explanation": "先算8×8=64，再加25，得89",
+      "options": [
+        76,
+        89,
+        94,
+        110
+      ]
+    },
+    {
+      "id": "G3_A_062",
+      "type": "choice",
+      "question": "13 × 5 ÷ 5 = ?",
+      "answer": "13",
+      "explanation": "先算13×5=65，再除以5，得13",
+      "options": [
+        9,
+        13,
+        17,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_063",
+      "type": "choice",
+      "question": "29 + 2 × 10 = ?",
+      "answer": "49",
+      "explanation": "先算2×10=20，再加29，得49",
+      "options": [
+        35,
+        49,
+        64,
+        75
+      ]
+    },
+    {
+      "id": "G3_A_064",
+      "type": "choice",
+      "question": "31 + 8 × 9 = ?",
+      "answer": "103",
+      "explanation": "先算8×9=72，再加31，得103",
+      "options": [
+        85,
+        103,
+        114,
+        128
+      ]
+    },
+    {
+      "id": "G3_A_065",
+      "type": "choice",
+      "question": "11 + 5 × 6 = ?",
+      "answer": "41",
+      "explanation": "先算5×6=30，再加11，得41",
+      "options": [
+        32,
+        41,
+        49,
+        67
+      ]
+    },
+    {
+      "id": "G3_A_066",
+      "type": "choice",
+      "question": "29 + 10 × 3 = ?",
+      "answer": "59",
+      "explanation": "先算10×3=30，再加29，得59",
+      "options": [
+        50,
+        59,
+        72,
+        85
+      ]
+    },
+    {
+      "id": "G3_A_067",
+      "type": "choice",
+      "question": "20 + 10 × 3 = ?",
+      "answer": "50",
+      "explanation": "先算10×3=30，再加20，得50",
+      "options": [
+        31,
+        50,
+        56,
+        75
+      ]
+    },
+    {
+      "id": "G3_A_068",
+      "type": "choice",
+      "question": "21 × 8 ÷ 4 = ?",
+      "answer": "42",
+      "explanation": "先算21×8=168，再除以4，得42",
+      "options": [
+        33,
+        42,
+        46,
+        56
+      ]
+    },
+    {
+      "id": "G3_A_069",
+      "type": "choice",
+      "question": "28 + 2 × 3 = ?",
+      "answer": "34",
+      "explanation": "先算2×3=6，再加28，得34",
+      "options": [
+        14,
+        34,
+        40,
+        67
+      ]
+    },
+    {
+      "id": "G3_A_070",
+      "type": "choice",
+      "question": "27 + 4 × 6 = ?",
+      "answer": "51",
+      "explanation": "先算4×6=24，再加27，得51",
+      "options": [
+        38,
+        51,
+        71,
+        79
+      ]
+    },
+    {
+      "id": "G3_A_071",
+      "type": "choice",
+      "question": "33 + 3 × 8 = ?",
+      "answer": "57",
+      "explanation": "先算3×8=24，再加33，得57",
+      "options": [
+        45,
+        57,
+        77,
+        88
+      ]
+    },
+    {
+      "id": "G3_A_072",
+      "type": "choice",
+      "question": "22 + 9 × 4 = ?",
+      "answer": "58",
+      "explanation": "先算9×4=36，再加22，得58",
+      "options": [
+        47,
+        58,
+        67,
+        82
+      ]
+    },
+    {
+      "id": "G3_A_073",
+      "type": "choice",
+      "question": "30 + 4 × 9 = ?",
+      "answer": "66",
+      "explanation": "先算4×9=36，再加30，得66",
+      "options": [
+        49,
+        66,
+        84,
+        102
+      ]
+    },
+    {
+      "id": "G3_A_074",
+      "type": "choice",
+      "question": "46 × 10 ÷ 10 = ?",
+      "answer": "46",
+      "explanation": "先算46×10=460，再除以10，得46",
+      "options": [
+        43,
+        46,
+        51,
+        62
+      ]
+    },
+    {
+      "id": "G3_A_075",
+      "type": "choice",
+      "question": "49 + 4 × 8 = ?",
+      "answer": "81",
+      "explanation": "先算4×8=32，再加49，得81",
+      "options": [
+        65,
+        81,
+        87,
+        115
+      ]
+    },
+    {
+      "id": "G3_A_076",
+      "type": "choice",
+      "question": "43 + 4 × 5 = ?",
+      "answer": "63",
+      "explanation": "先算4×5=20，再加43，得63",
+      "options": [
+        50,
+        63,
+        76,
+        97
+      ]
+    },
+    {
+      "id": "G3_A_077",
+      "type": "choice",
+      "question": "46 × 8 ÷ 2 = ?",
+      "answer": "184",
+      "explanation": "先算46×8=368，再除以2，得184",
+      "options": [
+        175,
+        184,
+        190,
+        203
+      ]
+    },
+    {
+      "id": "G3_A_078",
+      "type": "choice",
+      "question": "49 + 3 × 3 = ?",
+      "answer": "58",
+      "explanation": "先算3×3=9，再加49，得58",
+      "options": [
+        38,
+        58,
+        74,
+        88
+      ]
+    },
+    {
+      "id": "G3_A_079",
+      "type": "choice",
+      "question": "24 × 2 ÷ 3 = ?",
+      "answer": "16",
+      "explanation": "先算24×2=48，再除以3，得16",
+      "options": [
+        6,
+        16,
+        24,
+        30
+      ]
+    },
+    {
+      "id": "G3_A_080",
+      "type": "choice",
+      "question": "43 + 9 × 4 = ?",
+      "answer": "79",
+      "explanation": "先算9×4=36，再加43，得79",
+      "options": [
+        65,
+        79,
+        94,
+        105
+      ]
+    },
+    {
+      "id": "G3_A_081",
+      "type": "choice",
+      "question": "33 + 2 × 4 = ?",
+      "answer": "41",
+      "explanation": "先算2×4=8，再加33，得41",
+      "options": [
+        29,
+        41,
+        55,
+        67
+      ]
+    },
+    {
+      "id": "G3_A_082",
+      "type": "choice",
+      "question": "11 × 2 ÷ 2 = ?",
+      "answer": "11",
+      "explanation": "先算11×2=22，再除以2，得11",
+      "options": [
+        3,
+        11,
+        18,
+        26
+      ]
+    },
+    {
+      "id": "G3_A_083",
+      "type": "choice",
+      "question": "36 × 9 ÷ 6 = ?",
+      "answer": "54",
+      "explanation": "先算36×9=324，再除以6，得54",
+      "options": [
+        47,
+        54,
+        64,
+        67
+      ]
+    },
+    {
+      "id": "G3_A_084",
+      "type": "choice",
+      "question": "21 × 3 ÷ 7 = ?",
+      "answer": "9",
+      "explanation": "先算21×3=63，再除以7，得9",
+      "options": [
+        1,
+        9,
+        18,
+        25
+      ]
+    },
+    {
+      "id": "G3_A_085",
+      "type": "choice",
+      "question": "25 + 2 × 6 = ?",
+      "answer": "37",
+      "explanation": "先算2×6=12，再加25，得37",
+      "options": [
+        27,
+        37,
+        44,
+        71
+      ]
+    },
+    {
+      "id": "G3_A_086",
+      "type": "choice",
+      "question": "50 + 5 × 10 = ?",
+      "answer": "100",
+      "explanation": "先算5×10=50，再加50，得100",
+      "options": [
+        86,
+        100,
+        105,
+        130
+      ]
+    },
+    {
+      "id": "G3_A_087",
+      "type": "choice",
+      "question": "44 + 2 × 9 = ?",
+      "answer": "62",
+      "explanation": "先算2×9=18，再加44，得62",
+      "options": [
+        57,
+        62,
+        79,
+        101
+      ]
+    },
+    {
+      "id": "G3_A_088",
+      "type": "choice",
+      "question": "11 + 4 × 7 = ?",
+      "answer": "39",
+      "explanation": "先算4×7=28，再加11，得39",
+      "options": [
+        31,
+        39,
+        54,
+        74
+      ]
+    },
+    {
+      "id": "G3_A_089",
+      "type": "choice",
+      "question": "13 + 2 × 4 = ?",
+      "answer": "21",
+      "explanation": "先算2×4=8，再加13，得21",
+      "options": [
+        5,
+        21,
+        33,
+        57
+      ]
+    },
+    {
+      "id": "G3_A_090",
+      "type": "choice",
+      "question": "32 + 3 × 7 = ?",
+      "answer": "53",
+      "explanation": "先算3×7=21，再加32，得53",
+      "options": [
+        43,
+        53,
+        66,
+        79
+      ]
+    },
+    {
+      "id": "G3_A_091",
+      "type": "choice",
+      "question": "44 + 2 × 2 = ?",
+      "answer": "48",
+      "explanation": "先算2×2=4，再加44，得48",
+      "options": [
+        28,
+        48,
+        57,
+        87
+      ]
+    },
+    {
+      "id": "G3_A_092",
+      "type": "choice",
+      "question": "390 ÷ 13 = ?",
+      "answer": "30",
+      "explanation": "390除以13等于30",
+      "options": [
+        26,
+        30,
+        35,
+        41
+      ]
+    },
+    {
+      "id": "G3_A_093",
+      "type": "choice",
+      "question": "63 ÷ 7 = ?",
+      "answer": "9",
+      "explanation": "63除以7等于9",
+      "options": [
+        5,
+        9,
+        11,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_094",
+      "type": "choice",
+      "question": "120 ÷ 12 = ?",
+      "answer": "10",
+      "explanation": "120除以12等于10",
+      "options": [
+        5,
+        10,
+        12,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_095",
+      "type": "choice",
+      "question": "28 ÷ 7 = ?",
+      "answer": "4",
+      "explanation": "28除以7等于4",
+      "options": [
+        3,
+        4,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "G3_A_096",
+      "type": "choice",
+      "question": "276 ÷ 12 = ?",
+      "answer": "23",
+      "explanation": "276除以12等于23",
+      "options": [
+        19,
+        23,
+        25,
+        33
+      ]
+    },
+    {
+      "id": "G3_A_097",
+      "type": "choice",
+      "question": "35 ÷ 7 = ?",
+      "answer": "5",
+      "explanation": "35除以7等于5",
+      "options": [
+        1,
+        5,
+        8,
+        13
+      ]
+    },
+    {
+      "id": "G3_A_098",
+      "type": "choice",
+      "question": "285 ÷ 19 = ?",
+      "answer": "15",
+      "explanation": "285除以19等于15",
+      "options": [
+        13,
+        15,
+        19,
+        22
+      ]
+    },
+    {
+      "id": "G3_A_099",
+      "type": "choice",
+      "question": "400 ÷ 20 = ?",
+      "answer": "20",
+      "explanation": "400除以20等于20",
+      "options": [
+        18,
+        20,
+        23,
+        28
+      ]
+    },
+    {
+      "id": "G3_A_100",
+      "type": "choice",
+      "question": "12 ÷ 6 = ?",
+      "answer": "2",
+      "explanation": "12除以6等于2",
+      "options": [
+        1,
+        2,
+        4,
+        12
+      ]
+    },
+    {
+      "id": "G3_A_101",
+      "type": "choice",
+      "question": "46 ÷ 2 = ?",
+      "answer": "23",
+      "explanation": "46除以2等于23",
+      "options": [
+        18,
+        23,
+        27,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_102",
+      "type": "choice",
+      "question": "361 ÷ 19 = ?",
+      "answer": "19",
+      "explanation": "361除以19等于19",
+      "options": [
+        16,
+        19,
+        20,
+        28
+      ]
+    },
+    {
+      "id": "G3_A_103",
+      "type": "choice",
+      "question": "128 ÷ 16 = ?",
+      "answer": "8",
+      "explanation": "128除以16等于8",
+      "options": [
+        5,
+        8,
+        10,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_104",
+      "type": "choice",
+      "question": "300 ÷ 20 = ?",
+      "answer": "15",
+      "explanation": "300除以20等于15",
+      "options": [
+        11,
+        15,
+        17,
+        22
+      ]
+    },
+    {
+      "id": "G3_A_105",
+      "type": "choice",
+      "question": "184 ÷ 8 = ?",
+      "answer": "23",
+      "explanation": "184除以8等于23",
+      "options": [
+        20,
+        23,
+        26,
+        29
+      ]
+    },
+    {
+      "id": "G3_A_106",
+      "type": "choice",
+      "question": "330 ÷ 11 = ?",
+      "answer": "30",
+      "explanation": "330除以11等于30",
+      "options": [
+        25,
+        30,
+        33,
+        42
+      ]
+    },
+    {
+      "id": "G3_A_107",
+      "type": "choice",
+      "question": "170 ÷ 10 = ?",
+      "answer": "17",
+      "explanation": "170除以10等于17",
+      "options": [
+        15,
+        17,
+        19,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_108",
+      "type": "choice",
+      "question": "288 ÷ 16 = ?",
+      "answer": "18",
+      "explanation": "288除以16等于18",
+      "options": [
+        16,
+        18,
+        22,
+        29
+      ]
+    },
+    {
+      "id": "G3_A_109",
+      "type": "choice",
+      "question": "154 ÷ 14 = ?",
+      "answer": "11",
+      "explanation": "154除以14等于11",
+      "options": [
+        9,
+        11,
+        14,
+        22
+      ]
+    },
+    {
+      "id": "G3_A_110",
+      "type": "choice",
+      "question": "6 ÷ 2 = ?",
+      "answer": "3",
+      "explanation": "6除以2等于3",
+      "options": [
+        1,
+        3,
+        8,
+        14
+      ]
+    },
+    {
+      "id": "G3_A_111",
+      "type": "choice",
+      "question": "280 ÷ 20 = ?",
+      "answer": "14",
+      "explanation": "280除以20等于14",
+      "options": [
+        9,
+        14,
+        15,
+        22
+      ]
+    },
+    {
+      "id": "G3_A_112",
+      "type": "choice",
+      "question": "40 ÷ 8 = ?",
+      "answer": "5",
+      "explanation": "40除以8等于5",
+      "options": [
+        1,
+        5,
+        10,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_113",
+      "type": "choice",
+      "question": "500 ÷ 20 = ?",
+      "answer": "25",
+      "explanation": "500除以20等于25",
+      "options": [
+        23,
+        25,
+        26,
+        35
+      ]
+    },
+    {
+      "id": "G3_A_114",
+      "type": "choice",
+      "question": "192 ÷ 16 = ?",
+      "answer": "12",
+      "explanation": "192除以16等于12",
+      "options": [
+        10,
+        12,
+        14,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_115",
+      "type": "choice",
+      "question": "48 ÷ 12 = ?",
+      "answer": "4",
+      "explanation": "48除以12等于4",
+      "options": [
+        1,
+        4,
+        8,
+        15
+      ]
+    },
+    {
+      "id": "G3_A_116",
+      "type": "choice",
+      "question": "12 ÷ 4 = ?",
+      "answer": "3",
+      "explanation": "12除以4等于3",
+      "options": [
+        2,
+        3,
+        8,
+        13
+      ]
+    },
+    {
+      "id": "G3_A_117",
+      "type": "choice",
+      "question": "99 ÷ 11 = ?",
+      "answer": "9",
+      "explanation": "99除以11等于9",
+      "options": [
+        6,
+        9,
+        13,
+        17
+      ]
+    },
+    {
+      "id": "G3_A_118",
+      "type": "choice",
+      "question": "100 ÷ 10 = ?",
+      "answer": "10",
+      "explanation": "100除以10等于10",
+      "options": [
+        6,
+        10,
+        15,
+        21
+      ]
+    },
+    {
+      "id": "G3_A_119",
+      "type": "choice",
+      "question": "250 ÷ 10 = ?",
+      "answer": "25",
+      "explanation": "250除以10等于25",
+      "options": [
+        23,
+        25,
+        30,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_120",
+      "type": "choice",
+      "question": "418 ÷ 19 = ?",
+      "answer": "22",
+      "explanation": "418除以19等于22",
+      "options": [
+        17,
+        22,
+        27,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_121",
+      "type": "choice",
+      "question": "30 ÷ 5 = ?",
+      "answer": "6",
+      "explanation": "30除以5等于6",
+      "options": [
+        4,
+        6,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G3_A_122",
+      "type": "choice",
+      "question": "240 ÷ 12 = ?",
+      "answer": "20",
+      "explanation": "240除以12等于20",
+      "options": [
+        17,
+        20,
+        23,
+        26
+      ]
+    },
+    {
+      "id": "G3_A_123",
+      "type": "choice",
+      "question": "145 ÷ 5 = ?",
+      "answer": "29",
+      "explanation": "145除以5等于29",
+      "options": [
+        26,
+        29,
+        34,
+        41
+      ]
+    },
+    {
+      "id": "G3_A_124",
+      "type": "choice",
+      "question": "38 ÷ 19 = ?",
+      "answer": "2",
+      "explanation": "38除以19等于2",
+      "options": [
+        1,
+        2,
+        6,
+        13
+      ]
+    },
+    {
+      "id": "G3_A_125",
+      "type": "choice",
+      "question": "128 ÷ 16 = ?",
+      "answer": "8",
+      "explanation": "128除以16等于8",
+      "options": [
+        7,
+        8,
+        10,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_126",
+      "type": "choice",
+      "question": "154 ÷ 7 = ?",
+      "answer": "22",
+      "explanation": "154除以7等于22",
+      "options": [
+        21,
+        22,
+        25,
+        34
+      ]
+    },
+    {
+      "id": "G3_A_127",
+      "type": "choice",
+      "question": "513 ÷ 19 = ?",
+      "answer": "27",
+      "explanation": "513除以19等于27",
+      "options": [
+        25,
+        27,
+        30,
+        33
+      ]
+    },
+    {
+      "id": "G3_A_128",
+      "type": "choice",
+      "question": "84 ÷ 12 = ?",
+      "answer": "7",
+      "explanation": "84除以12等于7",
+      "options": [
+        5,
+        7,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G3_A_129",
+      "type": "choice",
+      "question": "360 ÷ 18 = ?",
+      "answer": "20",
+      "explanation": "360除以18等于20",
+      "options": [
+        18,
+        20,
+        25,
+        27
+      ]
+    },
+    {
+      "id": "G3_A_130",
+      "type": "choice",
+      "question": "10 ÷ 2 = ?",
+      "answer": "5",
+      "explanation": "10除以2等于5",
+      "options": [
+        4,
+        5,
+        9,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_131",
+      "type": "choice",
+      "question": "40 ÷ 8 = ?",
+      "answer": "5",
+      "explanation": "40除以8等于5",
+      "options": [
+        4,
+        5,
+        6,
+        13
+      ]
+    },
+    {
+      "id": "G3_A_132",
+      "type": "choice",
+      "question": "58 ÷ 2 = ?",
+      "answer": "29",
+      "explanation": "58除以2等于29",
+      "options": [
+        26,
+        29,
+        32,
+        38
+      ]
+    },
+    {
+      "id": "G3_A_133",
+      "type": "choice",
+      "question": "36 ÷ 9 = ?",
+      "answer": "4",
+      "explanation": "36除以9等于4",
+      "options": [
+        1,
+        4,
+        8,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_134",
+      "type": "choice",
+      "question": "88 ÷ 8 = ?",
+      "answer": "11",
+      "explanation": "88除以8等于11",
+      "options": [
+        6,
+        11,
+        13,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_135",
+      "type": "choice",
+      "question": "540 ÷ 18 = ?",
+      "answer": "30",
+      "explanation": "540除以18等于30",
+      "options": [
+        28,
+        30,
+        31,
+        40
+      ]
+    },
+    {
+      "id": "G3_A_136",
+      "type": "choice",
+      "question": "152 ÷ 8 = ?",
+      "answer": "19",
+      "explanation": "152除以8等于19",
+      "options": [
+        15,
+        19,
+        20,
+        29
+      ]
+    },
+    {
+      "id": "G3_A_137",
+      "type": "choice",
+      "question": "140 ÷ 10 = ?",
+      "answer": "14",
+      "explanation": "140除以10等于14",
+      "options": [
+        10,
+        14,
+        19,
+        20
+      ]
+    },
+    {
+      "id": "G3_A_138",
+      "type": "choice",
+      "question": "105 ÷ 7 = ?",
+      "answer": "15",
+      "explanation": "105除以7等于15",
+      "options": [
+        13,
+        15,
+        17,
+        27
+      ]
+    },
+    {
+      "id": "G3_A_139",
+      "type": "choice",
+      "question": "288 ÷ 12 = ?",
+      "answer": "24",
+      "explanation": "288除以12等于24",
+      "options": [
+        19,
+        24,
+        28,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_140",
+      "type": "choice",
+      "question": "48 ÷ 12 = ?",
+      "answer": "4",
+      "explanation": "48除以12等于4",
+      "options": [
+        1,
+        4,
+        6,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_141",
+      "type": "choice",
+      "question": "300 ÷ 10 = ?",
+      "answer": "30",
+      "explanation": "300除以10等于30",
+      "options": [
+        29,
+        30,
+        35,
+        40
+      ]
+    },
+    {
+      "id": "G3_A_142",
+      "type": "choice",
+      "question": "119 ÷ 17 = ?",
+      "answer": "7",
+      "explanation": "119除以17等于7",
+      "options": [
+        5,
+        7,
+        11,
+        17
+      ]
+    },
+    {
+      "id": "G3_A_143",
+      "type": "choice",
+      "question": "40 ÷ 2 = ?",
+      "answer": "20",
+      "explanation": "40除以2等于20",
+      "options": [
+        18,
+        20,
+        22,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_144",
+      "type": "choice",
+      "question": "150 ÷ 5 = ?",
+      "answer": "30",
+      "explanation": "150除以5等于30",
+      "options": [
+        25,
+        30,
+        31,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_145",
+      "type": "choice",
+      "question": "180 ÷ 18 = ?",
+      "answer": "10",
+      "explanation": "180除以18等于10",
+      "options": [
+        7,
+        10,
+        15,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_146",
+      "type": "choice",
+      "question": "198 ÷ 11 = ?",
+      "answer": "18",
+      "explanation": "198除以11等于18",
+      "options": [
+        14,
+        18,
+        19,
+        28
+      ]
+    },
+    {
+      "id": "G3_A_147",
+      "type": "choice",
+      "question": "112 ÷ 14 = ?",
+      "answer": "8",
+      "explanation": "112除以14等于8",
+      "options": [
+        5,
+        8,
+        10,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_148",
+      "type": "choice",
+      "question": "480 ÷ 20 = ?",
+      "answer": "24",
+      "explanation": "480除以20等于24",
+      "options": [
+        22,
+        24,
+        26,
+        35
+      ]
+    },
+    {
+      "id": "G3_A_149",
+      "type": "choice",
+      "question": "324 ÷ 12 = ?",
+      "answer": "27",
+      "explanation": "324除以12等于27",
+      "options": [
+        26,
+        27,
+        30,
+        33
+      ]
+    },
+    {
+      "id": "G3_A_150",
+      "type": "choice",
+      "question": "40 ÷ 2 = ?",
+      "answer": "20",
+      "explanation": "40除以2等于20",
+      "options": [
+        15,
+        20,
+        23,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_151",
+      "type": "choice",
+      "question": "63 ÷ 9 = ?",
+      "answer": "7",
+      "explanation": "63除以9等于7",
+      "options": [
+        6,
+        7,
+        9,
+        15
+      ]
+    },
+    {
+      "id": "G3_A_152",
+      "type": "choice",
+      "question": "540 ÷ 18 = ?",
+      "answer": "30",
+      "explanation": "540除以18等于30",
+      "options": [
+        26,
+        30,
+        33,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_153",
+      "type": "choice",
+      "question": "120 ÷ 8 = ?",
+      "answer": "15",
+      "explanation": "120除以8等于15",
+      "options": [
+        11,
+        15,
+        16,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_154",
+      "type": "choice",
+      "question": "99 ÷ 9 = ?",
+      "answer": "11",
+      "explanation": "99除以9等于11",
+      "options": [
+        10,
+        11,
+        12,
+        18
+      ]
+    },
+    {
+      "id": "G3_A_155",
+      "type": "choice",
+      "question": "165 ÷ 11 = ?",
+      "answer": "15",
+      "explanation": "165除以11等于15",
+      "options": [
+        13,
+        15,
+        19,
+        24
+      ]
+    },
+    {
+      "id": "G3_A_156",
+      "type": "choice",
+      "question": "100 ÷ 4 = ?",
+      "answer": "25",
+      "explanation": "100除以4等于25",
+      "options": [
+        23,
+        25,
+        26,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_157",
+      "type": "choice",
+      "question": "8 ÷ 4 = ?",
+      "answer": "2",
+      "explanation": "8除以4等于2",
+      "options": [
+        1,
+        2,
+        6,
+        11
+      ]
+    },
+    {
+      "id": "G3_A_158",
+      "type": "choice",
+      "question": "390 ÷ 15 = ?",
+      "answer": "26",
+      "explanation": "390除以15等于26",
+      "options": [
+        23,
+        26,
+        27,
+        34
+      ]
+    },
+    {
+      "id": "G3_A_159",
+      "type": "choice",
+      "question": "72 ÷ 12 = ?",
+      "answer": "6",
+      "explanation": "72除以12等于6",
+      "options": [
+        1,
+        6,
+        11,
+        17
+      ]
+    },
+    {
+      "id": "G3_A_160",
+      "type": "choice",
+      "question": "8 ÷ 2 = ?",
+      "answer": "4",
+      "explanation": "8除以2等于4",
+      "options": [
+        1,
+        4,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G3_A_161",
+      "type": "choice",
+      "question": "360 ÷ 18 = ?",
+      "answer": "20",
+      "explanation": "360除以18等于20",
+      "options": [
+        15,
+        20,
+        23,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_162",
+      "type": "choice",
+      "question": "304 ÷ 16 = ?",
+      "answer": "19",
+      "explanation": "304除以16等于19",
+      "options": [
+        14,
+        19,
+        21,
+        30
+      ]
+    },
+    {
+      "id": "G3_A_163",
+      "type": "choice",
+      "question": "175 ÷ 7 = ?",
+      "answer": "25",
+      "explanation": "175除以7等于25",
+      "options": [
+        21,
+        25,
+        28,
+        37
+      ]
+    },
+    {
+      "id": "G3_A_164",
+      "type": "choice",
+      "question": "80 ÷ 8 = ?",
+      "answer": "10",
+      "explanation": "80除以8等于10",
+      "options": [
+        6,
+        10,
+        11,
+        17
+      ]
+    },
+    {
+      "id": "G3_A_165",
+      "type": "choice",
+      "question": "400 ÷ 16 = ?",
+      "answer": "25",
+      "explanation": "400除以16等于25",
+      "options": [
+        24,
+        25,
+        29,
+        35
+      ]
+    },
+    {
+      "id": "G3_A_166",
+      "type": "choice",
+      "question": "200 ÷ 8 = ?",
+      "answer": "25",
+      "explanation": "200除以8等于25",
+      "options": [
+        20,
+        25,
+        26,
+        37
+      ]
+    },
+    {
+      "id": "G3_A_167",
+      "type": "choice",
+      "question": "182 ÷ 13 = ?",
+      "answer": "14",
+      "explanation": "182除以13等于14",
+      "options": [
+        12,
+        14,
+        17,
+        20
+      ]
+    },
+    {
+      "id": "G3_A_168",
+      "type": "choice",
+      "question": "60 ÷ 6 = ?",
+      "answer": "10",
+      "explanation": "60除以6等于10",
+      "options": [
+        5,
+        10,
+        12,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_169",
+      "type": "choice",
+      "question": "87 ÷ 3 = ?",
+      "answer": "29",
+      "explanation": "87除以3等于29",
+      "options": [
+        25,
+        29,
+        34,
+        38
+      ]
+    },
+    {
+      "id": "G3_A_170",
+      "type": "choice",
+      "question": "60 ÷ 20 = ?",
+      "answer": "3",
+      "explanation": "60除以20等于3",
+      "options": [
+        1,
+        3,
+        7,
+        14
+      ]
+    },
+    {
+      "id": "G3_A_171",
+      "type": "choice",
+      "question": "187 ÷ 11 = ?",
+      "answer": "17",
+      "explanation": "187除以11等于17",
+      "options": [
+        15,
+        17,
+        18,
+        28
+      ]
+    },
+    {
+      "id": "G3_A_172",
+      "type": "choice",
+      "question": "234 ÷ 18 = ?",
+      "answer": "13",
+      "explanation": "234除以18等于13",
+      "options": [
+        11,
+        13,
+        18,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_173",
+      "type": "choice",
+      "question": "92 ÷ 4 = ?",
+      "answer": "23",
+      "explanation": "92除以4等于23",
+      "options": [
+        18,
+        23,
+        24,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_174",
+      "type": "choice",
+      "question": "414 ÷ 18 = ?",
+      "answer": "23",
+      "explanation": "414除以18等于23",
+      "options": [
+        20,
+        23,
+        25,
+        30
+      ]
+    },
+    {
+      "id": "G3_A_175",
+      "type": "choice",
+      "question": "350 ÷ 14 = ?",
+      "answer": "25",
+      "explanation": "350除以14等于25",
+      "options": [
+        24,
+        25,
+        27,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_176",
+      "type": "choice",
+      "question": "378 ÷ 18 = ?",
+      "answer": "21",
+      "explanation": "378除以18等于21",
+      "options": [
+        17,
+        21,
+        25,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_177",
+      "type": "choice",
+      "question": "165 ÷ 15 = ?",
+      "answer": "11",
+      "explanation": "165除以15等于11",
+      "options": [
+        6,
+        11,
+        12,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_178",
+      "type": "choice",
+      "question": "416 ÷ 16 = ?",
+      "answer": "26",
+      "explanation": "416除以16等于26",
+      "options": [
+        24,
+        26,
+        27,
+        35
+      ]
+    },
+    {
+      "id": "G3_A_179",
+      "type": "choice",
+      "question": "147 ÷ 7 = ?",
+      "answer": "21",
+      "explanation": "147除以7等于21",
+      "options": [
+        18,
+        21,
+        26,
+        33
+      ]
+    },
+    {
+      "id": "G3_A_180",
+      "type": "choice",
+      "question": "104 ÷ 8 = ?",
+      "answer": "13",
+      "explanation": "104除以8等于13",
+      "options": [
+        10,
+        13,
+        16,
+        22
+      ]
+    },
+    {
+      "id": "G3_A_181",
+      "type": "choice",
+      "question": "252 ÷ 14 = ?",
+      "answer": "18",
+      "explanation": "252除以14等于18",
+      "options": [
+        16,
+        18,
+        21,
+        26
+      ]
+    },
+    {
+      "id": "G3_A_182",
+      "type": "choice",
+      "question": "232 ÷ 8 = ?",
+      "answer": "29",
+      "explanation": "232除以8等于29",
+      "options": [
+        28,
+        29,
+        31,
+        38
+      ]
+    },
+    {
+      "id": "G3_A_183",
+      "type": "choice",
+      "question": "10 ÷ 2 = ?",
+      "answer": "5",
+      "explanation": "10除以2等于5",
+      "options": [
+        2,
+        5,
+        9,
+        15
+      ]
+    },
+    {
+      "id": "G3_A_184",
+      "type": "choice",
+      "question": "20 ÷ 10 = ?",
+      "answer": "2",
+      "explanation": "20除以10等于2",
+      "options": [
+        1,
+        2,
+        3,
+        12
+      ]
+    },
+    {
+      "id": "G3_A_185",
+      "type": "choice",
+      "question": "117 ÷ 13 = ?",
+      "answer": "9",
+      "explanation": "117除以13等于9",
+      "options": [
+        6,
+        9,
+        12,
+        20
+      ]
+    },
+    {
+      "id": "G3_A_186",
+      "type": "choice",
+      "question": "390 ÷ 15 = ?",
+      "answer": "26",
+      "explanation": "390除以15等于26",
+      "options": [
+        25,
+        26,
+        31,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_187",
+      "type": "choice",
+      "question": "160 ÷ 8 = ?",
+      "answer": "20",
+      "explanation": "160除以8等于20",
+      "options": [
+        15,
+        20,
+        24,
+        27
+      ]
+    },
+    {
+      "id": "G3_A_188",
+      "type": "choice",
+      "question": "153 ÷ 9 = ?",
+      "answer": "17",
+      "explanation": "153除以9等于17",
+      "options": [
+        13,
+        17,
+        19,
+        26
+      ]
+    },
+    {
+      "id": "G3_A_189",
+      "type": "choice",
+      "question": "20 ÷ 2 = ?",
+      "answer": "10",
+      "explanation": "20除以2等于10",
+      "options": [
+        8,
+        10,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G3_A_190",
+      "type": "choice",
+      "question": "20 ÷ 10 = ?",
+      "answer": "2",
+      "explanation": "20除以10等于2",
+      "options": [
+        1,
+        2,
+        5,
+        12
+      ]
+    },
+    {
+      "id": "G3_A_191",
+      "type": "choice",
+      "question": "240 ÷ 16 = ?",
+      "answer": "15",
+      "explanation": "240除以16等于15",
+      "options": [
+        13,
+        15,
+        20,
+        25
+      ]
+    },
+    {
+      "id": "G3_A_192",
+      "type": "choice",
+      "question": "144 ÷ 12 = ?",
+      "answer": "12",
+      "explanation": "144除以12等于12",
+      "options": [
+        11,
+        12,
+        15,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_193",
+      "type": "choice",
+      "question": "85 ÷ 17 = ?",
+      "answer": "5",
+      "explanation": "85除以17等于5",
+      "options": [
+        2,
+        5,
+        7,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_194",
+      "type": "choice",
+      "question": "448 ÷ 16 = ?",
+      "answer": "28",
+      "explanation": "448除以16等于28",
+      "options": [
+        24,
+        28,
+        30,
+        38
+      ]
+    },
+    {
+      "id": "G3_A_195",
+      "type": "choice",
+      "question": "252 ÷ 14 = ?",
+      "answer": "18",
+      "explanation": "252除以14等于18",
+      "options": [
+        14,
+        18,
+        19,
+        26
+      ]
+    },
+    {
+      "id": "G3_A_196",
+      "type": "choice",
+      "question": "63 ÷ 7 = ?",
+      "answer": "9",
+      "explanation": "63除以7等于9",
+      "options": [
+        8,
+        9,
+        14,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_197",
+      "type": "choice",
+      "question": "90 ÷ 6 = ?",
+      "answer": "15",
+      "explanation": "90除以6等于15",
+      "options": [
+        11,
+        15,
+        17,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_198",
+      "type": "choice",
+      "question": "91 ÷ 7 = ?",
+      "answer": "13",
+      "explanation": "91除以7等于13",
+      "options": [
+        11,
+        13,
+        14,
+        24
+      ]
+    },
+    {
+      "id": "G3_A_199",
+      "type": "choice",
+      "question": "65 ÷ 5 = ?",
+      "answer": "13",
+      "explanation": "65除以5等于13",
+      "options": [
+        9,
+        13,
+        16,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_200",
+      "type": "choice",
+      "question": "224 ÷ 14 = ?",
+      "answer": "16",
+      "explanation": "224除以14等于16",
+      "options": [
+        14,
+        16,
+        18,
+        25
+      ]
+    },
+    {
+      "id": "G3_A_201",
+      "type": "choice",
+      "question": "64 ÷ 4 = ?",
+      "answer": "16",
+      "explanation": "64除以4等于16",
+      "options": [
+        11,
+        16,
+        20,
+        26
+      ]
+    },
+    {
+      "id": "G3_A_202",
+      "type": "choice",
+      "question": "72 ÷ 18 = ?",
+      "answer": "4",
+      "explanation": "72除以18等于4",
+      "options": [
+        1,
+        4,
+        9,
+        13
+      ]
+    },
+    {
+      "id": "G3_A_203",
+      "type": "choice",
+      "question": "242 ÷ 11 = ?",
+      "answer": "22",
+      "explanation": "242除以11等于22",
+      "options": [
+        20,
+        22,
+        25,
+        28
+      ]
+    },
+    {
+      "id": "G3_A_204",
+      "type": "choice",
+      "question": "238 ÷ 17 = ?",
+      "answer": "14",
+      "explanation": "238除以17等于14",
+      "options": [
+        13,
+        14,
+        16,
+        25
+      ]
+    },
+    {
+      "id": "G3_A_205",
+      "type": "choice",
+      "question": "168 ÷ 6 = ?",
+      "answer": "28",
+      "explanation": "168除以6等于28",
+      "options": [
+        26,
+        28,
+        30,
+        35
+      ]
+    },
+    {
+      "id": "G3_A_206",
+      "type": "choice",
+      "question": "338 ÷ 13 = ?",
+      "answer": "26",
+      "explanation": "338除以13等于26",
+      "options": [
+        24,
+        26,
+        31,
+        38
+      ]
+    },
+    {
+      "id": "G3_A_207",
+      "type": "choice",
+      "question": "405 ÷ 15 = ?",
+      "answer": "27",
+      "explanation": "405除以15等于27",
+      "options": [
+        24,
+        27,
+        31,
+        35
+      ]
+    },
+    {
+      "id": "G3_A_208",
+      "type": "choice",
+      "question": "72 ÷ 6 = ?",
+      "answer": "12",
+      "explanation": "72除以6等于12",
+      "options": [
+        9,
+        12,
+        13,
+        20
+      ]
+    },
+    {
+      "id": "G3_A_209",
+      "type": "choice",
+      "question": "243 ÷ 9 = ?",
+      "answer": "27",
+      "explanation": "243除以9等于27",
+      "options": [
+        22,
+        27,
+        31,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_210",
+      "type": "choice",
+      "question": "57 ÷ 3 = ?",
+      "answer": "19",
+      "explanation": "57除以3等于19",
+      "options": [
+        17,
+        19,
+        22,
+        27
+      ]
+    },
+    {
+      "id": "G3_A_211",
+      "type": "choice",
+      "question": "102 ÷ 17 = ?",
+      "answer": "6",
+      "explanation": "102除以17等于6",
+      "options": [
+        2,
+        6,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G3_A_212",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_213",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_214",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_215",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_216",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_217",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_218",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_219",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_220",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取4份，用分数表示是？",
+      "answer": "4/10",
+      "explanation": "分子4，分母10，表示4/10",
+      "options": [
+        "4/10",
+        "5/10",
+        "4/12",
+        "6/10"
+      ]
+    },
+    {
+      "id": "G3_A_221",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_222",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_223",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取3份，用分数表示是？",
+      "answer": "3/10",
+      "explanation": "分子3，分母10，表示3/10",
+      "options": [
+        "3/10",
+        "4/10",
+        "3/12",
+        "7/10"
+      ]
+    },
+    {
+      "id": "G3_A_224",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_225",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    },
+    {
+      "id": "G3_A_226",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_227",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_228",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_229",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_230",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_231",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_232",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_233",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_234",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_235",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    },
+    {
+      "id": "G3_A_236",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取4份，用分数表示是？",
+      "answer": "4/8",
+      "explanation": "分子4，分母8，表示4/8",
+      "options": [
+        "4/8",
+        "5/8",
+        "4/10",
+        "4/8"
+      ]
+    },
+    {
+      "id": "G3_A_237",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_238",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_239",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_240",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_241",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_242",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_243",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_244",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_245",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_246",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取4份，用分数表示是？",
+      "answer": "4/8",
+      "explanation": "分子4，分母8，表示4/8",
+      "options": [
+        "4/8",
+        "5/8",
+        "4/10",
+        "4/8"
+      ]
+    },
+    {
+      "id": "G3_A_247",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_248",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取5份，用分数表示是？",
+      "answer": "5/10",
+      "explanation": "分子5，分母10，表示5/10",
+      "options": [
+        "5/10",
+        "6/10",
+        "5/12",
+        "5/10"
+      ]
+    },
+    {
+      "id": "G3_A_249",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_250",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_251",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_252",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_253",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    },
+    {
+      "id": "G3_A_254",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    },
+    {
+      "id": "G3_A_255",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_256",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_257",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取4份，用分数表示是？",
+      "answer": "4/8",
+      "explanation": "分子4，分母8，表示4/8",
+      "options": [
+        "4/8",
+        "5/8",
+        "4/10",
+        "4/8"
+      ]
+    },
+    {
+      "id": "G3_A_258",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    },
+    {
+      "id": "G3_A_259",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_260",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_261",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取4份，用分数表示是？",
+      "answer": "4/8",
+      "explanation": "分子4，分母8，表示4/8",
+      "options": [
+        "4/8",
+        "5/8",
+        "4/10",
+        "4/8"
+      ]
+    },
+    {
+      "id": "G3_A_262",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_263",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_264",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_265",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取4份，用分数表示是？",
+      "answer": "4/10",
+      "explanation": "分子4，分母10，表示4/10",
+      "options": [
+        "4/10",
+        "5/10",
+        "4/12",
+        "6/10"
+      ]
+    },
+    {
+      "id": "G3_A_266",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取4份，用分数表示是？",
+      "answer": "4/10",
+      "explanation": "分子4，分母10，表示4/10",
+      "options": [
+        "4/10",
+        "5/10",
+        "4/12",
+        "6/10"
+      ]
+    },
+    {
+      "id": "G3_A_267",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_268",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_269",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_270",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_271",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取5份，用分数表示是？",
+      "answer": "5/10",
+      "explanation": "分子5，分母10，表示5/10",
+      "options": [
+        "5/10",
+        "6/10",
+        "5/12",
+        "5/10"
+      ]
+    },
+    {
+      "id": "G3_A_272",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_273",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_274",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取2份，用分数表示是？",
+      "answer": "2/10",
+      "explanation": "分子2，分母10，表示2/10",
+      "options": [
+        "2/10",
+        "3/10",
+        "2/12",
+        "8/10"
+      ]
+    },
+    {
+      "id": "G3_A_275",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取3份，用分数表示是？",
+      "answer": "3/6",
+      "explanation": "分子3，分母6，表示3/6",
+      "options": [
+        "3/6",
+        "4/6",
+        "3/8",
+        "3/6"
+      ]
+    },
+    {
+      "id": "G3_A_276",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_277",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_278",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取2份，用分数表示是？",
+      "answer": "2/10",
+      "explanation": "分子2，分母10，表示2/10",
+      "options": [
+        "2/10",
+        "3/10",
+        "2/12",
+        "8/10"
+      ]
+    },
+    {
+      "id": "G3_A_279",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_280",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取3份，用分数表示是？",
+      "answer": "3/10",
+      "explanation": "分子3，分母10，表示3/10",
+      "options": [
+        "3/10",
+        "4/10",
+        "3/12",
+        "7/10"
+      ]
+    },
+    {
+      "id": "G3_A_281",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取5份，用分数表示是？",
+      "answer": "5/10",
+      "explanation": "分子5，分母10，表示5/10",
+      "options": [
+        "5/10",
+        "6/10",
+        "5/12",
+        "5/10"
+      ]
+    },
+    {
+      "id": "G3_A_282",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_283",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_284",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_285",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_286",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_287",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_288",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_289",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_290",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_291",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取3份，用分数表示是？",
+      "answer": "3/6",
+      "explanation": "分子3，分母6，表示3/6",
+      "options": [
+        "3/6",
+        "4/6",
+        "3/8",
+        "3/6"
+      ]
+    },
+    {
+      "id": "G3_A_292",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_293",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取3份，用分数表示是？",
+      "answer": "3/6",
+      "explanation": "分子3，分母6，表示3/6",
+      "options": [
+        "3/6",
+        "4/6",
+        "3/8",
+        "3/6"
+      ]
+    },
+    {
+      "id": "G3_A_294",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_295",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_296",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_297",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取4份，用分数表示是？",
+      "answer": "4/10",
+      "explanation": "分子4，分母10，表示4/10",
+      "options": [
+        "4/10",
+        "5/10",
+        "4/12",
+        "6/10"
+      ]
+    },
+    {
+      "id": "G3_A_298",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_299",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取4份，用分数表示是？",
+      "answer": "4/10",
+      "explanation": "分子4，分母10，表示4/10",
+      "options": [
+        "4/10",
+        "5/10",
+        "4/12",
+        "6/10"
+      ]
+    },
+    {
+      "id": "G3_A_300",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取3份，用分数表示是？",
+      "answer": "3/6",
+      "explanation": "分子3，分母6，表示3/6",
+      "options": [
+        "3/6",
+        "4/6",
+        "3/8",
+        "3/6"
+      ]
+    },
+    {
+      "id": "G3_A_301",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_302",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取5份，用分数表示是？",
+      "answer": "5/10",
+      "explanation": "分子5，分母10，表示5/10",
+      "options": [
+        "5/10",
+        "6/10",
+        "5/12",
+        "5/10"
+      ]
+    },
+    {
+      "id": "G3_A_303",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取3份，用分数表示是？",
+      "answer": "3/10",
+      "explanation": "分子3，分母10，表示3/10",
+      "options": [
+        "3/10",
+        "4/10",
+        "3/12",
+        "7/10"
+      ]
+    },
+    {
+      "id": "G3_A_304",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_305",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_306",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取4份，用分数表示是？",
+      "answer": "4/10",
+      "explanation": "分子4，分母10，表示4/10",
+      "options": [
+        "4/10",
+        "5/10",
+        "4/12",
+        "6/10"
+      ]
+    },
+    {
+      "id": "G3_A_307",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_308",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_309",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_310",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    },
+    {
+      "id": "G3_A_311",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_312",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_313",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取2份，用分数表示是？",
+      "answer": "2/10",
+      "explanation": "分子2，分母10，表示2/10",
+      "options": [
+        "2/10",
+        "3/10",
+        "2/12",
+        "8/10"
+      ]
+    },
+    {
+      "id": "G3_A_314",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_315",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取3份，用分数表示是？",
+      "answer": "3/10",
+      "explanation": "分子3，分母10，表示3/10",
+      "options": [
+        "3/10",
+        "4/10",
+        "3/12",
+        "7/10"
+      ]
+    },
+    {
+      "id": "G3_A_316",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_317",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取5份，用分数表示是？",
+      "answer": "5/10",
+      "explanation": "分子5，分母10，表示5/10",
+      "options": [
+        "5/10",
+        "6/10",
+        "5/12",
+        "5/10"
+      ]
+    },
+    {
+      "id": "G3_A_318",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_319",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_320",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取3份，用分数表示是？",
+      "answer": "3/6",
+      "explanation": "分子3，分母6，表示3/6",
+      "options": [
+        "3/6",
+        "4/6",
+        "3/8",
+        "3/6"
+      ]
+    },
+    {
+      "id": "G3_A_321",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    }
+  ]
+}

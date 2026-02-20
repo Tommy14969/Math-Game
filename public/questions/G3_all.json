@@ -1,0 +1,9939 @@
+{
+  "grade": 3,
+  "total_questions": 784,
+  "basic": [
+    {
+      "id": "G3_B_001",
+      "type": "choice",
+      "question": "1929 + 2653 = ?",
+      "answer": "4582",
+      "explanation": "1929加2653等于4582",
+      "options": [
+        4532,
+        4582,
+        4603,
+        4657
+      ]
+    },
+    {
+      "id": "G3_B_002",
+      "type": "choice",
+      "question": "1290 + 2270 = ?",
+      "answer": "3560",
+      "explanation": "1290加2270等于3560",
+      "options": [
+        3532,
+        3560,
+        3572,
+        3650
+      ]
+    },
+    {
+      "id": "G3_B_003",
+      "type": "choice",
+      "question": "4297 + 160 = ?",
+      "answer": "4457",
+      "explanation": "4297加160等于4457",
+      "options": [
+        4428,
+        4457,
+        4467,
+        4519
+      ]
+    },
+    {
+      "id": "G3_B_004",
+      "type": "choice",
+      "question": "2396 + 1684 = ?",
+      "answer": "4080",
+      "explanation": "2396加1684等于4080",
+      "options": [
+        4051,
+        4080,
+        4106,
+        4153
+      ]
+    },
+    {
+      "id": "G3_B_005",
+      "type": "choice",
+      "question": "2253 + 707 = ?",
+      "answer": "2960",
+      "explanation": "2253加707等于2960",
+      "options": [
+        2923,
+        2960,
+        2977,
+        3020
+      ]
+    },
+    {
+      "id": "G3_B_006",
+      "type": "choice",
+      "question": "1794 + 1892 = ?",
+      "answer": "3686",
+      "explanation": "1794加1892等于3686",
+      "options": [
+        3652,
+        3686,
+        3696,
+        3757
+      ]
+    },
+    {
+      "id": "G3_B_007",
+      "type": "choice",
+      "question": "2767 + 1873 = ?",
+      "answer": "4640",
+      "explanation": "2767加1873等于4640",
+      "options": [
+        4619,
+        4640,
+        4671,
+        4708
+      ]
+    },
+    {
+      "id": "G3_B_008",
+      "type": "choice",
+      "question": "877 + 3244 = ?",
+      "answer": "4121",
+      "explanation": "877加3244等于4121",
+      "options": [
+        4103,
+        4121,
+        4163,
+        4195
+      ]
+    },
+    {
+      "id": "G3_B_009",
+      "type": "choice",
+      "question": "1615 + 1593 = ?",
+      "answer": "3208",
+      "explanation": "1615加1593等于3208",
+      "options": [
+        3180,
+        3208,
+        3231,
+        3278
+      ]
+    },
+    {
+      "id": "G3_B_010",
+      "type": "choice",
+      "question": "2266 + 2038 = ?",
+      "answer": "4304",
+      "explanation": "2266加2038等于4304",
+      "options": [
+        4261,
+        4304,
+        4343,
+        4389
+      ]
+    },
+    {
+      "id": "G3_B_011",
+      "type": "choice",
+      "question": "4261 + 217 = ?",
+      "answer": "4478",
+      "explanation": "4261加217等于4478",
+      "options": [
+        4453,
+        4478,
+        4503,
+        4531
+      ]
+    },
+    {
+      "id": "G3_B_012",
+      "type": "choice",
+      "question": "410 + 4291 = ?",
+      "answer": "4701",
+      "explanation": "410加4291等于4701",
+      "options": [
+        4686,
+        4701,
+        4722,
+        4752
+      ]
+    },
+    {
+      "id": "G3_B_013",
+      "type": "choice",
+      "question": "3391 + 1231 = ?",
+      "answer": "4622",
+      "explanation": "3391加1231等于4622",
+      "options": [
+        4581,
+        4622,
+        4659,
+        4693
+      ]
+    },
+    {
+      "id": "G3_B_014",
+      "type": "choice",
+      "question": "3082 + 870 = ?",
+      "answer": "3952",
+      "explanation": "3082加870等于3952",
+      "options": [
+        3920,
+        3952,
+        3973,
+        4039
+      ]
+    },
+    {
+      "id": "G3_B_015",
+      "type": "choice",
+      "question": "1932 + 2922 = ?",
+      "answer": "4854",
+      "explanation": "1932加2922等于4854",
+      "options": [
+        4810,
+        4854,
+        4885,
+        4928
+      ]
+    },
+    {
+      "id": "G3_B_016",
+      "type": "choice",
+      "question": "2816 + 286 = ?",
+      "answer": "3102",
+      "explanation": "2816加286等于3102",
+      "options": [
+        3090,
+        3102,
+        3119,
+        3159
+      ]
+    },
+    {
+      "id": "G3_B_017",
+      "type": "choice",
+      "question": "1683 + 1256 = ?",
+      "answer": "2939",
+      "explanation": "1683加1256等于2939",
+      "options": [
+        2917,
+        2939,
+        2969,
+        3010
+      ]
+    },
+    {
+      "id": "G3_B_018",
+      "type": "choice",
+      "question": "4357 + 307 = ?",
+      "answer": "4664",
+      "explanation": "4357加307等于4664",
+      "options": [
+        4630,
+        4664,
+        4675,
+        4751
+      ]
+    },
+    {
+      "id": "G3_B_019",
+      "type": "choice",
+      "question": "169 + 1238 = ?",
+      "answer": "1407",
+      "explanation": "169加1238等于1407",
+      "options": [
+        1359,
+        1407,
+        1455,
+        1469
+      ]
+    },
+    {
+      "id": "G3_B_020",
+      "type": "choice",
+      "question": "217 + 4650 = ?",
+      "answer": "4867",
+      "explanation": "217加4650等于4867",
+      "options": [
+        4818,
+        4867,
+        4908,
+        4928
+      ]
+    },
+    {
+      "id": "G3_B_021",
+      "type": "choice",
+      "question": "2378 + 1575 = ?",
+      "answer": "3953",
+      "explanation": "2378加1575等于3953",
+      "options": [
+        3918,
+        3953,
+        3972,
+        4044
+      ]
+    },
+    {
+      "id": "G3_B_022",
+      "type": "choice",
+      "question": "1191 + 568 = ?",
+      "answer": "1759",
+      "explanation": "1191加568等于1759",
+      "options": [
+        1716,
+        1759,
+        1794,
+        1818
+      ]
+    },
+    {
+      "id": "G3_B_023",
+      "type": "choice",
+      "question": "611 + 3620 = ?",
+      "answer": "4231",
+      "explanation": "611加3620等于4231",
+      "options": [
+        4185,
+        4231,
+        4273,
+        4296
+      ]
+    },
+    {
+      "id": "G3_B_024",
+      "type": "choice",
+      "question": "1194 + 297 = ?",
+      "answer": "1491",
+      "explanation": "1194加297等于1491",
+      "options": [
+        1470,
+        1491,
+        1531,
+        1546
+      ]
+    },
+    {
+      "id": "G3_B_025",
+      "type": "choice",
+      "question": "2217 + 2387 = ?",
+      "answer": "4604",
+      "explanation": "2217加2387等于4604",
+      "options": [
+        4586,
+        4604,
+        4646,
+        4687
+      ]
+    },
+    {
+      "id": "G3_B_026",
+      "type": "choice",
+      "question": "1930 + 366 = ?",
+      "answer": "2296",
+      "explanation": "1930加366等于2296",
+      "options": [
+        2280,
+        2296,
+        2338,
+        2371
+      ]
+    },
+    {
+      "id": "G3_B_027",
+      "type": "choice",
+      "question": "853 + 1026 = ?",
+      "answer": "1879",
+      "explanation": "853加1026等于1879",
+      "options": [
+        1831,
+        1879,
+        1928,
+        1950
+      ]
+    },
+    {
+      "id": "G3_B_028",
+      "type": "choice",
+      "question": "1521 + 1307 = ?",
+      "answer": "2828",
+      "explanation": "1521加1307等于2828",
+      "options": [
+        2787,
+        2828,
+        2851,
+        2925
+      ]
+    },
+    {
+      "id": "G3_B_029",
+      "type": "choice",
+      "question": "3249 + 667 = ?",
+      "answer": "3916",
+      "explanation": "3249加667等于3916",
+      "options": [
+        3886,
+        3916,
+        3945,
+        4005
+      ]
+    },
+    {
+      "id": "G3_B_030",
+      "type": "choice",
+      "question": "1171 + 2980 = ?",
+      "answer": "4151",
+      "explanation": "1171加2980等于4151",
+      "options": [
+        4118,
+        4151,
+        4170,
+        4205
+      ]
+    },
+    {
+      "id": "G3_B_031",
+      "type": "choice",
+      "question": "1943 + 2303 = ?",
+      "answer": "4246",
+      "explanation": "1943加2303等于4246",
+      "options": [
+        4235,
+        4246,
+        4272,
+        4315
+      ]
+    },
+    {
+      "id": "G3_B_032",
+      "type": "choice",
+      "question": "2894 + 1114 = ?",
+      "answer": "4008",
+      "explanation": "2894加1114等于4008",
+      "options": [
+        3981,
+        4008,
+        4044,
+        4108
+      ]
+    },
+    {
+      "id": "G3_B_033",
+      "type": "choice",
+      "question": "1238 + 952 = ?",
+      "answer": "2190",
+      "explanation": "1238加952等于2190",
+      "options": [
+        2166,
+        2190,
+        2216,
+        2288
+      ]
+    },
+    {
+      "id": "G3_B_034",
+      "type": "choice",
+      "question": "2917 + 1913 = ?",
+      "answer": "4830",
+      "explanation": "2917加1913等于4830",
+      "options": [
+        4797,
+        4830,
+        4878,
+        4882
+      ]
+    },
+    {
+      "id": "G3_B_035",
+      "type": "choice",
+      "question": "3531 + 208 = ?",
+      "answer": "3739",
+      "explanation": "3531加208等于3739",
+      "options": [
+        3716,
+        3739,
+        3754,
+        3824
+      ]
+    },
+    {
+      "id": "G3_B_036",
+      "type": "choice",
+      "question": "2543 + 421 = ?",
+      "answer": "2964",
+      "explanation": "2543加421等于2964",
+      "options": [
+        2929,
+        2964,
+        3002,
+        3054
+      ]
+    },
+    {
+      "id": "G3_B_037",
+      "type": "choice",
+      "question": "3299 + 164 = ?",
+      "answer": "3463",
+      "explanation": "3299加164等于3463",
+      "options": [
+        3446,
+        3463,
+        3489,
+        3518
+      ]
+    },
+    {
+      "id": "G3_B_038",
+      "type": "choice",
+      "question": "1336 + 469 = ?",
+      "answer": "1805",
+      "explanation": "1336加469等于1805",
+      "options": [
+        1755,
+        1805,
+        1823,
+        1879
+      ]
+    },
+    {
+      "id": "G3_B_039",
+      "type": "choice",
+      "question": "2098 + 163 = ?",
+      "answer": "2261",
+      "explanation": "2098加163等于2261",
+      "options": [
+        2229,
+        2261,
+        2298,
+        2318
+      ]
+    },
+    {
+      "id": "G3_B_040",
+      "type": "choice",
+      "question": "495 + 920 = ?",
+      "answer": "1415",
+      "explanation": "495加920等于1415",
+      "options": [
+        1385,
+        1415,
+        1451,
+        1493
+      ]
+    },
+    {
+      "id": "G3_B_041",
+      "type": "choice",
+      "question": "591 + 3859 = ?",
+      "answer": "4450",
+      "explanation": "591加3859等于4450",
+      "options": [
+        4427,
+        4450,
+        4477,
+        4532
+      ]
+    },
+    {
+      "id": "G3_B_042",
+      "type": "choice",
+      "question": "2398 + 2041 = ?",
+      "answer": "4439",
+      "explanation": "2398加2041等于4439",
+      "options": [
+        4397,
+        4439,
+        4478,
+        4495
+      ]
+    },
+    {
+      "id": "G3_B_043",
+      "type": "choice",
+      "question": "484 + 877 = ?",
+      "answer": "1361",
+      "explanation": "484加877等于1361",
+      "options": [
+        1325,
+        1361,
+        1411,
+        1427
+      ]
+    },
+    {
+      "id": "G3_B_044",
+      "type": "choice",
+      "question": "1745 + 3176 = ?",
+      "answer": "4921",
+      "explanation": "1745加3176等于4921",
+      "options": [
+        4910,
+        4921,
+        4938,
+        4989
+      ]
+    },
+    {
+      "id": "G3_B_045",
+      "type": "choice",
+      "question": "1978 + 1275 = ?",
+      "answer": "3253",
+      "explanation": "1978加1275等于3253",
+      "options": [
+        3213,
+        3253,
+        3269,
+        3305
+      ]
+    },
+    {
+      "id": "G3_B_046",
+      "type": "choice",
+      "question": "572 + 1936 = ?",
+      "answer": "2508",
+      "explanation": "572加1936等于2508",
+      "options": [
+        2481,
+        2508,
+        2538,
+        2586
+      ]
+    },
+    {
+      "id": "G3_B_047",
+      "type": "choice",
+      "question": "2000 + 259 = ?",
+      "answer": "2259",
+      "explanation": "2000加259等于2259",
+      "options": [
+        2236,
+        2259,
+        2306,
+        2326
+      ]
+    },
+    {
+      "id": "G3_B_048",
+      "type": "choice",
+      "question": "148 + 720 = ?",
+      "answer": "868",
+      "explanation": "148加720等于868",
+      "options": [
+        819,
+        868,
+        912,
+        960
+      ]
+    },
+    {
+      "id": "G3_B_049",
+      "type": "choice",
+      "question": "647 + 3194 = ?",
+      "answer": "3841",
+      "explanation": "647加3194等于3841",
+      "options": [
+        3816,
+        3841,
+        3856,
+        3907
+      ]
+    },
+    {
+      "id": "G3_B_050",
+      "type": "choice",
+      "question": "846 + 1503 = ?",
+      "answer": "2349",
+      "explanation": "846加1503等于2349",
+      "options": [
+        2309,
+        2349,
+        2368,
+        2426
+      ]
+    },
+    {
+      "id": "G3_B_051",
+      "type": "choice",
+      "question": "1306 + 1481 = ?",
+      "answer": "2787",
+      "explanation": "1306加1481等于2787",
+      "options": [
+        2738,
+        2787,
+        2827,
+        2865
+      ]
+    },
+    {
+      "id": "G3_B_052",
+      "type": "choice",
+      "question": "1974 + 373 = ?",
+      "answer": "2347",
+      "explanation": "1974加373等于2347",
+      "options": [
+        2337,
+        2347,
+        2365,
+        2438
+      ]
+    },
+    {
+      "id": "G3_B_053",
+      "type": "choice",
+      "question": "2550 + 977 = ?",
+      "answer": "3527",
+      "explanation": "2550加977等于3527",
+      "options": [
+        3512,
+        3527,
+        3577,
+        3602
+      ]
+    },
+    {
+      "id": "G3_B_054",
+      "type": "choice",
+      "question": "2320 + 1004 = ?",
+      "answer": "3324",
+      "explanation": "2320加1004等于3324",
+      "options": [
+        3298,
+        3324,
+        3343,
+        3379
+      ]
+    },
+    {
+      "id": "G3_B_055",
+      "type": "choice",
+      "question": "773 + 3542 = ?",
+      "answer": "4315",
+      "explanation": "773加3542等于4315",
+      "options": [
+        4274,
+        4315,
+        4352,
+        4386
+      ]
+    },
+    {
+      "id": "G3_B_056",
+      "type": "choice",
+      "question": "1021 + 1369 = ?",
+      "answer": "2390",
+      "explanation": "1021加1369等于2390",
+      "options": [
+        2340,
+        2390,
+        2416,
+        2452
+      ]
+    },
+    {
+      "id": "G3_B_057",
+      "type": "choice",
+      "question": "353 + 3155 = ?",
+      "answer": "3508",
+      "explanation": "353加3155等于3508",
+      "options": [
+        3458,
+        3508,
+        3558,
+        3570
+      ]
+    },
+    {
+      "id": "G3_B_058",
+      "type": "choice",
+      "question": "310 + 2338 = ?",
+      "answer": "2648",
+      "explanation": "310加2338等于2648",
+      "options": [
+        2614,
+        2648,
+        2673,
+        2713
+      ]
+    },
+    {
+      "id": "G3_B_059",
+      "type": "choice",
+      "question": "3735 - 1325 = ?",
+      "answer": "2410",
+      "explanation": "3735减1325等于2410",
+      "options": [
+        2379,
+        2410,
+        2449,
+        2463
+      ]
+    },
+    {
+      "id": "G3_B_060",
+      "type": "choice",
+      "question": "4738 - 1952 = ?",
+      "answer": "2786",
+      "explanation": "4738减1952等于2786",
+      "options": [
+        2759,
+        2786,
+        2799,
+        2882
+      ]
+    },
+    {
+      "id": "G3_B_061",
+      "type": "choice",
+      "question": "2264 - 160 = ?",
+      "answer": "2104",
+      "explanation": "2264减160等于2104",
+      "options": [
+        2059,
+        2104,
+        2146,
+        2200
+      ]
+    },
+    {
+      "id": "G3_B_062",
+      "type": "choice",
+      "question": "3027 - 1337 = ?",
+      "answer": "1690",
+      "explanation": "3027减1337等于1690",
+      "options": [
+        1665,
+        1690,
+        1736,
+        1757
+      ]
+    },
+    {
+      "id": "G3_B_063",
+      "type": "choice",
+      "question": "3776 - 3482 = ?",
+      "answer": "294",
+      "explanation": "3776减3482等于294",
+      "options": [
+        251,
+        294,
+        341,
+        377
+      ]
+    },
+    {
+      "id": "G3_B_064",
+      "type": "choice",
+      "question": "4568 - 4527 = ?",
+      "answer": "41",
+      "explanation": "4568减4527等于41",
+      "options": [
+        0,
+        41,
+        81,
+        123
+      ]
+    },
+    {
+      "id": "G3_B_065",
+      "type": "choice",
+      "question": "3847 - 282 = ?",
+      "answer": "3565",
+      "explanation": "3847减282等于3565",
+      "options": [
+        3519,
+        3565,
+        3603,
+        3638
+      ]
+    },
+    {
+      "id": "G3_B_066",
+      "type": "choice",
+      "question": "3778 - 1786 = ?",
+      "answer": "1992",
+      "explanation": "3778减1786等于1992",
+      "options": [
+        1981,
+        1992,
+        2008,
+        2090
+      ]
+    },
+    {
+      "id": "G3_B_067",
+      "type": "choice",
+      "question": "2057 - 1565 = ?",
+      "answer": "492",
+      "explanation": "2057减1565等于492",
+      "options": [
+        465,
+        492,
+        531,
+        586
+      ]
+    },
+    {
+      "id": "G3_B_068",
+      "type": "choice",
+      "question": "2685 - 1777 = ?",
+      "answer": "908",
+      "explanation": "2685减1777等于908",
+      "options": [
+        879,
+        908,
+        957,
+        965
+      ]
+    },
+    {
+      "id": "G3_B_069",
+      "type": "choice",
+      "question": "2097 - 1473 = ?",
+      "answer": "624",
+      "explanation": "2097减1473等于624",
+      "options": [
+        583,
+        624,
+        666,
+        700
+      ]
+    },
+    {
+      "id": "G3_B_070",
+      "type": "choice",
+      "question": "4058 - 1829 = ?",
+      "answer": "2229",
+      "explanation": "4058减1829等于2229",
+      "options": [
+        2201,
+        2229,
+        2277,
+        2319
+      ]
+    },
+    {
+      "id": "G3_B_071",
+      "type": "choice",
+      "question": "1394 - 257 = ?",
+      "answer": "1137",
+      "explanation": "1394减257等于1137",
+      "options": [
+        1104,
+        1137,
+        1183,
+        1229
+      ]
+    },
+    {
+      "id": "G3_B_072",
+      "type": "choice",
+      "question": "4982 - 1313 = ?",
+      "answer": "3669",
+      "explanation": "4982减1313等于3669",
+      "options": [
+        3634,
+        3669,
+        3705,
+        3720
+      ]
+    },
+    {
+      "id": "G3_B_073",
+      "type": "choice",
+      "question": "1749 - 1595 = ?",
+      "answer": "154",
+      "explanation": "1749减1595等于154",
+      "options": [
+        113,
+        154,
+        191,
+        207
+      ]
+    },
+    {
+      "id": "G3_B_074",
+      "type": "choice",
+      "question": "4603 - 2798 = ?",
+      "answer": "1805",
+      "explanation": "4603减2798等于1805",
+      "options": [
+        1789,
+        1805,
+        1848,
+        1867
+      ]
+    },
+    {
+      "id": "G3_B_075",
+      "type": "choice",
+      "question": "3213 - 1158 = ?",
+      "answer": "2055",
+      "explanation": "3213减1158等于2055",
+      "options": [
+        2016,
+        2055,
+        2082,
+        2152
+      ]
+    },
+    {
+      "id": "G3_B_076",
+      "type": "choice",
+      "question": "3196 - 1152 = ?",
+      "answer": "2044",
+      "explanation": "3196减1152等于2044",
+      "options": [
+        1998,
+        2044,
+        2085,
+        2137
+      ]
+    },
+    {
+      "id": "G3_B_077",
+      "type": "choice",
+      "question": "4899 - 2509 = ?",
+      "answer": "2390",
+      "explanation": "4899减2509等于2390",
+      "options": [
+        2347,
+        2390,
+        2408,
+        2465
+      ]
+    },
+    {
+      "id": "G3_B_078",
+      "type": "choice",
+      "question": "4092 - 1102 = ?",
+      "answer": "2990",
+      "explanation": "4092减1102等于2990",
+      "options": [
+        2945,
+        2990,
+        3031,
+        3049
+      ]
+    },
+    {
+      "id": "G3_B_079",
+      "type": "choice",
+      "question": "4231 - 1907 = ?",
+      "answer": "2324",
+      "explanation": "4231减1907等于2324",
+      "options": [
+        2276,
+        2324,
+        2339,
+        2406
+      ]
+    },
+    {
+      "id": "G3_B_080",
+      "type": "choice",
+      "question": "2690 - 481 = ?",
+      "answer": "2209",
+      "explanation": "2690减481等于2209",
+      "options": [
+        2186,
+        2209,
+        2223,
+        2273
+      ]
+    },
+    {
+      "id": "G3_B_081",
+      "type": "choice",
+      "question": "2544 - 819 = ?",
+      "answer": "1725",
+      "explanation": "2544减819等于1725",
+      "options": [
+        1681,
+        1725,
+        1771,
+        1794
+      ]
+    },
+    {
+      "id": "G3_B_082",
+      "type": "choice",
+      "question": "3824 - 2680 = ?",
+      "answer": "1144",
+      "explanation": "3824减2680等于1144",
+      "options": [
+        1111,
+        1144,
+        1186,
+        1232
+      ]
+    },
+    {
+      "id": "G3_B_083",
+      "type": "choice",
+      "question": "4930 - 2101 = ?",
+      "answer": "2829",
+      "explanation": "4930减2101等于2829",
+      "options": [
+        2815,
+        2829,
+        2855,
+        2912
+      ]
+    },
+    {
+      "id": "G3_B_084",
+      "type": "choice",
+      "question": "3712 - 2299 = ?",
+      "answer": "1413",
+      "explanation": "3712减2299等于1413",
+      "options": [
+        1383,
+        1413,
+        1463,
+        1493
+      ]
+    },
+    {
+      "id": "G3_B_085",
+      "type": "choice",
+      "question": "4811 - 1956 = ?",
+      "answer": "2855",
+      "explanation": "4811减1956等于2855",
+      "options": [
+        2808,
+        2855,
+        2879,
+        2918
+      ]
+    },
+    {
+      "id": "G3_B_086",
+      "type": "choice",
+      "question": "2839 - 1559 = ?",
+      "answer": "1280",
+      "explanation": "2839减1559等于1280",
+      "options": [
+        1237,
+        1280,
+        1296,
+        1380
+      ]
+    },
+    {
+      "id": "G3_B_087",
+      "type": "choice",
+      "question": "3931 - 1260 = ?",
+      "answer": "2671",
+      "explanation": "3931减1260等于2671",
+      "options": [
+        2638,
+        2671,
+        2681,
+        2723
+      ]
+    },
+    {
+      "id": "G3_B_088",
+      "type": "choice",
+      "question": "1254 - 1146 = ?",
+      "answer": "108",
+      "explanation": "1254减1146等于108",
+      "options": [
+        62,
+        108,
+        129,
+        198
+      ]
+    },
+    {
+      "id": "G3_B_089",
+      "type": "choice",
+      "question": "2276 - 1377 = ?",
+      "answer": "899",
+      "explanation": "2276减1377等于899",
+      "options": [
+        875,
+        899,
+        921,
+        972
+      ]
+    },
+    {
+      "id": "G3_B_090",
+      "type": "choice",
+      "question": "3261 - 1089 = ?",
+      "answer": "2172",
+      "explanation": "3261减1089等于2172",
+      "options": [
+        2126,
+        2172,
+        2211,
+        2258
+      ]
+    },
+    {
+      "id": "G3_B_091",
+      "type": "choice",
+      "question": "4277 - 1736 = ?",
+      "answer": "2541",
+      "explanation": "4277减1736等于2541",
+      "options": [
+        2522,
+        2541,
+        2589,
+        2595
+      ]
+    },
+    {
+      "id": "G3_B_092",
+      "type": "choice",
+      "question": "3707 - 527 = ?",
+      "answer": "3180",
+      "explanation": "3707减527等于3180",
+      "options": [
+        3142,
+        3180,
+        3202,
+        3270
+      ]
+    },
+    {
+      "id": "G3_B_093",
+      "type": "choice",
+      "question": "2939 - 1665 = ?",
+      "answer": "1274",
+      "explanation": "2939减1665等于1274",
+      "options": [
+        1257,
+        1274,
+        1299,
+        1330
+      ]
+    },
+    {
+      "id": "G3_B_094",
+      "type": "choice",
+      "question": "3953 - 2397 = ?",
+      "answer": "1556",
+      "explanation": "3953减2397等于1556",
+      "options": [
+        1508,
+        1556,
+        1595,
+        1649
+      ]
+    },
+    {
+      "id": "G3_B_095",
+      "type": "choice",
+      "question": "4883 - 451 = ?",
+      "answer": "4432",
+      "explanation": "4883减451等于4432",
+      "options": [
+        4385,
+        4432,
+        4476,
+        4514
+      ]
+    },
+    {
+      "id": "G3_B_096",
+      "type": "choice",
+      "question": "4516 - 1588 = ?",
+      "answer": "2928",
+      "explanation": "4516减1588等于2928",
+      "options": [
+        2890,
+        2928,
+        2968,
+        2985
+      ]
+    },
+    {
+      "id": "G3_B_097",
+      "type": "choice",
+      "question": "4469 - 2635 = ?",
+      "answer": "1834",
+      "explanation": "4469减2635等于1834",
+      "options": [
+        1797,
+        1834,
+        1876,
+        1926
+      ]
+    },
+    {
+      "id": "G3_B_098",
+      "type": "choice",
+      "question": "3416 - 1830 = ?",
+      "answer": "1586",
+      "explanation": "3416减1830等于1586",
+      "options": [
+        1576,
+        1586,
+        1630,
+        1656
+      ]
+    },
+    {
+      "id": "G3_B_099",
+      "type": "choice",
+      "question": "3044 - 1723 = ?",
+      "answer": "1321",
+      "explanation": "3044减1723等于1321",
+      "options": [
+        1311,
+        1321,
+        1348,
+        1394
+      ]
+    },
+    {
+      "id": "G3_B_100",
+      "type": "choice",
+      "question": "4653 - 2264 = ?",
+      "answer": "2389",
+      "explanation": "4653减2264等于2389",
+      "options": [
+        2379,
+        2389,
+        2415,
+        2444
+      ]
+    },
+    {
+      "id": "G3_B_101",
+      "type": "choice",
+      "question": "4213 - 2051 = ?",
+      "answer": "2162",
+      "explanation": "4213减2051等于2162",
+      "options": [
+        2122,
+        2162,
+        2203,
+        2220
+      ]
+    },
+    {
+      "id": "G3_B_102",
+      "type": "choice",
+      "question": "4648 - 4243 = ?",
+      "answer": "405",
+      "explanation": "4648减4243等于405",
+      "options": [
+        392,
+        405,
+        432,
+        456
+      ]
+    },
+    {
+      "id": "G3_B_103",
+      "type": "choice",
+      "question": "1180 - 126 = ?",
+      "answer": "1054",
+      "explanation": "1180减126等于1054",
+      "options": [
+        1021,
+        1054,
+        1089,
+        1107
+      ]
+    },
+    {
+      "id": "G3_B_104",
+      "type": "choice",
+      "question": "1510 - 153 = ?",
+      "answer": "1357",
+      "explanation": "1510减153等于1357",
+      "options": [
+        1343,
+        1357,
+        1390,
+        1423
+      ]
+    },
+    {
+      "id": "G3_B_105",
+      "type": "choice",
+      "question": "3557 - 2144 = ?",
+      "answer": "1413",
+      "explanation": "3557减2144等于1413",
+      "options": [
+        1381,
+        1413,
+        1434,
+        1468
+      ]
+    },
+    {
+      "id": "G3_B_106",
+      "type": "choice",
+      "question": "4971 - 4765 = ?",
+      "answer": "206",
+      "explanation": "4971减4765等于206",
+      "options": [
+        195,
+        206,
+        247,
+        271
+      ]
+    },
+    {
+      "id": "G3_B_107",
+      "type": "choice",
+      "question": "4427 - 1255 = ?",
+      "answer": "3172",
+      "explanation": "4427减1255等于3172",
+      "options": [
+        3138,
+        3172,
+        3191,
+        3240
+      ]
+    },
+    {
+      "id": "G3_B_108",
+      "type": "choice",
+      "question": "2253 - 1369 = ?",
+      "answer": "884",
+      "explanation": "2253减1369等于884",
+      "options": [
+        869,
+        884,
+        909,
+        976
+      ]
+    },
+    {
+      "id": "G3_B_109",
+      "type": "choice",
+      "question": "4036 - 2003 = ?",
+      "answer": "2033",
+      "explanation": "4036减2003等于2033",
+      "options": [
+        2012,
+        2033,
+        2077,
+        2117
+      ]
+    },
+    {
+      "id": "G3_B_110",
+      "type": "choice",
+      "question": "2320 - 2298 = ?",
+      "answer": "22",
+      "explanation": "2320减2298等于22",
+      "options": [
+        0,
+        22,
+        63,
+        93
+      ]
+    },
+    {
+      "id": "G3_B_111",
+      "type": "choice",
+      "question": "4875 - 4136 = ?",
+      "answer": "739",
+      "explanation": "4875减4136等于739",
+      "options": [
+        729,
+        739,
+        770,
+        796
+      ]
+    },
+    {
+      "id": "G3_B_112",
+      "type": "choice",
+      "question": "3707 - 3255 = ?",
+      "answer": "452",
+      "explanation": "3707减3255等于452",
+      "options": [
+        418,
+        452,
+        495,
+        531
+      ]
+    },
+    {
+      "id": "G3_B_113",
+      "type": "choice",
+      "question": "3566 - 961 = ?",
+      "answer": "2605",
+      "explanation": "3566减961等于2605",
+      "options": [
+        2569,
+        2605,
+        2650,
+        2679
+      ]
+    },
+    {
+      "id": "G3_B_114",
+      "type": "choice",
+      "question": "4608 - 430 = ?",
+      "answer": "4178",
+      "explanation": "4608减430等于4178",
+      "options": [
+        4140,
+        4178,
+        4188,
+        4244
+      ]
+    },
+    {
+      "id": "G3_B_115",
+      "type": "choice",
+      "question": "2287 - 1675 = ?",
+      "answer": "612",
+      "explanation": "2287减1675等于612",
+      "options": [
+        566,
+        612,
+        643,
+        680
+      ]
+    },
+    {
+      "id": "G3_B_116",
+      "type": "choice",
+      "question": "4200 - 2002 = ?",
+      "answer": "2198",
+      "explanation": "4200减2002等于2198",
+      "options": [
+        2178,
+        2198,
+        2209,
+        2277
+      ]
+    },
+    {
+      "id": "G3_B_117",
+      "type": "choice",
+      "question": "3874 - 545 = ?",
+      "answer": "3329",
+      "explanation": "3874减545等于3329",
+      "options": [
+        3291,
+        3329,
+        3378,
+        3400
+      ]
+    },
+    {
+      "id": "G3_B_118",
+      "type": "choice",
+      "question": "1787 - 1537 = ?",
+      "answer": "250",
+      "explanation": "1787减1537等于250",
+      "options": [
+        239,
+        250,
+        260,
+        328
+      ]
+    },
+    {
+      "id": "G3_B_119",
+      "type": "choice",
+      "question": "4885 - 3321 = ?",
+      "answer": "1564",
+      "explanation": "4885减3321等于1564",
+      "options": [
+        1516,
+        1564,
+        1598,
+        1648
+      ]
+    },
+    {
+      "id": "G3_B_120",
+      "type": "choice",
+      "question": "4924 - 3101 = ?",
+      "answer": "1823",
+      "explanation": "4924减3101等于1823",
+      "options": [
+        1792,
+        1823,
+        1861,
+        1877
+      ]
+    },
+    {
+      "id": "G3_B_121",
+      "type": "choice",
+      "question": "2797 - 1019 = ?",
+      "answer": "1778",
+      "explanation": "2797减1019等于1778",
+      "options": [
+        1740,
+        1778,
+        1797,
+        1877
+      ]
+    },
+    {
+      "id": "G3_B_122",
+      "type": "choice",
+      "question": "4501 - 3885 = ?",
+      "answer": "616",
+      "explanation": "4501减3885等于616",
+      "options": [
+        589,
+        616,
+        641,
+        681
+      ]
+    },
+    {
+      "id": "G3_B_123",
+      "type": "choice",
+      "question": "2159 - 984 = ?",
+      "answer": "1175",
+      "explanation": "2159减984等于1175",
+      "options": [
+        1155,
+        1175,
+        1224,
+        1228
+      ]
+    },
+    {
+      "id": "G3_B_124",
+      "type": "choice",
+      "question": "4884 - 1021 = ?",
+      "answer": "3863",
+      "explanation": "4884减1021等于3863",
+      "options": [
+        3815,
+        3863,
+        3878,
+        3944
+      ]
+    },
+    {
+      "id": "G3_B_125",
+      "type": "choice",
+      "question": "1417 - 377 = ?",
+      "answer": "1040",
+      "explanation": "1417减377等于1040",
+      "options": [
+        1020,
+        1040,
+        1061,
+        1133
+      ]
+    },
+    {
+      "id": "G3_B_126",
+      "type": "choice",
+      "question": "3470 - 2493 = ?",
+      "answer": "977",
+      "explanation": "3470减2493等于977",
+      "options": [
+        950,
+        977,
+        1023,
+        1032
+      ]
+    },
+    {
+      "id": "G3_B_127",
+      "type": "choice",
+      "question": "4699 - 2355 = ?",
+      "answer": "2344",
+      "explanation": "4699减2355等于2344",
+      "options": [
+        2311,
+        2344,
+        2382,
+        2421
+      ]
+    },
+    {
+      "id": "G3_B_128",
+      "type": "choice",
+      "question": "2553 - 1820 = ?",
+      "answer": "733",
+      "explanation": "2553减1820等于733",
+      "options": [
+        721,
+        733,
+        759,
+        824
+      ]
+    },
+    {
+      "id": "G3_B_129",
+      "type": "choice",
+      "question": "2908 - 576 = ?",
+      "answer": "2332",
+      "explanation": "2908减576等于2332",
+      "options": [
+        2299,
+        2332,
+        2371,
+        2409
+      ]
+    },
+    {
+      "id": "G3_B_130",
+      "type": "choice",
+      "question": "2475 - 106 = ?",
+      "answer": "2369",
+      "explanation": "2475减106等于2369",
+      "options": [
+        2354,
+        2369,
+        2414,
+        2464
+      ]
+    },
+    {
+      "id": "G3_B_131",
+      "type": "choice",
+      "question": "4662 - 2725 = ?",
+      "answer": "1937",
+      "explanation": "4662减2725等于1937",
+      "options": [
+        1896,
+        1937,
+        1972,
+        2023
+      ]
+    },
+    {
+      "id": "G3_B_132",
+      "type": "choice",
+      "question": "532 - 102 = ?",
+      "answer": "430",
+      "explanation": "532减102等于430",
+      "options": [
+        384,
+        430,
+        447,
+        487
+      ]
+    },
+    {
+      "id": "G3_B_133",
+      "type": "choice",
+      "question": "2354 - 1326 = ?",
+      "answer": "1028",
+      "explanation": "2354减1326等于1028",
+      "options": [
+        990,
+        1028,
+        1067,
+        1112
+      ]
+    },
+    {
+      "id": "G3_B_134",
+      "type": "choice",
+      "question": "785 × 4 = ?",
+      "answer": "3140",
+      "explanation": "785乘以4等于3140",
+      "options": [
+        3101,
+        3140,
+        3172,
+        3224
+      ]
+    },
+    {
+      "id": "G3_B_135",
+      "type": "choice",
+      "question": "378 × 5 = ?",
+      "answer": "1890",
+      "explanation": "378乘以5等于1890",
+      "options": [
+        1865,
+        1890,
+        1911,
+        1951
+      ]
+    },
+    {
+      "id": "G3_B_136",
+      "type": "choice",
+      "question": "831 × 3 = ?",
+      "answer": "2493",
+      "explanation": "831乘以3等于2493",
+      "options": [
+        2483,
+        2493,
+        2504,
+        2574
+      ]
+    },
+    {
+      "id": "G3_B_137",
+      "type": "choice",
+      "question": "578 × 9 = ?",
+      "answer": "5202",
+      "explanation": "578乘以9等于5202",
+      "options": [
+        5172,
+        5202,
+        5249,
+        5268
+      ]
+    },
+    {
+      "id": "G3_B_138",
+      "type": "choice",
+      "question": "736 × 7 = ?",
+      "answer": "5152",
+      "explanation": "736乘以7等于5152",
+      "options": [
+        5103,
+        5152,
+        5174,
+        5228
+      ]
+    },
+    {
+      "id": "G3_B_139",
+      "type": "choice",
+      "question": "627 × 4 = ?",
+      "answer": "2508",
+      "explanation": "627乘以4等于2508",
+      "options": [
+        2465,
+        2508,
+        2546,
+        2565
+      ]
+    },
+    {
+      "id": "G3_B_140",
+      "type": "choice",
+      "question": "146 × 7 = ?",
+      "answer": "1022",
+      "explanation": "146乘以7等于1022",
+      "options": [
+        1011,
+        1022,
+        1069,
+        1093
+      ]
+    },
+    {
+      "id": "G3_B_141",
+      "type": "choice",
+      "question": "392 × 8 = ?",
+      "answer": "3136",
+      "explanation": "392乘以8等于3136",
+      "options": [
+        3099,
+        3136,
+        3150,
+        3197
+      ]
+    },
+    {
+      "id": "G3_B_142",
+      "type": "choice",
+      "question": "639 × 5 = ?",
+      "answer": "3195",
+      "explanation": "639乘以5等于3195",
+      "options": [
+        3179,
+        3195,
+        3210,
+        3276
+      ]
+    },
+    {
+      "id": "G3_B_143",
+      "type": "choice",
+      "question": "358 × 8 = ?",
+      "answer": "2864",
+      "explanation": "358乘以8等于2864",
+      "options": [
+        2843,
+        2864,
+        2879,
+        2962
+      ]
+    },
+    {
+      "id": "G3_B_144",
+      "type": "choice",
+      "question": "682 × 3 = ?",
+      "answer": "2046",
+      "explanation": "682乘以3等于2046",
+      "options": [
+        2004,
+        2046,
+        2067,
+        2133
+      ]
+    },
+    {
+      "id": "G3_B_145",
+      "type": "choice",
+      "question": "773 × 4 = ?",
+      "answer": "3092",
+      "explanation": "773乘以4等于3092",
+      "options": [
+        3078,
+        3092,
+        3117,
+        3179
+      ]
+    },
+    {
+      "id": "G3_B_146",
+      "type": "choice",
+      "question": "860 × 4 = ?",
+      "answer": "3440",
+      "explanation": "860乘以4等于3440",
+      "options": [
+        3423,
+        3440,
+        3481,
+        3496
+      ]
+    },
+    {
+      "id": "G3_B_147",
+      "type": "choice",
+      "question": "823 × 9 = ?",
+      "answer": "7407",
+      "explanation": "823乘以9等于7407",
+      "options": [
+        7357,
+        7407,
+        7426,
+        7485
+      ]
+    },
+    {
+      "id": "G3_B_148",
+      "type": "choice",
+      "question": "802 × 8 = ?",
+      "answer": "6416",
+      "explanation": "802乘以8等于6416",
+      "options": [
+        6376,
+        6416,
+        6441,
+        6504
+      ]
+    },
+    {
+      "id": "G3_B_149",
+      "type": "choice",
+      "question": "235 × 4 = ?",
+      "answer": "940",
+      "explanation": "235乘以4等于940",
+      "options": [
+        919,
+        940,
+        964,
+        1004
+      ]
+    },
+    {
+      "id": "G3_B_150",
+      "type": "choice",
+      "question": "521 × 4 = ?",
+      "answer": "2084",
+      "explanation": "521乘以4等于2084",
+      "options": [
+        2060,
+        2084,
+        2121,
+        2176
+      ]
+    },
+    {
+      "id": "G3_B_151",
+      "type": "choice",
+      "question": "978 × 5 = ?",
+      "answer": "4890",
+      "explanation": "978乘以5等于4890",
+      "options": [
+        4877,
+        4890,
+        4902,
+        4954
+      ]
+    },
+    {
+      "id": "G3_B_152",
+      "type": "choice",
+      "question": "353 × 5 = ?",
+      "answer": "1765",
+      "explanation": "353乘以5等于1765",
+      "options": [
+        1753,
+        1765,
+        1792,
+        1843
+      ]
+    },
+    {
+      "id": "G3_B_153",
+      "type": "choice",
+      "question": "706 × 6 = ?",
+      "answer": "4236",
+      "explanation": "706乘以6等于4236",
+      "options": [
+        4198,
+        4236,
+        4280,
+        4290
+      ]
+    },
+    {
+      "id": "G3_B_154",
+      "type": "choice",
+      "question": "610 × 2 = ?",
+      "answer": "1220",
+      "explanation": "610乘以2等于1220",
+      "options": [
+        1196,
+        1220,
+        1256,
+        1307
+      ]
+    },
+    {
+      "id": "G3_B_155",
+      "type": "choice",
+      "question": "572 × 7 = ?",
+      "answer": "4004",
+      "explanation": "572乘以7等于4004",
+      "options": [
+        3980,
+        4004,
+        4046,
+        4056
+      ]
+    },
+    {
+      "id": "G3_B_156",
+      "type": "choice",
+      "question": "431 × 4 = ?",
+      "answer": "1724",
+      "explanation": "431乘以4等于1724",
+      "options": [
+        1684,
+        1724,
+        1749,
+        1780
+      ]
+    },
+    {
+      "id": "G3_B_157",
+      "type": "choice",
+      "question": "936 × 7 = ?",
+      "answer": "6552",
+      "explanation": "936乘以7等于6552",
+      "options": [
+        6540,
+        6552,
+        6573,
+        6649
+      ]
+    },
+    {
+      "id": "G3_B_158",
+      "type": "choice",
+      "question": "164 × 8 = ?",
+      "answer": "1312",
+      "explanation": "164乘以8等于1312",
+      "options": [
+        1299,
+        1312,
+        1337,
+        1367
+      ]
+    },
+    {
+      "id": "G3_B_159",
+      "type": "choice",
+      "question": "599 × 5 = ?",
+      "answer": "2995",
+      "explanation": "599乘以5等于2995",
+      "options": [
+        2960,
+        2995,
+        3007,
+        3083
+      ]
+    },
+    {
+      "id": "G3_B_160",
+      "type": "choice",
+      "question": "62 × 2 = ?",
+      "answer": "124",
+      "explanation": "62乘以2等于124",
+      "options": [
+        85,
+        124,
+        145,
+        193
+      ]
+    },
+    {
+      "id": "G3_B_161",
+      "type": "choice",
+      "question": "805 × 8 = ?",
+      "answer": "6440",
+      "explanation": "805乘以8等于6440",
+      "options": [
+        6397,
+        6440,
+        6482,
+        6514
+      ]
+    },
+    {
+      "id": "G3_B_162",
+      "type": "choice",
+      "question": "354 × 5 = ?",
+      "answer": "1770",
+      "explanation": "354乘以5等于1770",
+      "options": [
+        1752,
+        1770,
+        1792,
+        1839
+      ]
+    },
+    {
+      "id": "G3_B_163",
+      "type": "choice",
+      "question": "437 × 2 = ?",
+      "answer": "874",
+      "explanation": "437乘以2等于874",
+      "options": [
+        841,
+        874,
+        899,
+        947
+      ]
+    },
+    {
+      "id": "G3_B_164",
+      "type": "choice",
+      "question": "845 × 2 = ?",
+      "answer": "1690",
+      "explanation": "845乘以2等于1690",
+      "options": [
+        1652,
+        1690,
+        1738,
+        1769
+      ]
+    },
+    {
+      "id": "G3_B_165",
+      "type": "choice",
+      "question": "934 × 8 = ?",
+      "answer": "7472",
+      "explanation": "934乘以8等于7472",
+      "options": [
+        7439,
+        7472,
+        7509,
+        7565
+      ]
+    },
+    {
+      "id": "G3_B_166",
+      "type": "choice",
+      "question": "535 × 3 = ?",
+      "answer": "1605",
+      "explanation": "535乘以3等于1605",
+      "options": [
+        1590,
+        1605,
+        1638,
+        1667
+      ]
+    },
+    {
+      "id": "G3_B_167",
+      "type": "choice",
+      "question": "279 × 5 = ?",
+      "answer": "1395",
+      "explanation": "279乘以5等于1395",
+      "options": [
+        1357,
+        1395,
+        1411,
+        1477
+      ]
+    },
+    {
+      "id": "G3_B_168",
+      "type": "choice",
+      "question": "550 × 7 = ?",
+      "answer": "3850",
+      "explanation": "550乘以7等于3850",
+      "options": [
+        3834,
+        3850,
+        3883,
+        3912
+      ]
+    },
+    {
+      "id": "G3_B_169",
+      "type": "choice",
+      "question": "583 × 6 = ?",
+      "answer": "3498",
+      "explanation": "583乘以6等于3498",
+      "options": [
+        3451,
+        3498,
+        3512,
+        3594
+      ]
+    },
+    {
+      "id": "G3_B_170",
+      "type": "choice",
+      "question": "976 × 8 = ?",
+      "answer": "7808",
+      "explanation": "976乘以8等于7808",
+      "options": [
+        7766,
+        7808,
+        7826,
+        7884
+      ]
+    },
+    {
+      "id": "G3_B_171",
+      "type": "choice",
+      "question": "22 × 5 = ?",
+      "answer": "110",
+      "explanation": "22乘以5等于110",
+      "options": [
+        93,
+        110,
+        158,
+        208
+      ]
+    },
+    {
+      "id": "G3_B_172",
+      "type": "choice",
+      "question": "986 × 7 = ?",
+      "answer": "6902",
+      "explanation": "986乘以7等于6902",
+      "options": [
+        6855,
+        6902,
+        6950,
+        6991
+      ]
+    },
+    {
+      "id": "G3_B_173",
+      "type": "choice",
+      "question": "132 × 3 = ?",
+      "answer": "396",
+      "explanation": "132乘以3等于396",
+      "options": [
+        355,
+        396,
+        442,
+        481
+      ]
+    },
+    {
+      "id": "G3_B_174",
+      "type": "choice",
+      "question": "554 × 5 = ?",
+      "answer": "2770",
+      "explanation": "554乘以5等于2770",
+      "options": [
+        2736,
+        2770,
+        2797,
+        2838
+      ]
+    },
+    {
+      "id": "G3_B_175",
+      "type": "choice",
+      "question": "494 × 3 = ?",
+      "answer": "1482",
+      "explanation": "494乘以3等于1482",
+      "options": [
+        1440,
+        1482,
+        1494,
+        1579
+      ]
+    },
+    {
+      "id": "G3_B_176",
+      "type": "choice",
+      "question": "252 × 2 = ?",
+      "answer": "504",
+      "explanation": "252乘以2等于504",
+      "options": [
+        488,
+        504,
+        517,
+        583
+      ]
+    },
+    {
+      "id": "G3_B_177",
+      "type": "choice",
+      "question": "959 × 4 = ?",
+      "answer": "3836",
+      "explanation": "959乘以4等于3836",
+      "options": [
+        3787,
+        3836,
+        3865,
+        3908
+      ]
+    },
+    {
+      "id": "G3_B_178",
+      "type": "choice",
+      "question": "244 × 8 = ?",
+      "answer": "1952",
+      "explanation": "244乘以8等于1952",
+      "options": [
+        1935,
+        1952,
+        1991,
+        2045
+      ]
+    },
+    {
+      "id": "G3_B_179",
+      "type": "choice",
+      "question": "578 × 6 = ?",
+      "answer": "3468",
+      "explanation": "578乘以6等于3468",
+      "options": [
+        3422,
+        3468,
+        3501,
+        3543
+      ]
+    },
+    {
+      "id": "G3_B_180",
+      "type": "choice",
+      "question": "236 × 4 = ?",
+      "answer": "944",
+      "explanation": "236乘以4等于944",
+      "options": [
+        894,
+        944,
+        985,
+        1006
+      ]
+    },
+    {
+      "id": "G3_B_181",
+      "type": "choice",
+      "question": "403 × 5 = ?",
+      "answer": "2015",
+      "explanation": "403乘以5等于2015",
+      "options": [
+        1994,
+        2015,
+        2041,
+        2113
+      ]
+    },
+    {
+      "id": "G3_B_182",
+      "type": "choice",
+      "question": "874 × 6 = ?",
+      "answer": "5244",
+      "explanation": "874乘以6等于5244",
+      "options": [
+        5197,
+        5244,
+        5294,
+        5302
+      ]
+    },
+    {
+      "id": "G3_B_183",
+      "type": "choice",
+      "question": "21 × 3 = ?",
+      "answer": "63",
+      "explanation": "21乘以3等于63",
+      "options": [
+        28,
+        63,
+        93,
+        157
+      ]
+    },
+    {
+      "id": "G3_B_184",
+      "type": "choice",
+      "question": "483 × 3 = ?",
+      "answer": "1449",
+      "explanation": "483乘以3等于1449",
+      "options": [
+        1413,
+        1449,
+        1477,
+        1515
+      ]
+    },
+    {
+      "id": "G3_B_185",
+      "type": "choice",
+      "question": "269 × 2 = ?",
+      "answer": "538",
+      "explanation": "269乘以2等于538",
+      "options": [
+        489,
+        538,
+        549,
+        618
+      ]
+    },
+    {
+      "id": "G3_B_186",
+      "type": "choice",
+      "question": "170 × 5 = ?",
+      "answer": "850",
+      "explanation": "170乘以5等于850",
+      "options": [
+        823,
+        850,
+        870,
+        948
+      ]
+    },
+    {
+      "id": "G3_B_187",
+      "type": "choice",
+      "question": "915 × 9 = ?",
+      "answer": "8235",
+      "explanation": "915乘以9等于8235",
+      "options": [
+        8218,
+        8235,
+        8255,
+        8325
+      ]
+    },
+    {
+      "id": "G3_B_188",
+      "type": "choice",
+      "question": "34 × 7 = ?",
+      "answer": "238",
+      "explanation": "34乘以7等于238",
+      "options": [
+        217,
+        238,
+        266,
+        320
+      ]
+    },
+    {
+      "id": "G3_B_189",
+      "type": "choice",
+      "question": "899 × 7 = ?",
+      "answer": "6293",
+      "explanation": "899乘以7等于6293",
+      "options": [
+        6279,
+        6293,
+        6311,
+        6347
+      ]
+    },
+    {
+      "id": "G3_B_190",
+      "type": "choice",
+      "question": "76 × 3 = ?",
+      "answer": "228",
+      "explanation": "76乘以3等于228",
+      "options": [
+        203,
+        228,
+        262,
+        296
+      ]
+    },
+    {
+      "id": "G3_B_191",
+      "type": "choice",
+      "question": "568 × 8 = ?",
+      "answer": "4544",
+      "explanation": "568乘以8等于4544",
+      "options": [
+        4502,
+        4544,
+        4574,
+        4621
+      ]
+    },
+    {
+      "id": "G3_B_192",
+      "type": "choice",
+      "question": "215 × 9 = ?",
+      "answer": "1935",
+      "explanation": "215乘以9等于1935",
+      "options": [
+        1912,
+        1935,
+        1945,
+        1993
+      ]
+    },
+    {
+      "id": "G3_B_193",
+      "type": "choice",
+      "question": "46 × 7 = ?",
+      "answer": "322",
+      "explanation": "46乘以7等于322",
+      "options": [
+        284,
+        322,
+        341,
+        416
+      ]
+    },
+    {
+      "id": "G3_B_194",
+      "type": "choice",
+      "question": "315 × 2 = ?",
+      "answer": "630",
+      "explanation": "315乘以2等于630",
+      "options": [
+        586,
+        630,
+        648,
+        684
+      ]
+    },
+    {
+      "id": "G3_B_195",
+      "type": "choice",
+      "question": "361 × 2 = ?",
+      "answer": "722",
+      "explanation": "361乘以2等于722",
+      "options": [
+        707,
+        722,
+        747,
+        822
+      ]
+    },
+    {
+      "id": "G3_B_196",
+      "type": "choice",
+      "question": "242 × 3 = ?",
+      "answer": "726",
+      "explanation": "242乘以3等于726",
+      "options": [
+        698,
+        726,
+        771,
+        795
+      ]
+    },
+    {
+      "id": "G3_B_197",
+      "type": "choice",
+      "question": "220 × 5 = ?",
+      "answer": "1100",
+      "explanation": "220乘以5等于1100",
+      "options": [
+        1064,
+        1100,
+        1138,
+        1160
+      ]
+    },
+    {
+      "id": "G3_B_198",
+      "type": "choice",
+      "question": "914 × 8 = ?",
+      "answer": "7312",
+      "explanation": "914乘以8等于7312",
+      "options": [
+        7280,
+        7312,
+        7342,
+        7392
+      ]
+    },
+    {
+      "id": "G3_B_199",
+      "type": "choice",
+      "question": "108 × 9 = ?",
+      "answer": "972",
+      "explanation": "108乘以9等于972",
+      "options": [
+        944,
+        972,
+        984,
+        1044
+      ]
+    },
+    {
+      "id": "G3_B_200",
+      "type": "choice",
+      "question": "763 × 3 = ?",
+      "answer": "2289",
+      "explanation": "763乘以3等于2289",
+      "options": [
+        2243,
+        2289,
+        2314,
+        2348
+      ]
+    },
+    {
+      "id": "G3_B_201",
+      "type": "choice",
+      "question": "585 × 2 = ?",
+      "answer": "1170",
+      "explanation": "585乘以2等于1170",
+      "options": [
+        1151,
+        1170,
+        1185,
+        1228
+      ]
+    },
+    {
+      "id": "G3_B_202",
+      "type": "choice",
+      "question": "498 × 6 = ?",
+      "answer": "2988",
+      "explanation": "498乘以6等于2988",
+      "options": [
+        2945,
+        2988,
+        3037,
+        3062
+      ]
+    },
+    {
+      "id": "G3_B_203",
+      "type": "choice",
+      "question": "302 × 9 = ?",
+      "answer": "2718",
+      "explanation": "302乘以9等于2718",
+      "options": [
+        2702,
+        2718,
+        2737,
+        2804
+      ]
+    },
+    {
+      "id": "G3_B_204",
+      "type": "choice",
+      "question": "443 × 7 = ?",
+      "answer": "3101",
+      "explanation": "443乘以7等于3101",
+      "options": [
+        3087,
+        3101,
+        3124,
+        3170
+      ]
+    },
+    {
+      "id": "G3_B_205",
+      "type": "choice",
+      "question": "608 × 2 = ?",
+      "answer": "1216",
+      "explanation": "608乘以2等于1216",
+      "options": [
+        1172,
+        1216,
+        1240,
+        1275
+      ]
+    },
+    {
+      "id": "G3_B_206",
+      "type": "choice",
+      "question": "861 × 7 = ?",
+      "answer": "6027",
+      "explanation": "861乘以7等于6027",
+      "options": [
+        5993,
+        6027,
+        6061,
+        6093
+      ]
+    },
+    {
+      "id": "G3_B_207",
+      "type": "choice",
+      "question": "337 × 4 = ?",
+      "answer": "1348",
+      "explanation": "337乘以4等于1348",
+      "options": [
+        1337,
+        1348,
+        1387,
+        1403
+      ]
+    },
+    {
+      "id": "G3_B_208",
+      "type": "choice",
+      "question": "696 × 6 = ?",
+      "answer": "4176",
+      "explanation": "696乘以6等于4176",
+      "options": [
+        4144,
+        4176,
+        4204,
+        4243
+      ]
+    },
+    {
+      "id": "G3_B_209",
+      "type": "choice",
+      "question": "48 × 4 = ?",
+      "answer": "192",
+      "explanation": "48乘以4等于192",
+      "options": [
+        146,
+        192,
+        229,
+        287
+      ]
+    },
+    {
+      "id": "G3_B_210",
+      "type": "choice",
+      "question": "642 × 4 = ?",
+      "answer": "2568",
+      "explanation": "642乘以4等于2568",
+      "options": [
+        2518,
+        2568,
+        2618,
+        2638
+      ]
+    },
+    {
+      "id": "G3_B_211",
+      "type": "choice",
+      "question": "22 × 8 = ?",
+      "answer": "176",
+      "explanation": "22乘以8等于176",
+      "options": [
+        140,
+        176,
+        190,
+        238
+      ]
+    },
+    {
+      "id": "G3_B_212",
+      "type": "choice",
+      "question": "408 × 7 = ?",
+      "answer": "2856",
+      "explanation": "408乘以7等于2856",
+      "options": [
+        2834,
+        2856,
+        2904,
+        2921
+      ]
+    },
+    {
+      "id": "G3_B_213",
+      "type": "choice",
+      "question": "969 × 2 = ?",
+      "answer": "1938",
+      "explanation": "969乘以2等于1938",
+      "options": [
+        1898,
+        1938,
+        1975,
+        2023
+      ]
+    },
+    {
+      "id": "G3_B_214",
+      "type": "choice",
+      "question": "650 × 4 = ?",
+      "answer": "2600",
+      "explanation": "650乘以4等于2600",
+      "options": [
+        2580,
+        2600,
+        2625,
+        2691
+      ]
+    },
+    {
+      "id": "G3_B_215",
+      "type": "choice",
+      "question": "874 × 7 = ?",
+      "answer": "6118",
+      "explanation": "874乘以7等于6118",
+      "options": [
+        6083,
+        6118,
+        6159,
+        6212
+      ]
+    },
+    {
+      "id": "G3_B_216",
+      "type": "choice",
+      "question": "857 × 3 = ?",
+      "answer": "2571",
+      "explanation": "857乘以3等于2571",
+      "options": [
+        2529,
+        2571,
+        2591,
+        2639
+      ]
+    },
+    {
+      "id": "G3_B_217",
+      "type": "choice",
+      "question": "523 × 9 = ?",
+      "answer": "4707",
+      "explanation": "523乘以9等于4707",
+      "options": [
+        4660,
+        4707,
+        4744,
+        4765
+      ]
+    },
+    {
+      "id": "G3_B_218",
+      "type": "choice",
+      "question": "899 × 9 = ?",
+      "answer": "8091",
+      "explanation": "899乘以9等于8091",
+      "options": [
+        8050,
+        8091,
+        8105,
+        8145
+      ]
+    },
+    {
+      "id": "G3_B_219",
+      "type": "choice",
+      "question": "706 × 9 = ?",
+      "answer": "6354",
+      "explanation": "706乘以9等于6354",
+      "options": [
+        6335,
+        6354,
+        6381,
+        6426
+      ]
+    },
+    {
+      "id": "G3_B_220",
+      "type": "choice",
+      "question": "38 × 3 = ?",
+      "answer": "114",
+      "explanation": "38乘以3等于114",
+      "options": [
+        101,
+        114,
+        131,
+        212
+      ]
+    },
+    {
+      "id": "G3_B_221",
+      "type": "choice",
+      "question": "239 × 3 = ?",
+      "answer": "717",
+      "explanation": "239乘以3等于717",
+      "options": [
+        700,
+        717,
+        731,
+        809
+      ]
+    },
+    {
+      "id": "G3_B_222",
+      "type": "choice",
+      "question": "956 × 4 = ?",
+      "answer": "3824",
+      "explanation": "956乘以4等于3824",
+      "options": [
+        3813,
+        3824,
+        3854,
+        3898
+      ]
+    },
+    {
+      "id": "G3_B_223",
+      "type": "choice",
+      "question": "176 × 2 = ?",
+      "answer": "352",
+      "explanation": "176乘以2等于352",
+      "options": [
+        302,
+        352,
+        366,
+        411
+      ]
+    },
+    {
+      "id": "G3_B_224",
+      "type": "choice",
+      "question": "646 × 7 = ?",
+      "answer": "4522",
+      "explanation": "646乘以7等于4522",
+      "options": [
+        4484,
+        4522,
+        4553,
+        4604
+      ]
+    },
+    {
+      "id": "G3_B_225",
+      "type": "choice",
+      "question": "651 × 8 = ?",
+      "answer": "5208",
+      "explanation": "651乘以8等于5208",
+      "options": [
+        5160,
+        5208,
+        5224,
+        5269
+      ]
+    },
+    {
+      "id": "G3_B_226",
+      "type": "choice",
+      "question": "864 × 7 = ?",
+      "answer": "6048",
+      "explanation": "864乘以7等于6048",
+      "options": [
+        6007,
+        6048,
+        6081,
+        6103
+      ]
+    },
+    {
+      "id": "G3_B_227",
+      "type": "choice",
+      "question": "362 × 2 = ?",
+      "answer": "724",
+      "explanation": "362乘以2等于724",
+      "options": [
+        681,
+        724,
+        750,
+        807
+      ]
+    },
+    {
+      "id": "G3_B_228",
+      "type": "choice",
+      "question": "659 × 2 = ?",
+      "answer": "1318",
+      "explanation": "659乘以2等于1318",
+      "options": [
+        1294,
+        1318,
+        1332,
+        1375
+      ]
+    },
+    {
+      "id": "G3_B_229",
+      "type": "choice",
+      "question": "235 × 7 = ?",
+      "answer": "1645",
+      "explanation": "235乘以7等于1645",
+      "options": [
+        1627,
+        1645,
+        1692,
+        1730
+      ]
+    },
+    {
+      "id": "G3_B_230",
+      "type": "choice",
+      "question": "624 × 4 = ?",
+      "answer": "2496",
+      "explanation": "624乘以4等于2496",
+      "options": [
+        2462,
+        2496,
+        2543,
+        2557
+      ]
+    },
+    {
+      "id": "G3_B_231",
+      "type": "choice",
+      "question": "102 × 7 = ?",
+      "answer": "714",
+      "explanation": "102乘以7等于714",
+      "options": [
+        684,
+        714,
+        755,
+        793
+      ]
+    },
+    {
+      "id": "G3_B_232",
+      "type": "choice",
+      "question": "686 × 4 = ?",
+      "answer": "2744",
+      "explanation": "686乘以4等于2744",
+      "options": [
+        2722,
+        2744,
+        2780,
+        2831
+      ]
+    },
+    {
+      "id": "G3_B_233",
+      "type": "choice",
+      "question": "440 × 3 = ?",
+      "answer": "1320",
+      "explanation": "440乘以3等于1320",
+      "options": [
+        1309,
+        1320,
+        1346,
+        1375
+      ]
+    },
+    {
+      "id": "G3_B_234",
+      "type": "choice",
+      "question": "134 × 6 = ?",
+      "answer": "804",
+      "explanation": "134乘以6等于804",
+      "options": [
+        766,
+        804,
+        833,
+        864
+      ]
+    },
+    {
+      "id": "G3_B_235",
+      "type": "choice",
+      "question": "349 × 6 = ?",
+      "answer": "2094",
+      "explanation": "349乘以6等于2094",
+      "options": [
+        2052,
+        2094,
+        2136,
+        2166
+      ]
+    },
+    {
+      "id": "G3_B_236",
+      "type": "choice",
+      "question": "194 × 5 = ?",
+      "answer": "970",
+      "explanation": "194乘以5等于970",
+      "options": [
+        940,
+        970,
+        1010,
+        1049
+      ]
+    },
+    {
+      "id": "G3_B_237",
+      "type": "choice",
+      "question": "10 × 6 = ?",
+      "answer": "60",
+      "explanation": "10乘以6等于60",
+      "options": [
+        14,
+        60,
+        81,
+        116
+      ]
+    },
+    {
+      "id": "G3_B_238",
+      "type": "choice",
+      "question": "221 × 3 = ?",
+      "answer": "663",
+      "explanation": "221乘以3等于663",
+      "options": [
+        631,
+        663,
+        695,
+        757
+      ]
+    },
+    {
+      "id": "G3_B_239",
+      "type": "choice",
+      "question": "751 × 6 = ?",
+      "answer": "4506",
+      "explanation": "751乘以6等于4506",
+      "options": [
+        4484,
+        4506,
+        4541,
+        4562
+      ]
+    },
+    {
+      "id": "G3_B_240",
+      "type": "choice",
+      "question": "191 × 4 = ?",
+      "answer": "764",
+      "explanation": "191乘以4等于764",
+      "options": [
+        733,
+        764,
+        804,
+        838
+      ]
+    },
+    {
+      "id": "G3_B_241",
+      "type": "choice",
+      "question": "702 × 5 = ?",
+      "answer": "3510",
+      "explanation": "702乘以5等于3510",
+      "options": [
+        3468,
+        3510,
+        3538,
+        3602
+      ]
+    },
+    {
+      "id": "G3_B_242",
+      "type": "choice",
+      "question": "12 × 3 = ?",
+      "answer": "36",
+      "explanation": "12乘以3等于36",
+      "options": [
+        -11,
+        36,
+        81,
+        102
+      ]
+    },
+    {
+      "id": "G3_B_243",
+      "type": "choice",
+      "question": "171 × 9 = ?",
+      "answer": "1539",
+      "explanation": "171乘以9等于1539",
+      "options": [
+        1527,
+        1539,
+        1588,
+        1612
+      ]
+    },
+    {
+      "id": "G3_B_244",
+      "type": "choice",
+      "question": "901 × 7 = ?",
+      "answer": "6307",
+      "explanation": "901乘以7等于6307",
+      "options": [
+        6286,
+        6307,
+        6323,
+        6404
+      ]
+    },
+    {
+      "id": "G3_B_245",
+      "type": "choice",
+      "question": "830 × 6 = ?",
+      "answer": "4980",
+      "explanation": "830乘以6等于4980",
+      "options": [
+        4947,
+        4980,
+        4994,
+        5065
+      ]
+    },
+    {
+      "id": "G3_B_246",
+      "type": "choice",
+      "question": "392 × 7 = ?",
+      "answer": "2744",
+      "explanation": "392乘以7等于2744",
+      "options": [
+        2699,
+        2744,
+        2777,
+        2823
+      ]
+    },
+    {
+      "id": "G3_B_247",
+      "type": "choice",
+      "question": "393 × 5 = ?",
+      "answer": "1965",
+      "explanation": "393乘以5等于1965",
+      "options": [
+        1937,
+        1965,
+        2008,
+        2029
+      ]
+    },
+    {
+      "id": "G3_B_248",
+      "type": "choice",
+      "question": "815 × 4 = ?",
+      "answer": "3260",
+      "explanation": "815乘以4等于3260",
+      "options": [
+        3220,
+        3260,
+        3300,
+        3327
+      ]
+    },
+    {
+      "id": "G3_B_249",
+      "type": "choice",
+      "question": "509 × 2 = ?",
+      "answer": "1018",
+      "explanation": "509乘以2等于1018",
+      "options": [
+        1003,
+        1018,
+        1041,
+        1097
+      ]
+    },
+    {
+      "id": "G3_B_250",
+      "type": "choice",
+      "question": "972 × 2 = ?",
+      "answer": "1944",
+      "explanation": "972乘以2等于1944",
+      "options": [
+        1932,
+        1944,
+        1966,
+        2040
+      ]
+    },
+    {
+      "id": "G3_B_251",
+      "type": "choice",
+      "question": "701 × 4 = ?",
+      "answer": "2804",
+      "explanation": "701乘以4等于2804",
+      "options": [
+        2780,
+        2804,
+        2822,
+        2878
+      ]
+    },
+    {
+      "id": "G3_B_252",
+      "type": "choice",
+      "question": "754 × 7 = ?",
+      "answer": "5278",
+      "explanation": "754乘以7等于5278",
+      "options": [
+        5228,
+        5278,
+        5325,
+        5329
+      ]
+    },
+    {
+      "id": "G3_B_253",
+      "type": "choice",
+      "question": "478 × 4 = ?",
+      "answer": "1912",
+      "explanation": "478乘以4等于1912",
+      "options": [
+        1862,
+        1912,
+        1956,
+        1976
+      ]
+    }
+  ],
+  "advanced": [
+    {
+      "id": "G3_A_001",
+      "type": "choice",
+      "question": "18 + 4 × 6 = ?",
+      "answer": "42",
+      "explanation": "先算4×6=24，再加18，得42",
+      "options": [
+        33,
+        42,
+        51,
+        67
+      ]
+    },
+    {
+      "id": "G3_A_002",
+      "type": "choice",
+      "question": "25 + 7 × 7 = ?",
+      "answer": "74",
+      "explanation": "先算7×7=49，再加25，得74",
+      "options": [
+        67,
+        74,
+        92,
+        108
+      ]
+    },
+    {
+      "id": "G3_A_003",
+      "type": "choice",
+      "question": "35 + 4 × 3 = ?",
+      "answer": "47",
+      "explanation": "先算4×3=12，再加35，得47",
+      "options": [
+        34,
+        47,
+        56,
+        71
+      ]
+    },
+    {
+      "id": "G3_A_004",
+      "type": "choice",
+      "question": "39 × 10 ÷ 10 = ?",
+      "answer": "39",
+      "explanation": "先算39×10=390，再除以10，得39",
+      "options": [
+        33,
+        39,
+        47,
+        56
+      ]
+    },
+    {
+      "id": "G3_A_005",
+      "type": "choice",
+      "question": "45 + 4 × 7 = ?",
+      "answer": "73",
+      "explanation": "先算4×7=28，再加45，得73",
+      "options": [
+        64,
+        73,
+        78,
+        108
+      ]
+    },
+    {
+      "id": "G3_A_006",
+      "type": "choice",
+      "question": "12 + 6 × 10 = ?",
+      "answer": "72",
+      "explanation": "先算6×10=60，再加12，得72",
+      "options": [
+        60,
+        72,
+        78,
+        105
+      ]
+    },
+    {
+      "id": "G3_A_007",
+      "type": "choice",
+      "question": "50 + 7 × 8 = ?",
+      "answer": "106",
+      "explanation": "先算7×8=56，再加50，得106",
+      "options": [
+        95,
+        106,
+        116,
+        141
+      ]
+    },
+    {
+      "id": "G3_A_008",
+      "type": "choice",
+      "question": "42 × 7 ÷ 3 = ?",
+      "answer": "98",
+      "explanation": "先算42×7=294，再除以3，得98",
+      "options": [
+        93,
+        98,
+        107,
+        116
+      ]
+    },
+    {
+      "id": "G3_A_009",
+      "type": "choice",
+      "question": "38 + 5 × 3 = ?",
+      "answer": "53",
+      "explanation": "先算5×3=15，再加38，得53",
+      "options": [
+        48,
+        53,
+        65,
+        91
+      ]
+    },
+    {
+      "id": "G3_A_010",
+      "type": "choice",
+      "question": "44 × 4 ÷ 8 = ?",
+      "answer": "22",
+      "explanation": "先算44×4=176，再除以8，得22",
+      "options": [
+        12,
+        22,
+        26,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_011",
+      "type": "choice",
+      "question": "19 + 7 × 7 = ?",
+      "answer": "68",
+      "explanation": "先算7×7=49，再加19，得68",
+      "options": [
+        57,
+        68,
+        81,
+        106
+      ]
+    },
+    {
+      "id": "G3_A_012",
+      "type": "choice",
+      "question": "22 × 3 ÷ 6 = ?",
+      "answer": "11",
+      "explanation": "先算22×3=66，再除以6，得11",
+      "options": [
+        9,
+        11,
+        20,
+        30
+      ]
+    },
+    {
+      "id": "G3_A_013",
+      "type": "choice",
+      "question": "30 + 8 × 9 = ?",
+      "answer": "102",
+      "explanation": "先算8×9=72，再加30，得102",
+      "options": [
+        92,
+        102,
+        114,
+        132
+      ]
+    },
+    {
+      "id": "G3_A_014",
+      "type": "choice",
+      "question": "46 × 5 ÷ 5 = ?",
+      "answer": "46",
+      "explanation": "先算46×5=230，再除以5，得46",
+      "options": [
+        37,
+        46,
+        56,
+        64
+      ]
+    },
+    {
+      "id": "G3_A_015",
+      "type": "choice",
+      "question": "41 + 10 × 9 = ?",
+      "answer": "131",
+      "explanation": "先算10×9=90，再加41，得131",
+      "options": [
+        116,
+        131,
+        147,
+        164
+      ]
+    },
+    {
+      "id": "G3_A_016",
+      "type": "choice",
+      "question": "14 + 10 × 6 = ?",
+      "answer": "74",
+      "explanation": "先算10×6=60，再加14，得74",
+      "options": [
+        58,
+        74,
+        90,
+        102
+      ]
+    },
+    {
+      "id": "G3_A_017",
+      "type": "choice",
+      "question": "33 + 9 × 8 = ?",
+      "answer": "105",
+      "explanation": "先算9×8=72，再加33，得105",
+      "options": [
+        85,
+        105,
+        119,
+        143
+      ]
+    },
+    {
+      "id": "G3_A_018",
+      "type": "choice",
+      "question": "16 × 9 ÷ 9 = ?",
+      "answer": "16",
+      "explanation": "先算16×9=144，再除以9，得16",
+      "options": [
+        9,
+        16,
+        25,
+        30
+      ]
+    },
+    {
+      "id": "G3_A_019",
+      "type": "choice",
+      "question": "12 + 4 × 3 = ?",
+      "answer": "24",
+      "explanation": "先算4×3=12，再加12，得24",
+      "options": [
+        15,
+        24,
+        36,
+        61
+      ]
+    },
+    {
+      "id": "G3_A_020",
+      "type": "choice",
+      "question": "23 × 2 ÷ 2 = ?",
+      "answer": "23",
+      "explanation": "先算23×2=46，再除以2，得23",
+      "options": [
+        15,
+        23,
+        30,
+        43
+      ]
+    },
+    {
+      "id": "G3_A_021",
+      "type": "choice",
+      "question": "48 + 7 × 7 = ?",
+      "answer": "97",
+      "explanation": "先算7×7=49，再加48，得97",
+      "options": [
+        79,
+        97,
+        113,
+        122
+      ]
+    },
+    {
+      "id": "G3_A_022",
+      "type": "choice",
+      "question": "14 + 4 × 10 = ?",
+      "answer": "54",
+      "explanation": "先算4×10=40，再加14，得54",
+      "options": [
+        34,
+        54,
+        70,
+        87
+      ]
+    },
+    {
+      "id": "G3_A_023",
+      "type": "choice",
+      "question": "16 + 3 × 4 = ?",
+      "answer": "28",
+      "explanation": "先算3×4=12，再加16，得28",
+      "options": [
+        23,
+        28,
+        43,
+        52
+      ]
+    },
+    {
+      "id": "G3_A_024",
+      "type": "choice",
+      "question": "28 + 9 × 7 = ?",
+      "answer": "91",
+      "explanation": "先算9×7=63，再加28，得91",
+      "options": [
+        71,
+        91,
+        101,
+        131
+      ]
+    },
+    {
+      "id": "G3_A_025",
+      "type": "choice",
+      "question": "45 + 9 × 4 = ?",
+      "answer": "81",
+      "explanation": "先算9×4=36，再加45，得81",
+      "options": [
+        71,
+        81,
+        99,
+        111
+      ]
+    },
+    {
+      "id": "G3_A_026",
+      "type": "choice",
+      "question": "46 × 5 ÷ 2 = ?",
+      "answer": "115",
+      "explanation": "先算46×5=230，再除以2，得115",
+      "options": [
+        109,
+        115,
+        117,
+        135
+      ]
+    },
+    {
+      "id": "G3_A_027",
+      "type": "choice",
+      "question": "27 × 10 ÷ 2 = ?",
+      "answer": "135",
+      "explanation": "先算27×10=270，再除以2，得135",
+      "options": [
+        128,
+        135,
+        144,
+        151
+      ]
+    },
+    {
+      "id": "G3_A_028",
+      "type": "choice",
+      "question": "48 + 9 × 5 = ?",
+      "answer": "93",
+      "explanation": "先算9×5=45，再加48，得93",
+      "options": [
+        76,
+        93,
+        101,
+        118
+      ]
+    },
+    {
+      "id": "G3_A_029",
+      "type": "choice",
+      "question": "49 + 3 × 7 = ?",
+      "answer": "70",
+      "explanation": "先算3×7=21，再加49，得70",
+      "options": [
+        50,
+        70,
+        88,
+        103
+      ]
+    },
+    {
+      "id": "G3_A_030",
+      "type": "choice",
+      "question": "21 + 4 × 3 = ?",
+      "answer": "33",
+      "explanation": "先算4×3=12，再加21，得33",
+      "options": [
+        19,
+        33,
+        38,
+        58
+      ]
+    },
+    {
+      "id": "G3_A_031",
+      "type": "choice",
+      "question": "48 × 9 ÷ 6 = ?",
+      "answer": "72",
+      "explanation": "先算48×9=432，再除以6，得72",
+      "options": [
+        68,
+        72,
+        81,
+        83
+      ]
+    },
+    {
+      "id": "G3_A_032",
+      "type": "choice",
+      "question": "40 × 3 ÷ 5 = ?",
+      "answer": "24",
+      "explanation": "先算40×3=120，再除以5，得24",
+      "options": [
+        22,
+        24,
+        27,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_033",
+      "type": "choice",
+      "question": "41 × 4 ÷ 2 = ?",
+      "answer": "82",
+      "explanation": "先算41×4=164，再除以2，得82",
+      "options": [
+        76,
+        82,
+        87,
+        98
+      ]
+    },
+    {
+      "id": "G3_A_034",
+      "type": "choice",
+      "question": "29 × 6 ÷ 6 = ?",
+      "answer": "29",
+      "explanation": "先算29×6=174，再除以6，得29",
+      "options": [
+        22,
+        29,
+        34,
+        49
+      ]
+    },
+    {
+      "id": "G3_A_035",
+      "type": "choice",
+      "question": "25 × 3 ÷ 3 = ?",
+      "answer": "25",
+      "explanation": "先算25×3=75，再除以3，得25",
+      "options": [
+        21,
+        25,
+        34,
+        37
+      ]
+    },
+    {
+      "id": "G3_A_036",
+      "type": "choice",
+      "question": "24 × 2 ÷ 6 = ?",
+      "answer": "8",
+      "explanation": "先算24×2=48，再除以6，得8",
+      "options": [
+        5,
+        8,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_037",
+      "type": "choice",
+      "question": "40 + 6 × 8 = ?",
+      "answer": "88",
+      "explanation": "先算6×8=48，再加40，得88",
+      "options": [
+        72,
+        88,
+        96,
+        116
+      ]
+    },
+    {
+      "id": "G3_A_038",
+      "type": "choice",
+      "question": "18 × 7 ÷ 6 = ?",
+      "answer": "21",
+      "explanation": "先算18×7=126，再除以6，得21",
+      "options": [
+        14,
+        21,
+        26,
+        40
+      ]
+    },
+    {
+      "id": "G3_A_039",
+      "type": "choice",
+      "question": "35 + 3 × 10 = ?",
+      "answer": "65",
+      "explanation": "先算3×10=30，再加35，得65",
+      "options": [
+        57,
+        65,
+        70,
+        94
+      ]
+    },
+    {
+      "id": "G3_A_040",
+      "type": "choice",
+      "question": "44 + 9 × 6 = ?",
+      "answer": "98",
+      "explanation": "先算9×6=54，再加44，得98",
+      "options": [
+        78,
+        98,
+        108,
+        135
+      ]
+    },
+    {
+      "id": "G3_A_041",
+      "type": "choice",
+      "question": "12 + 3 × 10 = ?",
+      "answer": "42",
+      "explanation": "先算3×10=30，再加12，得42",
+      "options": [
+        25,
+        42,
+        61,
+        63
+      ]
+    },
+    {
+      "id": "G3_A_042",
+      "type": "choice",
+      "question": "45 + 3 × 10 = ?",
+      "answer": "75",
+      "explanation": "先算3×10=30，再加45，得75",
+      "options": [
+        67,
+        75,
+        87,
+        97
+      ]
+    },
+    {
+      "id": "G3_A_043",
+      "type": "choice",
+      "question": "42 + 6 × 2 = ?",
+      "answer": "54",
+      "explanation": "先算6×2=12，再加42，得54",
+      "options": [
+        44,
+        54,
+        61,
+        80
+      ]
+    },
+    {
+      "id": "G3_A_044",
+      "type": "choice",
+      "question": "20 + 2 × 2 = ?",
+      "answer": "24",
+      "explanation": "先算2×2=4，再加20，得24",
+      "options": [
+        14,
+        24,
+        40,
+        46
+      ]
+    },
+    {
+      "id": "G3_A_045",
+      "type": "choice",
+      "question": "29 + 5 × 5 = ?",
+      "answer": "54",
+      "explanation": "先算5×5=25，再加29，得54",
+      "options": [
+        42,
+        54,
+        62,
+        91
+      ]
+    },
+    {
+      "id": "G3_A_046",
+      "type": "choice",
+      "question": "18 + 7 × 8 = ?",
+      "answer": "74",
+      "explanation": "先算7×8=56，再加18，得74",
+      "options": [
+        64,
+        74,
+        92,
+        110
+      ]
+    },
+    {
+      "id": "G3_A_047",
+      "type": "choice",
+      "question": "18 × 6 ÷ 4 = ?",
+      "answer": "27",
+      "explanation": "先算18×6=108，再除以4，得27",
+      "options": [
+        18,
+        27,
+        34,
+        41
+      ]
+    },
+    {
+      "id": "G3_A_048",
+      "type": "choice",
+      "question": "29 + 3 × 2 = ?",
+      "answer": "35",
+      "explanation": "先算3×2=6，再加29，得35",
+      "options": [
+        30,
+        35,
+        53,
+        56
+      ]
+    },
+    {
+      "id": "G3_A_049",
+      "type": "choice",
+      "question": "41 + 5 × 8 = ?",
+      "answer": "81",
+      "explanation": "先算5×8=40，再加41，得81",
+      "options": [
+        75,
+        81,
+        91,
+        107
+      ]
+    },
+    {
+      "id": "G3_A_050",
+      "type": "choice",
+      "question": "11 + 9 × 3 = ?",
+      "answer": "38",
+      "explanation": "先算9×3=27，再加11，得38",
+      "options": [
+        30,
+        38,
+        47,
+        75
+      ]
+    },
+    {
+      "id": "G3_A_051",
+      "type": "choice",
+      "question": "20 × 2 ÷ 5 = ?",
+      "answer": "8",
+      "explanation": "先算20×2=40，再除以5，得8",
+      "options": [
+        1,
+        8,
+        11,
+        27
+      ]
+    },
+    {
+      "id": "G3_A_052",
+      "type": "choice",
+      "question": "35 + 5 × 8 = ?",
+      "answer": "75",
+      "explanation": "先算5×8=40，再加35，得75",
+      "options": [
+        58,
+        75,
+        95,
+        109
+      ]
+    },
+    {
+      "id": "G3_A_053",
+      "type": "choice",
+      "question": "48 × 6 ÷ 8 = ?",
+      "answer": "36",
+      "explanation": "先算48×6=288，再除以8，得36",
+      "options": [
+        33,
+        36,
+        43,
+        54
+      ]
+    },
+    {
+      "id": "G3_A_054",
+      "type": "choice",
+      "question": "24 + 4 × 4 = ?",
+      "answer": "40",
+      "explanation": "先算4×4=16，再加24，得40",
+      "options": [
+        23,
+        40,
+        58,
+        68
+      ]
+    },
+    {
+      "id": "G3_A_055",
+      "type": "choice",
+      "question": "49 × 6 ÷ 6 = ?",
+      "answer": "49",
+      "explanation": "先算49×6=294，再除以6，得49",
+      "options": [
+        39,
+        49,
+        55,
+        60
+      ]
+    },
+    {
+      "id": "G3_A_056",
+      "type": "choice",
+      "question": "23 × 2 ÷ 2 = ?",
+      "answer": "23",
+      "explanation": "先算23×2=46，再除以2，得23",
+      "options": [
+        20,
+        23,
+        30,
+        37
+      ]
+    },
+    {
+      "id": "G3_A_057",
+      "type": "choice",
+      "question": "37 + 10 × 9 = ?",
+      "answer": "127",
+      "explanation": "先算10×9=90，再加37，得127",
+      "options": [
+        113,
+        127,
+        146,
+        156
+      ]
+    },
+    {
+      "id": "G3_A_058",
+      "type": "choice",
+      "question": "12 + 4 × 4 = ?",
+      "answer": "28",
+      "explanation": "先算4×4=16，再加12，得28",
+      "options": [
+        16,
+        28,
+        45,
+        51
+      ]
+    },
+    {
+      "id": "G3_A_059",
+      "type": "choice",
+      "question": "50 + 4 × 5 = ?",
+      "answer": "70",
+      "explanation": "先算4×5=20，再加50，得70",
+      "options": [
+        50,
+        70,
+        85,
+        101
+      ]
+    },
+    {
+      "id": "G3_A_060",
+      "type": "choice",
+      "question": "40 + 2 × 8 = ?",
+      "answer": "56",
+      "explanation": "先算2×8=16，再加40，得56",
+      "options": [
+        37,
+        56,
+        76,
+        94
+      ]
+    },
+    {
+      "id": "G3_A_061",
+      "type": "choice",
+      "question": "25 + 8 × 8 = ?",
+      "answer": "89",
+      "explanation": "先算8×8=64，再加25，得89",
+      "options": [
+        76,
+        89,
+        94,
+        110
+      ]
+    },
+    {
+      "id": "G3_A_062",
+      "type": "choice",
+      "question": "13 × 5 ÷ 5 = ?",
+      "answer": "13",
+      "explanation": "先算13×5=65，再除以5，得13",
+      "options": [
+        9,
+        13,
+        17,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_063",
+      "type": "choice",
+      "question": "29 + 2 × 10 = ?",
+      "answer": "49",
+      "explanation": "先算2×10=20，再加29，得49",
+      "options": [
+        35,
+        49,
+        64,
+        75
+      ]
+    },
+    {
+      "id": "G3_A_064",
+      "type": "choice",
+      "question": "31 + 8 × 9 = ?",
+      "answer": "103",
+      "explanation": "先算8×9=72，再加31，得103",
+      "options": [
+        85,
+        103,
+        114,
+        128
+      ]
+    },
+    {
+      "id": "G3_A_065",
+      "type": "choice",
+      "question": "11 + 5 × 6 = ?",
+      "answer": "41",
+      "explanation": "先算5×6=30，再加11，得41",
+      "options": [
+        32,
+        41,
+        49,
+        67
+      ]
+    },
+    {
+      "id": "G3_A_066",
+      "type": "choice",
+      "question": "29 + 10 × 3 = ?",
+      "answer": "59",
+      "explanation": "先算10×3=30，再加29，得59",
+      "options": [
+        50,
+        59,
+        72,
+        85
+      ]
+    },
+    {
+      "id": "G3_A_067",
+      "type": "choice",
+      "question": "20 + 10 × 3 = ?",
+      "answer": "50",
+      "explanation": "先算10×3=30，再加20，得50",
+      "options": [
+        31,
+        50,
+        56,
+        75
+      ]
+    },
+    {
+      "id": "G3_A_068",
+      "type": "choice",
+      "question": "21 × 8 ÷ 4 = ?",
+      "answer": "42",
+      "explanation": "先算21×8=168，再除以4，得42",
+      "options": [
+        33,
+        42,
+        46,
+        56
+      ]
+    },
+    {
+      "id": "G3_A_069",
+      "type": "choice",
+      "question": "28 + 2 × 3 = ?",
+      "answer": "34",
+      "explanation": "先算2×3=6，再加28，得34",
+      "options": [
+        14,
+        34,
+        40,
+        67
+      ]
+    },
+    {
+      "id": "G3_A_070",
+      "type": "choice",
+      "question": "27 + 4 × 6 = ?",
+      "answer": "51",
+      "explanation": "先算4×6=24，再加27，得51",
+      "options": [
+        38,
+        51,
+        71,
+        79
+      ]
+    },
+    {
+      "id": "G3_A_071",
+      "type": "choice",
+      "question": "33 + 3 × 8 = ?",
+      "answer": "57",
+      "explanation": "先算3×8=24，再加33，得57",
+      "options": [
+        45,
+        57,
+        77,
+        88
+      ]
+    },
+    {
+      "id": "G3_A_072",
+      "type": "choice",
+      "question": "22 + 9 × 4 = ?",
+      "answer": "58",
+      "explanation": "先算9×4=36，再加22，得58",
+      "options": [
+        47,
+        58,
+        67,
+        82
+      ]
+    },
+    {
+      "id": "G3_A_073",
+      "type": "choice",
+      "question": "30 + 4 × 9 = ?",
+      "answer": "66",
+      "explanation": "先算4×9=36，再加30，得66",
+      "options": [
+        49,
+        66,
+        84,
+        102
+      ]
+    },
+    {
+      "id": "G3_A_074",
+      "type": "choice",
+      "question": "46 × 10 ÷ 10 = ?",
+      "answer": "46",
+      "explanation": "先算46×10=460，再除以10，得46",
+      "options": [
+        43,
+        46,
+        51,
+        62
+      ]
+    },
+    {
+      "id": "G3_A_075",
+      "type": "choice",
+      "question": "49 + 4 × 8 = ?",
+      "answer": "81",
+      "explanation": "先算4×8=32，再加49，得81",
+      "options": [
+        65,
+        81,
+        87,
+        115
+      ]
+    },
+    {
+      "id": "G3_A_076",
+      "type": "choice",
+      "question": "43 + 4 × 5 = ?",
+      "answer": "63",
+      "explanation": "先算4×5=20，再加43，得63",
+      "options": [
+        50,
+        63,
+        76,
+        97
+      ]
+    },
+    {
+      "id": "G3_A_077",
+      "type": "choice",
+      "question": "46 × 8 ÷ 2 = ?",
+      "answer": "184",
+      "explanation": "先算46×8=368，再除以2，得184",
+      "options": [
+        175,
+        184,
+        190,
+        203
+      ]
+    },
+    {
+      "id": "G3_A_078",
+      "type": "choice",
+      "question": "49 + 3 × 3 = ?",
+      "answer": "58",
+      "explanation": "先算3×3=9，再加49，得58",
+      "options": [
+        38,
+        58,
+        74,
+        88
+      ]
+    },
+    {
+      "id": "G3_A_079",
+      "type": "choice",
+      "question": "24 × 2 ÷ 3 = ?",
+      "answer": "16",
+      "explanation": "先算24×2=48，再除以3，得16",
+      "options": [
+        6,
+        16,
+        24,
+        30
+      ]
+    },
+    {
+      "id": "G3_A_080",
+      "type": "choice",
+      "question": "43 + 9 × 4 = ?",
+      "answer": "79",
+      "explanation": "先算9×4=36，再加43，得79",
+      "options": [
+        65,
+        79,
+        94,
+        105
+      ]
+    },
+    {
+      "id": "G3_A_081",
+      "type": "choice",
+      "question": "33 + 2 × 4 = ?",
+      "answer": "41",
+      "explanation": "先算2×4=8，再加33，得41",
+      "options": [
+        29,
+        41,
+        55,
+        67
+      ]
+    },
+    {
+      "id": "G3_A_082",
+      "type": "choice",
+      "question": "11 × 2 ÷ 2 = ?",
+      "answer": "11",
+      "explanation": "先算11×2=22，再除以2，得11",
+      "options": [
+        3,
+        11,
+        18,
+        26
+      ]
+    },
+    {
+      "id": "G3_A_083",
+      "type": "choice",
+      "question": "36 × 9 ÷ 6 = ?",
+      "answer": "54",
+      "explanation": "先算36×9=324，再除以6，得54",
+      "options": [
+        47,
+        54,
+        64,
+        67
+      ]
+    },
+    {
+      "id": "G3_A_084",
+      "type": "choice",
+      "question": "21 × 3 ÷ 7 = ?",
+      "answer": "9",
+      "explanation": "先算21×3=63，再除以7，得9",
+      "options": [
+        1,
+        9,
+        18,
+        25
+      ]
+    },
+    {
+      "id": "G3_A_085",
+      "type": "choice",
+      "question": "25 + 2 × 6 = ?",
+      "answer": "37",
+      "explanation": "先算2×6=12，再加25，得37",
+      "options": [
+        27,
+        37,
+        44,
+        71
+      ]
+    },
+    {
+      "id": "G3_A_086",
+      "type": "choice",
+      "question": "50 + 5 × 10 = ?",
+      "answer": "100",
+      "explanation": "先算5×10=50，再加50，得100",
+      "options": [
+        86,
+        100,
+        105,
+        130
+      ]
+    },
+    {
+      "id": "G3_A_087",
+      "type": "choice",
+      "question": "44 + 2 × 9 = ?",
+      "answer": "62",
+      "explanation": "先算2×9=18，再加44，得62",
+      "options": [
+        57,
+        62,
+        79,
+        101
+      ]
+    },
+    {
+      "id": "G3_A_088",
+      "type": "choice",
+      "question": "11 + 4 × 7 = ?",
+      "answer": "39",
+      "explanation": "先算4×7=28，再加11，得39",
+      "options": [
+        31,
+        39,
+        54,
+        74
+      ]
+    },
+    {
+      "id": "G3_A_089",
+      "type": "choice",
+      "question": "13 + 2 × 4 = ?",
+      "answer": "21",
+      "explanation": "先算2×4=8，再加13，得21",
+      "options": [
+        5,
+        21,
+        33,
+        57
+      ]
+    },
+    {
+      "id": "G3_A_090",
+      "type": "choice",
+      "question": "32 + 3 × 7 = ?",
+      "answer": "53",
+      "explanation": "先算3×7=21，再加32，得53",
+      "options": [
+        43,
+        53,
+        66,
+        79
+      ]
+    },
+    {
+      "id": "G3_A_091",
+      "type": "choice",
+      "question": "44 + 2 × 2 = ?",
+      "answer": "48",
+      "explanation": "先算2×2=4，再加44，得48",
+      "options": [
+        28,
+        48,
+        57,
+        87
+      ]
+    },
+    {
+      "id": "G3_A_092",
+      "type": "choice",
+      "question": "390 ÷ 13 = ?",
+      "answer": "30",
+      "explanation": "390除以13等于30",
+      "options": [
+        26,
+        30,
+        35,
+        41
+      ]
+    },
+    {
+      "id": "G3_A_093",
+      "type": "choice",
+      "question": "63 ÷ 7 = ?",
+      "answer": "9",
+      "explanation": "63除以7等于9",
+      "options": [
+        5,
+        9,
+        11,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_094",
+      "type": "choice",
+      "question": "120 ÷ 12 = ?",
+      "answer": "10",
+      "explanation": "120除以12等于10",
+      "options": [
+        5,
+        10,
+        12,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_095",
+      "type": "choice",
+      "question": "28 ÷ 7 = ?",
+      "answer": "4",
+      "explanation": "28除以7等于4",
+      "options": [
+        3,
+        4,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "G3_A_096",
+      "type": "choice",
+      "question": "276 ÷ 12 = ?",
+      "answer": "23",
+      "explanation": "276除以12等于23",
+      "options": [
+        19,
+        23,
+        25,
+        33
+      ]
+    },
+    {
+      "id": "G3_A_097",
+      "type": "choice",
+      "question": "35 ÷ 7 = ?",
+      "answer": "5",
+      "explanation": "35除以7等于5",
+      "options": [
+        1,
+        5,
+        8,
+        13
+      ]
+    },
+    {
+      "id": "G3_A_098",
+      "type": "choice",
+      "question": "285 ÷ 19 = ?",
+      "answer": "15",
+      "explanation": "285除以19等于15",
+      "options": [
+        13,
+        15,
+        19,
+        22
+      ]
+    },
+    {
+      "id": "G3_A_099",
+      "type": "choice",
+      "question": "400 ÷ 20 = ?",
+      "answer": "20",
+      "explanation": "400除以20等于20",
+      "options": [
+        18,
+        20,
+        23,
+        28
+      ]
+    },
+    {
+      "id": "G3_A_100",
+      "type": "choice",
+      "question": "12 ÷ 6 = ?",
+      "answer": "2",
+      "explanation": "12除以6等于2",
+      "options": [
+        1,
+        2,
+        4,
+        12
+      ]
+    },
+    {
+      "id": "G3_A_101",
+      "type": "choice",
+      "question": "46 ÷ 2 = ?",
+      "answer": "23",
+      "explanation": "46除以2等于23",
+      "options": [
+        18,
+        23,
+        27,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_102",
+      "type": "choice",
+      "question": "361 ÷ 19 = ?",
+      "answer": "19",
+      "explanation": "361除以19等于19",
+      "options": [
+        16,
+        19,
+        20,
+        28
+      ]
+    },
+    {
+      "id": "G3_A_103",
+      "type": "choice",
+      "question": "128 ÷ 16 = ?",
+      "answer": "8",
+      "explanation": "128除以16等于8",
+      "options": [
+        5,
+        8,
+        10,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_104",
+      "type": "choice",
+      "question": "300 ÷ 20 = ?",
+      "answer": "15",
+      "explanation": "300除以20等于15",
+      "options": [
+        11,
+        15,
+        17,
+        22
+      ]
+    },
+    {
+      "id": "G3_A_105",
+      "type": "choice",
+      "question": "184 ÷ 8 = ?",
+      "answer": "23",
+      "explanation": "184除以8等于23",
+      "options": [
+        20,
+        23,
+        26,
+        29
+      ]
+    },
+    {
+      "id": "G3_A_106",
+      "type": "choice",
+      "question": "330 ÷ 11 = ?",
+      "answer": "30",
+      "explanation": "330除以11等于30",
+      "options": [
+        25,
+        30,
+        33,
+        42
+      ]
+    },
+    {
+      "id": "G3_A_107",
+      "type": "choice",
+      "question": "170 ÷ 10 = ?",
+      "answer": "17",
+      "explanation": "170除以10等于17",
+      "options": [
+        15,
+        17,
+        19,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_108",
+      "type": "choice",
+      "question": "288 ÷ 16 = ?",
+      "answer": "18",
+      "explanation": "288除以16等于18",
+      "options": [
+        16,
+        18,
+        22,
+        29
+      ]
+    },
+    {
+      "id": "G3_A_109",
+      "type": "choice",
+      "question": "154 ÷ 14 = ?",
+      "answer": "11",
+      "explanation": "154除以14等于11",
+      "options": [
+        9,
+        11,
+        14,
+        22
+      ]
+    },
+    {
+      "id": "G3_A_110",
+      "type": "choice",
+      "question": "6 ÷ 2 = ?",
+      "answer": "3",
+      "explanation": "6除以2等于3",
+      "options": [
+        1,
+        3,
+        8,
+        14
+      ]
+    },
+    {
+      "id": "G3_A_111",
+      "type": "choice",
+      "question": "280 ÷ 20 = ?",
+      "answer": "14",
+      "explanation": "280除以20等于14",
+      "options": [
+        9,
+        14,
+        15,
+        22
+      ]
+    },
+    {
+      "id": "G3_A_112",
+      "type": "choice",
+      "question": "40 ÷ 8 = ?",
+      "answer": "5",
+      "explanation": "40除以8等于5",
+      "options": [
+        1,
+        5,
+        10,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_113",
+      "type": "choice",
+      "question": "500 ÷ 20 = ?",
+      "answer": "25",
+      "explanation": "500除以20等于25",
+      "options": [
+        23,
+        25,
+        26,
+        35
+      ]
+    },
+    {
+      "id": "G3_A_114",
+      "type": "choice",
+      "question": "192 ÷ 16 = ?",
+      "answer": "12",
+      "explanation": "192除以16等于12",
+      "options": [
+        10,
+        12,
+        14,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_115",
+      "type": "choice",
+      "question": "48 ÷ 12 = ?",
+      "answer": "4",
+      "explanation": "48除以12等于4",
+      "options": [
+        1,
+        4,
+        8,
+        15
+      ]
+    },
+    {
+      "id": "G3_A_116",
+      "type": "choice",
+      "question": "12 ÷ 4 = ?",
+      "answer": "3",
+      "explanation": "12除以4等于3",
+      "options": [
+        2,
+        3,
+        8,
+        13
+      ]
+    },
+    {
+      "id": "G3_A_117",
+      "type": "choice",
+      "question": "99 ÷ 11 = ?",
+      "answer": "9",
+      "explanation": "99除以11等于9",
+      "options": [
+        6,
+        9,
+        13,
+        17
+      ]
+    },
+    {
+      "id": "G3_A_118",
+      "type": "choice",
+      "question": "100 ÷ 10 = ?",
+      "answer": "10",
+      "explanation": "100除以10等于10",
+      "options": [
+        6,
+        10,
+        15,
+        21
+      ]
+    },
+    {
+      "id": "G3_A_119",
+      "type": "choice",
+      "question": "250 ÷ 10 = ?",
+      "answer": "25",
+      "explanation": "250除以10等于25",
+      "options": [
+        23,
+        25,
+        30,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_120",
+      "type": "choice",
+      "question": "418 ÷ 19 = ?",
+      "answer": "22",
+      "explanation": "418除以19等于22",
+      "options": [
+        17,
+        22,
+        27,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_121",
+      "type": "choice",
+      "question": "30 ÷ 5 = ?",
+      "answer": "6",
+      "explanation": "30除以5等于6",
+      "options": [
+        4,
+        6,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G3_A_122",
+      "type": "choice",
+      "question": "240 ÷ 12 = ?",
+      "answer": "20",
+      "explanation": "240除以12等于20",
+      "options": [
+        17,
+        20,
+        23,
+        26
+      ]
+    },
+    {
+      "id": "G3_A_123",
+      "type": "choice",
+      "question": "145 ÷ 5 = ?",
+      "answer": "29",
+      "explanation": "145除以5等于29",
+      "options": [
+        26,
+        29,
+        34,
+        41
+      ]
+    },
+    {
+      "id": "G3_A_124",
+      "type": "choice",
+      "question": "38 ÷ 19 = ?",
+      "answer": "2",
+      "explanation": "38除以19等于2",
+      "options": [
+        1,
+        2,
+        6,
+        13
+      ]
+    },
+    {
+      "id": "G3_A_125",
+      "type": "choice",
+      "question": "128 ÷ 16 = ?",
+      "answer": "8",
+      "explanation": "128除以16等于8",
+      "options": [
+        7,
+        8,
+        10,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_126",
+      "type": "choice",
+      "question": "154 ÷ 7 = ?",
+      "answer": "22",
+      "explanation": "154除以7等于22",
+      "options": [
+        21,
+        22,
+        25,
+        34
+      ]
+    },
+    {
+      "id": "G3_A_127",
+      "type": "choice",
+      "question": "513 ÷ 19 = ?",
+      "answer": "27",
+      "explanation": "513除以19等于27",
+      "options": [
+        25,
+        27,
+        30,
+        33
+      ]
+    },
+    {
+      "id": "G3_A_128",
+      "type": "choice",
+      "question": "84 ÷ 12 = ?",
+      "answer": "7",
+      "explanation": "84除以12等于7",
+      "options": [
+        5,
+        7,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G3_A_129",
+      "type": "choice",
+      "question": "360 ÷ 18 = ?",
+      "answer": "20",
+      "explanation": "360除以18等于20",
+      "options": [
+        18,
+        20,
+        25,
+        27
+      ]
+    },
+    {
+      "id": "G3_A_130",
+      "type": "choice",
+      "question": "10 ÷ 2 = ?",
+      "answer": "5",
+      "explanation": "10除以2等于5",
+      "options": [
+        4,
+        5,
+        9,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_131",
+      "type": "choice",
+      "question": "40 ÷ 8 = ?",
+      "answer": "5",
+      "explanation": "40除以8等于5",
+      "options": [
+        4,
+        5,
+        6,
+        13
+      ]
+    },
+    {
+      "id": "G3_A_132",
+      "type": "choice",
+      "question": "58 ÷ 2 = ?",
+      "answer": "29",
+      "explanation": "58除以2等于29",
+      "options": [
+        26,
+        29,
+        32,
+        38
+      ]
+    },
+    {
+      "id": "G3_A_133",
+      "type": "choice",
+      "question": "36 ÷ 9 = ?",
+      "answer": "4",
+      "explanation": "36除以9等于4",
+      "options": [
+        1,
+        4,
+        8,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_134",
+      "type": "choice",
+      "question": "88 ÷ 8 = ?",
+      "answer": "11",
+      "explanation": "88除以8等于11",
+      "options": [
+        6,
+        11,
+        13,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_135",
+      "type": "choice",
+      "question": "540 ÷ 18 = ?",
+      "answer": "30",
+      "explanation": "540除以18等于30",
+      "options": [
+        28,
+        30,
+        31,
+        40
+      ]
+    },
+    {
+      "id": "G3_A_136",
+      "type": "choice",
+      "question": "152 ÷ 8 = ?",
+      "answer": "19",
+      "explanation": "152除以8等于19",
+      "options": [
+        15,
+        19,
+        20,
+        29
+      ]
+    },
+    {
+      "id": "G3_A_137",
+      "type": "choice",
+      "question": "140 ÷ 10 = ?",
+      "answer": "14",
+      "explanation": "140除以10等于14",
+      "options": [
+        10,
+        14,
+        19,
+        20
+      ]
+    },
+    {
+      "id": "G3_A_138",
+      "type": "choice",
+      "question": "105 ÷ 7 = ?",
+      "answer": "15",
+      "explanation": "105除以7等于15",
+      "options": [
+        13,
+        15,
+        17,
+        27
+      ]
+    },
+    {
+      "id": "G3_A_139",
+      "type": "choice",
+      "question": "288 ÷ 12 = ?",
+      "answer": "24",
+      "explanation": "288除以12等于24",
+      "options": [
+        19,
+        24,
+        28,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_140",
+      "type": "choice",
+      "question": "48 ÷ 12 = ?",
+      "answer": "4",
+      "explanation": "48除以12等于4",
+      "options": [
+        1,
+        4,
+        6,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_141",
+      "type": "choice",
+      "question": "300 ÷ 10 = ?",
+      "answer": "30",
+      "explanation": "300除以10等于30",
+      "options": [
+        29,
+        30,
+        35,
+        40
+      ]
+    },
+    {
+      "id": "G3_A_142",
+      "type": "choice",
+      "question": "119 ÷ 17 = ?",
+      "answer": "7",
+      "explanation": "119除以17等于7",
+      "options": [
+        5,
+        7,
+        11,
+        17
+      ]
+    },
+    {
+      "id": "G3_A_143",
+      "type": "choice",
+      "question": "40 ÷ 2 = ?",
+      "answer": "20",
+      "explanation": "40除以2等于20",
+      "options": [
+        18,
+        20,
+        22,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_144",
+      "type": "choice",
+      "question": "150 ÷ 5 = ?",
+      "answer": "30",
+      "explanation": "150除以5等于30",
+      "options": [
+        25,
+        30,
+        31,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_145",
+      "type": "choice",
+      "question": "180 ÷ 18 = ?",
+      "answer": "10",
+      "explanation": "180除以18等于10",
+      "options": [
+        7,
+        10,
+        15,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_146",
+      "type": "choice",
+      "question": "198 ÷ 11 = ?",
+      "answer": "18",
+      "explanation": "198除以11等于18",
+      "options": [
+        14,
+        18,
+        19,
+        28
+      ]
+    },
+    {
+      "id": "G3_A_147",
+      "type": "choice",
+      "question": "112 ÷ 14 = ?",
+      "answer": "8",
+      "explanation": "112除以14等于8",
+      "options": [
+        5,
+        8,
+        10,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_148",
+      "type": "choice",
+      "question": "480 ÷ 20 = ?",
+      "answer": "24",
+      "explanation": "480除以20等于24",
+      "options": [
+        22,
+        24,
+        26,
+        35
+      ]
+    },
+    {
+      "id": "G3_A_149",
+      "type": "choice",
+      "question": "324 ÷ 12 = ?",
+      "answer": "27",
+      "explanation": "324除以12等于27",
+      "options": [
+        26,
+        27,
+        30,
+        33
+      ]
+    },
+    {
+      "id": "G3_A_150",
+      "type": "choice",
+      "question": "40 ÷ 2 = ?",
+      "answer": "20",
+      "explanation": "40除以2等于20",
+      "options": [
+        15,
+        20,
+        23,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_151",
+      "type": "choice",
+      "question": "63 ÷ 9 = ?",
+      "answer": "7",
+      "explanation": "63除以9等于7",
+      "options": [
+        6,
+        7,
+        9,
+        15
+      ]
+    },
+    {
+      "id": "G3_A_152",
+      "type": "choice",
+      "question": "540 ÷ 18 = ?",
+      "answer": "30",
+      "explanation": "540除以18等于30",
+      "options": [
+        26,
+        30,
+        33,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_153",
+      "type": "choice",
+      "question": "120 ÷ 8 = ?",
+      "answer": "15",
+      "explanation": "120除以8等于15",
+      "options": [
+        11,
+        15,
+        16,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_154",
+      "type": "choice",
+      "question": "99 ÷ 9 = ?",
+      "answer": "11",
+      "explanation": "99除以9等于11",
+      "options": [
+        10,
+        11,
+        12,
+        18
+      ]
+    },
+    {
+      "id": "G3_A_155",
+      "type": "choice",
+      "question": "165 ÷ 11 = ?",
+      "answer": "15",
+      "explanation": "165除以11等于15",
+      "options": [
+        13,
+        15,
+        19,
+        24
+      ]
+    },
+    {
+      "id": "G3_A_156",
+      "type": "choice",
+      "question": "100 ÷ 4 = ?",
+      "answer": "25",
+      "explanation": "100除以4等于25",
+      "options": [
+        23,
+        25,
+        26,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_157",
+      "type": "choice",
+      "question": "8 ÷ 4 = ?",
+      "answer": "2",
+      "explanation": "8除以4等于2",
+      "options": [
+        1,
+        2,
+        6,
+        11
+      ]
+    },
+    {
+      "id": "G3_A_158",
+      "type": "choice",
+      "question": "390 ÷ 15 = ?",
+      "answer": "26",
+      "explanation": "390除以15等于26",
+      "options": [
+        23,
+        26,
+        27,
+        34
+      ]
+    },
+    {
+      "id": "G3_A_159",
+      "type": "choice",
+      "question": "72 ÷ 12 = ?",
+      "answer": "6",
+      "explanation": "72除以12等于6",
+      "options": [
+        1,
+        6,
+        11,
+        17
+      ]
+    },
+    {
+      "id": "G3_A_160",
+      "type": "choice",
+      "question": "8 ÷ 2 = ?",
+      "answer": "4",
+      "explanation": "8除以2等于4",
+      "options": [
+        1,
+        4,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G3_A_161",
+      "type": "choice",
+      "question": "360 ÷ 18 = ?",
+      "answer": "20",
+      "explanation": "360除以18等于20",
+      "options": [
+        15,
+        20,
+        23,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_162",
+      "type": "choice",
+      "question": "304 ÷ 16 = ?",
+      "answer": "19",
+      "explanation": "304除以16等于19",
+      "options": [
+        14,
+        19,
+        21,
+        30
+      ]
+    },
+    {
+      "id": "G3_A_163",
+      "type": "choice",
+      "question": "175 ÷ 7 = ?",
+      "answer": "25",
+      "explanation": "175除以7等于25",
+      "options": [
+        21,
+        25,
+        28,
+        37
+      ]
+    },
+    {
+      "id": "G3_A_164",
+      "type": "choice",
+      "question": "80 ÷ 8 = ?",
+      "answer": "10",
+      "explanation": "80除以8等于10",
+      "options": [
+        6,
+        10,
+        11,
+        17
+      ]
+    },
+    {
+      "id": "G3_A_165",
+      "type": "choice",
+      "question": "400 ÷ 16 = ?",
+      "answer": "25",
+      "explanation": "400除以16等于25",
+      "options": [
+        24,
+        25,
+        29,
+        35
+      ]
+    },
+    {
+      "id": "G3_A_166",
+      "type": "choice",
+      "question": "200 ÷ 8 = ?",
+      "answer": "25",
+      "explanation": "200除以8等于25",
+      "options": [
+        20,
+        25,
+        26,
+        37
+      ]
+    },
+    {
+      "id": "G3_A_167",
+      "type": "choice",
+      "question": "182 ÷ 13 = ?",
+      "answer": "14",
+      "explanation": "182除以13等于14",
+      "options": [
+        12,
+        14,
+        17,
+        20
+      ]
+    },
+    {
+      "id": "G3_A_168",
+      "type": "choice",
+      "question": "60 ÷ 6 = ?",
+      "answer": "10",
+      "explanation": "60除以6等于10",
+      "options": [
+        5,
+        10,
+        12,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_169",
+      "type": "choice",
+      "question": "87 ÷ 3 = ?",
+      "answer": "29",
+      "explanation": "87除以3等于29",
+      "options": [
+        25,
+        29,
+        34,
+        38
+      ]
+    },
+    {
+      "id": "G3_A_170",
+      "type": "choice",
+      "question": "60 ÷ 20 = ?",
+      "answer": "3",
+      "explanation": "60除以20等于3",
+      "options": [
+        1,
+        3,
+        7,
+        14
+      ]
+    },
+    {
+      "id": "G3_A_171",
+      "type": "choice",
+      "question": "187 ÷ 11 = ?",
+      "answer": "17",
+      "explanation": "187除以11等于17",
+      "options": [
+        15,
+        17,
+        18,
+        28
+      ]
+    },
+    {
+      "id": "G3_A_172",
+      "type": "choice",
+      "question": "234 ÷ 18 = ?",
+      "answer": "13",
+      "explanation": "234除以18等于13",
+      "options": [
+        11,
+        13,
+        18,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_173",
+      "type": "choice",
+      "question": "92 ÷ 4 = ?",
+      "answer": "23",
+      "explanation": "92除以4等于23",
+      "options": [
+        18,
+        23,
+        24,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_174",
+      "type": "choice",
+      "question": "414 ÷ 18 = ?",
+      "answer": "23",
+      "explanation": "414除以18等于23",
+      "options": [
+        20,
+        23,
+        25,
+        30
+      ]
+    },
+    {
+      "id": "G3_A_175",
+      "type": "choice",
+      "question": "350 ÷ 14 = ?",
+      "answer": "25",
+      "explanation": "350除以14等于25",
+      "options": [
+        24,
+        25,
+        27,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_176",
+      "type": "choice",
+      "question": "378 ÷ 18 = ?",
+      "answer": "21",
+      "explanation": "378除以18等于21",
+      "options": [
+        17,
+        21,
+        25,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_177",
+      "type": "choice",
+      "question": "165 ÷ 15 = ?",
+      "answer": "11",
+      "explanation": "165除以15等于11",
+      "options": [
+        6,
+        11,
+        12,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_178",
+      "type": "choice",
+      "question": "416 ÷ 16 = ?",
+      "answer": "26",
+      "explanation": "416除以16等于26",
+      "options": [
+        24,
+        26,
+        27,
+        35
+      ]
+    },
+    {
+      "id": "G3_A_179",
+      "type": "choice",
+      "question": "147 ÷ 7 = ?",
+      "answer": "21",
+      "explanation": "147除以7等于21",
+      "options": [
+        18,
+        21,
+        26,
+        33
+      ]
+    },
+    {
+      "id": "G3_A_180",
+      "type": "choice",
+      "question": "104 ÷ 8 = ?",
+      "answer": "13",
+      "explanation": "104除以8等于13",
+      "options": [
+        10,
+        13,
+        16,
+        22
+      ]
+    },
+    {
+      "id": "G3_A_181",
+      "type": "choice",
+      "question": "252 ÷ 14 = ?",
+      "answer": "18",
+      "explanation": "252除以14等于18",
+      "options": [
+        16,
+        18,
+        21,
+        26
+      ]
+    },
+    {
+      "id": "G3_A_182",
+      "type": "choice",
+      "question": "232 ÷ 8 = ?",
+      "answer": "29",
+      "explanation": "232除以8等于29",
+      "options": [
+        28,
+        29,
+        31,
+        38
+      ]
+    },
+    {
+      "id": "G3_A_183",
+      "type": "choice",
+      "question": "10 ÷ 2 = ?",
+      "answer": "5",
+      "explanation": "10除以2等于5",
+      "options": [
+        2,
+        5,
+        9,
+        15
+      ]
+    },
+    {
+      "id": "G3_A_184",
+      "type": "choice",
+      "question": "20 ÷ 10 = ?",
+      "answer": "2",
+      "explanation": "20除以10等于2",
+      "options": [
+        1,
+        2,
+        3,
+        12
+      ]
+    },
+    {
+      "id": "G3_A_185",
+      "type": "choice",
+      "question": "117 ÷ 13 = ?",
+      "answer": "9",
+      "explanation": "117除以13等于9",
+      "options": [
+        6,
+        9,
+        12,
+        20
+      ]
+    },
+    {
+      "id": "G3_A_186",
+      "type": "choice",
+      "question": "390 ÷ 15 = ?",
+      "answer": "26",
+      "explanation": "390除以15等于26",
+      "options": [
+        25,
+        26,
+        31,
+        32
+      ]
+    },
+    {
+      "id": "G3_A_187",
+      "type": "choice",
+      "question": "160 ÷ 8 = ?",
+      "answer": "20",
+      "explanation": "160除以8等于20",
+      "options": [
+        15,
+        20,
+        24,
+        27
+      ]
+    },
+    {
+      "id": "G3_A_188",
+      "type": "choice",
+      "question": "153 ÷ 9 = ?",
+      "answer": "17",
+      "explanation": "153除以9等于17",
+      "options": [
+        13,
+        17,
+        19,
+        26
+      ]
+    },
+    {
+      "id": "G3_A_189",
+      "type": "choice",
+      "question": "20 ÷ 2 = ?",
+      "answer": "10",
+      "explanation": "20除以2等于10",
+      "options": [
+        8,
+        10,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G3_A_190",
+      "type": "choice",
+      "question": "20 ÷ 10 = ?",
+      "answer": "2",
+      "explanation": "20除以10等于2",
+      "options": [
+        1,
+        2,
+        5,
+        12
+      ]
+    },
+    {
+      "id": "G3_A_191",
+      "type": "choice",
+      "question": "240 ÷ 16 = ?",
+      "answer": "15",
+      "explanation": "240除以16等于15",
+      "options": [
+        13,
+        15,
+        20,
+        25
+      ]
+    },
+    {
+      "id": "G3_A_192",
+      "type": "choice",
+      "question": "144 ÷ 12 = ?",
+      "answer": "12",
+      "explanation": "144除以12等于12",
+      "options": [
+        11,
+        12,
+        15,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_193",
+      "type": "choice",
+      "question": "85 ÷ 17 = ?",
+      "answer": "5",
+      "explanation": "85除以17等于5",
+      "options": [
+        2,
+        5,
+        7,
+        16
+      ]
+    },
+    {
+      "id": "G3_A_194",
+      "type": "choice",
+      "question": "448 ÷ 16 = ?",
+      "answer": "28",
+      "explanation": "448除以16等于28",
+      "options": [
+        24,
+        28,
+        30,
+        38
+      ]
+    },
+    {
+      "id": "G3_A_195",
+      "type": "choice",
+      "question": "252 ÷ 14 = ?",
+      "answer": "18",
+      "explanation": "252除以14等于18",
+      "options": [
+        14,
+        18,
+        19,
+        26
+      ]
+    },
+    {
+      "id": "G3_A_196",
+      "type": "choice",
+      "question": "63 ÷ 7 = ?",
+      "answer": "9",
+      "explanation": "63除以7等于9",
+      "options": [
+        8,
+        9,
+        14,
+        19
+      ]
+    },
+    {
+      "id": "G3_A_197",
+      "type": "choice",
+      "question": "90 ÷ 6 = ?",
+      "answer": "15",
+      "explanation": "90除以6等于15",
+      "options": [
+        11,
+        15,
+        17,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_198",
+      "type": "choice",
+      "question": "91 ÷ 7 = ?",
+      "answer": "13",
+      "explanation": "91除以7等于13",
+      "options": [
+        11,
+        13,
+        14,
+        24
+      ]
+    },
+    {
+      "id": "G3_A_199",
+      "type": "choice",
+      "question": "65 ÷ 5 = ?",
+      "answer": "13",
+      "explanation": "65除以5等于13",
+      "options": [
+        9,
+        13,
+        16,
+        23
+      ]
+    },
+    {
+      "id": "G3_A_200",
+      "type": "choice",
+      "question": "224 ÷ 14 = ?",
+      "answer": "16",
+      "explanation": "224除以14等于16",
+      "options": [
+        14,
+        16,
+        18,
+        25
+      ]
+    },
+    {
+      "id": "G3_A_201",
+      "type": "choice",
+      "question": "64 ÷ 4 = ?",
+      "answer": "16",
+      "explanation": "64除以4等于16",
+      "options": [
+        11,
+        16,
+        20,
+        26
+      ]
+    },
+    {
+      "id": "G3_A_202",
+      "type": "choice",
+      "question": "72 ÷ 18 = ?",
+      "answer": "4",
+      "explanation": "72除以18等于4",
+      "options": [
+        1,
+        4,
+        9,
+        13
+      ]
+    },
+    {
+      "id": "G3_A_203",
+      "type": "choice",
+      "question": "242 ÷ 11 = ?",
+      "answer": "22",
+      "explanation": "242除以11等于22",
+      "options": [
+        20,
+        22,
+        25,
+        28
+      ]
+    },
+    {
+      "id": "G3_A_204",
+      "type": "choice",
+      "question": "238 ÷ 17 = ?",
+      "answer": "14",
+      "explanation": "238除以17等于14",
+      "options": [
+        13,
+        14,
+        16,
+        25
+      ]
+    },
+    {
+      "id": "G3_A_205",
+      "type": "choice",
+      "question": "168 ÷ 6 = ?",
+      "answer": "28",
+      "explanation": "168除以6等于28",
+      "options": [
+        26,
+        28,
+        30,
+        35
+      ]
+    },
+    {
+      "id": "G3_A_206",
+      "type": "choice",
+      "question": "338 ÷ 13 = ?",
+      "answer": "26",
+      "explanation": "338除以13等于26",
+      "options": [
+        24,
+        26,
+        31,
+        38
+      ]
+    },
+    {
+      "id": "G3_A_207",
+      "type": "choice",
+      "question": "405 ÷ 15 = ?",
+      "answer": "27",
+      "explanation": "405除以15等于27",
+      "options": [
+        24,
+        27,
+        31,
+        35
+      ]
+    },
+    {
+      "id": "G3_A_208",
+      "type": "choice",
+      "question": "72 ÷ 6 = ?",
+      "answer": "12",
+      "explanation": "72除以6等于12",
+      "options": [
+        9,
+        12,
+        13,
+        20
+      ]
+    },
+    {
+      "id": "G3_A_209",
+      "type": "choice",
+      "question": "243 ÷ 9 = ?",
+      "answer": "27",
+      "explanation": "243除以9等于27",
+      "options": [
+        22,
+        27,
+        31,
+        36
+      ]
+    },
+    {
+      "id": "G3_A_210",
+      "type": "choice",
+      "question": "57 ÷ 3 = ?",
+      "answer": "19",
+      "explanation": "57除以3等于19",
+      "options": [
+        17,
+        19,
+        22,
+        27
+      ]
+    },
+    {
+      "id": "G3_A_211",
+      "type": "choice",
+      "question": "102 ÷ 17 = ?",
+      "answer": "6",
+      "explanation": "102除以17等于6",
+      "options": [
+        2,
+        6,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G3_A_212",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_213",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_214",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_215",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_216",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_217",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_218",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_219",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_220",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取4份，用分数表示是？",
+      "answer": "4/10",
+      "explanation": "分子4，分母10，表示4/10",
+      "options": [
+        "4/10",
+        "5/10",
+        "4/12",
+        "6/10"
+      ]
+    },
+    {
+      "id": "G3_A_221",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_222",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_223",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取3份，用分数表示是？",
+      "answer": "3/10",
+      "explanation": "分子3，分母10，表示3/10",
+      "options": [
+        "3/10",
+        "4/10",
+        "3/12",
+        "7/10"
+      ]
+    },
+    {
+      "id": "G3_A_224",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_225",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    },
+    {
+      "id": "G3_A_226",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_227",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_228",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_229",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_230",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_231",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_232",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_233",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_234",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_235",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    },
+    {
+      "id": "G3_A_236",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取4份，用分数表示是？",
+      "answer": "4/8",
+      "explanation": "分子4，分母8，表示4/8",
+      "options": [
+        "4/8",
+        "5/8",
+        "4/10",
+        "4/8"
+      ]
+    },
+    {
+      "id": "G3_A_237",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_238",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_239",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_240",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_241",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_242",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_243",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_244",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_245",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_246",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取4份，用分数表示是？",
+      "answer": "4/8",
+      "explanation": "分子4，分母8，表示4/8",
+      "options": [
+        "4/8",
+        "5/8",
+        "4/10",
+        "4/8"
+      ]
+    },
+    {
+      "id": "G3_A_247",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_248",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取5份，用分数表示是？",
+      "answer": "5/10",
+      "explanation": "分子5，分母10，表示5/10",
+      "options": [
+        "5/10",
+        "6/10",
+        "5/12",
+        "5/10"
+      ]
+    },
+    {
+      "id": "G3_A_249",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_250",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_251",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_252",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_253",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    },
+    {
+      "id": "G3_A_254",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    },
+    {
+      "id": "G3_A_255",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_256",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_257",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取4份，用分数表示是？",
+      "answer": "4/8",
+      "explanation": "分子4，分母8，表示4/8",
+      "options": [
+        "4/8",
+        "5/8",
+        "4/10",
+        "4/8"
+      ]
+    },
+    {
+      "id": "G3_A_258",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    },
+    {
+      "id": "G3_A_259",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_260",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_261",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取4份，用分数表示是？",
+      "answer": "4/8",
+      "explanation": "分子4，分母8，表示4/8",
+      "options": [
+        "4/8",
+        "5/8",
+        "4/10",
+        "4/8"
+      ]
+    },
+    {
+      "id": "G3_A_262",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_263",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_264",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_265",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取4份，用分数表示是？",
+      "answer": "4/10",
+      "explanation": "分子4，分母10，表示4/10",
+      "options": [
+        "4/10",
+        "5/10",
+        "4/12",
+        "6/10"
+      ]
+    },
+    {
+      "id": "G3_A_266",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取4份，用分数表示是？",
+      "answer": "4/10",
+      "explanation": "分子4，分母10，表示4/10",
+      "options": [
+        "4/10",
+        "5/10",
+        "4/12",
+        "6/10"
+      ]
+    },
+    {
+      "id": "G3_A_267",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_268",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_269",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_270",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_271",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取5份，用分数表示是？",
+      "answer": "5/10",
+      "explanation": "分子5，分母10，表示5/10",
+      "options": [
+        "5/10",
+        "6/10",
+        "5/12",
+        "5/10"
+      ]
+    },
+    {
+      "id": "G3_A_272",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_273",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_274",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取2份，用分数表示是？",
+      "answer": "2/10",
+      "explanation": "分子2，分母10，表示2/10",
+      "options": [
+        "2/10",
+        "3/10",
+        "2/12",
+        "8/10"
+      ]
+    },
+    {
+      "id": "G3_A_275",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取3份，用分数表示是？",
+      "answer": "3/6",
+      "explanation": "分子3，分母6，表示3/6",
+      "options": [
+        "3/6",
+        "4/6",
+        "3/8",
+        "3/6"
+      ]
+    },
+    {
+      "id": "G3_A_276",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_277",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_278",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取2份，用分数表示是？",
+      "answer": "2/10",
+      "explanation": "分子2，分母10，表示2/10",
+      "options": [
+        "2/10",
+        "3/10",
+        "2/12",
+        "8/10"
+      ]
+    },
+    {
+      "id": "G3_A_279",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_280",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取3份，用分数表示是？",
+      "answer": "3/10",
+      "explanation": "分子3，分母10，表示3/10",
+      "options": [
+        "3/10",
+        "4/10",
+        "3/12",
+        "7/10"
+      ]
+    },
+    {
+      "id": "G3_A_281",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取5份，用分数表示是？",
+      "answer": "5/10",
+      "explanation": "分子5，分母10，表示5/10",
+      "options": [
+        "5/10",
+        "6/10",
+        "5/12",
+        "5/10"
+      ]
+    },
+    {
+      "id": "G3_A_282",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_283",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_284",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_285",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_286",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_287",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_288",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_289",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_290",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_291",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取3份，用分数表示是？",
+      "answer": "3/6",
+      "explanation": "分子3，分母6，表示3/6",
+      "options": [
+        "3/6",
+        "4/6",
+        "3/8",
+        "3/6"
+      ]
+    },
+    {
+      "id": "G3_A_292",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_293",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取3份，用分数表示是？",
+      "answer": "3/6",
+      "explanation": "分子3，分母6，表示3/6",
+      "options": [
+        "3/6",
+        "4/6",
+        "3/8",
+        "3/6"
+      ]
+    },
+    {
+      "id": "G3_A_294",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取1份，用分数表示是？",
+      "answer": "1/8",
+      "explanation": "分子1，分母8，表示1/8",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/10",
+        "7/8"
+      ]
+    },
+    {
+      "id": "G3_A_295",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_296",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_297",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取4份，用分数表示是？",
+      "answer": "4/10",
+      "explanation": "分子4，分母10，表示4/10",
+      "options": [
+        "4/10",
+        "5/10",
+        "4/12",
+        "6/10"
+      ]
+    },
+    {
+      "id": "G3_A_298",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_299",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取4份，用分数表示是？",
+      "answer": "4/10",
+      "explanation": "分子4，分母10，表示4/10",
+      "options": [
+        "4/10",
+        "5/10",
+        "4/12",
+        "6/10"
+      ]
+    },
+    {
+      "id": "G3_A_300",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取3份，用分数表示是？",
+      "answer": "3/6",
+      "explanation": "分子3，分母6，表示3/6",
+      "options": [
+        "3/6",
+        "4/6",
+        "3/8",
+        "3/6"
+      ]
+    },
+    {
+      "id": "G3_A_301",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取1份，用分数表示是？",
+      "answer": "1/6",
+      "explanation": "分子1，分母6，表示1/6",
+      "options": [
+        "1/6",
+        "2/6",
+        "1/8",
+        "5/6"
+      ]
+    },
+    {
+      "id": "G3_A_302",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取5份，用分数表示是？",
+      "answer": "5/10",
+      "explanation": "分子5，分母10，表示5/10",
+      "options": [
+        "5/10",
+        "6/10",
+        "5/12",
+        "5/10"
+      ]
+    },
+    {
+      "id": "G3_A_303",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取3份，用分数表示是？",
+      "answer": "3/10",
+      "explanation": "分子3，分母10，表示3/10",
+      "options": [
+        "3/10",
+        "4/10",
+        "3/12",
+        "7/10"
+      ]
+    },
+    {
+      "id": "G3_A_304",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_305",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_306",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取4份，用分数表示是？",
+      "answer": "4/10",
+      "explanation": "分子4，分母10，表示4/10",
+      "options": [
+        "4/10",
+        "5/10",
+        "4/12",
+        "6/10"
+      ]
+    },
+    {
+      "id": "G3_A_307",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_308",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_309",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_310",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    },
+    {
+      "id": "G3_A_311",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_312",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取2份，用分数表示是？",
+      "answer": "2/8",
+      "explanation": "分子2，分母8，表示2/8",
+      "options": [
+        "2/8",
+        "3/8",
+        "2/10",
+        "6/8"
+      ]
+    },
+    {
+      "id": "G3_A_313",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取2份，用分数表示是？",
+      "answer": "2/10",
+      "explanation": "分子2，分母10，表示2/10",
+      "options": [
+        "2/10",
+        "3/10",
+        "2/12",
+        "8/10"
+      ]
+    },
+    {
+      "id": "G3_A_314",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取1份，用分数表示是？",
+      "answer": "1/4",
+      "explanation": "分子1，分母4，表示1/4",
+      "options": [
+        "1/4",
+        "2/4",
+        "1/6",
+        "3/4"
+      ]
+    },
+    {
+      "id": "G3_A_315",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取3份，用分数表示是？",
+      "answer": "3/10",
+      "explanation": "分子3，分母10，表示3/10",
+      "options": [
+        "3/10",
+        "4/10",
+        "3/12",
+        "7/10"
+      ]
+    },
+    {
+      "id": "G3_A_316",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取2份，用分数表示是？",
+      "answer": "2/6",
+      "explanation": "分子2，分母6，表示2/6",
+      "options": [
+        "2/6",
+        "3/6",
+        "2/8",
+        "4/6"
+      ]
+    },
+    {
+      "id": "G3_A_317",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取5份，用分数表示是？",
+      "answer": "5/10",
+      "explanation": "分子5，分母10，表示5/10",
+      "options": [
+        "5/10",
+        "6/10",
+        "5/12",
+        "5/10"
+      ]
+    },
+    {
+      "id": "G3_A_318",
+      "type": "choice",
+      "question": "把一个物体平均分成10份，取1份，用分数表示是？",
+      "answer": "1/10",
+      "explanation": "分子1，分母10，表示1/10",
+      "options": [
+        "1/10",
+        "2/10",
+        "1/12",
+        "9/10"
+      ]
+    },
+    {
+      "id": "G3_A_319",
+      "type": "choice",
+      "question": "把一个物体平均分成4份，取2份，用分数表示是？",
+      "answer": "2/4",
+      "explanation": "分子2，分母4，表示2/4",
+      "options": [
+        "2/4",
+        "3/4",
+        "2/6",
+        "2/4"
+      ]
+    },
+    {
+      "id": "G3_A_320",
+      "type": "choice",
+      "question": "把一个物体平均分成6份，取3份，用分数表示是？",
+      "answer": "3/6",
+      "explanation": "分子3，分母6，表示3/6",
+      "options": [
+        "3/6",
+        "4/6",
+        "3/8",
+        "3/6"
+      ]
+    },
+    {
+      "id": "G3_A_321",
+      "type": "choice",
+      "question": "把一个物体平均分成8份，取3份，用分数表示是？",
+      "answer": "3/8",
+      "explanation": "分子3，分母8，表示3/8",
+      "options": [
+        "3/8",
+        "4/8",
+        "3/10",
+        "5/8"
+      ]
+    }
+  ],
+  "olympic": [
+    {
+      "id": "G3_O_001",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        12,
+        21,
+        34,
+        47
+      ]
+    },
+    {
+      "id": "G3_O_002",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 = ?",
+      "answer": "15",
+      "explanation": "等差数列求和：(1+5)×5÷2 = 15",
+      "options": [
+        10,
+        15,
+        21,
+        34
+      ]
+    },
+    {
+      "id": "G3_O_003",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        22,
+        36,
+        46,
+        61
+      ]
+    },
+    {
+      "id": "G3_O_004",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        56,
+        66,
+        77,
+        83
+      ]
+    },
+    {
+      "id": "G3_O_005",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        14,
+        21,
+        29,
+        40
+      ]
+    },
+    {
+      "id": "G3_O_006",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 = ?",
+      "answer": "78",
+      "explanation": "等差数列求和：(1+12)×12÷2 = 78",
+      "options": [
+        63,
+        78,
+        86,
+        100
+      ]
+    },
+    {
+      "id": "G3_O_007",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        57,
+        66,
+        80,
+        94
+      ]
+    },
+    {
+      "id": "G3_O_008",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 = ?",
+      "answer": "15",
+      "explanation": "等差数列求和：(1+5)×5÷2 = 15",
+      "options": [
+        9,
+        15,
+        26,
+        37
+      ]
+    },
+    {
+      "id": "G3_O_009",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = ?",
+      "answer": "55",
+      "explanation": "等差数列求和：(1+10)×10÷2 = 55",
+      "options": [
+        49,
+        55,
+        62,
+        78
+      ]
+    },
+    {
+      "id": "G3_O_010",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        54,
+        66,
+        80,
+        83
+      ]
+    },
+    {
+      "id": "G3_O_011",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = ?",
+      "answer": "45",
+      "explanation": "等差数列求和：(1+9)×9÷2 = 45",
+      "options": [
+        37,
+        45,
+        52,
+        70
+      ]
+    },
+    {
+      "id": "G3_O_012",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 = ?",
+      "answer": "78",
+      "explanation": "等差数列求和：(1+12)×12÷2 = 78",
+      "options": [
+        67,
+        78,
+        92,
+        107
+      ]
+    },
+    {
+      "id": "G3_O_013",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        55,
+        66,
+        77,
+        92
+      ]
+    },
+    {
+      "id": "G3_O_014",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = ?",
+      "answer": "55",
+      "explanation": "等差数列求和：(1+10)×10÷2 = 55",
+      "options": [
+        47,
+        55,
+        67,
+        73
+      ]
+    },
+    {
+      "id": "G3_O_015",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        51,
+        66,
+        78,
+        84
+      ]
+    },
+    {
+      "id": "G3_O_016",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = ?",
+      "answer": "55",
+      "explanation": "等差数列求和：(1+10)×10÷2 = 55",
+      "options": [
+        47,
+        55,
+        68,
+        82
+      ]
+    },
+    {
+      "id": "G3_O_017",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = ?",
+      "answer": "55",
+      "explanation": "等差数列求和：(1+10)×10÷2 = 55",
+      "options": [
+        46,
+        55,
+        66,
+        73
+      ]
+    },
+    {
+      "id": "G3_O_018",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        29,
+        36,
+        43,
+        54
+      ]
+    },
+    {
+      "id": "G3_O_019",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        16,
+        21,
+        33,
+        37
+      ]
+    },
+    {
+      "id": "G3_O_020",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 = ?",
+      "answer": "78",
+      "explanation": "等差数列求和：(1+12)×12÷2 = 78",
+      "options": [
+        67,
+        78,
+        84,
+        100
+      ]
+    },
+    {
+      "id": "G3_O_021",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        23,
+        36,
+        49,
+        54
+      ]
+    },
+    {
+      "id": "G3_O_022",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 = ?",
+      "answer": "28",
+      "explanation": "等差数列求和：(1+7)×7÷2 = 28",
+      "options": [
+        13,
+        28,
+        42,
+        51
+      ]
+    },
+    {
+      "id": "G3_O_023",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        55,
+        66,
+        81,
+        91
+      ]
+    },
+    {
+      "id": "G3_O_024",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        51,
+        66,
+        80,
+        95
+      ]
+    },
+    {
+      "id": "G3_O_025",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 = ?",
+      "answer": "15",
+      "explanation": "等差数列求和：(1+5)×5÷2 = 15",
+      "options": [
+        10,
+        15,
+        26,
+        35
+      ]
+    },
+    {
+      "id": "G3_O_026",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = ?",
+      "answer": "55",
+      "explanation": "等差数列求和：(1+10)×10÷2 = 55",
+      "options": [
+        41,
+        55,
+        69,
+        80
+      ]
+    },
+    {
+      "id": "G3_O_027",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = ?",
+      "answer": "45",
+      "explanation": "等差数列求和：(1+9)×9÷2 = 45",
+      "options": [
+        35,
+        45,
+        50,
+        73
+      ]
+    },
+    {
+      "id": "G3_O_028",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        56,
+        66,
+        71,
+        91
+      ]
+    },
+    {
+      "id": "G3_O_029",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = ?",
+      "answer": "45",
+      "explanation": "等差数列求和：(1+9)×9÷2 = 45",
+      "options": [
+        39,
+        45,
+        56,
+        66
+      ]
+    },
+    {
+      "id": "G3_O_030",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        22,
+        36,
+        41,
+        64
+      ]
+    },
+    {
+      "id": "G3_O_031",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 = ?",
+      "answer": "15",
+      "explanation": "等差数列求和：(1+5)×5÷2 = 15",
+      "options": [
+        5,
+        15,
+        22,
+        45
+      ]
+    },
+    {
+      "id": "G3_O_032",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 = ?",
+      "answer": "15",
+      "explanation": "等差数列求和：(1+5)×5÷2 = 15",
+      "options": [
+        4,
+        15,
+        28,
+        39
+      ]
+    },
+    {
+      "id": "G3_O_033",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 = ?",
+      "answer": "28",
+      "explanation": "等差数列求和：(1+7)×7÷2 = 28",
+      "options": [
+        13,
+        28,
+        41,
+        50
+      ]
+    },
+    {
+      "id": "G3_O_034",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = ?",
+      "answer": "55",
+      "explanation": "等差数列求和：(1+10)×10÷2 = 55",
+      "options": [
+        42,
+        55,
+        68,
+        83
+      ]
+    },
+    {
+      "id": "G3_O_035",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        51,
+        66,
+        80,
+        96
+      ]
+    },
+    {
+      "id": "G3_O_036",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        56,
+        66,
+        73,
+        86
+      ]
+    },
+    {
+      "id": "G3_O_037",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        54,
+        66,
+        74,
+        91
+      ]
+    },
+    {
+      "id": "G3_O_038",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        55,
+        66,
+        80,
+        83
+      ]
+    },
+    {
+      "id": "G3_O_039",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        27,
+        36,
+        50,
+        66
+      ]
+    },
+    {
+      "id": "G3_O_040",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 = ?",
+      "answer": "15",
+      "explanation": "等差数列求和：(1+5)×5÷2 = 15",
+      "options": [
+        8,
+        15,
+        23,
+        43
+      ]
+    },
+    {
+      "id": "G3_O_041",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        9,
+        21,
+        33,
+        41
+      ]
+    },
+    {
+      "id": "G3_O_042",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = ?",
+      "answer": "55",
+      "explanation": "等差数列求和：(1+10)×10÷2 = 55",
+      "options": [
+        46,
+        55,
+        60,
+        77
+      ]
+    },
+    {
+      "id": "G3_O_043",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        8,
+        21,
+        28,
+        45
+      ]
+    },
+    {
+      "id": "G3_O_044",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 = ?",
+      "answer": "15",
+      "explanation": "等差数列求和：(1+5)×5÷2 = 15",
+      "options": [
+        7,
+        15,
+        29,
+        40
+      ]
+    },
+    {
+      "id": "G3_O_045",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        16,
+        21,
+        27,
+        46
+      ]
+    },
+    {
+      "id": "G3_O_046",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        11,
+        21,
+        30,
+        38
+      ]
+    },
+    {
+      "id": "G3_O_047",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        29,
+        36,
+        42,
+        65
+      ]
+    },
+    {
+      "id": "G3_O_048",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        21,
+        36,
+        42,
+        52
+      ]
+    },
+    {
+      "id": "G3_O_049",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        51,
+        66,
+        73,
+        83
+      ]
+    },
+    {
+      "id": "G3_O_050",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        27,
+        36,
+        43,
+        52
+      ]
+    },
+    {
+      "id": "G3_O_051",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        8,
+        21,
+        28,
+        50
+      ]
+    },
+    {
+      "id": "G3_O_052",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        60,
+        66,
+        81,
+        85
+      ]
+    },
+    {
+      "id": "G3_O_053",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        6,
+        21,
+        28,
+        44
+      ]
+    },
+    {
+      "id": "G3_O_054",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        12,
+        21,
+        35,
+        41
+      ]
+    },
+    {
+      "id": "G3_O_055",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = ?",
+      "answer": "45",
+      "explanation": "等差数列求和：(1+9)×9÷2 = 45",
+      "options": [
+        39,
+        45,
+        54,
+        70
+      ]
+    },
+    {
+      "id": "G3_O_056",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        30,
+        36,
+        44,
+        61
+      ]
+    },
+    {
+      "id": "G3_O_057",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        15,
+        21,
+        30,
+        50
+      ]
+    },
+    {
+      "id": "G3_O_058",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        59,
+        66,
+        79,
+        91
+      ]
+    },
+    {
+      "id": "G3_O_059",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 = ?",
+      "answer": "78",
+      "explanation": "等差数列求和：(1+12)×12÷2 = 78",
+      "options": [
+        67,
+        78,
+        86,
+        107
+      ]
+    },
+    {
+      "id": "G3_O_060",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        54,
+        66,
+        73,
+        94
+      ]
+    },
+    {
+      "id": "G3_O_061",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        52,
+        66,
+        75,
+        84
+      ]
+    },
+    {
+      "id": "G3_O_062",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = ?",
+      "answer": "55",
+      "explanation": "等差数列求和：(1+10)×10÷2 = 55",
+      "options": [
+        43,
+        55,
+        60,
+        74
+      ]
+    },
+    {
+      "id": "G3_O_063",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        29,
+        36,
+        43,
+        62
+      ]
+    },
+    {
+      "id": "G3_O_064",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        8,
+        21,
+        33,
+        49
+      ]
+    },
+    {
+      "id": "G3_O_065",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 = ?",
+      "answer": "78",
+      "explanation": "等差数列求和：(1+12)×12÷2 = 78",
+      "options": [
+        68,
+        78,
+        89,
+        104
+      ]
+    },
+    {
+      "id": "G3_O_066",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        6,
+        21,
+        29,
+        46
+      ]
+    },
+    {
+      "id": "G3_O_067",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        16,
+        21,
+        32,
+        39
+      ]
+    },
+    {
+      "id": "G3_O_068",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = ?",
+      "answer": "45",
+      "explanation": "等差数列求和：(1+9)×9÷2 = 45",
+      "options": [
+        30,
+        45,
+        54,
+        65
+      ]
+    },
+    {
+      "id": "G3_O_069",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        10,
+        21,
+        26,
+        49
+      ]
+    },
+    {
+      "id": "G3_O_070",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        12,
+        21,
+        35,
+        50
+      ]
+    },
+    {
+      "id": "G3_O_071",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        61,
+        66,
+        76,
+        83
+      ]
+    },
+    {
+      "id": "G3_O_072",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = ?",
+      "answer": "45",
+      "explanation": "等差数列求和：(1+9)×9÷2 = 45",
+      "options": [
+        32,
+        45,
+        55,
+        61
+      ]
+    },
+    {
+      "id": "G3_O_073",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 = ?",
+      "answer": "28",
+      "explanation": "等差数列求和：(1+7)×7÷2 = 28",
+      "options": [
+        20,
+        28,
+        38,
+        44
+      ]
+    },
+    {
+      "id": "G3_O_074",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 = ?",
+      "answer": "78",
+      "explanation": "等差数列求和：(1+12)×12÷2 = 78",
+      "options": [
+        64,
+        78,
+        91,
+        99
+      ]
+    },
+    {
+      "id": "G3_O_075",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        10,
+        21,
+        31,
+        46
+      ]
+    },
+    {
+      "id": "G3_O_076",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        51,
+        66,
+        76,
+        87
+      ]
+    },
+    {
+      "id": "G3_O_077",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = ?",
+      "answer": "45",
+      "explanation": "等差数列求和：(1+9)×9÷2 = 45",
+      "options": [
+        32,
+        45,
+        59,
+        62
+      ]
+    },
+    {
+      "id": "G3_O_078",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 = ?",
+      "answer": "78",
+      "explanation": "等差数列求和：(1+12)×12÷2 = 78",
+      "options": [
+        64,
+        78,
+        84,
+        103
+      ]
+    },
+    {
+      "id": "G3_O_079",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        11,
+        21,
+        33,
+        51
+      ]
+    },
+    {
+      "id": "G3_O_080",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = ?",
+      "answer": "45",
+      "explanation": "等差数列求和：(1+9)×9÷2 = 45",
+      "options": [
+        33,
+        45,
+        53,
+        62
+      ]
+    },
+    {
+      "id": "G3_O_081",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = ?",
+      "answer": "55",
+      "explanation": "等差数列求和：(1+10)×10÷2 = 55",
+      "options": [
+        47,
+        55,
+        60,
+        71
+      ]
+    },
+    {
+      "id": "G3_O_082",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = ?",
+      "answer": "55",
+      "explanation": "等差数列求和：(1+10)×10÷2 = 55",
+      "options": [
+        44,
+        55,
+        68,
+        80
+      ]
+    },
+    {
+      "id": "G3_O_083",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        23,
+        36,
+        51,
+        66
+      ]
+    },
+    {
+      "id": "G3_O_084",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 = ?",
+      "answer": "28",
+      "explanation": "等差数列求和：(1+7)×7÷2 = 28",
+      "options": [
+        21,
+        28,
+        43,
+        48
+      ]
+    },
+    {
+      "id": "G3_O_085",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        8,
+        21,
+        31,
+        43
+      ]
+    },
+    {
+      "id": "G3_O_086",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        11,
+        21,
+        32,
+        51
+      ]
+    },
+    {
+      "id": "G3_O_087",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = ?",
+      "answer": "45",
+      "explanation": "等差数列求和：(1+9)×9÷2 = 45",
+      "options": [
+        30,
+        45,
+        50,
+        63
+      ]
+    },
+    {
+      "id": "G3_O_088",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 = ?",
+      "answer": "78",
+      "explanation": "等差数列求和：(1+12)×12÷2 = 78",
+      "options": [
+        73,
+        78,
+        92,
+        97
+      ]
+    },
+    {
+      "id": "G3_O_089",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 = ?",
+      "answer": "28",
+      "explanation": "等差数列求和：(1+7)×7÷2 = 28",
+      "options": [
+        19,
+        28,
+        36,
+        53
+      ]
+    },
+    {
+      "id": "G3_O_090",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        12,
+        21,
+        28,
+        40
+      ]
+    },
+    {
+      "id": "G3_O_091",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        23,
+        36,
+        44,
+        56
+      ]
+    },
+    {
+      "id": "G3_O_092",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 = ?",
+      "answer": "78",
+      "explanation": "等差数列求和：(1+12)×12÷2 = 78",
+      "options": [
+        64,
+        78,
+        91,
+        99
+      ]
+    },
+    {
+      "id": "G3_O_093",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = ?",
+      "answer": "45",
+      "explanation": "等差数列求和：(1+9)×9÷2 = 45",
+      "options": [
+        40,
+        45,
+        51,
+        69
+      ]
+    },
+    {
+      "id": "G3_O_094",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = ?",
+      "answer": "55",
+      "explanation": "等差数列求和：(1+10)×10÷2 = 55",
+      "options": [
+        48,
+        55,
+        61,
+        72
+      ]
+    },
+    {
+      "id": "G3_O_095",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        31,
+        36,
+        50,
+        54
+      ]
+    },
+    {
+      "id": "G3_O_096",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = ?",
+      "answer": "36",
+      "explanation": "等差数列求和：(1+8)×8÷2 = 36",
+      "options": [
+        27,
+        36,
+        48,
+        56
+      ]
+    },
+    {
+      "id": "G3_O_097",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 = ?",
+      "answer": "66",
+      "explanation": "等差数列求和：(1+11)×11÷2 = 66",
+      "options": [
+        59,
+        66,
+        72,
+        88
+      ]
+    },
+    {
+      "id": "G3_O_098",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 = ?",
+      "answer": "21",
+      "explanation": "等差数列求和：(1+6)×6÷2 = 21",
+      "options": [
+        16,
+        21,
+        29,
+        50
+      ]
+    },
+    {
+      "id": "G3_O_099",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 = ?",
+      "answer": "28",
+      "explanation": "等差数列求和：(1+7)×7÷2 = 28",
+      "options": [
+        19,
+        28,
+        38,
+        45
+      ]
+    },
+    {
+      "id": "G3_O_100",
+      "type": "choice",
+      "question": "巧算：1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = ?",
+      "answer": "55",
+      "explanation": "等差数列求和：(1+10)×10÷2 = 55",
+      "options": [
+        44,
+        55,
+        66,
+        73
+      ]
+    },
+    {
+      "id": "G3_O_101",
+      "type": "fill",
+      "question": "两数之和40，差16，求两数（大数在前，逗号分隔）",
+      "answer": "28,12",
+      "explanation": "大数=(40+16)÷2=28，小数=12"
+    },
+    {
+      "id": "G3_O_102",
+      "type": "fill",
+      "question": "两数之和65，差13，求两数（大数在前，逗号分隔）",
+      "answer": "39,26",
+      "explanation": "大数=(65+13)÷2=39，小数=26"
+    },
+    {
+      "id": "G3_O_103",
+      "type": "fill",
+      "question": "两数之和35，差13，求两数（大数在前，逗号分隔）",
+      "answer": "24,11",
+      "explanation": "大数=(35+13)÷2=24，小数=11"
+    },
+    {
+      "id": "G3_O_104",
+      "type": "fill",
+      "question": "两数之和31，差19，求两数（大数在前，逗号分隔）",
+      "answer": "25,6",
+      "explanation": "大数=(31+19)÷2=25，小数=6"
+    },
+    {
+      "id": "G3_O_105",
+      "type": "fill",
+      "question": "两数之和98，差8，求两数（大数在前，逗号分隔）",
+      "answer": "53,45",
+      "explanation": "大数=(98+8)÷2=53，小数=45"
+    },
+    {
+      "id": "G3_O_106",
+      "type": "fill",
+      "question": "两数之和89，差13，求两数（大数在前，逗号分隔）",
+      "answer": "51,38",
+      "explanation": "大数=(89+13)÷2=51，小数=38"
+    },
+    {
+      "id": "G3_O_107",
+      "type": "fill",
+      "question": "两数之和98，差4，求两数（大数在前，逗号分隔）",
+      "answer": "51,47",
+      "explanation": "大数=(98+4)÷2=51，小数=47"
+    },
+    {
+      "id": "G3_O_108",
+      "type": "fill",
+      "question": "两数之和69，差15，求两数（大数在前，逗号分隔）",
+      "answer": "42,27",
+      "explanation": "大数=(69+15)÷2=42，小数=27"
+    },
+    {
+      "id": "G3_O_109",
+      "type": "fill",
+      "question": "两数之和84，差10，求两数（大数在前，逗号分隔）",
+      "answer": "47,37",
+      "explanation": "大数=(84+10)÷2=47，小数=37"
+    },
+    {
+      "id": "G3_O_110",
+      "type": "fill",
+      "question": "两数之和94，差4，求两数（大数在前，逗号分隔）",
+      "answer": "49,45",
+      "explanation": "大数=(94+4)÷2=49，小数=45"
+    },
+    {
+      "id": "G3_O_111",
+      "type": "fill",
+      "question": "两数之和73，差7，求两数（大数在前，逗号分隔）",
+      "answer": "40,33",
+      "explanation": "大数=(73+7)÷2=40，小数=33"
+    },
+    {
+      "id": "G3_O_112",
+      "type": "fill",
+      "question": "两数之和85，差13，求两数（大数在前，逗号分隔）",
+      "answer": "49,36",
+      "explanation": "大数=(85+13)÷2=49，小数=36"
+    },
+    {
+      "id": "G3_O_113",
+      "type": "fill",
+      "question": "两数之和81，差13，求两数（大数在前，逗号分隔）",
+      "answer": "47,34",
+      "explanation": "大数=(81+13)÷2=47，小数=34"
+    },
+    {
+      "id": "G3_O_114",
+      "type": "fill",
+      "question": "两数之和30，差20，求两数（大数在前，逗号分隔）",
+      "answer": "25,5",
+      "explanation": "大数=(30+20)÷2=25，小数=5"
+    },
+    {
+      "id": "G3_O_115",
+      "type": "fill",
+      "question": "两数之和85，差17，求两数（大数在前，逗号分隔）",
+      "answer": "51,34",
+      "explanation": "大数=(85+17)÷2=51，小数=34"
+    },
+    {
+      "id": "G3_O_116",
+      "type": "fill",
+      "question": "两数之和71，差17，求两数（大数在前，逗号分隔）",
+      "answer": "44,27",
+      "explanation": "大数=(71+17)÷2=44，小数=27"
+    },
+    {
+      "id": "G3_O_117",
+      "type": "fill",
+      "question": "两数之和60，差4，求两数（大数在前，逗号分隔）",
+      "answer": "32,28",
+      "explanation": "大数=(60+4)÷2=32，小数=28"
+    },
+    {
+      "id": "G3_O_118",
+      "type": "fill",
+      "question": "两数之和56，差20，求两数（大数在前，逗号分隔）",
+      "answer": "38,18",
+      "explanation": "大数=(56+20)÷2=38，小数=18"
+    },
+    {
+      "id": "G3_O_119",
+      "type": "fill",
+      "question": "两数之和50，差12，求两数（大数在前，逗号分隔）",
+      "answer": "31,19",
+      "explanation": "大数=(50+12)÷2=31，小数=19"
+    },
+    {
+      "id": "G3_O_120",
+      "type": "fill",
+      "question": "两数之和39，差7，求两数（大数在前，逗号分隔）",
+      "answer": "23,16",
+      "explanation": "大数=(39+7)÷2=23，小数=16"
+    },
+    {
+      "id": "G3_O_121",
+      "type": "fill",
+      "question": "两数之和80，差12，求两数（大数在前，逗号分隔）",
+      "answer": "46,34",
+      "explanation": "大数=(80+12)÷2=46，小数=34"
+    },
+    {
+      "id": "G3_O_122",
+      "type": "fill",
+      "question": "两数之和95，差17，求两数（大数在前，逗号分隔）",
+      "answer": "56,39",
+      "explanation": "大数=(95+17)÷2=56，小数=39"
+    },
+    {
+      "id": "G3_O_123",
+      "type": "fill",
+      "question": "两数之和40，差14，求两数（大数在前，逗号分隔）",
+      "answer": "27,13",
+      "explanation": "大数=(40+14)÷2=27，小数=13"
+    },
+    {
+      "id": "G3_O_124",
+      "type": "fill",
+      "question": "两数之和94，差4，求两数（大数在前，逗号分隔）",
+      "answer": "49,45",
+      "explanation": "大数=(94+4)÷2=49，小数=45"
+    },
+    {
+      "id": "G3_O_125",
+      "type": "fill",
+      "question": "两数之和64，差4，求两数（大数在前，逗号分隔）",
+      "answer": "34,30",
+      "explanation": "大数=(64+4)÷2=34，小数=30"
+    },
+    {
+      "id": "G3_O_126",
+      "type": "fill",
+      "question": "两数之和60，差12，求两数（大数在前，逗号分隔）",
+      "answer": "36,24",
+      "explanation": "大数=(60+12)÷2=36，小数=24"
+    },
+    {
+      "id": "G3_O_127",
+      "type": "fill",
+      "question": "两数之和99，差11，求两数（大数在前，逗号分隔）",
+      "answer": "55,44",
+      "explanation": "大数=(99+11)÷2=55，小数=44"
+    },
+    {
+      "id": "G3_O_128",
+      "type": "fill",
+      "question": "两数之和73，差11，求两数（大数在前，逗号分隔）",
+      "answer": "42,31",
+      "explanation": "大数=(73+11)÷2=42，小数=31"
+    },
+    {
+      "id": "G3_O_129",
+      "type": "fill",
+      "question": "两数之和70，差6，求两数（大数在前，逗号分隔）",
+      "answer": "38,32",
+      "explanation": "大数=(70+6)÷2=38，小数=32"
+    },
+    {
+      "id": "G3_O_130",
+      "type": "fill",
+      "question": "两数之和73，差17，求两数（大数在前，逗号分隔）",
+      "answer": "45,28",
+      "explanation": "大数=(73+17)÷2=45，小数=28"
+    },
+    {
+      "id": "G3_O_131",
+      "type": "fill",
+      "question": "两数之和34，差18，求两数（大数在前，逗号分隔）",
+      "answer": "26,8",
+      "explanation": "大数=(34+18)÷2=26，小数=8"
+    },
+    {
+      "id": "G3_O_132",
+      "type": "fill",
+      "question": "两数之和84，差8，求两数（大数在前，逗号分隔）",
+      "answer": "46,38",
+      "explanation": "大数=(84+8)÷2=46，小数=38"
+    },
+    {
+      "id": "G3_O_133",
+      "type": "fill",
+      "question": "两数之和30，差8，求两数（大数在前，逗号分隔）",
+      "answer": "19,11",
+      "explanation": "大数=(30+8)÷2=19，小数=11"
+    },
+    {
+      "id": "G3_O_134",
+      "type": "fill",
+      "question": "两数之和87，差13，求两数（大数在前，逗号分隔）",
+      "answer": "50,37",
+      "explanation": "大数=(87+13)÷2=50，小数=37"
+    },
+    {
+      "id": "G3_O_135",
+      "type": "fill",
+      "question": "两数之和81，差11，求两数（大数在前，逗号分隔）",
+      "answer": "46,35",
+      "explanation": "大数=(81+11)÷2=46，小数=35"
+    },
+    {
+      "id": "G3_O_136",
+      "type": "fill",
+      "question": "两数之和98，差10，求两数（大数在前，逗号分隔）",
+      "answer": "54,44",
+      "explanation": "大数=(98+10)÷2=54，小数=44"
+    },
+    {
+      "id": "G3_O_137",
+      "type": "fill",
+      "question": "两数之和98，差10，求两数（大数在前，逗号分隔）",
+      "answer": "54,44",
+      "explanation": "大数=(98+10)÷2=54，小数=44"
+    },
+    {
+      "id": "G3_O_138",
+      "type": "fill",
+      "question": "两数之和80，差14，求两数（大数在前，逗号分隔）",
+      "answer": "47,33",
+      "explanation": "大数=(80+14)÷2=47，小数=33"
+    },
+    {
+      "id": "G3_O_139",
+      "type": "fill",
+      "question": "两数之和61，差17，求两数（大数在前，逗号分隔）",
+      "answer": "39,22",
+      "explanation": "大数=(61+17)÷2=39，小数=22"
+    },
+    {
+      "id": "G3_O_140",
+      "type": "fill",
+      "question": "两数之和41，差9，求两数（大数在前，逗号分隔）",
+      "answer": "25,16",
+      "explanation": "大数=(41+9)÷2=25，小数=16"
+    },
+    {
+      "id": "G3_O_141",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第21个是？",
+      "answer": "蓝",
+      "explanation": "周期3，第3个是蓝",
+      "options": [
+        "黄",
+        "红",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_142",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第19个是？",
+      "answer": "蓝",
+      "explanation": "周期4，第3个是蓝",
+      "options": [
+        "绿",
+        "红",
+        "黄",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_143",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第12个是？",
+      "answer": "蓝",
+      "explanation": "周期3，第3个是蓝",
+      "options": [
+        "黄",
+        "红",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_144",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第31个是？",
+      "answer": "红",
+      "explanation": "周期5，第1个是红",
+      "options": [
+        "黄",
+        "蓝",
+        "红",
+        "绿"
+      ]
+    },
+    {
+      "id": "G3_O_145",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第17个是？",
+      "answer": "黄",
+      "explanation": "周期3，第2个是黄",
+      "options": [
+        "红",
+        "黄",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_146",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第12个是？",
+      "answer": "蓝",
+      "explanation": "周期3，第3个是蓝",
+      "options": [
+        "红",
+        "黄",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_147",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第40个是？",
+      "answer": "紫",
+      "explanation": "周期5，第5个是紫",
+      "options": [
+        "红",
+        "黄",
+        "蓝",
+        "紫"
+      ]
+    },
+    {
+      "id": "G3_O_148",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第15个是？",
+      "answer": "蓝",
+      "explanation": "周期3，第3个是蓝",
+      "options": [
+        "黄",
+        "蓝",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_149",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第23个是？",
+      "answer": "蓝",
+      "explanation": "周期5，第3个是蓝",
+      "options": [
+        "紫",
+        "蓝",
+        "黄",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_150",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第15个是？",
+      "answer": "蓝",
+      "explanation": "周期3，第3个是蓝",
+      "options": [
+        "黄",
+        "蓝",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_151",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第36个是？",
+      "answer": "蓝",
+      "explanation": "周期3，第3个是蓝",
+      "options": [
+        "黄",
+        "红",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_152",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第33个是？",
+      "answer": "蓝",
+      "explanation": "周期3，第3个是蓝",
+      "options": [
+        "红",
+        "蓝",
+        "黄"
+      ]
+    },
+    {
+      "id": "G3_O_153",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第24个是？",
+      "answer": "绿",
+      "explanation": "周期5，第4个是绿",
+      "options": [
+        "紫",
+        "黄",
+        "蓝",
+        "绿"
+      ]
+    },
+    {
+      "id": "G3_O_154",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第11个是？",
+      "answer": "蓝",
+      "explanation": "周期4，第3个是蓝",
+      "options": [
+        "黄",
+        "蓝",
+        "红",
+        "绿"
+      ]
+    },
+    {
+      "id": "G3_O_155",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第37个是？",
+      "answer": "红",
+      "explanation": "周期4，第1个是红",
+      "options": [
+        "黄",
+        "绿",
+        "蓝",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_156",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第20个是？",
+      "answer": "绿",
+      "explanation": "周期4，第4个是绿",
+      "options": [
+        "蓝",
+        "红",
+        "黄",
+        "绿"
+      ]
+    },
+    {
+      "id": "G3_O_157",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第15个是？",
+      "answer": "蓝",
+      "explanation": "周期4，第3个是蓝",
+      "options": [
+        "蓝",
+        "黄",
+        "红",
+        "绿"
+      ]
+    },
+    {
+      "id": "G3_O_158",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第11个是？",
+      "answer": "黄",
+      "explanation": "周期3，第2个是黄",
+      "options": [
+        "红",
+        "蓝",
+        "黄"
+      ]
+    },
+    {
+      "id": "G3_O_159",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第21个是？",
+      "answer": "红",
+      "explanation": "周期4，第1个是红",
+      "options": [
+        "绿",
+        "蓝",
+        "黄",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_160",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第39个是？",
+      "answer": "绿",
+      "explanation": "周期5，第4个是绿",
+      "options": [
+        "绿",
+        "红",
+        "紫",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_161",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第39个是？",
+      "answer": "蓝",
+      "explanation": "周期3，第3个是蓝",
+      "options": [
+        "蓝",
+        "红",
+        "黄"
+      ]
+    },
+    {
+      "id": "G3_O_162",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第34个是？",
+      "answer": "红",
+      "explanation": "周期3，第1个是红",
+      "options": [
+        "红",
+        "蓝",
+        "黄"
+      ]
+    },
+    {
+      "id": "G3_O_163",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第34个是？",
+      "answer": "红",
+      "explanation": "周期3，第1个是红",
+      "options": [
+        "黄",
+        "红",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_164",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第13个是？",
+      "answer": "红",
+      "explanation": "周期4，第1个是红",
+      "options": [
+        "绿",
+        "黄",
+        "蓝",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_165",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第18个是？",
+      "answer": "黄",
+      "explanation": "周期4，第2个是黄",
+      "options": [
+        "蓝",
+        "红",
+        "黄",
+        "绿"
+      ]
+    },
+    {
+      "id": "G3_O_166",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第26个是？",
+      "answer": "黄",
+      "explanation": "周期4，第2个是黄",
+      "options": [
+        "绿",
+        "红",
+        "黄",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_167",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第10个是？",
+      "answer": "黄",
+      "explanation": "周期4，第2个是黄",
+      "options": [
+        "蓝",
+        "绿",
+        "红",
+        "黄"
+      ]
+    },
+    {
+      "id": "G3_O_168",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第22个是？",
+      "answer": "红",
+      "explanation": "周期3，第1个是红",
+      "options": [
+        "红",
+        "黄",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_169",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第32个是？",
+      "answer": "黄",
+      "explanation": "周期5，第2个是黄",
+      "options": [
+        "红",
+        "黄",
+        "蓝",
+        "紫"
+      ]
+    },
+    {
+      "id": "G3_O_170",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第23个是？",
+      "answer": "蓝",
+      "explanation": "周期5，第3个是蓝",
+      "options": [
+        "红",
+        "绿",
+        "黄",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_171",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第29个是？",
+      "answer": "红",
+      "explanation": "周期4，第1个是红",
+      "options": [
+        "黄",
+        "红",
+        "绿",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_172",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第20个是？",
+      "answer": "绿",
+      "explanation": "周期4，第4个是绿",
+      "options": [
+        "蓝",
+        "绿",
+        "红",
+        "黄"
+      ]
+    },
+    {
+      "id": "G3_O_173",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第19个是？",
+      "answer": "红",
+      "explanation": "周期3，第1个是红",
+      "options": [
+        "红",
+        "蓝",
+        "黄"
+      ]
+    },
+    {
+      "id": "G3_O_174",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第37个是？",
+      "answer": "黄",
+      "explanation": "周期5，第2个是黄",
+      "options": [
+        "蓝",
+        "紫",
+        "绿",
+        "黄"
+      ]
+    },
+    {
+      "id": "G3_O_175",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第32个是？",
+      "answer": "黄",
+      "explanation": "周期5，第2个是黄",
+      "options": [
+        "红",
+        "黄",
+        "蓝",
+        "绿"
+      ]
+    },
+    {
+      "id": "G3_O_176",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第30个是？",
+      "answer": "紫",
+      "explanation": "周期5，第5个是紫",
+      "options": [
+        "红",
+        "紫",
+        "黄",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_177",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第25个是？",
+      "answer": "紫",
+      "explanation": "周期5，第5个是紫",
+      "options": [
+        "黄",
+        "蓝",
+        "绿",
+        "紫"
+      ]
+    },
+    {
+      "id": "G3_O_178",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第19个是？",
+      "answer": "红",
+      "explanation": "周期3，第1个是红",
+      "options": [
+        "黄",
+        "红",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_179",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第25个是？",
+      "answer": "红",
+      "explanation": "周期3，第1个是红",
+      "options": [
+        "黄",
+        "红",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_180",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第13个是？",
+      "answer": "红",
+      "explanation": "周期4，第1个是红",
+      "options": [
+        "绿",
+        "红",
+        "黄",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_181",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第18个是？",
+      "answer": "蓝",
+      "explanation": "周期5，第3个是蓝",
+      "options": [
+        "黄",
+        "蓝",
+        "紫",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_182",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第24个是？",
+      "answer": "绿",
+      "explanation": "周期5，第4个是绿",
+      "options": [
+        "红",
+        "紫",
+        "绿",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_183",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第15个是？",
+      "answer": "蓝",
+      "explanation": "周期3，第3个是蓝",
+      "options": [
+        "蓝",
+        "黄",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_184",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第16个是？",
+      "answer": "红",
+      "explanation": "周期3，第1个是红",
+      "options": [
+        "黄",
+        "红",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_185",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第22个是？",
+      "answer": "黄",
+      "explanation": "周期4，第2个是黄",
+      "options": [
+        "红",
+        "黄",
+        "绿",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_186",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第26个是？",
+      "answer": "黄",
+      "explanation": "周期3，第2个是黄",
+      "options": [
+        "红",
+        "黄",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_187",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第30个是？",
+      "answer": "黄",
+      "explanation": "周期4，第2个是黄",
+      "options": [
+        "红",
+        "蓝",
+        "黄",
+        "绿"
+      ]
+    },
+    {
+      "id": "G3_O_188",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第20个是？",
+      "answer": "紫",
+      "explanation": "周期5，第5个是紫",
+      "options": [
+        "黄",
+        "紫",
+        "绿",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_189",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第27个是？",
+      "answer": "蓝",
+      "explanation": "周期4，第3个是蓝",
+      "options": [
+        "蓝",
+        "绿",
+        "黄",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_190",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第15个是？",
+      "answer": "蓝",
+      "explanation": "周期4，第3个是蓝",
+      "options": [
+        "蓝",
+        "红",
+        "黄",
+        "绿"
+      ]
+    },
+    {
+      "id": "G3_O_191",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第24个是？",
+      "answer": "绿",
+      "explanation": "周期5，第4个是绿",
+      "options": [
+        "绿",
+        "红",
+        "紫",
+        "黄"
+      ]
+    },
+    {
+      "id": "G3_O_192",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第11个是？",
+      "answer": "蓝",
+      "explanation": "周期4，第3个是蓝",
+      "options": [
+        "蓝",
+        "绿",
+        "黄",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_193",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第30个是？",
+      "answer": "黄",
+      "explanation": "周期4，第2个是黄",
+      "options": [
+        "蓝",
+        "黄",
+        "绿",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_194",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第12个是？",
+      "answer": "蓝",
+      "explanation": "周期3，第3个是蓝",
+      "options": [
+        "红",
+        "黄",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_195",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第37个是？",
+      "answer": "红",
+      "explanation": "周期3，第1个是红",
+      "options": [
+        "红",
+        "蓝",
+        "黄"
+      ]
+    },
+    {
+      "id": "G3_O_196",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第23个是？",
+      "answer": "蓝",
+      "explanation": "周期5，第3个是蓝",
+      "options": [
+        "蓝",
+        "红",
+        "黄",
+        "绿"
+      ]
+    },
+    {
+      "id": "G3_O_197",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第14个是？",
+      "answer": "绿",
+      "explanation": "周期5，第4个是绿",
+      "options": [
+        "蓝",
+        "紫",
+        "黄",
+        "绿"
+      ]
+    },
+    {
+      "id": "G3_O_198",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第32个是？",
+      "answer": "黄",
+      "explanation": "周期3，第2个是黄",
+      "options": [
+        "蓝",
+        "黄",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_199",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第37个是？",
+      "answer": "黄",
+      "explanation": "周期5，第2个是黄",
+      "options": [
+        "红",
+        "黄",
+        "蓝",
+        "紫"
+      ]
+    },
+    {
+      "id": "G3_O_200",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第12个是？",
+      "answer": "黄",
+      "explanation": "周期5，第2个是黄",
+      "options": [
+        "黄",
+        "蓝",
+        "绿",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_201",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第38个是？",
+      "answer": "蓝",
+      "explanation": "周期5，第3个是蓝",
+      "options": [
+        "红",
+        "蓝",
+        "绿",
+        "紫"
+      ]
+    },
+    {
+      "id": "G3_O_202",
+      "type": "choice",
+      "question": "按红、黄、蓝顺序排列，第16个是？",
+      "answer": "红",
+      "explanation": "周期3，第1个是红",
+      "options": [
+        "蓝",
+        "黄",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_203",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第37个是？",
+      "answer": "黄",
+      "explanation": "周期5，第2个是黄",
+      "options": [
+        "红",
+        "黄",
+        "蓝",
+        "紫"
+      ]
+    },
+    {
+      "id": "G3_O_204",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第21个是？",
+      "answer": "红",
+      "explanation": "周期5，第1个是红",
+      "options": [
+        "绿",
+        "红",
+        "紫",
+        "黄"
+      ]
+    },
+    {
+      "id": "G3_O_205",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第33个是？",
+      "answer": "红",
+      "explanation": "周期4，第1个是红",
+      "options": [
+        "绿",
+        "红",
+        "黄",
+        "蓝"
+      ]
+    },
+    {
+      "id": "G3_O_206",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第39个是？",
+      "answer": "绿",
+      "explanation": "周期5，第4个是绿",
+      "options": [
+        "红",
+        "绿",
+        "蓝",
+        "黄"
+      ]
+    },
+    {
+      "id": "G3_O_207",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第12个是？",
+      "answer": "黄",
+      "explanation": "周期5，第2个是黄",
+      "options": [
+        "红",
+        "蓝",
+        "绿",
+        "黄"
+      ]
+    },
+    {
+      "id": "G3_O_208",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿顺序排列，第15个是？",
+      "answer": "蓝",
+      "explanation": "周期4，第3个是蓝",
+      "options": [
+        "黄",
+        "蓝",
+        "绿",
+        "红"
+      ]
+    },
+    {
+      "id": "G3_O_209",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第27个是？",
+      "answer": "黄",
+      "explanation": "周期5，第2个是黄",
+      "options": [
+        "黄",
+        "蓝",
+        "紫",
+        "绿"
+      ]
+    },
+    {
+      "id": "G3_O_210",
+      "type": "choice",
+      "question": "按红、黄、蓝、绿、紫顺序排列，第18个是？",
+      "answer": "蓝",
+      "explanation": "周期5，第3个是蓝",
+      "options": [
+        "黄",
+        "蓝",
+        "绿",
+        "紫"
+      ]
+    }
+  ]
+}

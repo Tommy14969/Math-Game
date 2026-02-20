@@ -1,0 +1,4552 @@
+{
+  "grade": 1,
+  "difficulty": "advanced",
+  "questions": [
+    {
+      "id": "G1_A_001",
+      "type": "choice",
+      "question": "6 + 3 + 5 = ?",
+      "answer": "14",
+      "explanation": "6+3+5=14",
+      "options": [
+        13,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_002",
+      "type": "choice",
+      "question": "1 + 7 + 5 = ?",
+      "answer": "13",
+      "explanation": "1+7+5=13",
+      "options": [
+        11,
+        13,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_003",
+      "type": "choice",
+      "question": "4 + 5 + 4 = ?",
+      "answer": "13",
+      "explanation": "4+5+4=13",
+      "options": [
+        11,
+        13,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_004",
+      "type": "choice",
+      "question": "7 + 4 + 1 = ?",
+      "answer": "12",
+      "explanation": "7+4+1=12",
+      "options": [
+        10,
+        12,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_005",
+      "type": "choice",
+      "question": "2 + 5 + 5 = ?",
+      "answer": "12",
+      "explanation": "2+5+5=12",
+      "options": [
+        10,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_006",
+      "type": "choice",
+      "question": "6 + 7 + 6 = ?",
+      "answer": "19",
+      "explanation": "6+7+6=19",
+      "options": [
+        17,
+        19,
+        21,
+        22
+      ]
+    },
+    {
+      "id": "G1_A_007",
+      "type": "choice",
+      "question": "4 + 7 + 3 = ?",
+      "answer": "14",
+      "explanation": "4+7+3=14",
+      "options": [
+        12,
+        14,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_008",
+      "type": "choice",
+      "question": "5 + 7 + 4 = ?",
+      "answer": "16",
+      "explanation": "5+7+4=16",
+      "options": [
+        15,
+        16,
+        18,
+        20
+      ]
+    },
+    {
+      "id": "G1_A_009",
+      "type": "choice",
+      "question": "6 + 2 + 6 = ?",
+      "answer": "14",
+      "explanation": "6+2+6=14",
+      "options": [
+        12,
+        14,
+        16,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_010",
+      "type": "choice",
+      "question": "6 + 3 + 6 = ?",
+      "answer": "15",
+      "explanation": "6+3+6=15",
+      "options": [
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_011",
+      "type": "choice",
+      "question": "6 + 4 + 4 = ?",
+      "answer": "14",
+      "explanation": "6+4+4=14",
+      "options": [
+        13,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_012",
+      "type": "choice",
+      "question": "7 + 3 + 2 = ?",
+      "answer": "12",
+      "explanation": "7+3+2=12",
+      "options": [
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_013",
+      "type": "choice",
+      "question": "7 + 4 + 4 = ?",
+      "answer": "15",
+      "explanation": "7+4+4=15",
+      "options": [
+        14,
+        15,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_014",
+      "type": "choice",
+      "question": "3 + 1 + 4 = ?",
+      "answer": "8",
+      "explanation": "3+1+4=8",
+      "options": [
+        6,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_015",
+      "type": "choice",
+      "question": "4 + 6 + 4 = ?",
+      "answer": "14",
+      "explanation": "4+6+4=14",
+      "options": [
+        13,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_016",
+      "type": "choice",
+      "question": "7 + 2 + 6 = ?",
+      "answer": "15",
+      "explanation": "7+2+6=15",
+      "options": [
+        14,
+        15,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_017",
+      "type": "choice",
+      "question": "2 + 2 + 4 = ?",
+      "answer": "8",
+      "explanation": "2+2+4=8",
+      "options": [
+        6,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_018",
+      "type": "choice",
+      "question": "4 + 5 + 3 = ?",
+      "answer": "12",
+      "explanation": "4+5+3=12",
+      "options": [
+        10,
+        12,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_019",
+      "type": "choice",
+      "question": "4 + 4 + 4 = ?",
+      "answer": "12",
+      "explanation": "4+4+4=12",
+      "options": [
+        11,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_020",
+      "type": "choice",
+      "question": "3 + 4 + 2 = ?",
+      "answer": "9",
+      "explanation": "3+4+2=9",
+      "options": [
+        7,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_021",
+      "type": "choice",
+      "question": "5 + 1 + 3 = ?",
+      "answer": "9",
+      "explanation": "5+1+3=9",
+      "options": [
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_022",
+      "type": "choice",
+      "question": "3 + 3 + 5 = ?",
+      "answer": "11",
+      "explanation": "3+3+5=11",
+      "options": [
+        10,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_023",
+      "type": "choice",
+      "question": "4 + 5 + 3 = ?",
+      "answer": "12",
+      "explanation": "4+5+3=12",
+      "options": [
+        11,
+        12,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_024",
+      "type": "choice",
+      "question": "2 + 6 + 3 = ?",
+      "answer": "11",
+      "explanation": "2+6+3=11",
+      "options": [
+        10,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_025",
+      "type": "choice",
+      "question": "4 + 1 + 2 = ?",
+      "answer": "7",
+      "explanation": "4+1+2=7",
+      "options": [
+        6,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_026",
+      "type": "choice",
+      "question": "4 + 5 + 4 = ?",
+      "answer": "13",
+      "explanation": "4+5+4=13",
+      "options": [
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_027",
+      "type": "choice",
+      "question": "2 + 1 + 4 = ?",
+      "answer": "7",
+      "explanation": "2+1+4=7",
+      "options": [
+        6,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_028",
+      "type": "choice",
+      "question": "4 + 2 + 5 = ?",
+      "answer": "11",
+      "explanation": "4+2+5=11",
+      "options": [
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_029",
+      "type": "choice",
+      "question": "6 + 1 + 6 = ?",
+      "answer": "13",
+      "explanation": "6+1+6=13",
+      "options": [
+        11,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_030",
+      "type": "choice",
+      "question": "2 + 7 + 7 = ?",
+      "answer": "16",
+      "explanation": "2+7+7=16",
+      "options": [
+        14,
+        16,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_031",
+      "type": "choice",
+      "question": "7 + 7 + 1 = ?",
+      "answer": "15",
+      "explanation": "7+7+1=15",
+      "options": [
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_032",
+      "type": "choice",
+      "question": "6 + 6 + 1 = ?",
+      "answer": "13",
+      "explanation": "6+6+1=13",
+      "options": [
+        12,
+        13,
+        15,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_033",
+      "type": "choice",
+      "question": "6 + 4 + 3 = ?",
+      "answer": "13",
+      "explanation": "6+4+3=13",
+      "options": [
+        11,
+        13,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_034",
+      "type": "choice",
+      "question": "2 + 7 + 3 = ?",
+      "answer": "12",
+      "explanation": "2+7+3=12",
+      "options": [
+        10,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_035",
+      "type": "choice",
+      "question": "7 + 2 + 4 = ?",
+      "answer": "13",
+      "explanation": "7+2+4=13",
+      "options": [
+        11,
+        13,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_036",
+      "type": "choice",
+      "question": "4 + 1 + 7 = ?",
+      "answer": "12",
+      "explanation": "4+1+7=12",
+      "options": [
+        10,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_037",
+      "type": "choice",
+      "question": "1 + 7 + 6 = ?",
+      "answer": "14",
+      "explanation": "1+7+6=14",
+      "options": [
+        13,
+        14,
+        16,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_038",
+      "type": "choice",
+      "question": "3 + 1 + 7 = ?",
+      "answer": "11",
+      "explanation": "3+1+7=11",
+      "options": [
+        10,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_039",
+      "type": "choice",
+      "question": "5 + 3 + 7 = ?",
+      "answer": "15",
+      "explanation": "5+3+7=15",
+      "options": [
+        13,
+        15,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_040",
+      "type": "choice",
+      "question": "1 + 2 + 3 = ?",
+      "answer": "6",
+      "explanation": "1+2+3=6",
+      "options": [
+        5,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_041",
+      "type": "choice",
+      "question": "1 + 1 + 3 = ?",
+      "answer": "5",
+      "explanation": "1+1+3=5",
+      "options": [
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "G1_A_042",
+      "type": "choice",
+      "question": "4 + 2 + 2 = ?",
+      "answer": "8",
+      "explanation": "4+2+2=8",
+      "options": [
+        6,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_043",
+      "type": "choice",
+      "question": "3 + 2 + 6 = ?",
+      "answer": "11",
+      "explanation": "3+2+6=11",
+      "options": [
+        10,
+        11,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_044",
+      "type": "choice",
+      "question": "4 + 3 + 5 = ?",
+      "answer": "12",
+      "explanation": "4+3+5=12",
+      "options": [
+        10,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_045",
+      "type": "choice",
+      "question": "5 + 4 + 4 = ?",
+      "answer": "13",
+      "explanation": "5+4+4=13",
+      "options": [
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_046",
+      "type": "choice",
+      "question": "2 + 1 + 3 = ?",
+      "answer": "6",
+      "explanation": "2+1+3=6",
+      "options": [
+        4,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_047",
+      "type": "choice",
+      "question": "7 + 7 + 2 = ?",
+      "answer": "16",
+      "explanation": "7+7+2=16",
+      "options": [
+        15,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_048",
+      "type": "choice",
+      "question": "4 + 1 + 4 = ?",
+      "answer": "9",
+      "explanation": "4+1+4=9",
+      "options": [
+        7,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_049",
+      "type": "choice",
+      "question": "3 + 7 + 4 = ?",
+      "answer": "14",
+      "explanation": "3+7+4=14",
+      "options": [
+        13,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_050",
+      "type": "choice",
+      "question": "2 + 3 + 5 = ?",
+      "answer": "10",
+      "explanation": "2+3+5=10",
+      "options": [
+        8,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_051",
+      "type": "choice",
+      "question": "2 + 4 + 3 = ?",
+      "answer": "9",
+      "explanation": "2+4+3=9",
+      "options": [
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_052",
+      "type": "choice",
+      "question": "3 + 3 + 7 = ?",
+      "answer": "13",
+      "explanation": "3+3+7=13",
+      "options": [
+        12,
+        13,
+        15,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_053",
+      "type": "choice",
+      "question": "2 + 5 + 5 = ?",
+      "answer": "12",
+      "explanation": "2+5+5=12",
+      "options": [
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_054",
+      "type": "choice",
+      "question": "4 + 3 + 2 = ?",
+      "answer": "9",
+      "explanation": "4+3+2=9",
+      "options": [
+        8,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_055",
+      "type": "choice",
+      "question": "2 + 2 + 6 = ?",
+      "answer": "10",
+      "explanation": "2+2+6=10",
+      "options": [
+        8,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_056",
+      "type": "choice",
+      "question": "4 + 6 + 2 = ?",
+      "answer": "12",
+      "explanation": "4+6+2=12",
+      "options": [
+        10,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_057",
+      "type": "choice",
+      "question": "3 + 6 + 1 = ?",
+      "answer": "10",
+      "explanation": "3+6+1=10",
+      "options": [
+        9,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_058",
+      "type": "choice",
+      "question": "3 + 6 + 2 = ?",
+      "answer": "11",
+      "explanation": "3+6+2=11",
+      "options": [
+        9,
+        11,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_059",
+      "type": "choice",
+      "question": "4 + 5 + 1 = ?",
+      "answer": "10",
+      "explanation": "4+5+1=10",
+      "options": [
+        8,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_060",
+      "type": "choice",
+      "question": "3 + 7 + 1 = ?",
+      "answer": "11",
+      "explanation": "3+7+1=11",
+      "options": [
+        10,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_061",
+      "type": "choice",
+      "question": "6 + 6 + 1 = ?",
+      "answer": "13",
+      "explanation": "6+6+1=13",
+      "options": [
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_062",
+      "type": "choice",
+      "question": "5 + 4 + 2 = ?",
+      "answer": "11",
+      "explanation": "5+4+2=11",
+      "options": [
+        10,
+        11,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_063",
+      "type": "choice",
+      "question": "1 + 7 + 5 = ?",
+      "answer": "13",
+      "explanation": "1+7+5=13",
+      "options": [
+        11,
+        13,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_064",
+      "type": "choice",
+      "question": "7 + 7 + 6 = ?",
+      "answer": "20",
+      "explanation": "7+7+6=20",
+      "options": [
+        18,
+        20,
+        22,
+        23
+      ]
+    },
+    {
+      "id": "G1_A_065",
+      "type": "choice",
+      "question": "7 + 7 + 2 = ?",
+      "answer": "16",
+      "explanation": "7+7+2=16",
+      "options": [
+        15,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_066",
+      "type": "choice",
+      "question": "4 + 2 + 3 = ?",
+      "answer": "9",
+      "explanation": "4+2+3=9",
+      "options": [
+        7,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_067",
+      "type": "choice",
+      "question": "3 + 3 + 2 = ?",
+      "answer": "8",
+      "explanation": "3+3+2=8",
+      "options": [
+        6,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_068",
+      "type": "choice",
+      "question": "7 + 1 + 5 = ?",
+      "answer": "13",
+      "explanation": "7+1+5=13",
+      "options": [
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_069",
+      "type": "choice",
+      "question": "6 + 7 + 1 = ?",
+      "answer": "14",
+      "explanation": "6+7+1=14",
+      "options": [
+        12,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_070",
+      "type": "choice",
+      "question": "3 + 1 + 5 = ?",
+      "answer": "9",
+      "explanation": "3+1+5=9",
+      "options": [
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_071",
+      "type": "choice",
+      "question": "4 + 4 + 5 = ?",
+      "answer": "13",
+      "explanation": "4+4+5=13",
+      "options": [
+        12,
+        13,
+        15,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_072",
+      "type": "choice",
+      "question": "7 + 6 + 5 = ?",
+      "answer": "18",
+      "explanation": "7+6+5=18",
+      "options": [
+        16,
+        18,
+        20,
+        21
+      ]
+    },
+    {
+      "id": "G1_A_073",
+      "type": "choice",
+      "question": "5 + 6 + 5 = ?",
+      "answer": "16",
+      "explanation": "5+6+5=16",
+      "options": [
+        14,
+        16,
+        17,
+        20
+      ]
+    },
+    {
+      "id": "G1_A_074",
+      "type": "choice",
+      "question": "7 + 7 + 3 = ?",
+      "answer": "17",
+      "explanation": "7+7+3=17",
+      "options": [
+        16,
+        17,
+        18,
+        20
+      ]
+    },
+    {
+      "id": "G1_A_075",
+      "type": "choice",
+      "question": "1 + 1 + 7 = ?",
+      "answer": "9",
+      "explanation": "1+1+7=9",
+      "options": [
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_076",
+      "type": "choice",
+      "question": "2 + 3 + 3 = ?",
+      "answer": "8",
+      "explanation": "2+3+3=8",
+      "options": [
+        6,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_077",
+      "type": "choice",
+      "question": "7 + 2 + 7 = ?",
+      "answer": "16",
+      "explanation": "7+2+7=16",
+      "options": [
+        15,
+        16,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_078",
+      "type": "choice",
+      "question": "3 + 1 + 7 = ?",
+      "answer": "11",
+      "explanation": "3+1+7=11",
+      "options": [
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_079",
+      "type": "choice",
+      "question": "4 + 1 + 1 = ?",
+      "answer": "6",
+      "explanation": "4+1+1=6",
+      "options": [
+        5,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_080",
+      "type": "choice",
+      "question": "1 + 1 + 6 = ?",
+      "answer": "8",
+      "explanation": "1+1+6=8",
+      "options": [
+        6,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_081",
+      "type": "choice",
+      "question": "1 + 4 + 4 = ?",
+      "answer": "9",
+      "explanation": "1+4+4=9",
+      "options": [
+        7,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_082",
+      "type": "choice",
+      "question": "2 + 5 + 3 = ?",
+      "answer": "10",
+      "explanation": "2+5+3=10",
+      "options": [
+        9,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_083",
+      "type": "choice",
+      "question": "7 + 5 + 5 = ?",
+      "answer": "17",
+      "explanation": "7+5+5=17",
+      "options": [
+        15,
+        17,
+        19,
+        21
+      ]
+    },
+    {
+      "id": "G1_A_084",
+      "type": "choice",
+      "question": "2 + 1 + 4 = ?",
+      "answer": "7",
+      "explanation": "2+1+4=7",
+      "options": [
+        5,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_085",
+      "type": "choice",
+      "question": "2 + 2 + 3 = ?",
+      "answer": "7",
+      "explanation": "2+2+3=7",
+      "options": [
+        6,
+        7,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_086",
+      "type": "choice",
+      "question": "6 + 3 + 2 = ?",
+      "answer": "11",
+      "explanation": "6+3+2=11",
+      "options": [
+        9,
+        11,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_087",
+      "type": "choice",
+      "question": "2 + 3 + 2 = ?",
+      "answer": "7",
+      "explanation": "2+3+2=7",
+      "options": [
+        5,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_088",
+      "type": "choice",
+      "question": "6 + 1 + 3 = ?",
+      "answer": "10",
+      "explanation": "6+1+3=10",
+      "options": [
+        8,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_089",
+      "type": "choice",
+      "question": "3 + 4 + 4 = ?",
+      "answer": "11",
+      "explanation": "3+4+4=11",
+      "options": [
+        10,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_090",
+      "type": "choice",
+      "question": "4 + 2 + 6 = ?",
+      "answer": "12",
+      "explanation": "4+2+6=12",
+      "options": [
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_091",
+      "type": "choice",
+      "question": "4 + 1 + 2 = ?",
+      "answer": "7",
+      "explanation": "4+1+2=7",
+      "options": [
+        5,
+        7,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_092",
+      "type": "choice",
+      "question": "2 + 1 + 3 = ?",
+      "answer": "6",
+      "explanation": "2+1+3=6",
+      "options": [
+        4,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_093",
+      "type": "choice",
+      "question": "6 + 6 + 6 = ?",
+      "answer": "18",
+      "explanation": "6+6+6=18",
+      "options": [
+        16,
+        18,
+        20,
+        22
+      ]
+    },
+    {
+      "id": "G1_A_094",
+      "type": "choice",
+      "question": "4 + 4 + 2 = ?",
+      "answer": "10",
+      "explanation": "4+4+2=10",
+      "options": [
+        9,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_095",
+      "type": "choice",
+      "question": "3 + 4 + 7 = ?",
+      "answer": "14",
+      "explanation": "3+4+7=14",
+      "options": [
+        13,
+        14,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_096",
+      "type": "choice",
+      "question": "5 + 1 + 5 = ?",
+      "answer": "11",
+      "explanation": "5+1+5=11",
+      "options": [
+        10,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_097",
+      "type": "choice",
+      "question": "5 + 7 + 3 = ?",
+      "answer": "15",
+      "explanation": "5+7+3=15",
+      "options": [
+        14,
+        15,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_098",
+      "type": "choice",
+      "question": "1 + 6 + 2 = ?",
+      "answer": "9",
+      "explanation": "1+6+2=9",
+      "options": [
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_099",
+      "type": "choice",
+      "question": "2 + 4 + 1 = ?",
+      "answer": "7",
+      "explanation": "2+4+1=7",
+      "options": [
+        5,
+        7,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_100",
+      "type": "choice",
+      "question": "7 + 4 + 1 = ?",
+      "answer": "12",
+      "explanation": "7+4+1=12",
+      "options": [
+        10,
+        12,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_101",
+      "type": "choice",
+      "question": "4 + 1 + 1 = ?",
+      "answer": "6",
+      "explanation": "4+1+1=6",
+      "options": [
+        5,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_102",
+      "type": "choice",
+      "question": "7 + 5 + 4 = ?",
+      "answer": "16",
+      "explanation": "7+5+4=16",
+      "options": [
+        15,
+        16,
+        18,
+        20
+      ]
+    },
+    {
+      "id": "G1_A_103",
+      "type": "choice",
+      "question": "4 + 1 + 1 = ?",
+      "answer": "6",
+      "explanation": "4+1+1=6",
+      "options": [
+        5,
+        6,
+        7,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_104",
+      "type": "choice",
+      "question": "7 + 5 + 6 = ?",
+      "answer": "18",
+      "explanation": "7+5+6=18",
+      "options": [
+        17,
+        18,
+        20,
+        22
+      ]
+    },
+    {
+      "id": "G1_A_105",
+      "type": "choice",
+      "question": "3 + 5 + 1 = ?",
+      "answer": "9",
+      "explanation": "3+5+1=9",
+      "options": [
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_106",
+      "type": "choice",
+      "question": "6 + 6 + 6 = ?",
+      "answer": "18",
+      "explanation": "6+6+6=18",
+      "options": [
+        17,
+        18,
+        20,
+        21
+      ]
+    },
+    {
+      "id": "G1_A_107",
+      "type": "choice",
+      "question": "1 + 4 + 5 = ?",
+      "answer": "10",
+      "explanation": "1+4+5=10",
+      "options": [
+        8,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_108",
+      "type": "choice",
+      "question": "6 + 3 + 3 = ?",
+      "answer": "12",
+      "explanation": "6+3+3=12",
+      "options": [
+        10,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_109",
+      "type": "choice",
+      "question": "7 + 7 + 6 = ?",
+      "answer": "20",
+      "explanation": "7+7+6=20",
+      "options": [
+        19,
+        20,
+        22,
+        24
+      ]
+    },
+    {
+      "id": "G1_A_110",
+      "type": "choice",
+      "question": "5 + 7 + 2 = ?",
+      "answer": "14",
+      "explanation": "5+7+2=14",
+      "options": [
+        12,
+        14,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_111",
+      "type": "choice",
+      "question": "5 + 2 + 7 = ?",
+      "answer": "14",
+      "explanation": "5+2+7=14",
+      "options": [
+        12,
+        14,
+        16,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_112",
+      "type": "choice",
+      "question": "2 + 6 + 4 = ?",
+      "answer": "12",
+      "explanation": "2+6+4=12",
+      "options": [
+        10,
+        12,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_113",
+      "type": "choice",
+      "question": "5 + 3 + 6 = ?",
+      "answer": "14",
+      "explanation": "5+3+6=14",
+      "options": [
+        13,
+        14,
+        16,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_114",
+      "type": "choice",
+      "question": "3 + 4 + 3 = ?",
+      "answer": "10",
+      "explanation": "3+4+3=10",
+      "options": [
+        9,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_115",
+      "type": "choice",
+      "question": "4 + 5 + 6 = ?",
+      "answer": "15",
+      "explanation": "4+5+6=15",
+      "options": [
+        14,
+        15,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_116",
+      "type": "choice",
+      "question": "7 + 5 + 1 = ?",
+      "answer": "13",
+      "explanation": "7+5+1=13",
+      "options": [
+        12,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_117",
+      "type": "choice",
+      "question": "7 + 3 + 2 = ?",
+      "answer": "12",
+      "explanation": "7+3+2=12",
+      "options": [
+        10,
+        12,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_118",
+      "type": "choice",
+      "question": "1 + 5 + 4 = ?",
+      "answer": "10",
+      "explanation": "1+5+4=10",
+      "options": [
+        9,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_119",
+      "type": "choice",
+      "question": "3 + 3 + 5 = ?",
+      "answer": "11",
+      "explanation": "3+3+5=11",
+      "options": [
+        10,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_120",
+      "type": "choice",
+      "question": "3 + 4 + 7 = ?",
+      "answer": "14",
+      "explanation": "3+4+7=14",
+      "options": [
+        13,
+        14,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_121",
+      "type": "choice",
+      "question": "18 - 1 - 7 = ?",
+      "answer": "10",
+      "explanation": "18-1-7=10",
+      "options": [
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_122",
+      "type": "choice",
+      "question": "11 - 7 - 1 = ?",
+      "answer": "3",
+      "explanation": "11-7-1=3",
+      "options": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "G1_A_123",
+      "type": "choice",
+      "question": "11 - 7 - 2 = ?",
+      "answer": "2",
+      "explanation": "11-7-2=2",
+      "options": [
+        0,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "G1_A_124",
+      "type": "choice",
+      "question": "15 - 6 - 1 = ?",
+      "answer": "8",
+      "explanation": "15-6-1=8",
+      "options": [
+        6,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_125",
+      "type": "choice",
+      "question": "20 - 4 - 6 = ?",
+      "answer": "10",
+      "explanation": "20-4-6=10",
+      "options": [
+        8,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_126",
+      "type": "choice",
+      "question": "13 - 7 - 3 = ?",
+      "answer": "3",
+      "explanation": "13-7-3=3",
+      "options": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "G1_A_127",
+      "type": "choice",
+      "question": "15 - 1 - 3 = ?",
+      "answer": "11",
+      "explanation": "15-1-3=11",
+      "options": [
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_128",
+      "type": "choice",
+      "question": "20 - 5 - 1 = ?",
+      "answer": "14",
+      "explanation": "20-5-1=14",
+      "options": [
+        13,
+        14,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_129",
+      "type": "choice",
+      "question": "19 - 1 - 4 = ?",
+      "answer": "14",
+      "explanation": "19-1-4=14",
+      "options": [
+        12,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_130",
+      "type": "choice",
+      "question": "18 - 2 - 6 = ?",
+      "answer": "10",
+      "explanation": "18-2-6=10",
+      "options": [
+        9,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_131",
+      "type": "choice",
+      "question": "19 - 3 - 2 = ?",
+      "answer": "14",
+      "explanation": "19-3-2=14",
+      "options": [
+        12,
+        14,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_132",
+      "type": "choice",
+      "question": "11 - 3 - 3 = ?",
+      "answer": "5",
+      "explanation": "11-3-3=5",
+      "options": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_133",
+      "type": "choice",
+      "question": "12 - 1 - 1 = ?",
+      "answer": "10",
+      "explanation": "12-1-1=10",
+      "options": [
+        9,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_134",
+      "type": "choice",
+      "question": "10 - 6 - 2 = ?",
+      "answer": "2",
+      "explanation": "10-6-2=2",
+      "options": [
+        1,
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "G1_A_135",
+      "type": "choice",
+      "question": "20 - 3 - 2 = ?",
+      "answer": "15",
+      "explanation": "20-3-2=15",
+      "options": [
+        13,
+        15,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_136",
+      "type": "choice",
+      "question": "13 - 7 - 2 = ?",
+      "answer": "4",
+      "explanation": "13-7-2=4",
+      "options": [
+        3,
+        4,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "G1_A_137",
+      "type": "choice",
+      "question": "14 - 7 - 5 = ?",
+      "answer": "2",
+      "explanation": "14-7-5=2",
+      "options": [
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "id": "G1_A_138",
+      "type": "choice",
+      "question": "20 - 1 - 3 = ?",
+      "answer": "16",
+      "explanation": "20-1-3=16",
+      "options": [
+        14,
+        16,
+        18,
+        20
+      ]
+    },
+    {
+      "id": "G1_A_139",
+      "type": "choice",
+      "question": "19 - 7 - 5 = ?",
+      "answer": "7",
+      "explanation": "19-7-5=7",
+      "options": [
+        5,
+        7,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_140",
+      "type": "choice",
+      "question": "18 - 3 - 4 = ?",
+      "answer": "11",
+      "explanation": "18-3-4=11",
+      "options": [
+        9,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_141",
+      "type": "choice",
+      "question": "11 - 4 - 7 = ?",
+      "answer": "0",
+      "explanation": "11-4-7=0",
+      "options": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "G1_A_142",
+      "type": "choice",
+      "question": "19 - 7 - 5 = ?",
+      "answer": "7",
+      "explanation": "19-7-5=7",
+      "options": [
+        5,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_143",
+      "type": "choice",
+      "question": "19 - 5 - 7 = ?",
+      "answer": "7",
+      "explanation": "19-5-7=7",
+      "options": [
+        6,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_144",
+      "type": "choice",
+      "question": "13 - 5 - 5 = ?",
+      "answer": "3",
+      "explanation": "13-5-5=3",
+      "options": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "G1_A_145",
+      "type": "choice",
+      "question": "11 - 6 - 4 = ?",
+      "answer": "1",
+      "explanation": "11-6-4=1",
+      "options": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "G1_A_146",
+      "type": "choice",
+      "question": "14 - 3 - 6 = ?",
+      "answer": "5",
+      "explanation": "14-3-6=5",
+      "options": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_147",
+      "type": "choice",
+      "question": "10 - 7 - 2 = ?",
+      "answer": "1",
+      "explanation": "10-7-2=1",
+      "options": [
+        0,
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "G1_A_148",
+      "type": "choice",
+      "question": "17 - 7 - 5 = ?",
+      "answer": "5",
+      "explanation": "17-7-5=5",
+      "options": [
+        4,
+        5,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_A_149",
+      "type": "choice",
+      "question": "19 - 3 - 2 = ?",
+      "answer": "14",
+      "explanation": "19-3-2=14",
+      "options": [
+        12,
+        14,
+        16,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_150",
+      "type": "choice",
+      "question": "13 - 6 - 6 = ?",
+      "answer": "1",
+      "explanation": "13-6-6=1",
+      "options": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "G1_A_151",
+      "type": "choice",
+      "question": "10 - 2 - 6 = ?",
+      "answer": "2",
+      "explanation": "10-2-6=2",
+      "options": [
+        1,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "id": "G1_A_152",
+      "type": "choice",
+      "question": "18 - 5 - 5 = ?",
+      "answer": "8",
+      "explanation": "18-5-5=8",
+      "options": [
+        6,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_153",
+      "type": "choice",
+      "question": "10 - 1 - 1 = ?",
+      "answer": "8",
+      "explanation": "10-1-1=8",
+      "options": [
+        6,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_154",
+      "type": "choice",
+      "question": "12 - 3 - 1 = ?",
+      "answer": "8",
+      "explanation": "12-3-1=8",
+      "options": [
+        7,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_155",
+      "type": "choice",
+      "question": "12 - 5 - 4 = ?",
+      "answer": "3",
+      "explanation": "12-5-4=3",
+      "options": [
+        2,
+        3,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "G1_A_156",
+      "type": "choice",
+      "question": "13 - 4 - 2 = ?",
+      "answer": "7",
+      "explanation": "13-4-2=7",
+      "options": [
+        6,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_157",
+      "type": "choice",
+      "question": "20 - 1 - 4 = ?",
+      "answer": "15",
+      "explanation": "20-1-4=15",
+      "options": [
+        13,
+        15,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_158",
+      "type": "choice",
+      "question": "11 - 7 - 4 = ?",
+      "answer": "0",
+      "explanation": "11-7-4=0",
+      "options": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "G1_A_159",
+      "type": "choice",
+      "question": "13 - 7 - 3 = ?",
+      "answer": "3",
+      "explanation": "13-7-3=3",
+      "options": [
+        2,
+        3,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "G1_A_160",
+      "type": "choice",
+      "question": "20 - 6 - 6 = ?",
+      "answer": "8",
+      "explanation": "20-6-6=8",
+      "options": [
+        6,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_161",
+      "type": "choice",
+      "question": "15 - 7 - 2 = ?",
+      "answer": "6",
+      "explanation": "15-7-2=6",
+      "options": [
+        4,
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_162",
+      "type": "choice",
+      "question": "13 - 3 - 4 = ?",
+      "answer": "6",
+      "explanation": "13-3-4=6",
+      "options": [
+        5,
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_163",
+      "type": "choice",
+      "question": "19 - 5 - 1 = ?",
+      "answer": "13",
+      "explanation": "19-5-1=13",
+      "options": [
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_164",
+      "type": "choice",
+      "question": "12 - 2 - 3 = ?",
+      "answer": "7",
+      "explanation": "12-2-3=7",
+      "options": [
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_165",
+      "type": "choice",
+      "question": "13 - 3 - 7 = ?",
+      "answer": "3",
+      "explanation": "13-3-7=3",
+      "options": [
+        2,
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "G1_A_166",
+      "type": "choice",
+      "question": "19 - 6 - 3 = ?",
+      "answer": "10",
+      "explanation": "19-6-3=10",
+      "options": [
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_167",
+      "type": "choice",
+      "question": "11 - 3 - 1 = ?",
+      "answer": "7",
+      "explanation": "11-3-1=7",
+      "options": [
+        5,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_168",
+      "type": "choice",
+      "question": "20 - 1 - 6 = ?",
+      "answer": "13",
+      "explanation": "20-1-6=13",
+      "options": [
+        12,
+        13,
+        15,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_169",
+      "type": "choice",
+      "question": "10 - 3 - 4 = ?",
+      "answer": "3",
+      "explanation": "10-3-4=3",
+      "options": [
+        1,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "G1_A_170",
+      "type": "choice",
+      "question": "11 - 7 - 3 = ?",
+      "answer": "1",
+      "explanation": "11-7-3=1",
+      "options": [
+        0,
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "G1_A_171",
+      "type": "choice",
+      "question": "13 - 2 - 4 = ?",
+      "answer": "7",
+      "explanation": "13-2-4=7",
+      "options": [
+        6,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_172",
+      "type": "choice",
+      "question": "10 - 4 - 5 = ?",
+      "answer": "1",
+      "explanation": "10-4-5=1",
+      "options": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "G1_A_173",
+      "type": "choice",
+      "question": "19 - 5 - 2 = ?",
+      "answer": "12",
+      "explanation": "19-5-2=12",
+      "options": [
+        11,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_174",
+      "type": "choice",
+      "question": "11 - 4 - 2 = ?",
+      "answer": "5",
+      "explanation": "11-4-2=5",
+      "options": [
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "G1_A_175",
+      "type": "choice",
+      "question": "15 - 1 - 3 = ?",
+      "answer": "11",
+      "explanation": "15-1-3=11",
+      "options": [
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_176",
+      "type": "choice",
+      "question": "20 - 6 - 3 = ?",
+      "answer": "11",
+      "explanation": "20-6-3=11",
+      "options": [
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_177",
+      "type": "choice",
+      "question": "16 - 2 - 1 = ?",
+      "answer": "13",
+      "explanation": "16-2-1=13",
+      "options": [
+        12,
+        13,
+        15,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_178",
+      "type": "choice",
+      "question": "17 - 2 - 7 = ?",
+      "answer": "8",
+      "explanation": "17-2-7=8",
+      "options": [
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_179",
+      "type": "choice",
+      "question": "17 - 7 - 5 = ?",
+      "answer": "5",
+      "explanation": "17-7-5=5",
+      "options": [
+        4,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_180",
+      "type": "choice",
+      "question": "16 - 7 - 5 = ?",
+      "answer": "4",
+      "explanation": "16-7-5=4",
+      "options": [
+        3,
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_A_181",
+      "type": "choice",
+      "question": "15 - 1 - 4 = ?",
+      "answer": "10",
+      "explanation": "15-1-4=10",
+      "options": [
+        8,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_182",
+      "type": "choice",
+      "question": "16 - 5 - 5 = ?",
+      "answer": "6",
+      "explanation": "16-5-5=6",
+      "options": [
+        4,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_183",
+      "type": "choice",
+      "question": "17 - 1 - 2 = ?",
+      "answer": "14",
+      "explanation": "17-1-2=14",
+      "options": [
+        13,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_184",
+      "type": "choice",
+      "question": "10 - 7 - 3 = ?",
+      "answer": "0",
+      "explanation": "10-7-3=0",
+      "options": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "G1_A_185",
+      "type": "choice",
+      "question": "15 - 7 - 3 = ?",
+      "answer": "5",
+      "explanation": "15-7-3=5",
+      "options": [
+        3,
+        5,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_A_186",
+      "type": "choice",
+      "question": "11 - 5 - 3 = ?",
+      "answer": "3",
+      "explanation": "11-5-3=3",
+      "options": [
+        2,
+        3,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "G1_A_187",
+      "type": "choice",
+      "question": "12 - 2 - 2 = ?",
+      "answer": "8",
+      "explanation": "12-2-2=8",
+      "options": [
+        7,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_188",
+      "type": "choice",
+      "question": "14 - 7 - 6 = ?",
+      "answer": "1",
+      "explanation": "14-7-6=1",
+      "options": [
+        0,
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "G1_A_189",
+      "type": "choice",
+      "question": "14 - 4 - 5 = ?",
+      "answer": "5",
+      "explanation": "14-4-5=5",
+      "options": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_190",
+      "type": "choice",
+      "question": "15 - 7 - 3 = ?",
+      "answer": "5",
+      "explanation": "15-7-3=5",
+      "options": [
+        4,
+        5,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_A_191",
+      "type": "choice",
+      "question": "18 - 5 - 4 = ?",
+      "answer": "9",
+      "explanation": "18-5-4=9",
+      "options": [
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_192",
+      "type": "choice",
+      "question": "14 - 3 - 1 = ?",
+      "answer": "10",
+      "explanation": "14-3-1=10",
+      "options": [
+        8,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_193",
+      "type": "choice",
+      "question": "11 - 4 - 6 = ?",
+      "answer": "1",
+      "explanation": "11-4-6=1",
+      "options": [
+        0,
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "G1_A_194",
+      "type": "choice",
+      "question": "15 - 3 - 3 = ?",
+      "answer": "9",
+      "explanation": "15-3-3=9",
+      "options": [
+        7,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_195",
+      "type": "choice",
+      "question": "10 - 5 - 2 = ?",
+      "answer": "3",
+      "explanation": "10-5-2=3",
+      "options": [
+        2,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "G1_A_196",
+      "type": "choice",
+      "question": "10 - 2 - 7 = ?",
+      "answer": "1",
+      "explanation": "10-2-7=1",
+      "options": [
+        0,
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "G1_A_197",
+      "type": "choice",
+      "question": "16 - 1 - 5 = ?",
+      "answer": "10",
+      "explanation": "16-1-5=10",
+      "options": [
+        9,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_198",
+      "type": "choice",
+      "question": "19 - 3 - 1 = ?",
+      "answer": "15",
+      "explanation": "19-3-1=15",
+      "options": [
+        14,
+        15,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_199",
+      "type": "choice",
+      "question": "17 - 7 - 6 = ?",
+      "answer": "4",
+      "explanation": "17-7-6=4",
+      "options": [
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": "G1_A_200",
+      "type": "choice",
+      "question": "17 - 7 - 2 = ?",
+      "answer": "8",
+      "explanation": "17-7-2=8",
+      "options": [
+        7,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_201",
+      "type": "choice",
+      "question": "14 - 3 - 3 = ?",
+      "answer": "8",
+      "explanation": "14-3-3=8",
+      "options": [
+        6,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_202",
+      "type": "choice",
+      "question": "11 - 7 - 3 = ?",
+      "answer": "1",
+      "explanation": "11-7-3=1",
+      "options": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "G1_A_203",
+      "type": "choice",
+      "question": "11 - 1 - 5 = ?",
+      "answer": "5",
+      "explanation": "11-1-5=5",
+      "options": [
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "G1_A_204",
+      "type": "choice",
+      "question": "13 - 5 - 7 = ?",
+      "answer": "1",
+      "explanation": "13-5-7=1",
+      "options": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "G1_A_205",
+      "type": "choice",
+      "question": "17 - 4 - 2 = ?",
+      "answer": "11",
+      "explanation": "17-4-2=11",
+      "options": [
+        10,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_206",
+      "type": "choice",
+      "question": "20 - 5 - 1 = ?",
+      "answer": "14",
+      "explanation": "20-5-1=14",
+      "options": [
+        12,
+        14,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_207",
+      "type": "choice",
+      "question": "16 - 4 - 2 = ?",
+      "answer": "10",
+      "explanation": "16-4-2=10",
+      "options": [
+        8,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_208",
+      "type": "choice",
+      "question": "12 - 4 - 7 = ?",
+      "answer": "1",
+      "explanation": "12-4-7=1",
+      "options": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "G1_A_209",
+      "type": "choice",
+      "question": "17 - 2 - 6 = ?",
+      "answer": "9",
+      "explanation": "17-2-6=9",
+      "options": [
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_210",
+      "type": "choice",
+      "question": "18 - 4 - 5 = ?",
+      "answer": "9",
+      "explanation": "18-4-5=9",
+      "options": [
+        8,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_211",
+      "type": "choice",
+      "question": "18 - 3 - 3 = ?",
+      "answer": "12",
+      "explanation": "18-3-3=12",
+      "options": [
+        10,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_212",
+      "type": "choice",
+      "question": "18 - 1 - 1 = ?",
+      "answer": "16",
+      "explanation": "18-1-1=16",
+      "options": [
+        15,
+        16,
+        18,
+        20
+      ]
+    },
+    {
+      "id": "G1_A_213",
+      "type": "choice",
+      "question": "19 - 3 - 1 = ?",
+      "answer": "15",
+      "explanation": "19-3-1=15",
+      "options": [
+        13,
+        15,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_214",
+      "type": "choice",
+      "question": "19 - 5 - 4 = ?",
+      "answer": "10",
+      "explanation": "19-5-4=10",
+      "options": [
+        9,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_215",
+      "type": "choice",
+      "question": "13 - 4 - 1 = ?",
+      "answer": "8",
+      "explanation": "13-4-1=8",
+      "options": [
+        6,
+        8,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_216",
+      "type": "choice",
+      "question": "17 - 6 - 5 = ?",
+      "answer": "6",
+      "explanation": "17-6-5=6",
+      "options": [
+        5,
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_217",
+      "type": "choice",
+      "question": "19 - 2 - 6 = ?",
+      "answer": "11",
+      "explanation": "19-2-6=11",
+      "options": [
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_218",
+      "type": "choice",
+      "question": "17 - 7 - 6 = ?",
+      "answer": "4",
+      "explanation": "17-7-6=4",
+      "options": [
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": "G1_A_219",
+      "type": "choice",
+      "question": "19 - 7 - 5 = ?",
+      "answer": "7",
+      "explanation": "19-7-5=7",
+      "options": [
+        5,
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_220",
+      "type": "choice",
+      "question": "15 - 2 - 6 = ?",
+      "answer": "7",
+      "explanation": "15-2-6=7",
+      "options": [
+        5,
+        7,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_221",
+      "type": "choice",
+      "question": "18 - 7 - 1 = ?",
+      "answer": "10",
+      "explanation": "18-7-1=10",
+      "options": [
+        9,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_222",
+      "type": "choice",
+      "question": "16 - 1 - 4 = ?",
+      "answer": "11",
+      "explanation": "16-1-4=11",
+      "options": [
+        9,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_223",
+      "type": "choice",
+      "question": "13 - 3 - 4 = ?",
+      "answer": "6",
+      "explanation": "13-3-4=6",
+      "options": [
+        4,
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_224",
+      "type": "choice",
+      "question": "12 - 3 - 1 = ?",
+      "answer": "8",
+      "explanation": "12-3-1=8",
+      "options": [
+        7,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_225",
+      "type": "choice",
+      "question": "14 - 6 - 2 = ?",
+      "answer": "6",
+      "explanation": "14-6-2=6",
+      "options": [
+        4,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_226",
+      "type": "choice",
+      "question": "14 - 4 - 6 = ?",
+      "answer": "4",
+      "explanation": "14-4-6=4",
+      "options": [
+        2,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": "G1_A_227",
+      "type": "choice",
+      "question": "11 - 7 - 4 = ?",
+      "answer": "0",
+      "explanation": "11-7-4=0",
+      "options": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "G1_A_228",
+      "type": "choice",
+      "question": "15 - 4 - 3 = ?",
+      "answer": "8",
+      "explanation": "15-4-3=8",
+      "options": [
+        6,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_229",
+      "type": "choice",
+      "question": "15 - 3 - 2 = ?",
+      "answer": "10",
+      "explanation": "15-3-2=10",
+      "options": [
+        9,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_230",
+      "type": "choice",
+      "question": "15 - 1 - 7 = ?",
+      "answer": "7",
+      "explanation": "15-1-7=7",
+      "options": [
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_231",
+      "type": "choice",
+      "question": "9 + 3 - 3 = ?",
+      "answer": "9",
+      "explanation": "9+3-3=9",
+      "options": [
+        7,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_232",
+      "type": "choice",
+      "question": "6 + 2 - 1 = ?",
+      "answer": "7",
+      "explanation": "6+2-1=7",
+      "options": [
+        6,
+        7,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_233",
+      "type": "choice",
+      "question": "15 + 5 - 3 = ?",
+      "answer": "17",
+      "explanation": "15+5-3=17",
+      "options": [
+        15,
+        17,
+        20,
+        23
+      ]
+    },
+    {
+      "id": "G1_A_234",
+      "type": "choice",
+      "question": "12 + 2 - 1 = ?",
+      "answer": "13",
+      "explanation": "12+2-1=13",
+      "options": [
+        11,
+        13,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_235",
+      "type": "choice",
+      "question": "10 - 2 + 2 = ?",
+      "answer": "10",
+      "explanation": "10-2+2=10",
+      "options": [
+        9,
+        10,
+        12,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_236",
+      "type": "choice",
+      "question": "7 + 4 - 5 = ?",
+      "answer": "6",
+      "explanation": "7+4-5=6",
+      "options": [
+        3,
+        6,
+        7,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_237",
+      "type": "choice",
+      "question": "7 + 1 - 2 = ?",
+      "answer": "6",
+      "explanation": "7+1-2=6",
+      "options": [
+        5,
+        6,
+        7,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_238",
+      "type": "choice",
+      "question": "13 + 4 - 2 = ?",
+      "answer": "15",
+      "explanation": "13+4-2=15",
+      "options": [
+        14,
+        15,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_239",
+      "type": "choice",
+      "question": "15 - 3 + 4 = ?",
+      "answer": "16",
+      "explanation": "15-3+4=16",
+      "options": [
+        14,
+        16,
+        19,
+        20
+      ]
+    },
+    {
+      "id": "G1_A_240",
+      "type": "choice",
+      "question": "9 + 3 - 2 = ?",
+      "answer": "10",
+      "explanation": "9+3-2=10",
+      "options": [
+        8,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_241",
+      "type": "choice",
+      "question": "6 + 2 - 2 = ?",
+      "answer": "6",
+      "explanation": "6+2-2=6",
+      "options": [
+        5,
+        6,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_242",
+      "type": "choice",
+      "question": "12 + 5 - 3 = ?",
+      "answer": "14",
+      "explanation": "12+5-3=14",
+      "options": [
+        13,
+        14,
+        17,
+        20
+      ]
+    },
+    {
+      "id": "G1_A_243",
+      "type": "choice",
+      "question": "12 - 1 + 3 = ?",
+      "answer": "14",
+      "explanation": "12-1+3=14",
+      "options": [
+        13,
+        14,
+        17,
+        20
+      ]
+    },
+    {
+      "id": "G1_A_244",
+      "type": "choice",
+      "question": "8 - 5 + 3 = ?",
+      "answer": "6",
+      "explanation": "8-5+3=6",
+      "options": [
+        3,
+        6,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_245",
+      "type": "choice",
+      "question": "12 + 4 - 4 = ?",
+      "answer": "12",
+      "explanation": "12+4-4=12",
+      "options": [
+        9,
+        12,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_246",
+      "type": "choice",
+      "question": "5 - 1 + 5 = ?",
+      "answer": "9",
+      "explanation": "5-1+5=9",
+      "options": [
+        7,
+        9,
+        10,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_247",
+      "type": "choice",
+      "question": "15 - 5 + 2 = ?",
+      "answer": "12",
+      "explanation": "15-5+2=12",
+      "options": [
+        10,
+        12,
+        13,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_248",
+      "type": "choice",
+      "question": "5 + 5 - 1 = ?",
+      "answer": "9",
+      "explanation": "5+5-1=9",
+      "options": [
+        6,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_249",
+      "type": "choice",
+      "question": "5 - 4 + 5 = ?",
+      "answer": "6",
+      "explanation": "5-4+5=6",
+      "options": [
+        4,
+        6,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_250",
+      "type": "choice",
+      "question": "14 + 1 - 5 = ?",
+      "answer": "10",
+      "explanation": "14+1-5=10",
+      "options": [
+        7,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_251",
+      "type": "choice",
+      "question": "7 - 4 + 5 = ?",
+      "answer": "8",
+      "explanation": "7-4+5=8",
+      "options": [
+        6,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_252",
+      "type": "choice",
+      "question": "7 - 3 + 4 = ?",
+      "answer": "8",
+      "explanation": "7-3+4=8",
+      "options": [
+        7,
+        8,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_253",
+      "type": "choice",
+      "question": "6 + 5 - 2 = ?",
+      "answer": "9",
+      "explanation": "6+5-2=9",
+      "options": [
+        7,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_254",
+      "type": "choice",
+      "question": "11 + 2 - 2 = ?",
+      "answer": "11",
+      "explanation": "11+2-2=11",
+      "options": [
+        9,
+        11,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_255",
+      "type": "choice",
+      "question": "7 + 2 - 2 = ?",
+      "answer": "7",
+      "explanation": "7+2-2=7",
+      "options": [
+        5,
+        7,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_256",
+      "type": "choice",
+      "question": "12 + 2 - 2 = ?",
+      "answer": "12",
+      "explanation": "12+2-2=12",
+      "options": [
+        10,
+        12,
+        14,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_257",
+      "type": "choice",
+      "question": "9 + 3 - 4 = ?",
+      "answer": "8",
+      "explanation": "9+3-4=8",
+      "options": [
+        6,
+        8,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_258",
+      "type": "choice",
+      "question": "10 - 1 + 3 = ?",
+      "answer": "12",
+      "explanation": "10-1+3=12",
+      "options": [
+        11,
+        12,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_259",
+      "type": "choice",
+      "question": "7 - 4 + 5 = ?",
+      "answer": "8",
+      "explanation": "7-4+5=8",
+      "options": [
+        7,
+        8,
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_260",
+      "type": "choice",
+      "question": "14 + 3 - 1 = ?",
+      "answer": "16",
+      "explanation": "14+3-1=16",
+      "options": [
+        14,
+        16,
+        18,
+        20
+      ]
+    },
+    {
+      "id": "G1_A_261",
+      "type": "choice",
+      "question": "14 - 1 + 5 = ?",
+      "answer": "18",
+      "explanation": "14-1+5=18",
+      "options": [
+        17,
+        18,
+        21,
+        22
+      ]
+    },
+    {
+      "id": "G1_A_262",
+      "type": "choice",
+      "question": "14 - 5 + 1 = ?",
+      "answer": "10",
+      "explanation": "14-5+1=10",
+      "options": [
+        9,
+        10,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_263",
+      "type": "choice",
+      "question": "7 + 3 - 4 = ?",
+      "answer": "6",
+      "explanation": "7+3-4=6",
+      "options": [
+        4,
+        6,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_264",
+      "type": "choice",
+      "question": "8 + 5 - 3 = ?",
+      "answer": "10",
+      "explanation": "8+5-3=10",
+      "options": [
+        8,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_265",
+      "type": "choice",
+      "question": "6 - 2 + 4 = ?",
+      "answer": "8",
+      "explanation": "6-2+4=8",
+      "options": [
+        7,
+        8,
+        10,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_266",
+      "type": "choice",
+      "question": "9 + 3 - 4 = ?",
+      "answer": "8",
+      "explanation": "9+3-4=8",
+      "options": [
+        5,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_267",
+      "type": "choice",
+      "question": "11 + 3 - 1 = ?",
+      "answer": "13",
+      "explanation": "11+3-1=13",
+      "options": [
+        12,
+        13,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_268",
+      "type": "choice",
+      "question": "11 + 2 - 1 = ?",
+      "answer": "12",
+      "explanation": "11+2-1=12",
+      "options": [
+        9,
+        12,
+        13,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_269",
+      "type": "choice",
+      "question": "14 - 1 + 1 = ?",
+      "answer": "14",
+      "explanation": "14-1+1=14",
+      "options": [
+        13,
+        14,
+        17,
+        20
+      ]
+    },
+    {
+      "id": "G1_A_270",
+      "type": "choice",
+      "question": "15 + 5 - 4 = ?",
+      "answer": "16",
+      "explanation": "15+5-4=16",
+      "options": [
+        13,
+        16,
+        19,
+        21
+      ]
+    },
+    {
+      "id": "G1_A_271",
+      "type": "choice",
+      "question": "9 + 2 - 4 = ?",
+      "answer": "7",
+      "explanation": "9+2-4=7",
+      "options": [
+        5,
+        7,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_272",
+      "type": "choice",
+      "question": "9 - 2 + 4 = ?",
+      "answer": "11",
+      "explanation": "9-2+4=11",
+      "options": [
+        9,
+        11,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_273",
+      "type": "choice",
+      "question": "13 + 4 - 2 = ?",
+      "answer": "15",
+      "explanation": "13+4-2=15",
+      "options": [
+        13,
+        15,
+        17,
+        21
+      ]
+    },
+    {
+      "id": "G1_A_274",
+      "type": "choice",
+      "question": "15 + 5 - 3 = ?",
+      "answer": "17",
+      "explanation": "15+5-3=17",
+      "options": [
+        16,
+        17,
+        18,
+        21
+      ]
+    },
+    {
+      "id": "G1_A_275",
+      "type": "choice",
+      "question": "9 + 1 - 2 = ?",
+      "answer": "8",
+      "explanation": "9+1-2=8",
+      "options": [
+        5,
+        8,
+        10,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_276",
+      "type": "choice",
+      "question": "8 - 1 + 4 = ?",
+      "answer": "11",
+      "explanation": "8-1+4=11",
+      "options": [
+        8,
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_277",
+      "type": "choice",
+      "question": "7 - 4 + 4 = ?",
+      "answer": "7",
+      "explanation": "7-4+4=7",
+      "options": [
+        5,
+        7,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_278",
+      "type": "choice",
+      "question": "15 + 5 - 1 = ?",
+      "answer": "19",
+      "explanation": "15+5-1=19",
+      "options": [
+        17,
+        19,
+        22,
+        23
+      ]
+    },
+    {
+      "id": "G1_A_279",
+      "type": "choice",
+      "question": "9 + 5 - 4 = ?",
+      "answer": "10",
+      "explanation": "9+5-4=10",
+      "options": [
+        9,
+        10,
+        11,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_280",
+      "type": "choice",
+      "question": "14 - 1 + 2 = ?",
+      "answer": "15",
+      "explanation": "14-1+2=15",
+      "options": [
+        12,
+        15,
+        18,
+        21
+      ]
+    },
+    {
+      "id": "G1_A_281",
+      "type": "choice",
+      "question": "9 + 5 - 5 = ?",
+      "answer": "9",
+      "explanation": "9+5-5=9",
+      "options": [
+        6,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_282",
+      "type": "choice",
+      "question": "10 + 4 - 5 = ?",
+      "answer": "9",
+      "explanation": "10+4-5=9",
+      "options": [
+        7,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_283",
+      "type": "choice",
+      "question": "8 - 5 + 5 = ?",
+      "answer": "8",
+      "explanation": "8-5+5=8",
+      "options": [
+        6,
+        8,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_284",
+      "type": "choice",
+      "question": "9 - 5 + 2 = ?",
+      "answer": "6",
+      "explanation": "9-5+2=6",
+      "options": [
+        4,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_285",
+      "type": "choice",
+      "question": "9 + 2 - 2 = ?",
+      "answer": "9",
+      "explanation": "9+2-2=9",
+      "options": [
+        8,
+        9,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_286",
+      "type": "choice",
+      "question": "11 + 2 - 4 = ?",
+      "answer": "9",
+      "explanation": "11+2-4=9",
+      "options": [
+        6,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_287",
+      "type": "choice",
+      "question": "12 + 4 - 1 = ?",
+      "answer": "15",
+      "explanation": "12+4-1=15",
+      "options": [
+        12,
+        15,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_288",
+      "type": "choice",
+      "question": "11 - 1 + 5 = ?",
+      "answer": "15",
+      "explanation": "11-1+5=15",
+      "options": [
+        13,
+        15,
+        18,
+        20
+      ]
+    },
+    {
+      "id": "G1_A_289",
+      "type": "choice",
+      "question": "9 + 4 - 1 = ?",
+      "answer": "12",
+      "explanation": "9+4-1=12",
+      "options": [
+        9,
+        12,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_290",
+      "type": "choice",
+      "question": "15 - 5 + 5 = ?",
+      "answer": "15",
+      "explanation": "15-5+5=15",
+      "options": [
+        13,
+        15,
+        18,
+        21
+      ]
+    },
+    {
+      "id": "G1_A_291",
+      "type": "choice",
+      "question": "12 + 5 - 1 = ?",
+      "answer": "16",
+      "explanation": "12+5-1=16",
+      "options": [
+        14,
+        16,
+        19,
+        22
+      ]
+    },
+    {
+      "id": "G1_A_292",
+      "type": "choice",
+      "question": "10 - 2 + 2 = ?",
+      "answer": "10",
+      "explanation": "10-2+2=10",
+      "options": [
+        9,
+        10,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_293",
+      "type": "choice",
+      "question": "5 + 2 - 1 = ?",
+      "answer": "6",
+      "explanation": "5+2-1=6",
+      "options": [
+        5,
+        6,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_294",
+      "type": "choice",
+      "question": "10 - 2 + 4 = ?",
+      "answer": "12",
+      "explanation": "10-2+4=12",
+      "options": [
+        9,
+        12,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_295",
+      "type": "choice",
+      "question": "7 - 5 + 4 = ?",
+      "answer": "6",
+      "explanation": "7-5+4=6",
+      "options": [
+        3,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_296",
+      "type": "choice",
+      "question": "6 + 2 - 4 = ?",
+      "answer": "4",
+      "explanation": "6+2-4=4",
+      "options": [
+        1,
+        4,
+        6,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_297",
+      "type": "choice",
+      "question": "9 + 3 - 1 = ?",
+      "answer": "11",
+      "explanation": "9+3-1=11",
+      "options": [
+        9,
+        11,
+        12,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_298",
+      "type": "choice",
+      "question": "12 - 4 + 1 = ?",
+      "answer": "9",
+      "explanation": "12-4+1=9",
+      "options": [
+        8,
+        9,
+        11,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_299",
+      "type": "choice",
+      "question": "15 + 3 - 3 = ?",
+      "answer": "15",
+      "explanation": "15+3-3=15",
+      "options": [
+        14,
+        15,
+        17,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_300",
+      "type": "choice",
+      "question": "11 + 2 - 2 = ?",
+      "answer": "11",
+      "explanation": "11+2-2=11",
+      "options": [
+        8,
+        11,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_301",
+      "type": "choice",
+      "question": "11 + 3 - 5 = ?",
+      "answer": "9",
+      "explanation": "11+3-5=9",
+      "options": [
+        8,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_302",
+      "type": "choice",
+      "question": "5 + 2 - 4 = ?",
+      "answer": "3",
+      "explanation": "5+2-4=3",
+      "options": [
+        1,
+        3,
+        4,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_303",
+      "type": "choice",
+      "question": "7 + 5 - 1 = ?",
+      "answer": "11",
+      "explanation": "7+5-1=11",
+      "options": [
+        8,
+        11,
+        12,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_304",
+      "type": "choice",
+      "question": "12 - 5 + 4 = ?",
+      "answer": "11",
+      "explanation": "12-5+4=11",
+      "options": [
+        10,
+        11,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_305",
+      "type": "choice",
+      "question": "8 + 4 - 4 = ?",
+      "answer": "8",
+      "explanation": "8+4-4=8",
+      "options": [
+        6,
+        8,
+        9,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_306",
+      "type": "choice",
+      "question": "10 + 5 - 5 = ?",
+      "answer": "10",
+      "explanation": "10+5-5=10",
+      "options": [
+        7,
+        10,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_307",
+      "type": "choice",
+      "question": "9 - 2 + 3 = ?",
+      "answer": "10",
+      "explanation": "9-2+3=10",
+      "options": [
+        8,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_308",
+      "type": "choice",
+      "question": "7 - 1 + 5 = ?",
+      "answer": "11",
+      "explanation": "7-1+5=11",
+      "options": [
+        9,
+        11,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_309",
+      "type": "choice",
+      "question": "12 + 4 - 4 = ?",
+      "answer": "12",
+      "explanation": "12+4-4=12",
+      "options": [
+        9,
+        12,
+        13,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_310",
+      "type": "choice",
+      "question": "6 + 5 - 5 = ?",
+      "answer": "6",
+      "explanation": "6+5-5=6",
+      "options": [
+        3,
+        6,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_311",
+      "type": "choice",
+      "question": "5 + 3 - 3 = ?",
+      "answer": "5",
+      "explanation": "5+3-3=5",
+      "options": [
+        2,
+        5,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_312",
+      "type": "choice",
+      "question": "10 - 1 + 3 = ?",
+      "answer": "12",
+      "explanation": "10-1+3=12",
+      "options": [
+        11,
+        12,
+        14,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_313",
+      "type": "choice",
+      "question": "14 + 5 - 5 = ?",
+      "answer": "14",
+      "explanation": "14+5-5=14",
+      "options": [
+        12,
+        14,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_314",
+      "type": "choice",
+      "question": "8 - 5 + 5 = ?",
+      "answer": "8",
+      "explanation": "8-5+5=8",
+      "options": [
+        5,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_315",
+      "type": "choice",
+      "question": "8 - 4 + 2 = ?",
+      "answer": "6",
+      "explanation": "8-4+2=6",
+      "options": [
+        3,
+        6,
+        9,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_316",
+      "type": "choice",
+      "question": "11 - 4 + 2 = ?",
+      "answer": "9",
+      "explanation": "11-4+2=9",
+      "options": [
+        7,
+        9,
+        10,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_317",
+      "type": "choice",
+      "question": "5 - 4 + 2 = ?",
+      "answer": "3",
+      "explanation": "5-4+2=3",
+      "options": [
+        0,
+        3,
+        6,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_318",
+      "type": "choice",
+      "question": "13 + 4 - 4 = ?",
+      "answer": "13",
+      "explanation": "13+4-4=13",
+      "options": [
+        12,
+        13,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_319",
+      "type": "choice",
+      "question": "15 + 4 - 1 = ?",
+      "answer": "18",
+      "explanation": "15+4-1=18",
+      "options": [
+        15,
+        18,
+        21,
+        24
+      ]
+    },
+    {
+      "id": "G1_A_320",
+      "type": "choice",
+      "question": "14 + 1 - 5 = ?",
+      "answer": "10",
+      "explanation": "14+1-5=10",
+      "options": [
+        8,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_321",
+      "type": "choice",
+      "question": "10 - 3 + 1 = ?",
+      "answer": "8",
+      "explanation": "10-3+1=8",
+      "options": [
+        5,
+        8,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G1_A_322",
+      "type": "choice",
+      "question": "12 + 2 - 4 = ?",
+      "answer": "10",
+      "explanation": "12+2-4=10",
+      "options": [
+        7,
+        10,
+        11,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_323",
+      "type": "choice",
+      "question": "13 - 5 + 5 = ?",
+      "answer": "13",
+      "explanation": "13-5+5=13",
+      "options": [
+        11,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_324",
+      "type": "choice",
+      "question": "7 + 3 - 5 = ?",
+      "answer": "5",
+      "explanation": "7+3-5=5",
+      "options": [
+        4,
+        5,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "G1_A_325",
+      "type": "choice",
+      "question": "14 + 1 - 2 = ?",
+      "answer": "13",
+      "explanation": "14+1-2=13",
+      "options": [
+        12,
+        13,
+        15,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_326",
+      "type": "choice",
+      "question": "14 + 3 - 1 = ?",
+      "answer": "16",
+      "explanation": "14+3-1=16",
+      "options": [
+        13,
+        16,
+        18,
+        22
+      ]
+    },
+    {
+      "id": "G1_A_327",
+      "type": "choice",
+      "question": "8 - 1 + 2 = ?",
+      "answer": "9",
+      "explanation": "8-1+2=9",
+      "options": [
+        7,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_328",
+      "type": "choice",
+      "question": "10 + 3 - 4 = ?",
+      "answer": "9",
+      "explanation": "10+3-4=9",
+      "options": [
+        8,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_329",
+      "type": "choice",
+      "question": "11 + 2 - 5 = ?",
+      "answer": "8",
+      "explanation": "11+2-5=8",
+      "options": [
+        5,
+        8,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_330",
+      "type": "choice",
+      "question": "6 - 3 + 5 = ?",
+      "answer": "8",
+      "explanation": "6-3+5=8",
+      "options": [
+        6,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "id": "G1_A_331",
+      "type": "choice",
+      "question": "6 + 1 - 3 = ?",
+      "answer": "4",
+      "explanation": "6+1-3=4",
+      "options": [
+        2,
+        4,
+        6,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_332",
+      "type": "choice",
+      "question": "15 + 2 - 4 = ?",
+      "answer": "13",
+      "explanation": "15+2-4=13",
+      "options": [
+        11,
+        13,
+        14,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_333",
+      "type": "choice",
+      "question": "6 + 5 - 1 = ?",
+      "answer": "10",
+      "explanation": "6+5-1=10",
+      "options": [
+        9,
+        10,
+        11,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_334",
+      "type": "choice",
+      "question": "13 + 4 - 2 = ?",
+      "answer": "15",
+      "explanation": "13+4-2=15",
+      "options": [
+        13,
+        15,
+        16,
+        21
+      ]
+    },
+    {
+      "id": "G1_A_335",
+      "type": "choice",
+      "question": "15 - 5 + 2 = ?",
+      "answer": "12",
+      "explanation": "15-5+2=12",
+      "options": [
+        9,
+        12,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "G1_A_336",
+      "type": "choice",
+      "question": "5 - 2 + 5 = ?",
+      "answer": "8",
+      "explanation": "5-2+5=8",
+      "options": [
+        5,
+        8,
+        10,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_337",
+      "type": "choice",
+      "question": "7 + 1 - 3 = ?",
+      "answer": "5",
+      "explanation": "7+1-3=5",
+      "options": [
+        3,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "G1_A_338",
+      "type": "choice",
+      "question": "14 - 3 + 1 = ?",
+      "answer": "12",
+      "explanation": "14-3+1=12",
+      "options": [
+        9,
+        12,
+        15,
+        16
+      ]
+    },
+    {
+      "id": "G1_A_339",
+      "type": "choice",
+      "question": "14 - 5 + 1 = ?",
+      "answer": "10",
+      "explanation": "14-5+1=10",
+      "options": [
+        7,
+        10,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "G1_A_340",
+      "type": "choice",
+      "question": "7 + 1 - 5 = ?",
+      "answer": "3",
+      "explanation": "7+1-5=3",
+      "options": [
+        0,
+        3,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "G1_A_341",
+      "type": "choice",
+      "question": "9 - 1 + 1 = ?",
+      "answer": "9",
+      "explanation": "9-1+1=9",
+      "options": [
+        8,
+        9,
+        12,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_342",
+      "type": "choice",
+      "question": "12 + 4 - 1 = ?",
+      "answer": "15",
+      "explanation": "12+4-1=15",
+      "options": [
+        14,
+        15,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_343",
+      "type": "choice",
+      "question": "5 - 3 + 4 = ?",
+      "answer": "6",
+      "explanation": "5-3+4=6",
+      "options": [
+        5,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "G1_A_344",
+      "type": "choice",
+      "question": "8 + 5 - 4 = ?",
+      "answer": "9",
+      "explanation": "8+5-4=9",
+      "options": [
+        7,
+        9,
+        10,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_345",
+      "type": "choice",
+      "question": "15 + 1 - 2 = ?",
+      "answer": "14",
+      "explanation": "15+1-2=14",
+      "options": [
+        13,
+        14,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "G1_A_346",
+      "type": "choice",
+      "question": "10 + 2 - 3 = ?",
+      "answer": "9",
+      "explanation": "10+2-3=9",
+      "options": [
+        7,
+        9,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "G1_A_347",
+      "type": "choice",
+      "question": "15 - 1 + 5 = ?",
+      "answer": "19",
+      "explanation": "15-1+5=19",
+      "options": [
+        16,
+        19,
+        21,
+        25
+      ]
+    },
+    {
+      "id": "G1_A_348",
+      "type": "choice",
+      "question": "5 - 5 + 1 = ?",
+      "answer": "1",
+      "explanation": "5-5+1=1",
+      "options": [
+        0,
+        1,
+        3,
+        6
+      ]
+    },
+    {
+      "id": "G1_A_349",
+      "type": "choice",
+      "question": "12 + 5 - 4 = ?",
+      "answer": "13",
+      "explanation": "12+5-4=13",
+      "options": [
+        11,
+        13,
+        15,
+        18
+      ]
+    },
+    {
+      "id": "G1_A_350",
+      "type": "choice",
+      "question": "11 + 5 - 3 = ?",
+      "answer": "13",
+      "explanation": "11+5-3=13",
+      "options": [
+        11,
+        13,
+        15,
+        18
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3295 @@
+{
+  "grade": 3,
+  "difficulty": "basic",
+  "questions": [
+    {
+      "id": "G3_B_001",
+      "type": "choice",
+      "question": "1929 + 2653 = ?",
+      "answer": "4582",
+      "explanation": "1929加2653等于4582",
+      "options": [
+        4532,
+        4582,
+        4603,
+        4657
+      ]
+    },
+    {
+      "id": "G3_B_002",
+      "type": "choice",
+      "question": "1290 + 2270 = ?",
+      "answer": "3560",
+      "explanation": "1290加2270等于3560",
+      "options": [
+        3532,
+        3560,
+        3572,
+        3650
+      ]
+    },
+    {
+      "id": "G3_B_003",
+      "type": "choice",
+      "question": "4297 + 160 = ?",
+      "answer": "4457",
+      "explanation": "4297加160等于4457",
+      "options": [
+        4428,
+        4457,
+        4467,
+        4519
+      ]
+    },
+    {
+      "id": "G3_B_004",
+      "type": "choice",
+      "question": "2396 + 1684 = ?",
+      "answer": "4080",
+      "explanation": "2396加1684等于4080",
+      "options": [
+        4051,
+        4080,
+        4106,
+        4153
+      ]
+    },
+    {
+      "id": "G3_B_005",
+      "type": "choice",
+      "question": "2253 + 707 = ?",
+      "answer": "2960",
+      "explanation": "2253加707等于2960",
+      "options": [
+        2923,
+        2960,
+        2977,
+        3020
+      ]
+    },
+    {
+      "id": "G3_B_006",
+      "type": "choice",
+      "question": "1794 + 1892 = ?",
+      "answer": "3686",
+      "explanation": "1794加1892等于3686",
+      "options": [
+        3652,
+        3686,
+        3696,
+        3757
+      ]
+    },
+    {
+      "id": "G3_B_007",
+      "type": "choice",
+      "question": "2767 + 1873 = ?",
+      "answer": "4640",
+      "explanation": "2767加1873等于4640",
+      "options": [
+        4619,
+        4640,
+        4671,
+        4708
+      ]
+    },
+    {
+      "id": "G3_B_008",
+      "type": "choice",
+      "question": "877 + 3244 = ?",
+      "answer": "4121",
+      "explanation": "877加3244等于4121",
+      "options": [
+        4103,
+        4121,
+        4163,
+        4195
+      ]
+    },
+    {
+      "id": "G3_B_009",
+      "type": "choice",
+      "question": "1615 + 1593 = ?",
+      "answer": "3208",
+      "explanation": "1615加1593等于3208",
+      "options": [
+        3180,
+        3208,
+        3231,
+        3278
+      ]
+    },
+    {
+      "id": "G3_B_010",
+      "type": "choice",
+      "question": "2266 + 2038 = ?",
+      "answer": "4304",
+      "explanation": "2266加2038等于4304",
+      "options": [
+        4261,
+        4304,
+        4343,
+        4389
+      ]
+    },
+    {
+      "id": "G3_B_011",
+      "type": "choice",
+      "question": "4261 + 217 = ?",
+      "answer": "4478",
+      "explanation": "4261加217等于4478",
+      "options": [
+        4453,
+        4478,
+        4503,
+        4531
+      ]
+    },
+    {
+      "id": "G3_B_012",
+      "type": "choice",
+      "question": "410 + 4291 = ?",
+      "answer": "4701",
+      "explanation": "410加4291等于4701",
+      "options": [
+        4686,
+        4701,
+        4722,
+        4752
+      ]
+    },
+    {
+      "id": "G3_B_013",
+      "type": "choice",
+      "question": "3391 + 1231 = ?",
+      "answer": "4622",
+      "explanation": "3391加1231等于4622",
+      "options": [
+        4581,
+        4622,
+        4659,
+        4693
+      ]
+    },
+    {
+      "id": "G3_B_014",
+      "type": "choice",
+      "question": "3082 + 870 = ?",
+      "answer": "3952",
+      "explanation": "3082加870等于3952",
+      "options": [
+        3920,
+        3952,
+        3973,
+        4039
+      ]
+    },
+    {
+      "id": "G3_B_015",
+      "type": "choice",
+      "question": "1932 + 2922 = ?",
+      "answer": "4854",
+      "explanation": "1932加2922等于4854",
+      "options": [
+        4810,
+        4854,
+        4885,
+        4928
+      ]
+    },
+    {
+      "id": "G3_B_016",
+      "type": "choice",
+      "question": "2816 + 286 = ?",
+      "answer": "3102",
+      "explanation": "2816加286等于3102",
+      "options": [
+        3090,
+        3102,
+        3119,
+        3159
+      ]
+    },
+    {
+      "id": "G3_B_017",
+      "type": "choice",
+      "question": "1683 + 1256 = ?",
+      "answer": "2939",
+      "explanation": "1683加1256等于2939",
+      "options": [
+        2917,
+        2939,
+        2969,
+        3010
+      ]
+    },
+    {
+      "id": "G3_B_018",
+      "type": "choice",
+      "question": "4357 + 307 = ?",
+      "answer": "4664",
+      "explanation": "4357加307等于4664",
+      "options": [
+        4630,
+        4664,
+        4675,
+        4751
+      ]
+    },
+    {
+      "id": "G3_B_019",
+      "type": "choice",
+      "question": "169 + 1238 = ?",
+      "answer": "1407",
+      "explanation": "169加1238等于1407",
+      "options": [
+        1359,
+        1407,
+        1455,
+        1469
+      ]
+    },
+    {
+      "id": "G3_B_020",
+      "type": "choice",
+      "question": "217 + 4650 = ?",
+      "answer": "4867",
+      "explanation": "217加4650等于4867",
+      "options": [
+        4818,
+        4867,
+        4908,
+        4928
+      ]
+    },
+    {
+      "id": "G3_B_021",
+      "type": "choice",
+      "question": "2378 + 1575 = ?",
+      "answer": "3953",
+      "explanation": "2378加1575等于3953",
+      "options": [
+        3918,
+        3953,
+        3972,
+        4044
+      ]
+    },
+    {
+      "id": "G3_B_022",
+      "type": "choice",
+      "question": "1191 + 568 = ?",
+      "answer": "1759",
+      "explanation": "1191加568等于1759",
+      "options": [
+        1716,
+        1759,
+        1794,
+        1818
+      ]
+    },
+    {
+      "id": "G3_B_023",
+      "type": "choice",
+      "question": "611 + 3620 = ?",
+      "answer": "4231",
+      "explanation": "611加3620等于4231",
+      "options": [
+        4185,
+        4231,
+        4273,
+        4296
+      ]
+    },
+    {
+      "id": "G3_B_024",
+      "type": "choice",
+      "question": "1194 + 297 = ?",
+      "answer": "1491",
+      "explanation": "1194加297等于1491",
+      "options": [
+        1470,
+        1491,
+        1531,
+        1546
+      ]
+    },
+    {
+      "id": "G3_B_025",
+      "type": "choice",
+      "question": "2217 + 2387 = ?",
+      "answer": "4604",
+      "explanation": "2217加2387等于4604",
+      "options": [
+        4586,
+        4604,
+        4646,
+        4687
+      ]
+    },
+    {
+      "id": "G3_B_026",
+      "type": "choice",
+      "question": "1930 + 366 = ?",
+      "answer": "2296",
+      "explanation": "1930加366等于2296",
+      "options": [
+        2280,
+        2296,
+        2338,
+        2371
+      ]
+    },
+    {
+      "id": "G3_B_027",
+      "type": "choice",
+      "question": "853 + 1026 = ?",
+      "answer": "1879",
+      "explanation": "853加1026等于1879",
+      "options": [
+        1831,
+        1879,
+        1928,
+        1950
+      ]
+    },
+    {
+      "id": "G3_B_028",
+      "type": "choice",
+      "question": "1521 + 1307 = ?",
+      "answer": "2828",
+      "explanation": "1521加1307等于2828",
+      "options": [
+        2787,
+        2828,
+        2851,
+        2925
+      ]
+    },
+    {
+      "id": "G3_B_029",
+      "type": "choice",
+      "question": "3249 + 667 = ?",
+      "answer": "3916",
+      "explanation": "3249加667等于3916",
+      "options": [
+        3886,
+        3916,
+        3945,
+        4005
+      ]
+    },
+    {
+      "id": "G3_B_030",
+      "type": "choice",
+      "question": "1171 + 2980 = ?",
+      "answer": "4151",
+      "explanation": "1171加2980等于4151",
+      "options": [
+        4118,
+        4151,
+        4170,
+        4205
+      ]
+    },
+    {
+      "id": "G3_B_031",
+      "type": "choice",
+      "question": "1943 + 2303 = ?",
+      "answer": "4246",
+      "explanation": "1943加2303等于4246",
+      "options": [
+        4235,
+        4246,
+        4272,
+        4315
+      ]
+    },
+    {
+      "id": "G3_B_032",
+      "type": "choice",
+      "question": "2894 + 1114 = ?",
+      "answer": "4008",
+      "explanation": "2894加1114等于4008",
+      "options": [
+        3981,
+        4008,
+        4044,
+        4108
+      ]
+    },
+    {
+      "id": "G3_B_033",
+      "type": "choice",
+      "question": "1238 + 952 = ?",
+      "answer": "2190",
+      "explanation": "1238加952等于2190",
+      "options": [
+        2166,
+        2190,
+        2216,
+        2288
+      ]
+    },
+    {
+      "id": "G3_B_034",
+      "type": "choice",
+      "question": "2917 + 1913 = ?",
+      "answer": "4830",
+      "explanation": "2917加1913等于4830",
+      "options": [
+        4797,
+        4830,
+        4878,
+        4882
+      ]
+    },
+    {
+      "id": "G3_B_035",
+      "type": "choice",
+      "question": "3531 + 208 = ?",
+      "answer": "3739",
+      "explanation": "3531加208等于3739",
+      "options": [
+        3716,
+        3739,
+        3754,
+        3824
+      ]
+    },
+    {
+      "id": "G3_B_036",
+      "type": "choice",
+      "question": "2543 + 421 = ?",
+      "answer": "2964",
+      "explanation": "2543加421等于2964",
+      "options": [
+        2929,
+        2964,
+        3002,
+        3054
+      ]
+    },
+    {
+      "id": "G3_B_037",
+      "type": "choice",
+      "question": "3299 + 164 = ?",
+      "answer": "3463",
+      "explanation": "3299加164等于3463",
+      "options": [
+        3446,
+        3463,
+        3489,
+        3518
+      ]
+    },
+    {
+      "id": "G3_B_038",
+      "type": "choice",
+      "question": "1336 + 469 = ?",
+      "answer": "1805",
+      "explanation": "1336加469等于1805",
+      "options": [
+        1755,
+        1805,
+        1823,
+        1879
+      ]
+    },
+    {
+      "id": "G3_B_039",
+      "type": "choice",
+      "question": "2098 + 163 = ?",
+      "answer": "2261",
+      "explanation": "2098加163等于2261",
+      "options": [
+        2229,
+        2261,
+        2298,
+        2318
+      ]
+    },
+    {
+      "id": "G3_B_040",
+      "type": "choice",
+      "question": "495 + 920 = ?",
+      "answer": "1415",
+      "explanation": "495加920等于1415",
+      "options": [
+        1385,
+        1415,
+        1451,
+        1493
+      ]
+    },
+    {
+      "id": "G3_B_041",
+      "type": "choice",
+      "question": "591 + 3859 = ?",
+      "answer": "4450",
+      "explanation": "591加3859等于4450",
+      "options": [
+        4427,
+        4450,
+        4477,
+        4532
+      ]
+    },
+    {
+      "id": "G3_B_042",
+      "type": "choice",
+      "question": "2398 + 2041 = ?",
+      "answer": "4439",
+      "explanation": "2398加2041等于4439",
+      "options": [
+        4397,
+        4439,
+        4478,
+        4495
+      ]
+    },
+    {
+      "id": "G3_B_043",
+      "type": "choice",
+      "question": "484 + 877 = ?",
+      "answer": "1361",
+      "explanation": "484加877等于1361",
+      "options": [
+        1325,
+        1361,
+        1411,
+        1427
+      ]
+    },
+    {
+      "id": "G3_B_044",
+      "type": "choice",
+      "question": "1745 + 3176 = ?",
+      "answer": "4921",
+      "explanation": "1745加3176等于4921",
+      "options": [
+        4910,
+        4921,
+        4938,
+        4989
+      ]
+    },
+    {
+      "id": "G3_B_045",
+      "type": "choice",
+      "question": "1978 + 1275 = ?",
+      "answer": "3253",
+      "explanation": "1978加1275等于3253",
+      "options": [
+        3213,
+        3253,
+        3269,
+        3305
+      ]
+    },
+    {
+      "id": "G3_B_046",
+      "type": "choice",
+      "question": "572 + 1936 = ?",
+      "answer": "2508",
+      "explanation": "572加1936等于2508",
+      "options": [
+        2481,
+        2508,
+        2538,
+        2586
+      ]
+    },
+    {
+      "id": "G3_B_047",
+      "type": "choice",
+      "question": "2000 + 259 = ?",
+      "answer": "2259",
+      "explanation": "2000加259等于2259",
+      "options": [
+        2236,
+        2259,
+        2306,
+        2326
+      ]
+    },
+    {
+      "id": "G3_B_048",
+      "type": "choice",
+      "question": "148 + 720 = ?",
+      "answer": "868",
+      "explanation": "148加720等于868",
+      "options": [
+        819,
+        868,
+        912,
+        960
+      ]
+    },
+    {
+      "id": "G3_B_049",
+      "type": "choice",
+      "question": "647 + 3194 = ?",
+      "answer": "3841",
+      "explanation": "647加3194等于3841",
+      "options": [
+        3816,
+        3841,
+        3856,
+        3907
+      ]
+    },
+    {
+      "id": "G3_B_050",
+      "type": "choice",
+      "question": "846 + 1503 = ?",
+      "answer": "2349",
+      "explanation": "846加1503等于2349",
+      "options": [
+        2309,
+        2349,
+        2368,
+        2426
+      ]
+    },
+    {
+      "id": "G3_B_051",
+      "type": "choice",
+      "question": "1306 + 1481 = ?",
+      "answer": "2787",
+      "explanation": "1306加1481等于2787",
+      "options": [
+        2738,
+        2787,
+        2827,
+        2865
+      ]
+    },
+    {
+      "id": "G3_B_052",
+      "type": "choice",
+      "question": "1974 + 373 = ?",
+      "answer": "2347",
+      "explanation": "1974加373等于2347",
+      "options": [
+        2337,
+        2347,
+        2365,
+        2438
+      ]
+    },
+    {
+      "id": "G3_B_053",
+      "type": "choice",
+      "question": "2550 + 977 = ?",
+      "answer": "3527",
+      "explanation": "2550加977等于3527",
+      "options": [
+        3512,
+        3527,
+        3577,
+        3602
+      ]
+    },
+    {
+      "id": "G3_B_054",
+      "type": "choice",
+      "question": "2320 + 1004 = ?",
+      "answer": "3324",
+      "explanation": "2320加1004等于3324",
+      "options": [
+        3298,
+        3324,
+        3343,
+        3379
+      ]
+    },
+    {
+      "id": "G3_B_055",
+      "type": "choice",
+      "question": "773 + 3542 = ?",
+      "answer": "4315",
+      "explanation": "773加3542等于4315",
+      "options": [
+        4274,
+        4315,
+        4352,
+        4386
+      ]
+    },
+    {
+      "id": "G3_B_056",
+      "type": "choice",
+      "question": "1021 + 1369 = ?",
+      "answer": "2390",
+      "explanation": "1021加1369等于2390",
+      "options": [
+        2340,
+        2390,
+        2416,
+        2452
+      ]
+    },
+    {
+      "id": "G3_B_057",
+      "type": "choice",
+      "question": "353 + 3155 = ?",
+      "answer": "3508",
+      "explanation": "353加3155等于3508",
+      "options": [
+        3458,
+        3508,
+        3558,
+        3570
+      ]
+    },
+    {
+      "id": "G3_B_058",
+      "type": "choice",
+      "question": "310 + 2338 = ?",
+      "answer": "2648",
+      "explanation": "310加2338等于2648",
+      "options": [
+        2614,
+        2648,
+        2673,
+        2713
+      ]
+    },
+    {
+      "id": "G3_B_059",
+      "type": "choice",
+      "question": "3735 - 1325 = ?",
+      "answer": "2410",
+      "explanation": "3735减1325等于2410",
+      "options": [
+        2379,
+        2410,
+        2449,
+        2463
+      ]
+    },
+    {
+      "id": "G3_B_060",
+      "type": "choice",
+      "question": "4738 - 1952 = ?",
+      "answer": "2786",
+      "explanation": "4738减1952等于2786",
+      "options": [
+        2759,
+        2786,
+        2799,
+        2882
+      ]
+    },
+    {
+      "id": "G3_B_061",
+      "type": "choice",
+      "question": "2264 - 160 = ?",
+      "answer": "2104",
+      "explanation": "2264减160等于2104",
+      "options": [
+        2059,
+        2104,
+        2146,
+        2200
+      ]
+    },
+    {
+      "id": "G3_B_062",
+      "type": "choice",
+      "question": "3027 - 1337 = ?",
+      "answer": "1690",
+      "explanation": "3027减1337等于1690",
+      "options": [
+        1665,
+        1690,
+        1736,
+        1757
+      ]
+    },
+    {
+      "id": "G3_B_063",
+      "type": "choice",
+      "question": "3776 - 3482 = ?",
+      "answer": "294",
+      "explanation": "3776减3482等于294",
+      "options": [
+        251,
+        294,
+        341,
+        377
+      ]
+    },
+    {
+      "id": "G3_B_064",
+      "type": "choice",
+      "question": "4568 - 4527 = ?",
+      "answer": "41",
+      "explanation": "4568减4527等于41",
+      "options": [
+        0,
+        41,
+        81,
+        123
+      ]
+    },
+    {
+      "id": "G3_B_065",
+      "type": "choice",
+      "question": "3847 - 282 = ?",
+      "answer": "3565",
+      "explanation": "3847减282等于3565",
+      "options": [
+        3519,
+        3565,
+        3603,
+        3638
+      ]
+    },
+    {
+      "id": "G3_B_066",
+      "type": "choice",
+      "question": "3778 - 1786 = ?",
+      "answer": "1992",
+      "explanation": "3778减1786等于1992",
+      "options": [
+        1981,
+        1992,
+        2008,
+        2090
+      ]
+    },
+    {
+      "id": "G3_B_067",
+      "type": "choice",
+      "question": "2057 - 1565 = ?",
+      "answer": "492",
+      "explanation": "2057减1565等于492",
+      "options": [
+        465,
+        492,
+        531,
+        586
+      ]
+    },
+    {
+      "id": "G3_B_068",
+      "type": "choice",
+      "question": "2685 - 1777 = ?",
+      "answer": "908",
+      "explanation": "2685减1777等于908",
+      "options": [
+        879,
+        908,
+        957,
+        965
+      ]
+    },
+    {
+      "id": "G3_B_069",
+      "type": "choice",
+      "question": "2097 - 1473 = ?",
+      "answer": "624",
+      "explanation": "2097减1473等于624",
+      "options": [
+        583,
+        624,
+        666,
+        700
+      ]
+    },
+    {
+      "id": "G3_B_070",
+      "type": "choice",
+      "question": "4058 - 1829 = ?",
+      "answer": "2229",
+      "explanation": "4058减1829等于2229",
+      "options": [
+        2201,
+        2229,
+        2277,
+        2319
+      ]
+    },
+    {
+      "id": "G3_B_071",
+      "type": "choice",
+      "question": "1394 - 257 = ?",
+      "answer": "1137",
+      "explanation": "1394减257等于1137",
+      "options": [
+        1104,
+        1137,
+        1183,
+        1229
+      ]
+    },
+    {
+      "id": "G3_B_072",
+      "type": "choice",
+      "question": "4982 - 1313 = ?",
+      "answer": "3669",
+      "explanation": "4982减1313等于3669",
+      "options": [
+        3634,
+        3669,
+        3705,
+        3720
+      ]
+    },
+    {
+      "id": "G3_B_073",
+      "type": "choice",
+      "question": "1749 - 1595 = ?",
+      "answer": "154",
+      "explanation": "1749减1595等于154",
+      "options": [
+        113,
+        154,
+        191,
+        207
+      ]
+    },
+    {
+      "id": "G3_B_074",
+      "type": "choice",
+      "question": "4603 - 2798 = ?",
+      "answer": "1805",
+      "explanation": "4603减2798等于1805",
+      "options": [
+        1789,
+        1805,
+        1848,
+        1867
+      ]
+    },
+    {
+      "id": "G3_B_075",
+      "type": "choice",
+      "question": "3213 - 1158 = ?",
+      "answer": "2055",
+      "explanation": "3213减1158等于2055",
+      "options": [
+        2016,
+        2055,
+        2082,
+        2152
+      ]
+    },
+    {
+      "id": "G3_B_076",
+      "type": "choice",
+      "question": "3196 - 1152 = ?",
+      "answer": "2044",
+      "explanation": "3196减1152等于2044",
+      "options": [
+        1998,
+        2044,
+        2085,
+        2137
+      ]
+    },
+    {
+      "id": "G3_B_077",
+      "type": "choice",
+      "question": "4899 - 2509 = ?",
+      "answer": "2390",
+      "explanation": "4899减2509等于2390",
+      "options": [
+        2347,
+        2390,
+        2408,
+        2465
+      ]
+    },
+    {
+      "id": "G3_B_078",
+      "type": "choice",
+      "question": "4092 - 1102 = ?",
+      "answer": "2990",
+      "explanation": "4092减1102等于2990",
+      "options": [
+        2945,
+        2990,
+        3031,
+        3049
+      ]
+    },
+    {
+      "id": "G3_B_079",
+      "type": "choice",
+      "question": "4231 - 1907 = ?",
+      "answer": "2324",
+      "explanation": "4231减1907等于2324",
+      "options": [
+        2276,
+        2324,
+        2339,
+        2406
+      ]
+    },
+    {
+      "id": "G3_B_080",
+      "type": "choice",
+      "question": "2690 - 481 = ?",
+      "answer": "2209",
+      "explanation": "2690减481等于2209",
+      "options": [
+        2186,
+        2209,
+        2223,
+        2273
+      ]
+    },
+    {
+      "id": "G3_B_081",
+      "type": "choice",
+      "question": "2544 - 819 = ?",
+      "answer": "1725",
+      "explanation": "2544减819等于1725",
+      "options": [
+        1681,
+        1725,
+        1771,
+        1794
+      ]
+    },
+    {
+      "id": "G3_B_082",
+      "type": "choice",
+      "question": "3824 - 2680 = ?",
+      "answer": "1144",
+      "explanation": "3824减2680等于1144",
+      "options": [
+        1111,
+        1144,
+        1186,
+        1232
+      ]
+    },
+    {
+      "id": "G3_B_083",
+      "type": "choice",
+      "question": "4930 - 2101 = ?",
+      "answer": "2829",
+      "explanation": "4930减2101等于2829",
+      "options": [
+        2815,
+        2829,
+        2855,
+        2912
+      ]
+    },
+    {
+      "id": "G3_B_084",
+      "type": "choice",
+      "question": "3712 - 2299 = ?",
+      "answer": "1413",
+      "explanation": "3712减2299等于1413",
+      "options": [
+        1383,
+        1413,
+        1463,
+        1493
+      ]
+    },
+    {
+      "id": "G3_B_085",
+      "type": "choice",
+      "question": "4811 - 1956 = ?",
+      "answer": "2855",
+      "explanation": "4811减1956等于2855",
+      "options": [
+        2808,
+        2855,
+        2879,
+        2918
+      ]
+    },
+    {
+      "id": "G3_B_086",
+      "type": "choice",
+      "question": "2839 - 1559 = ?",
+      "answer": "1280",
+      "explanation": "2839减1559等于1280",
+      "options": [
+        1237,
+        1280,
+        1296,
+        1380
+      ]
+    },
+    {
+      "id": "G3_B_087",
+      "type": "choice",
+      "question": "3931 - 1260 = ?",
+      "answer": "2671",
+      "explanation": "3931减1260等于2671",
+      "options": [
+        2638,
+        2671,
+        2681,
+        2723
+      ]
+    },
+    {
+      "id": "G3_B_088",
+      "type": "choice",
+      "question": "1254 - 1146 = ?",
+      "answer": "108",
+      "explanation": "1254减1146等于108",
+      "options": [
+        62,
+        108,
+        129,
+        198
+      ]
+    },
+    {
+      "id": "G3_B_089",
+      "type": "choice",
+      "question": "2276 - 1377 = ?",
+      "answer": "899",
+      "explanation": "2276减1377等于899",
+      "options": [
+        875,
+        899,
+        921,
+        972
+      ]
+    },
+    {
+      "id": "G3_B_090",
+      "type": "choice",
+      "question": "3261 - 1089 = ?",
+      "answer": "2172",
+      "explanation": "3261减1089等于2172",
+      "options": [
+        2126,
+        2172,
+        2211,
+        2258
+      ]
+    },
+    {
+      "id": "G3_B_091",
+      "type": "choice",
+      "question": "4277 - 1736 = ?",
+      "answer": "2541",
+      "explanation": "4277减1736等于2541",
+      "options": [
+        2522,
+        2541,
+        2589,
+        2595
+      ]
+    },
+    {
+      "id": "G3_B_092",
+      "type": "choice",
+      "question": "3707 - 527 = ?",
+      "answer": "3180",
+      "explanation": "3707减527等于3180",
+      "options": [
+        3142,
+        3180,
+        3202,
+        3270
+      ]
+    },
+    {
+      "id": "G3_B_093",
+      "type": "choice",
+      "question": "2939 - 1665 = ?",
+      "answer": "1274",
+      "explanation": "2939减1665等于1274",
+      "options": [
+        1257,
+        1274,
+        1299,
+        1330
+      ]
+    },
+    {
+      "id": "G3_B_094",
+      "type": "choice",
+      "question": "3953 - 2397 = ?",
+      "answer": "1556",
+      "explanation": "3953减2397等于1556",
+      "options": [
+        1508,
+        1556,
+        1595,
+        1649
+      ]
+    },
+    {
+      "id": "G3_B_095",
+      "type": "choice",
+      "question": "4883 - 451 = ?",
+      "answer": "4432",
+      "explanation": "4883减451等于4432",
+      "options": [
+        4385,
+        4432,
+        4476,
+        4514
+      ]
+    },
+    {
+      "id": "G3_B_096",
+      "type": "choice",
+      "question": "4516 - 1588 = ?",
+      "answer": "2928",
+      "explanation": "4516减1588等于2928",
+      "options": [
+        2890,
+        2928,
+        2968,
+        2985
+      ]
+    },
+    {
+      "id": "G3_B_097",
+      "type": "choice",
+      "question": "4469 - 2635 = ?",
+      "answer": "1834",
+      "explanation": "4469减2635等于1834",
+      "options": [
+        1797,
+        1834,
+        1876,
+        1926
+      ]
+    },
+    {
+      "id": "G3_B_098",
+      "type": "choice",
+      "question": "3416 - 1830 = ?",
+      "answer": "1586",
+      "explanation": "3416减1830等于1586",
+      "options": [
+        1576,
+        1586,
+        1630,
+        1656
+      ]
+    },
+    {
+      "id": "G3_B_099",
+      "type": "choice",
+      "question": "3044 - 1723 = ?",
+      "answer": "1321",
+      "explanation": "3044减1723等于1321",
+      "options": [
+        1311,
+        1321,
+        1348,
+        1394
+      ]
+    },
+    {
+      "id": "G3_B_100",
+      "type": "choice",
+      "question": "4653 - 2264 = ?",
+      "answer": "2389",
+      "explanation": "4653减2264等于2389",
+      "options": [
+        2379,
+        2389,
+        2415,
+        2444
+      ]
+    },
+    {
+      "id": "G3_B_101",
+      "type": "choice",
+      "question": "4213 - 2051 = ?",
+      "answer": "2162",
+      "explanation": "4213减2051等于2162",
+      "options": [
+        2122,
+        2162,
+        2203,
+        2220
+      ]
+    },
+    {
+      "id": "G3_B_102",
+      "type": "choice",
+      "question": "4648 - 4243 = ?",
+      "answer": "405",
+      "explanation": "4648减4243等于405",
+      "options": [
+        392,
+        405,
+        432,
+        456
+      ]
+    },
+    {
+      "id": "G3_B_103",
+      "type": "choice",
+      "question": "1180 - 126 = ?",
+      "answer": "1054",
+      "explanation": "1180减126等于1054",
+      "options": [
+        1021,
+        1054,
+        1089,
+        1107
+      ]
+    },
+    {
+      "id": "G3_B_104",
+      "type": "choice",
+      "question": "1510 - 153 = ?",
+      "answer": "1357",
+      "explanation": "1510减153等于1357",
+      "options": [
+        1343,
+        1357,
+        1390,
+        1423
+      ]
+    },
+    {
+      "id": "G3_B_105",
+      "type": "choice",
+      "question": "3557 - 2144 = ?",
+      "answer": "1413",
+      "explanation": "3557减2144等于1413",
+      "options": [
+        1381,
+        1413,
+        1434,
+        1468
+      ]
+    },
+    {
+      "id": "G3_B_106",
+      "type": "choice",
+      "question": "4971 - 4765 = ?",
+      "answer": "206",
+      "explanation": "4971减4765等于206",
+      "options": [
+        195,
+        206,
+        247,
+        271
+      ]
+    },
+    {
+      "id": "G3_B_107",
+      "type": "choice",
+      "question": "4427 - 1255 = ?",
+      "answer": "3172",
+      "explanation": "4427减1255等于3172",
+      "options": [
+        3138,
+        3172,
+        3191,
+        3240
+      ]
+    },
+    {
+      "id": "G3_B_108",
+      "type": "choice",
+      "question": "2253 - 1369 = ?",
+      "answer": "884",
+      "explanation": "2253减1369等于884",
+      "options": [
+        869,
+        884,
+        909,
+        976
+      ]
+    },
+    {
+      "id": "G3_B_109",
+      "type": "choice",
+      "question": "4036 - 2003 = ?",
+      "answer": "2033",
+      "explanation": "4036减2003等于2033",
+      "options": [
+        2012,
+        2033,
+        2077,
+        2117
+      ]
+    },
+    {
+      "id": "G3_B_110",
+      "type": "choice",
+      "question": "2320 - 2298 = ?",
+      "answer": "22",
+      "explanation": "2320减2298等于22",
+      "options": [
+        0,
+        22,
+        63,
+        93
+      ]
+    },
+    {
+      "id": "G3_B_111",
+      "type": "choice",
+      "question": "4875 - 4136 = ?",
+      "answer": "739",
+      "explanation": "4875减4136等于739",
+      "options": [
+        729,
+        739,
+        770,
+        796
+      ]
+    },
+    {
+      "id": "G3_B_112",
+      "type": "choice",
+      "question": "3707 - 3255 = ?",
+      "answer": "452",
+      "explanation": "3707减3255等于452",
+      "options": [
+        418,
+        452,
+        495,
+        531
+      ]
+    },
+    {
+      "id": "G3_B_113",
+      "type": "choice",
+      "question": "3566 - 961 = ?",
+      "answer": "2605",
+      "explanation": "3566减961等于2605",
+      "options": [
+        2569,
+        2605,
+        2650,
+        2679
+      ]
+    },
+    {
+      "id": "G3_B_114",
+      "type": "choice",
+      "question": "4608 - 430 = ?",
+      "answer": "4178",
+      "explanation": "4608减430等于4178",
+      "options": [
+        4140,
+        4178,
+        4188,
+        4244
+      ]
+    },
+    {
+      "id": "G3_B_115",
+      "type": "choice",
+      "question": "2287 - 1675 = ?",
+      "answer": "612",
+      "explanation": "2287减1675等于612",
+      "options": [
+        566,
+        612,
+        643,
+        680
+      ]
+    },
+    {
+      "id": "G3_B_116",
+      "type": "choice",
+      "question": "4200 - 2002 = ?",
+      "answer": "2198",
+      "explanation": "4200减2002等于2198",
+      "options": [
+        2178,
+        2198,
+        2209,
+        2277
+      ]
+    },
+    {
+      "id": "G3_B_117",
+      "type": "choice",
+      "question": "3874 - 545 = ?",
+      "answer": "3329",
+      "explanation": "3874减545等于3329",
+      "options": [
+        3291,
+        3329,
+        3378,
+        3400
+      ]
+    },
+    {
+      "id": "G3_B_118",
+      "type": "choice",
+      "question": "1787 - 1537 = ?",
+      "answer": "250",
+      "explanation": "1787减1537等于250",
+      "options": [
+        239,
+        250,
+        260,
+        328
+      ]
+    },
+    {
+      "id": "G3_B_119",
+      "type": "choice",
+      "question": "4885 - 3321 = ?",
+      "answer": "1564",
+      "explanation": "4885减3321等于1564",
+      "options": [
+        1516,
+        1564,
+        1598,
+        1648
+      ]
+    },
+    {
+      "id": "G3_B_120",
+      "type": "choice",
+      "question": "4924 - 3101 = ?",
+      "answer": "1823",
+      "explanation": "4924减3101等于1823",
+      "options": [
+        1792,
+        1823,
+        1861,
+        1877
+      ]
+    },
+    {
+      "id": "G3_B_121",
+      "type": "choice",
+      "question": "2797 - 1019 = ?",
+      "answer": "1778",
+      "explanation": "2797减1019等于1778",
+      "options": [
+        1740,
+        1778,
+        1797,
+        1877
+      ]
+    },
+    {
+      "id": "G3_B_122",
+      "type": "choice",
+      "question": "4501 - 3885 = ?",
+      "answer": "616",
+      "explanation": "4501减3885等于616",
+      "options": [
+        589,
+        616,
+        641,
+        681
+      ]
+    },
+    {
+      "id": "G3_B_123",
+      "type": "choice",
+      "question": "2159 - 984 = ?",
+      "answer": "1175",
+      "explanation": "2159减984等于1175",
+      "options": [
+        1155,
+        1175,
+        1224,
+        1228
+      ]
+    },
+    {
+      "id": "G3_B_124",
+      "type": "choice",
+      "question": "4884 - 1021 = ?",
+      "answer": "3863",
+      "explanation": "4884减1021等于3863",
+      "options": [
+        3815,
+        3863,
+        3878,
+        3944
+      ]
+    },
+    {
+      "id": "G3_B_125",
+      "type": "choice",
+      "question": "1417 - 377 = ?",
+      "answer": "1040",
+      "explanation": "1417减377等于1040",
+      "options": [
+        1020,
+        1040,
+        1061,
+        1133
+      ]
+    },
+    {
+      "id": "G3_B_126",
+      "type": "choice",
+      "question": "3470 - 2493 = ?",
+      "answer": "977",
+      "explanation": "3470减2493等于977",
+      "options": [
+        950,
+        977,
+        1023,
+        1032
+      ]
+    },
+    {
+      "id": "G3_B_127",
+      "type": "choice",
+      "question": "4699 - 2355 = ?",
+      "answer": "2344",
+      "explanation": "4699减2355等于2344",
+      "options": [
+        2311,
+        2344,
+        2382,
+        2421
+      ]
+    },
+    {
+      "id": "G3_B_128",
+      "type": "choice",
+      "question": "2553 - 1820 = ?",
+      "answer": "733",
+      "explanation": "2553减1820等于733",
+      "options": [
+        721,
+        733,
+        759,
+        824
+      ]
+    },
+    {
+      "id": "G3_B_129",
+      "type": "choice",
+      "question": "2908 - 576 = ?",
+      "answer": "2332",
+      "explanation": "2908减576等于2332",
+      "options": [
+        2299,
+        2332,
+        2371,
+        2409
+      ]
+    },
+    {
+      "id": "G3_B_130",
+      "type": "choice",
+      "question": "2475 - 106 = ?",
+      "answer": "2369",
+      "explanation": "2475减106等于2369",
+      "options": [
+        2354,
+        2369,
+        2414,
+        2464
+      ]
+    },
+    {
+      "id": "G3_B_131",
+      "type": "choice",
+      "question": "4662 - 2725 = ?",
+      "answer": "1937",
+      "explanation": "4662减2725等于1937",
+      "options": [
+        1896,
+        1937,
+        1972,
+        2023
+      ]
+    },
+    {
+      "id": "G3_B_132",
+      "type": "choice",
+      "question": "532 - 102 = ?",
+      "answer": "430",
+      "explanation": "532减102等于430",
+      "options": [
+        384,
+        430,
+        447,
+        487
+      ]
+    },
+    {
+      "id": "G3_B_133",
+      "type": "choice",
+      "question": "2354 - 1326 = ?",
+      "answer": "1028",
+      "explanation": "2354减1326等于1028",
+      "options": [
+        990,
+        1028,
+        1067,
+        1112
+      ]
+    },
+    {
+      "id": "G3_B_134",
+      "type": "choice",
+      "question": "785 × 4 = ?",
+      "answer": "3140",
+      "explanation": "785乘以4等于3140",
+      "options": [
+        3101,
+        3140,
+        3172,
+        3224
+      ]
+    },
+    {
+      "id": "G3_B_135",
+      "type": "choice",
+      "question": "378 × 5 = ?",
+      "answer": "1890",
+      "explanation": "378乘以5等于1890",
+      "options": [
+        1865,
+        1890,
+        1911,
+        1951
+      ]
+    },
+    {
+      "id": "G3_B_136",
+      "type": "choice",
+      "question": "831 × 3 = ?",
+      "answer": "2493",
+      "explanation": "831乘以3等于2493",
+      "options": [
+        2483,
+        2493,
+        2504,
+        2574
+      ]
+    },
+    {
+      "id": "G3_B_137",
+      "type": "choice",
+      "question": "578 × 9 = ?",
+      "answer": "5202",
+      "explanation": "578乘以9等于5202",
+      "options": [
+        5172,
+        5202,
+        5249,
+        5268
+      ]
+    },
+    {
+      "id": "G3_B_138",
+      "type": "choice",
+      "question": "736 × 7 = ?",
+      "answer": "5152",
+      "explanation": "736乘以7等于5152",
+      "options": [
+        5103,
+        5152,
+        5174,
+        5228
+      ]
+    },
+    {
+      "id": "G3_B_139",
+      "type": "choice",
+      "question": "627 × 4 = ?",
+      "answer": "2508",
+      "explanation": "627乘以4等于2508",
+      "options": [
+        2465,
+        2508,
+        2546,
+        2565
+      ]
+    },
+    {
+      "id": "G3_B_140",
+      "type": "choice",
+      "question": "146 × 7 = ?",
+      "answer": "1022",
+      "explanation": "146乘以7等于1022",
+      "options": [
+        1011,
+        1022,
+        1069,
+        1093
+      ]
+    },
+    {
+      "id": "G3_B_141",
+      "type": "choice",
+      "question": "392 × 8 = ?",
+      "answer": "3136",
+      "explanation": "392乘以8等于3136",
+      "options": [
+        3099,
+        3136,
+        3150,
+        3197
+      ]
+    },
+    {
+      "id": "G3_B_142",
+      "type": "choice",
+      "question": "639 × 5 = ?",
+      "answer": "3195",
+      "explanation": "639乘以5等于3195",
+      "options": [
+        3179,
+        3195,
+        3210,
+        3276
+      ]
+    },
+    {
+      "id": "G3_B_143",
+      "type": "choice",
+      "question": "358 × 8 = ?",
+      "answer": "2864",
+      "explanation": "358乘以8等于2864",
+      "options": [
+        2843,
+        2864,
+        2879,
+        2962
+      ]
+    },
+    {
+      "id": "G3_B_144",
+      "type": "choice",
+      "question": "682 × 3 = ?",
+      "answer": "2046",
+      "explanation": "682乘以3等于2046",
+      "options": [
+        2004,
+        2046,
+        2067,
+        2133
+      ]
+    },
+    {
+      "id": "G3_B_145",
+      "type": "choice",
+      "question": "773 × 4 = ?",
+      "answer": "3092",
+      "explanation": "773乘以4等于3092",
+      "options": [
+        3078,
+        3092,
+        3117,
+        3179
+      ]
+    },
+    {
+      "id": "G3_B_146",
+      "type": "choice",
+      "question": "860 × 4 = ?",
+      "answer": "3440",
+      "explanation": "860乘以4等于3440",
+      "options": [
+        3423,
+        3440,
+        3481,
+        3496
+      ]
+    },
+    {
+      "id": "G3_B_147",
+      "type": "choice",
+      "question": "823 × 9 = ?",
+      "answer": "7407",
+      "explanation": "823乘以9等于7407",
+      "options": [
+        7357,
+        7407,
+        7426,
+        7485
+      ]
+    },
+    {
+      "id": "G3_B_148",
+      "type": "choice",
+      "question": "802 × 8 = ?",
+      "answer": "6416",
+      "explanation": "802乘以8等于6416",
+      "options": [
+        6376,
+        6416,
+        6441,
+        6504
+      ]
+    },
+    {
+      "id": "G3_B_149",
+      "type": "choice",
+      "question": "235 × 4 = ?",
+      "answer": "940",
+      "explanation": "235乘以4等于940",
+      "options": [
+        919,
+        940,
+        964,
+        1004
+      ]
+    },
+    {
+      "id": "G3_B_150",
+      "type": "choice",
+      "question": "521 × 4 = ?",
+      "answer": "2084",
+      "explanation": "521乘以4等于2084",
+      "options": [
+        2060,
+        2084,
+        2121,
+        2176
+      ]
+    },
+    {
+      "id": "G3_B_151",
+      "type": "choice",
+      "question": "978 × 5 = ?",
+      "answer": "4890",
+      "explanation": "978乘以5等于4890",
+      "options": [
+        4877,
+        4890,
+        4902,
+        4954
+      ]
+    },
+    {
+      "id": "G3_B_152",
+      "type": "choice",
+      "question": "353 × 5 = ?",
+      "answer": "1765",
+      "explanation": "353乘以5等于1765",
+      "options": [
+        1753,
+        1765,
+        1792,
+        1843
+      ]
+    },
+    {
+      "id": "G3_B_153",
+      "type": "choice",
+      "question": "706 × 6 = ?",
+      "answer": "4236",
+      "explanation": "706乘以6等于4236",
+      "options": [
+        4198,
+        4236,
+        4280,
+        4290
+      ]
+    },
+    {
+      "id": "G3_B_154",
+      "type": "choice",
+      "question": "610 × 2 = ?",
+      "answer": "1220",
+      "explanation": "610乘以2等于1220",
+      "options": [
+        1196,
+        1220,
+        1256,
+        1307
+      ]
+    },
+    {
+      "id": "G3_B_155",
+      "type": "choice",
+      "question": "572 × 7 = ?",
+      "answer": "4004",
+      "explanation": "572乘以7等于4004",
+      "options": [
+        3980,
+        4004,
+        4046,
+        4056
+      ]
+    },
+    {
+      "id": "G3_B_156",
+      "type": "choice",
+      "question": "431 × 4 = ?",
+      "answer": "1724",
+      "explanation": "431乘以4等于1724",
+      "options": [
+        1684,
+        1724,
+        1749,
+        1780
+      ]
+    },
+    {
+      "id": "G3_B_157",
+      "type": "choice",
+      "question": "936 × 7 = ?",
+      "answer": "6552",
+      "explanation": "936乘以7等于6552",
+      "options": [
+        6540,
+        6552,
+        6573,
+        6649
+      ]
+    },
+    {
+      "id": "G3_B_158",
+      "type": "choice",
+      "question": "164 × 8 = ?",
+      "answer": "1312",
+      "explanation": "164乘以8等于1312",
+      "options": [
+        1299,
+        1312,
+        1337,
+        1367
+      ]
+    },
+    {
+      "id": "G3_B_159",
+      "type": "choice",
+      "question": "599 × 5 = ?",
+      "answer": "2995",
+      "explanation": "599乘以5等于2995",
+      "options": [
+        2960,
+        2995,
+        3007,
+        3083
+      ]
+    },
+    {
+      "id": "G3_B_160",
+      "type": "choice",
+      "question": "62 × 2 = ?",
+      "answer": "124",
+      "explanation": "62乘以2等于124",
+      "options": [
+        85,
+        124,
+        145,
+        193
+      ]
+    },
+    {
+      "id": "G3_B_161",
+      "type": "choice",
+      "question": "805 × 8 = ?",
+      "answer": "6440",
+      "explanation": "805乘以8等于6440",
+      "options": [
+        6397,
+        6440,
+        6482,
+        6514
+      ]
+    },
+    {
+      "id": "G3_B_162",
+      "type": "choice",
+      "question": "354 × 5 = ?",
+      "answer": "1770",
+      "explanation": "354乘以5等于1770",
+      "options": [
+        1752,
+        1770,
+        1792,
+        1839
+      ]
+    },
+    {
+      "id": "G3_B_163",
+      "type": "choice",
+      "question": "437 × 2 = ?",
+      "answer": "874",
+      "explanation": "437乘以2等于874",
+      "options": [
+        841,
+        874,
+        899,
+        947
+      ]
+    },
+    {
+      "id": "G3_B_164",
+      "type": "choice",
+      "question": "845 × 2 = ?",
+      "answer": "1690",
+      "explanation": "845乘以2等于1690",
+      "options": [
+        1652,
+        1690,
+        1738,
+        1769
+      ]
+    },
+    {
+      "id": "G3_B_165",
+      "type": "choice",
+      "question": "934 × 8 = ?",
+      "answer": "7472",
+      "explanation": "934乘以8等于7472",
+      "options": [
+        7439,
+        7472,
+        7509,
+        7565
+      ]
+    },
+    {
+      "id": "G3_B_166",
+      "type": "choice",
+      "question": "535 × 3 = ?",
+      "answer": "1605",
+      "explanation": "535乘以3等于1605",
+      "options": [
+        1590,
+        1605,
+        1638,
+        1667
+      ]
+    },
+    {
+      "id": "G3_B_167",
+      "type": "choice",
+      "question": "279 × 5 = ?",
+      "answer": "1395",
+      "explanation": "279乘以5等于1395",
+      "options": [
+        1357,
+        1395,
+        1411,
+        1477
+      ]
+    },
+    {
+      "id": "G3_B_168",
+      "type": "choice",
+      "question": "550 × 7 = ?",
+      "answer": "3850",
+      "explanation": "550乘以7等于3850",
+      "options": [
+        3834,
+        3850,
+        3883,
+        3912
+      ]
+    },
+    {
+      "id": "G3_B_169",
+      "type": "choice",
+      "question": "583 × 6 = ?",
+      "answer": "3498",
+      "explanation": "583乘以6等于3498",
+      "options": [
+        3451,
+        3498,
+        3512,
+        3594
+      ]
+    },
+    {
+      "id": "G3_B_170",
+      "type": "choice",
+      "question": "976 × 8 = ?",
+      "answer": "7808",
+      "explanation": "976乘以8等于7808",
+      "options": [
+        7766,
+        7808,
+        7826,
+        7884
+      ]
+    },
+    {
+      "id": "G3_B_171",
+      "type": "choice",
+      "question": "22 × 5 = ?",
+      "answer": "110",
+      "explanation": "22乘以5等于110",
+      "options": [
+        93,
+        110,
+        158,
+        208
+      ]
+    },
+    {
+      "id": "G3_B_172",
+      "type": "choice",
+      "question": "986 × 7 = ?",
+      "answer": "6902",
+      "explanation": "986乘以7等于6902",
+      "options": [
+        6855,
+        6902,
+        6950,
+        6991
+      ]
+    },
+    {
+      "id": "G3_B_173",
+      "type": "choice",
+      "question": "132 × 3 = ?",
+      "answer": "396",
+      "explanation": "132乘以3等于396",
+      "options": [
+        355,
+        396,
+        442,
+        481
+      ]
+    },
+    {
+      "id": "G3_B_174",
+      "type": "choice",
+      "question": "554 × 5 = ?",
+      "answer": "2770",
+      "explanation": "554乘以5等于2770",
+      "options": [
+        2736,
+        2770,
+        2797,
+        2838
+      ]
+    },
+    {
+      "id": "G3_B_175",
+      "type": "choice",
+      "question": "494 × 3 = ?",
+      "answer": "1482",
+      "explanation": "494乘以3等于1482",
+      "options": [
+        1440,
+        1482,
+        1494,
+        1579
+      ]
+    },
+    {
+      "id": "G3_B_176",
+      "type": "choice",
+      "question": "252 × 2 = ?",
+      "answer": "504",
+      "explanation": "252乘以2等于504",
+      "options": [
+        488,
+        504,
+        517,
+        583
+      ]
+    },
+    {
+      "id": "G3_B_177",
+      "type": "choice",
+      "question": "959 × 4 = ?",
+      "answer": "3836",
+      "explanation": "959乘以4等于3836",
+      "options": [
+        3787,
+        3836,
+        3865,
+        3908
+      ]
+    },
+    {
+      "id": "G3_B_178",
+      "type": "choice",
+      "question": "244 × 8 = ?",
+      "answer": "1952",
+      "explanation": "244乘以8等于1952",
+      "options": [
+        1935,
+        1952,
+        1991,
+        2045
+      ]
+    },
+    {
+      "id": "G3_B_179",
+      "type": "choice",
+      "question": "578 × 6 = ?",
+      "answer": "3468",
+      "explanation": "578乘以6等于3468",
+      "options": [
+        3422,
+        3468,
+        3501,
+        3543
+      ]
+    },
+    {
+      "id": "G3_B_180",
+      "type": "choice",
+      "question": "236 × 4 = ?",
+      "answer": "944",
+      "explanation": "236乘以4等于944",
+      "options": [
+        894,
+        944,
+        985,
+        1006
+      ]
+    },
+    {
+      "id": "G3_B_181",
+      "type": "choice",
+      "question": "403 × 5 = ?",
+      "answer": "2015",
+      "explanation": "403乘以5等于2015",
+      "options": [
+        1994,
+        2015,
+        2041,
+        2113
+      ]
+    },
+    {
+      "id": "G3_B_182",
+      "type": "choice",
+      "question": "874 × 6 = ?",
+      "answer": "5244",
+      "explanation": "874乘以6等于5244",
+      "options": [
+        5197,
+        5244,
+        5294,
+        5302
+      ]
+    },
+    {
+      "id": "G3_B_183",
+      "type": "choice",
+      "question": "21 × 3 = ?",
+      "answer": "63",
+      "explanation": "21乘以3等于63",
+      "options": [
+        28,
+        63,
+        93,
+        157
+      ]
+    },
+    {
+      "id": "G3_B_184",
+      "type": "choice",
+      "question": "483 × 3 = ?",
+      "answer": "1449",
+      "explanation": "483乘以3等于1449",
+      "options": [
+        1413,
+        1449,
+        1477,
+        1515
+      ]
+    },
+    {
+      "id": "G3_B_185",
+      "type": "choice",
+      "question": "269 × 2 = ?",
+      "answer": "538",
+      "explanation": "269乘以2等于538",
+      "options": [
+        489,
+        538,
+        549,
+        618
+      ]
+    },
+    {
+      "id": "G3_B_186",
+      "type": "choice",
+      "question": "170 × 5 = ?",
+      "answer": "850",
+      "explanation": "170乘以5等于850",
+      "options": [
+        823,
+        850,
+        870,
+        948
+      ]
+    },
+    {
+      "id": "G3_B_187",
+      "type": "choice",
+      "question": "915 × 9 = ?",
+      "answer": "8235",
+      "explanation": "915乘以9等于8235",
+      "options": [
+        8218,
+        8235,
+        8255,
+        8325
+      ]
+    },
+    {
+      "id": "G3_B_188",
+      "type": "choice",
+      "question": "34 × 7 = ?",
+      "answer": "238",
+      "explanation": "34乘以7等于238",
+      "options": [
+        217,
+        238,
+        266,
+        320
+      ]
+    },
+    {
+      "id": "G3_B_189",
+      "type": "choice",
+      "question": "899 × 7 = ?",
+      "answer": "6293",
+      "explanation": "899乘以7等于6293",
+      "options": [
+        6279,
+        6293,
+        6311,
+        6347
+      ]
+    },
+    {
+      "id": "G3_B_190",
+      "type": "choice",
+      "question": "76 × 3 = ?",
+      "answer": "228",
+      "explanation": "76乘以3等于228",
+      "options": [
+        203,
+        228,
+        262,
+        296
+      ]
+    },
+    {
+      "id": "G3_B_191",
+      "type": "choice",
+      "question": "568 × 8 = ?",
+      "answer": "4544",
+      "explanation": "568乘以8等于4544",
+      "options": [
+        4502,
+        4544,
+        4574,
+        4621
+      ]
+    },
+    {
+      "id": "G3_B_192",
+      "type": "choice",
+      "question": "215 × 9 = ?",
+      "answer": "1935",
+      "explanation": "215乘以9等于1935",
+      "options": [
+        1912,
+        1935,
+        1945,
+        1993
+      ]
+    },
+    {
+      "id": "G3_B_193",
+      "type": "choice",
+      "question": "46 × 7 = ?",
+      "answer": "322",
+      "explanation": "46乘以7等于322",
+      "options": [
+        284,
+        322,
+        341,
+        416
+      ]
+    },
+    {
+      "id": "G3_B_194",
+      "type": "choice",
+      "question": "315 × 2 = ?",
+      "answer": "630",
+      "explanation": "315乘以2等于630",
+      "options": [
+        586,
+        630,
+        648,
+        684
+      ]
+    },
+    {
+      "id": "G3_B_195",
+      "type": "choice",
+      "question": "361 × 2 = ?",
+      "answer": "722",
+      "explanation": "361乘以2等于722",
+      "options": [
+        707,
+        722,
+        747,
+        822
+      ]
+    },
+    {
+      "id": "G3_B_196",
+      "type": "choice",
+      "question": "242 × 3 = ?",
+      "answer": "726",
+      "explanation": "242乘以3等于726",
+      "options": [
+        698,
+        726,
+        771,
+        795
+      ]
+    },
+    {
+      "id": "G3_B_197",
+      "type": "choice",
+      "question": "220 × 5 = ?",
+      "answer": "1100",
+      "explanation": "220乘以5等于1100",
+      "options": [
+        1064,
+        1100,
+        1138,
+        1160
+      ]
+    },
+    {
+      "id": "G3_B_198",
+      "type": "choice",
+      "question": "914 × 8 = ?",
+      "answer": "7312",
+      "explanation": "914乘以8等于7312",
+      "options": [
+        7280,
+        7312,
+        7342,
+        7392
+      ]
+    },
+    {
+      "id": "G3_B_199",
+      "type": "choice",
+      "question": "108 × 9 = ?",
+      "answer": "972",
+      "explanation": "108乘以9等于972",
+      "options": [
+        944,
+        972,
+        984,
+        1044
+      ]
+    },
+    {
+      "id": "G3_B_200",
+      "type": "choice",
+      "question": "763 × 3 = ?",
+      "answer": "2289",
+      "explanation": "763乘以3等于2289",
+      "options": [
+        2243,
+        2289,
+        2314,
+        2348
+      ]
+    },
+    {
+      "id": "G3_B_201",
+      "type": "choice",
+      "question": "585 × 2 = ?",
+      "answer": "1170",
+      "explanation": "585乘以2等于1170",
+      "options": [
+        1151,
+        1170,
+        1185,
+        1228
+      ]
+    },
+    {
+      "id": "G3_B_202",
+      "type": "choice",
+      "question": "498 × 6 = ?",
+      "answer": "2988",
+      "explanation": "498乘以6等于2988",
+      "options": [
+        2945,
+        2988,
+        3037,
+        3062
+      ]
+    },
+    {
+      "id": "G3_B_203",
+      "type": "choice",
+      "question": "302 × 9 = ?",
+      "answer": "2718",
+      "explanation": "302乘以9等于2718",
+      "options": [
+        2702,
+        2718,
+        2737,
+        2804
+      ]
+    },
+    {
+      "id": "G3_B_204",
+      "type": "choice",
+      "question": "443 × 7 = ?",
+      "answer": "3101",
+      "explanation": "443乘以7等于3101",
+      "options": [
+        3087,
+        3101,
+        3124,
+        3170
+      ]
+    },
+    {
+      "id": "G3_B_205",
+      "type": "choice",
+      "question": "608 × 2 = ?",
+      "answer": "1216",
+      "explanation": "608乘以2等于1216",
+      "options": [
+        1172,
+        1216,
+        1240,
+        1275
+      ]
+    },
+    {
+      "id": "G3_B_206",
+      "type": "choice",
+      "question": "861 × 7 = ?",
+      "answer": "6027",
+      "explanation": "861乘以7等于6027",
+      "options": [
+        5993,
+        6027,
+        6061,
+        6093
+      ]
+    },
+    {
+      "id": "G3_B_207",
+      "type": "choice",
+      "question": "337 × 4 = ?",
+      "answer": "1348",
+      "explanation": "337乘以4等于1348",
+      "options": [
+        1337,
+        1348,
+        1387,
+        1403
+      ]
+    },
+    {
+      "id": "G3_B_208",
+      "type": "choice",
+      "question": "696 × 6 = ?",
+      "answer": "4176",
+      "explanation": "696乘以6等于4176",
+      "options": [
+        4144,
+        4176,
+        4204,
+        4243
+      ]
+    },
+    {
+      "id": "G3_B_209",
+      "type": "choice",
+      "question": "48 × 4 = ?",
+      "answer": "192",
+      "explanation": "48乘以4等于192",
+      "options": [
+        146,
+        192,
+        229,
+        287
+      ]
+    },
+    {
+      "id": "G3_B_210",
+      "type": "choice",
+      "question": "642 × 4 = ?",
+      "answer": "2568",
+      "explanation": "642乘以4等于2568",
+      "options": [
+        2518,
+        2568,
+        2618,
+        2638
+      ]
+    },
+    {
+      "id": "G3_B_211",
+      "type": "choice",
+      "question": "22 × 8 = ?",
+      "answer": "176",
+      "explanation": "22乘以8等于176",
+      "options": [
+        140,
+        176,
+        190,
+        238
+      ]
+    },
+    {
+      "id": "G3_B_212",
+      "type": "choice",
+      "question": "408 × 7 = ?",
+      "answer": "2856",
+      "explanation": "408乘以7等于2856",
+      "options": [
+        2834,
+        2856,
+        2904,
+        2921
+      ]
+    },
+    {
+      "id": "G3_B_213",
+      "type": "choice",
+      "question": "969 × 2 = ?",
+      "answer": "1938",
+      "explanation": "969乘以2等于1938",
+      "options": [
+        1898,
+        1938,
+        1975,
+        2023
+      ]
+    },
+    {
+      "id": "G3_B_214",
+      "type": "choice",
+      "question": "650 × 4 = ?",
+      "answer": "2600",
+      "explanation": "650乘以4等于2600",
+      "options": [
+        2580,
+        2600,
+        2625,
+        2691
+      ]
+    },
+    {
+      "id": "G3_B_215",
+      "type": "choice",
+      "question": "874 × 7 = ?",
+      "answer": "6118",
+      "explanation": "874乘以7等于6118",
+      "options": [
+        6083,
+        6118,
+        6159,
+        6212
+      ]
+    },
+    {
+      "id": "G3_B_216",
+      "type": "choice",
+      "question": "857 × 3 = ?",
+      "answer": "2571",
+      "explanation": "857乘以3等于2571",
+      "options": [
+        2529,
+        2571,
+        2591,
+        2639
+      ]
+    },
+    {
+      "id": "G3_B_217",
+      "type": "choice",
+      "question": "523 × 9 = ?",
+      "answer": "4707",
+      "explanation": "523乘以9等于4707",
+      "options": [
+        4660,
+        4707,
+        4744,
+        4765
+      ]
+    },
+    {
+      "id": "G3_B_218",
+      "type": "choice",
+      "question": "899 × 9 = ?",
+      "answer": "8091",
+      "explanation": "899乘以9等于8091",
+      "options": [
+        8050,
+        8091,
+        8105,
+        8145
+      ]
+    },
+    {
+      "id": "G3_B_219",
+      "type": "choice",
+      "question": "706 × 9 = ?",
+      "answer": "6354",
+      "explanation": "706乘以9等于6354",
+      "options": [
+        6335,
+        6354,
+        6381,
+        6426
+      ]
+    },
+    {
+      "id": "G3_B_220",
+      "type": "choice",
+      "question": "38 × 3 = ?",
+      "answer": "114",
+      "explanation": "38乘以3等于114",
+      "options": [
+        101,
+        114,
+        131,
+        212
+      ]
+    },
+    {
+      "id": "G3_B_221",
+      "type": "choice",
+      "question": "239 × 3 = ?",
+      "answer": "717",
+      "explanation": "239乘以3等于717",
+      "options": [
+        700,
+        717,
+        731,
+        809
+      ]
+    },
+    {
+      "id": "G3_B_222",
+      "type": "choice",
+      "question": "956 × 4 = ?",
+      "answer": "3824",
+      "explanation": "956乘以4等于3824",
+      "options": [
+        3813,
+        3824,
+        3854,
+        3898
+      ]
+    },
+    {
+      "id": "G3_B_223",
+      "type": "choice",
+      "question": "176 × 2 = ?",
+      "answer": "352",
+      "explanation": "176乘以2等于352",
+      "options": [
+        302,
+        352,
+        366,
+        411
+      ]
+    },
+    {
+      "id": "G3_B_224",
+      "type": "choice",
+      "question": "646 × 7 = ?",
+      "answer": "4522",
+      "explanation": "646乘以7等于4522",
+      "options": [
+        4484,
+        4522,
+        4553,
+        4604
+      ]
+    },
+    {
+      "id": "G3_B_225",
+      "type": "choice",
+      "question": "651 × 8 = ?",
+      "answer": "5208",
+      "explanation": "651乘以8等于5208",
+      "options": [
+        5160,
+        5208,
+        5224,
+        5269
+      ]
+    },
+    {
+      "id": "G3_B_226",
+      "type": "choice",
+      "question": "864 × 7 = ?",
+      "answer": "6048",
+      "explanation": "864乘以7等于6048",
+      "options": [
+        6007,
+        6048,
+        6081,
+        6103
+      ]
+    },
+    {
+      "id": "G3_B_227",
+      "type": "choice",
+      "question": "362 × 2 = ?",
+      "answer": "724",
+      "explanation": "362乘以2等于724",
+      "options": [
+        681,
+        724,
+        750,
+        807
+      ]
+    },
+    {
+      "id": "G3_B_228",
+      "type": "choice",
+      "question": "659 × 2 = ?",
+      "answer": "1318",
+      "explanation": "659乘以2等于1318",
+      "options": [
+        1294,
+        1318,
+        1332,
+        1375
+      ]
+    },
+    {
+      "id": "G3_B_229",
+      "type": "choice",
+      "question": "235 × 7 = ?",
+      "answer": "1645",
+      "explanation": "235乘以7等于1645",
+      "options": [
+        1627,
+        1645,
+        1692,
+        1730
+      ]
+    },
+    {
+      "id": "G3_B_230",
+      "type": "choice",
+      "question": "624 × 4 = ?",
+      "answer": "2496",
+      "explanation": "624乘以4等于2496",
+      "options": [
+        2462,
+        2496,
+        2543,
+        2557
+      ]
+    },
+    {
+      "id": "G3_B_231",
+      "type": "choice",
+      "question": "102 × 7 = ?",
+      "answer": "714",
+      "explanation": "102乘以7等于714",
+      "options": [
+        684,
+        714,
+        755,
+        793
+      ]
+    },
+    {
+      "id": "G3_B_232",
+      "type": "choice",
+      "question": "686 × 4 = ?",
+      "answer": "2744",
+      "explanation": "686乘以4等于2744",
+      "options": [
+        2722,
+        2744,
+        2780,
+        2831
+      ]
+    },
+    {
+      "id": "G3_B_233",
+      "type": "choice",
+      "question": "440 × 3 = ?",
+      "answer": "1320",
+      "explanation": "440乘以3等于1320",
+      "options": [
+        1309,
+        1320,
+        1346,
+        1375
+      ]
+    },
+    {
+      "id": "G3_B_234",
+      "type": "choice",
+      "question": "134 × 6 = ?",
+      "answer": "804",
+      "explanation": "134乘以6等于804",
+      "options": [
+        766,
+        804,
+        833,
+        864
+      ]
+    },
+    {
+      "id": "G3_B_235",
+      "type": "choice",
+      "question": "349 × 6 = ?",
+      "answer": "2094",
+      "explanation": "349乘以6等于2094",
+      "options": [
+        2052,
+        2094,
+        2136,
+        2166
+      ]
+    },
+    {
+      "id": "G3_B_236",
+      "type": "choice",
+      "question": "194 × 5 = ?",
+      "answer": "970",
+      "explanation": "194乘以5等于970",
+      "options": [
+        940,
+        970,
+        1010,
+        1049
+      ]
+    },
+    {
+      "id": "G3_B_237",
+      "type": "choice",
+      "question": "10 × 6 = ?",
+      "answer": "60",
+      "explanation": "10乘以6等于60",
+      "options": [
+        14,
+        60,
+        81,
+        116
+      ]
+    },
+    {
+      "id": "G3_B_238",
+      "type": "choice",
+      "question": "221 × 3 = ?",
+      "answer": "663",
+      "explanation": "221乘以3等于663",
+      "options": [
+        631,
+        663,
+        695,
+        757
+      ]
+    },
+    {
+      "id": "G3_B_239",
+      "type": "choice",
+      "question": "751 × 6 = ?",
+      "answer": "4506",
+      "explanation": "751乘以6等于4506",
+      "options": [
+        4484,
+        4506,
+        4541,
+        4562
+      ]
+    },
+    {
+      "id": "G3_B_240",
+      "type": "choice",
+      "question": "191 × 4 = ?",
+      "answer": "764",
+      "explanation": "191乘以4等于764",
+      "options": [
+        733,
+        764,
+        804,
+        838
+      ]
+    },
+    {
+      "id": "G3_B_241",
+      "type": "choice",
+      "question": "702 × 5 = ?",
+      "answer": "3510",
+      "explanation": "702乘以5等于3510",
+      "options": [
+        3468,
+        3510,
+        3538,
+        3602
+      ]
+    },
+    {
+      "id": "G3_B_242",
+      "type": "choice",
+      "question": "12 × 3 = ?",
+      "answer": "36",
+      "explanation": "12乘以3等于36",
+      "options": [
+        -11,
+        36,
+        81,
+        102
+      ]
+    },
+    {
+      "id": "G3_B_243",
+      "type": "choice",
+      "question": "171 × 9 = ?",
+      "answer": "1539",
+      "explanation": "171乘以9等于1539",
+      "options": [
+        1527,
+        1539,
+        1588,
+        1612
+      ]
+    },
+    {
+      "id": "G3_B_244",
+      "type": "choice",
+      "question": "901 × 7 = ?",
+      "answer": "6307",
+      "explanation": "901乘以7等于6307",
+      "options": [
+        6286,
+        6307,
+        6323,
+        6404
+      ]
+    },
+    {
+      "id": "G3_B_245",
+      "type": "choice",
+      "question": "830 × 6 = ?",
+      "answer": "4980",
+      "explanation": "830乘以6等于4980",
+      "options": [
+        4947,
+        4980,
+        4994,
+        5065
+      ]
+    },
+    {
+      "id": "G3_B_246",
+      "type": "choice",
+      "question": "392 × 7 = ?",
+      "answer": "2744",
+      "explanation": "392乘以7等于2744",
+      "options": [
+        2699,
+        2744,
+        2777,
+        2823
+      ]
+    },
+    {
+      "id": "G3_B_247",
+      "type": "choice",
+      "question": "393 × 5 = ?",
+      "answer": "1965",
+      "explanation": "393乘以5等于1965",
+      "options": [
+        1937,
+        1965,
+        2008,
+        2029
+      ]
+    },
+    {
+      "id": "G3_B_248",
+      "type": "choice",
+      "question": "815 × 4 = ?",
+      "answer": "3260",
+      "explanation": "815乘以4等于3260",
+      "options": [
+        3220,
+        3260,
+        3300,
+        3327
+      ]
+    },
+    {
+      "id": "G3_B_249",
+      "type": "choice",
+      "question": "509 × 2 = ?",
+      "answer": "1018",
+      "explanation": "509乘以2等于1018",
+      "options": [
+        1003,
+        1018,
+        1041,
+        1097
+      ]
+    },
+    {
+      "id": "G3_B_250",
+      "type": "choice",
+      "question": "972 × 2 = ?",
+      "answer": "1944",
+      "explanation": "972乘以2等于1944",
+      "options": [
+        1932,
+        1944,
+        1966,
+        2040
+      ]
+    },
+    {
+      "id": "G3_B_251",
+      "type": "choice",
+      "question": "701 × 4 = ?",
+      "answer": "2804",
+      "explanation": "701乘以4等于2804",
+      "options": [
+        2780,
+        2804,
+        2822,
+        2878
+      ]
+    },
+    {
+      "id": "G3_B_252",
+      "type": "choice",
+      "question": "754 × 7 = ?",
+      "answer": "5278",
+      "explanation": "754乘以7等于5278",
+      "options": [
+        5228,
+        5278,
+        5325,
+        5329
+      ]
+    },
+    {
+      "id": "G3_B_253",
+      "type": "choice",
+      "question": "478 × 4 = ?",
+      "answer": "1912",
+      "explanation": "478乘以4等于1912",
+      "options": [
+        1862,
+        1912,
+        1956,
+        1976
+      ]
+    }
+  ]
+}

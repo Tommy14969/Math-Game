@@ -1,0 +1,4556 @@
+{
+  "grade": 4,
+  "difficulty": "advanced",
+  "questions": [
+    {
+      "id": "G4_A_001",
+      "type": "choice",
+      "question": "4 × (14 + 13) = ?",
+      "answer": "108",
+      "explanation": "4×14+4×13=108",
+      "options": [
+        90,
+        108,
+        118,
+        132
+      ]
+    },
+    {
+      "id": "G4_A_002",
+      "type": "choice",
+      "question": "12 × (7 + 12) = ?",
+      "answer": "228",
+      "explanation": "12×7+12×12=228",
+      "options": [
+        208,
+        228,
+        242,
+        257
+      ]
+    },
+    {
+      "id": "G4_A_003",
+      "type": "choice",
+      "question": "10 × (12 + 6) = ?",
+      "answer": "180",
+      "explanation": "10×12+10×6=180",
+      "options": [
+        165,
+        180,
+        190,
+        216
+      ]
+    },
+    {
+      "id": "G4_A_004",
+      "type": "choice",
+      "question": "14 × (14 + 10) = ?",
+      "answer": "336",
+      "explanation": "14×14+14×10=336",
+      "options": [
+        322,
+        336,
+        343,
+        374
+      ]
+    },
+    {
+      "id": "G4_A_005",
+      "type": "choice",
+      "question": "8 × (11 + 13) = ?",
+      "answer": "192",
+      "explanation": "8×11+8×13=192",
+      "options": [
+        185,
+        192,
+        210,
+        214
+      ]
+    },
+    {
+      "id": "G4_A_006",
+      "type": "choice",
+      "question": "2 × (12 + 8) = ?",
+      "answer": "40",
+      "explanation": "2×12+2×8=40",
+      "options": [
+        25,
+        40,
+        60,
+        64
+      ]
+    },
+    {
+      "id": "G4_A_007",
+      "type": "choice",
+      "question": "10 × (12 + 7) = ?",
+      "answer": "190",
+      "explanation": "10×12+10×7=190",
+      "options": [
+        174,
+        190,
+        201,
+        211
+      ]
+    },
+    {
+      "id": "G4_A_008",
+      "type": "choice",
+      "question": "15 × (4 + 10) = ?",
+      "answer": "210",
+      "explanation": "15×4+15×10=210",
+      "options": [
+        192,
+        210,
+        223,
+        237
+      ]
+    },
+    {
+      "id": "G4_A_009",
+      "type": "choice",
+      "question": "11 × (11 + 10) = ?",
+      "answer": "231",
+      "explanation": "11×11+11×10=231",
+      "options": [
+        214,
+        231,
+        249,
+        261
+      ]
+    },
+    {
+      "id": "G4_A_010",
+      "type": "choice",
+      "question": "9 × (2 + 7) = ?",
+      "answer": "81",
+      "explanation": "9×2+9×7=81",
+      "options": [
+        72,
+        81,
+        100,
+        104
+      ]
+    },
+    {
+      "id": "G4_A_011",
+      "type": "choice",
+      "question": "13 × (11 + 2) = ?",
+      "answer": "169",
+      "explanation": "13×11+13×2=169",
+      "options": [
+        149,
+        169,
+        174,
+        205
+      ]
+    },
+    {
+      "id": "G4_A_012",
+      "type": "choice",
+      "question": "3 × (6 + 15) = ?",
+      "answer": "63",
+      "explanation": "3×6+3×15=63",
+      "options": [
+        48,
+        63,
+        70,
+        95
+      ]
+    },
+    {
+      "id": "G4_A_013",
+      "type": "choice",
+      "question": "2 × (9 + 5) = ?",
+      "answer": "28",
+      "explanation": "2×9+2×5=28",
+      "options": [
+        21,
+        28,
+        47,
+        54
+      ]
+    },
+    {
+      "id": "G4_A_014",
+      "type": "choice",
+      "question": "15 × (6 + 3) = ?",
+      "answer": "135",
+      "explanation": "15×6+15×3=135",
+      "options": [
+        125,
+        135,
+        155,
+        169
+      ]
+    },
+    {
+      "id": "G4_A_015",
+      "type": "choice",
+      "question": "10 × (13 + 8) = ?",
+      "answer": "210",
+      "explanation": "10×13+10×8=210",
+      "options": [
+        202,
+        210,
+        224,
+        249
+      ]
+    },
+    {
+      "id": "G4_A_016",
+      "type": "choice",
+      "question": "9 × (11 + 15) = ?",
+      "answer": "234",
+      "explanation": "9×11+9×15=234",
+      "options": [
+        215,
+        234,
+        242,
+        273
+      ]
+    },
+    {
+      "id": "G4_A_017",
+      "type": "choice",
+      "question": "8 × (11 + 12) = ?",
+      "answer": "184",
+      "explanation": "8×11+8×12=184",
+      "options": [
+        166,
+        184,
+        200,
+        219
+      ]
+    },
+    {
+      "id": "G4_A_018",
+      "type": "choice",
+      "question": "6 × (5 + 14) = ?",
+      "answer": "114",
+      "explanation": "6×5+6×14=114",
+      "options": [
+        97,
+        114,
+        123,
+        139
+      ]
+    },
+    {
+      "id": "G4_A_019",
+      "type": "choice",
+      "question": "6 × (12 + 8) = ?",
+      "answer": "120",
+      "explanation": "6×12+6×8=120",
+      "options": [
+        100,
+        120,
+        129,
+        148
+      ]
+    },
+    {
+      "id": "G4_A_020",
+      "type": "choice",
+      "question": "13 × (2 + 5) = ?",
+      "answer": "91",
+      "explanation": "13×2+13×5=91",
+      "options": [
+        82,
+        91,
+        111,
+        128
+      ]
+    },
+    {
+      "id": "G4_A_021",
+      "type": "choice",
+      "question": "10 × (4 + 15) = ?",
+      "answer": "190",
+      "explanation": "10×4+10×15=190",
+      "options": [
+        174,
+        190,
+        206,
+        221
+      ]
+    },
+    {
+      "id": "G4_A_022",
+      "type": "choice",
+      "question": "5 × (12 + 13) = ?",
+      "answer": "125",
+      "explanation": "5×12+5×13=125",
+      "options": [
+        113,
+        125,
+        142,
+        148
+      ]
+    },
+    {
+      "id": "G4_A_023",
+      "type": "choice",
+      "question": "11 × (15 + 4) = ?",
+      "answer": "209",
+      "explanation": "11×15+11×4=209",
+      "options": [
+        199,
+        209,
+        226,
+        241
+      ]
+    },
+    {
+      "id": "G4_A_024",
+      "type": "choice",
+      "question": "9 × (6 + 8) = ?",
+      "answer": "126",
+      "explanation": "9×6+9×8=126",
+      "options": [
+        111,
+        126,
+        137,
+        151
+      ]
+    },
+    {
+      "id": "G4_A_025",
+      "type": "choice",
+      "question": "14 × (11 + 9) = ?",
+      "answer": "280",
+      "explanation": "14×11+14×9=280",
+      "options": [
+        275,
+        280,
+        287,
+        318
+      ]
+    },
+    {
+      "id": "G4_A_026",
+      "type": "choice",
+      "question": "10 × (3 + 4) = ?",
+      "answer": "70",
+      "explanation": "10×3+10×4=70",
+      "options": [
+        61,
+        70,
+        77,
+        96
+      ]
+    },
+    {
+      "id": "G4_A_027",
+      "type": "choice",
+      "question": "3 × (6 + 15) = ?",
+      "answer": "63",
+      "explanation": "3×6+3×15=63",
+      "options": [
+        48,
+        63,
+        79,
+        95
+      ]
+    },
+    {
+      "id": "G4_A_028",
+      "type": "choice",
+      "question": "11 × (8 + 11) = ?",
+      "answer": "209",
+      "explanation": "11×8+11×11=209",
+      "options": [
+        192,
+        209,
+        219,
+        233
+      ]
+    },
+    {
+      "id": "G4_A_029",
+      "type": "choice",
+      "question": "11 × (5 + 15) = ?",
+      "answer": "220",
+      "explanation": "11×5+11×15=220",
+      "options": [
+        215,
+        220,
+        232,
+        252
+      ]
+    },
+    {
+      "id": "G4_A_030",
+      "type": "choice",
+      "question": "6 × (7 + 12) = ?",
+      "answer": "114",
+      "explanation": "6×7+6×12=114",
+      "options": [
+        108,
+        114,
+        128,
+        143
+      ]
+    },
+    {
+      "id": "G4_A_031",
+      "type": "choice",
+      "question": "8 × (9 + 2) = ?",
+      "answer": "88",
+      "explanation": "8×9+8×2=88",
+      "options": [
+        74,
+        88,
+        102,
+        109
+      ]
+    },
+    {
+      "id": "G4_A_032",
+      "type": "choice",
+      "question": "2 × (5 + 11) = ?",
+      "answer": "32",
+      "explanation": "2×5+2×11=32",
+      "options": [
+        25,
+        32,
+        45,
+        63
+      ]
+    },
+    {
+      "id": "G4_A_033",
+      "type": "choice",
+      "question": "5 × (11 + 7) = ?",
+      "answer": "90",
+      "explanation": "5×11+5×7=90",
+      "options": [
+        73,
+        90,
+        102,
+        117
+      ]
+    },
+    {
+      "id": "G4_A_034",
+      "type": "choice",
+      "question": "11 × (6 + 3) = ?",
+      "answer": "99",
+      "explanation": "11×6+11×3=99",
+      "options": [
+        89,
+        99,
+        107,
+        125
+      ]
+    },
+    {
+      "id": "G4_A_035",
+      "type": "choice",
+      "question": "14 × (6 + 10) = ?",
+      "answer": "224",
+      "explanation": "14×6+14×10=224",
+      "options": [
+        210,
+        224,
+        237,
+        259
+      ]
+    },
+    {
+      "id": "G4_A_036",
+      "type": "choice",
+      "question": "3 × (6 + 13) = ?",
+      "answer": "57",
+      "explanation": "3×6+3×13=57",
+      "options": [
+        40,
+        57,
+        69,
+        84
+      ]
+    },
+    {
+      "id": "G4_A_037",
+      "type": "choice",
+      "question": "3 × (11 + 11) = ?",
+      "answer": "66",
+      "explanation": "3×11+3×11=66",
+      "options": [
+        54,
+        66,
+        80,
+        96
+      ]
+    },
+    {
+      "id": "G4_A_038",
+      "type": "choice",
+      "question": "13 × (5 + 11) = ?",
+      "answer": "208",
+      "explanation": "13×5+13×11=208",
+      "options": [
+        188,
+        208,
+        227,
+        239
+      ]
+    },
+    {
+      "id": "G4_A_039",
+      "type": "choice",
+      "question": "7 × (4 + 2) = ?",
+      "answer": "42",
+      "explanation": "7×4+7×2=42",
+      "options": [
+        27,
+        42,
+        57,
+        72
+      ]
+    },
+    {
+      "id": "G4_A_040",
+      "type": "choice",
+      "question": "8 × (7 + 12) = ?",
+      "answer": "152",
+      "explanation": "8×7+8×12=152",
+      "options": [
+        135,
+        152,
+        170,
+        180
+      ]
+    },
+    {
+      "id": "G4_A_041",
+      "type": "choice",
+      "question": "5 × (5 + 15) = ?",
+      "answer": "100",
+      "explanation": "5×5+5×15=100",
+      "options": [
+        87,
+        100,
+        109,
+        134
+      ]
+    },
+    {
+      "id": "G4_A_042",
+      "type": "choice",
+      "question": "12 × (12 + 12) = ?",
+      "answer": "288",
+      "explanation": "12×12+12×12=288",
+      "options": [
+        268,
+        288,
+        296,
+        314
+      ]
+    },
+    {
+      "id": "G4_A_043",
+      "type": "choice",
+      "question": "8 × (13 + 8) = ?",
+      "answer": "168",
+      "explanation": "8×13+8×8=168",
+      "options": [
+        153,
+        168,
+        174,
+        199
+      ]
+    },
+    {
+      "id": "G4_A_044",
+      "type": "choice",
+      "question": "2 × (3 + 13) = ?",
+      "answer": "32",
+      "explanation": "2×3+2×13=32",
+      "options": [
+        22,
+        32,
+        47,
+        67
+      ]
+    },
+    {
+      "id": "G4_A_045",
+      "type": "choice",
+      "question": "10 × (7 + 10) = ?",
+      "answer": "170",
+      "explanation": "10×7+10×10=170",
+      "options": [
+        151,
+        170,
+        181,
+        207
+      ]
+    },
+    {
+      "id": "G4_A_046",
+      "type": "choice",
+      "question": "2 × (10 + 10) = ?",
+      "answer": "40",
+      "explanation": "2×10+2×10=40",
+      "options": [
+        35,
+        40,
+        49,
+        76
+      ]
+    },
+    {
+      "id": "G4_A_047",
+      "type": "choice",
+      "question": "2 × (6 + 9) = ?",
+      "answer": "30",
+      "explanation": "2×6+2×9=30",
+      "options": [
+        18,
+        30,
+        41,
+        68
+      ]
+    },
+    {
+      "id": "G4_A_048",
+      "type": "choice",
+      "question": "11 × (11 + 8) = ?",
+      "answer": "209",
+      "explanation": "11×11+11×8=209",
+      "options": [
+        198,
+        209,
+        218,
+        244
+      ]
+    },
+    {
+      "id": "G4_A_049",
+      "type": "choice",
+      "question": "8 × (13 + 11) = ?",
+      "answer": "192",
+      "explanation": "8×13+8×11=192",
+      "options": [
+        184,
+        192,
+        197,
+        214
+      ]
+    },
+    {
+      "id": "G4_A_050",
+      "type": "choice",
+      "question": "2 × (11 + 12) = ?",
+      "answer": "46",
+      "explanation": "2×11+2×12=46",
+      "options": [
+        36,
+        46,
+        59,
+        81
+      ]
+    },
+    {
+      "id": "G4_A_051",
+      "type": "choice",
+      "question": "15 × (12 + 13) = ?",
+      "answer": "375",
+      "explanation": "15×12+15×13=375",
+      "options": [
+        367,
+        375,
+        395,
+        410
+      ]
+    },
+    {
+      "id": "G4_A_052",
+      "type": "choice",
+      "question": "5 × (3 + 6) = ?",
+      "answer": "45",
+      "explanation": "5×3+5×6=45",
+      "options": [
+        36,
+        45,
+        55,
+        68
+      ]
+    },
+    {
+      "id": "G4_A_053",
+      "type": "choice",
+      "question": "2 × (3 + 9) = ?",
+      "answer": "24",
+      "explanation": "2×3+2×9=24",
+      "options": [
+        10,
+        24,
+        41,
+        49
+      ]
+    },
+    {
+      "id": "G4_A_054",
+      "type": "choice",
+      "question": "12 × (6 + 9) = ?",
+      "answer": "180",
+      "explanation": "12×6+12×9=180",
+      "options": [
+        174,
+        180,
+        194,
+        215
+      ]
+    },
+    {
+      "id": "G4_A_055",
+      "type": "choice",
+      "question": "14 × (7 + 6) = ?",
+      "answer": "182",
+      "explanation": "14×7+14×6=182",
+      "options": [
+        175,
+        182,
+        190,
+        206
+      ]
+    },
+    {
+      "id": "G4_A_056",
+      "type": "choice",
+      "question": "6 × (11 + 13) = ?",
+      "answer": "144",
+      "explanation": "6×11+6×13=144",
+      "options": [
+        136,
+        144,
+        149,
+        174
+      ]
+    },
+    {
+      "id": "G4_A_057",
+      "type": "choice",
+      "question": "14 × (9 + 3) = ?",
+      "answer": "168",
+      "explanation": "14×9+14×3=168",
+      "options": [
+        163,
+        168,
+        175,
+        198
+      ]
+    },
+    {
+      "id": "G4_A_058",
+      "type": "choice",
+      "question": "3 × (13 + 8) = ?",
+      "answer": "63",
+      "explanation": "3×13+3×8=63",
+      "options": [
+        55,
+        63,
+        68,
+        95
+      ]
+    },
+    {
+      "id": "G4_A_059",
+      "type": "choice",
+      "question": "7 × (2 + 4) = ?",
+      "answer": "42",
+      "explanation": "7×2+7×4=42",
+      "options": [
+        30,
+        42,
+        57,
+        71
+      ]
+    },
+    {
+      "id": "G4_A_060",
+      "type": "choice",
+      "question": "7 × (6 + 12) = ?",
+      "answer": "126",
+      "explanation": "7×6+7×12=126",
+      "options": [
+        118,
+        126,
+        138,
+        149
+      ]
+    },
+    {
+      "id": "G4_A_061",
+      "type": "choice",
+      "question": "14 × (15 + 7) = ?",
+      "answer": "308",
+      "explanation": "14×15+14×7=308",
+      "options": [
+        294,
+        308,
+        313,
+        331
+      ]
+    },
+    {
+      "id": "G4_A_062",
+      "type": "choice",
+      "question": "5 × (10 + 5) = ?",
+      "answer": "75",
+      "explanation": "5×10+5×5=75",
+      "options": [
+        63,
+        75,
+        93,
+        101
+      ]
+    },
+    {
+      "id": "G4_A_063",
+      "type": "choice",
+      "question": "7 × (12 + 15) = ?",
+      "answer": "189",
+      "explanation": "7×12+7×15=189",
+      "options": [
+        171,
+        189,
+        199,
+        214
+      ]
+    },
+    {
+      "id": "G4_A_064",
+      "type": "choice",
+      "question": "5 × (8 + 3) = ?",
+      "answer": "55",
+      "explanation": "5×8+5×3=55",
+      "options": [
+        45,
+        55,
+        66,
+        81
+      ]
+    },
+    {
+      "id": "G4_A_065",
+      "type": "choice",
+      "question": "3 × (11 + 2) = ?",
+      "answer": "39",
+      "explanation": "3×11+3×2=39",
+      "options": [
+        34,
+        39,
+        47,
+        77
+      ]
+    },
+    {
+      "id": "G4_A_066",
+      "type": "choice",
+      "question": "7 × (15 + 9) = ?",
+      "answer": "168",
+      "explanation": "7×15+7×9=168",
+      "options": [
+        163,
+        168,
+        178,
+        208
+      ]
+    },
+    {
+      "id": "G4_A_067",
+      "type": "choice",
+      "question": "10 × (11 + 14) = ?",
+      "answer": "250",
+      "explanation": "10×11+10×14=250",
+      "options": [
+        243,
+        250,
+        262,
+        281
+      ]
+    },
+    {
+      "id": "G4_A_068",
+      "type": "choice",
+      "question": "14 × (10 + 11) = ?",
+      "answer": "294",
+      "explanation": "14×10+14×11=294",
+      "options": [
+        277,
+        294,
+        304,
+        321
+      ]
+    },
+    {
+      "id": "G4_A_069",
+      "type": "choice",
+      "question": "2 × (11 + 12) = ?",
+      "answer": "46",
+      "explanation": "2×11+2×12=46",
+      "options": [
+        38,
+        46,
+        66,
+        78
+      ]
+    },
+    {
+      "id": "G4_A_070",
+      "type": "choice",
+      "question": "5 × (12 + 2) = ?",
+      "answer": "70",
+      "explanation": "5×12+5×2=70",
+      "options": [
+        61,
+        70,
+        78,
+        100
+      ]
+    },
+    {
+      "id": "G4_A_071",
+      "type": "choice",
+      "question": "12 × (9 + 15) = ?",
+      "answer": "288",
+      "explanation": "12×9+12×15=288",
+      "options": [
+        273,
+        288,
+        305,
+        322
+      ]
+    },
+    {
+      "id": "G4_A_072",
+      "type": "choice",
+      "question": "12 × (14 + 4) = ?",
+      "answer": "216",
+      "explanation": "12×14+12×4=216",
+      "options": [
+        197,
+        216,
+        229,
+        243
+      ]
+    },
+    {
+      "id": "G4_A_073",
+      "type": "choice",
+      "question": "4 × (11 + 9) = ?",
+      "answer": "80",
+      "explanation": "4×11+4×9=80",
+      "options": [
+        63,
+        80,
+        100,
+        114
+      ]
+    },
+    {
+      "id": "G4_A_074",
+      "type": "choice",
+      "question": "10 × (13 + 2) = ?",
+      "answer": "150",
+      "explanation": "10×13+10×2=150",
+      "options": [
+        144,
+        150,
+        160,
+        186
+      ]
+    },
+    {
+      "id": "G4_A_075",
+      "type": "choice",
+      "question": "10 × (14 + 10) = ?",
+      "answer": "240",
+      "explanation": "10×14+10×10=240",
+      "options": [
+        234,
+        240,
+        255,
+        273
+      ]
+    },
+    {
+      "id": "G4_A_076",
+      "type": "choice",
+      "question": "3 × (3 + 5) = ?",
+      "answer": "24",
+      "explanation": "3×3+3×5=24",
+      "options": [
+        10,
+        24,
+        33,
+        51
+      ]
+    },
+    {
+      "id": "G4_A_077",
+      "type": "choice",
+      "question": "9 × (14 + 4) = ?",
+      "answer": "162",
+      "explanation": "9×14+9×4=162",
+      "options": [
+        157,
+        162,
+        180,
+        188
+      ]
+    },
+    {
+      "id": "G4_A_078",
+      "type": "choice",
+      "question": "14 × (13 + 6) = ?",
+      "answer": "266",
+      "explanation": "14×13+14×6=266",
+      "options": [
+        250,
+        266,
+        275,
+        304
+      ]
+    },
+    {
+      "id": "G4_A_079",
+      "type": "choice",
+      "question": "11 × (13 + 10) = ?",
+      "answer": "253",
+      "explanation": "11×13+11×10=253",
+      "options": [
+        233,
+        253,
+        264,
+        286
+      ]
+    },
+    {
+      "id": "G4_A_080",
+      "type": "choice",
+      "question": "5 × (3 + 11) = ?",
+      "answer": "70",
+      "explanation": "5×3+5×11=70",
+      "options": [
+        53,
+        70,
+        84,
+        94
+      ]
+    },
+    {
+      "id": "G4_A_081",
+      "type": "choice",
+      "question": "14 × (7 + 3) = ?",
+      "answer": "140",
+      "explanation": "14×7+14×3=140",
+      "options": [
+        129,
+        140,
+        155,
+        169
+      ]
+    },
+    {
+      "id": "G4_A_082",
+      "type": "choice",
+      "question": "9 × (13 + 3) = ?",
+      "answer": "144",
+      "explanation": "9×13+9×3=144",
+      "options": [
+        134,
+        144,
+        151,
+        168
+      ]
+    },
+    {
+      "id": "G4_A_083",
+      "type": "choice",
+      "question": "3 × (4 + 8) = ?",
+      "answer": "36",
+      "explanation": "3×4+3×8=36",
+      "options": [
+        30,
+        36,
+        41,
+        59
+      ]
+    },
+    {
+      "id": "G4_A_084",
+      "type": "choice",
+      "question": "7 × (9 + 15) = ?",
+      "answer": "168",
+      "explanation": "7×9+7×15=168",
+      "options": [
+        155,
+        168,
+        186,
+        203
+      ]
+    },
+    {
+      "id": "G4_A_085",
+      "type": "choice",
+      "question": "7 × (5 + 3) = ?",
+      "answer": "56",
+      "explanation": "7×5+7×3=56",
+      "options": [
+        49,
+        56,
+        74,
+        79
+      ]
+    },
+    {
+      "id": "G4_A_086",
+      "type": "choice",
+      "question": "14 × (4 + 12) = ?",
+      "answer": "224",
+      "explanation": "14×4+14×12=224",
+      "options": [
+        206,
+        224,
+        238,
+        259
+      ]
+    },
+    {
+      "id": "G4_A_087",
+      "type": "choice",
+      "question": "11 × (4 + 13) = ?",
+      "answer": "187",
+      "explanation": "11×4+11×13=187",
+      "options": [
+        177,
+        187,
+        196,
+        209
+      ]
+    },
+    {
+      "id": "G4_A_088",
+      "type": "choice",
+      "question": "9 × (3 + 4) = ?",
+      "answer": "63",
+      "explanation": "9×3+9×4=63",
+      "options": [
+        44,
+        63,
+        70,
+        101
+      ]
+    },
+    {
+      "id": "G4_A_089",
+      "type": "choice",
+      "question": "2 × (3 + 8) = ?",
+      "answer": "22",
+      "explanation": "2×3+2×8=22",
+      "options": [
+        17,
+        22,
+        28,
+        54
+      ]
+    },
+    {
+      "id": "G4_A_090",
+      "type": "choice",
+      "question": "7 × (6 + 5) = ?",
+      "answer": "77",
+      "explanation": "7×6+7×5=77",
+      "options": [
+        62,
+        77,
+        82,
+        104
+      ]
+    },
+    {
+      "id": "G4_A_091",
+      "type": "choice",
+      "question": "6 × (13 + 13) = ?",
+      "answer": "156",
+      "explanation": "6×13+6×13=156",
+      "options": [
+        146,
+        156,
+        169,
+        195
+      ]
+    },
+    {
+      "id": "G4_A_092",
+      "type": "choice",
+      "question": "2 × (11 + 14) = ?",
+      "answer": "50",
+      "explanation": "2×11+2×14=50",
+      "options": [
+        33,
+        50,
+        66,
+        79
+      ]
+    },
+    {
+      "id": "G4_A_093",
+      "type": "choice",
+      "question": "2 × (15 + 7) = ?",
+      "answer": "44",
+      "explanation": "2×15+2×7=44",
+      "options": [
+        30,
+        44,
+        60,
+        65
+      ]
+    },
+    {
+      "id": "G4_A_094",
+      "type": "choice",
+      "question": "4 × (11 + 6) = ?",
+      "answer": "68",
+      "explanation": "4×11+4×6=68",
+      "options": [
+        57,
+        68,
+        88,
+        107
+      ]
+    },
+    {
+      "id": "G4_A_095",
+      "type": "choice",
+      "question": "7 × (11 + 14) = ?",
+      "answer": "175",
+      "explanation": "7×11+7×14=175",
+      "options": [
+        159,
+        175,
+        194,
+        207
+      ]
+    },
+    {
+      "id": "G4_A_096",
+      "type": "choice",
+      "question": "5 × (3 + 2) = ?",
+      "answer": "25",
+      "explanation": "5×3+5×2=25",
+      "options": [
+        6,
+        25,
+        35,
+        58
+      ]
+    },
+    {
+      "id": "G4_A_097",
+      "type": "choice",
+      "question": "10 × (12 + 3) = ?",
+      "answer": "150",
+      "explanation": "10×12+10×3=150",
+      "options": [
+        135,
+        150,
+        155,
+        188
+      ]
+    },
+    {
+      "id": "G4_A_098",
+      "type": "choice",
+      "question": "5 × (6 + 3) = ?",
+      "answer": "45",
+      "explanation": "5×6+5×3=45",
+      "options": [
+        31,
+        45,
+        50,
+        68
+      ]
+    },
+    {
+      "id": "G4_A_099",
+      "type": "choice",
+      "question": "4 × (5 + 9) = ?",
+      "answer": "56",
+      "explanation": "4×5+4×9=56",
+      "options": [
+        48,
+        56,
+        62,
+        91
+      ]
+    },
+    {
+      "id": "G4_A_100",
+      "type": "choice",
+      "question": "11 × (5 + 5) = ?",
+      "answer": "110",
+      "explanation": "11×5+11×5=110",
+      "options": [
+        94,
+        110,
+        122,
+        136
+      ]
+    },
+    {
+      "id": "G4_A_101",
+      "type": "choice",
+      "question": "3 × (2 + 12) = ?",
+      "answer": "42",
+      "explanation": "3×2+3×12=42",
+      "options": [
+        29,
+        42,
+        54,
+        63
+      ]
+    },
+    {
+      "id": "G4_A_102",
+      "type": "choice",
+      "question": "7 × (14 + 11) = ?",
+      "answer": "175",
+      "explanation": "7×14+7×11=175",
+      "options": [
+        161,
+        175,
+        194,
+        211
+      ]
+    },
+    {
+      "id": "G4_A_103",
+      "type": "choice",
+      "question": "13 × (4 + 6) = ?",
+      "answer": "130",
+      "explanation": "13×4+13×6=130",
+      "options": [
+        120,
+        130,
+        144,
+        165
+      ]
+    },
+    {
+      "id": "G4_A_104",
+      "type": "choice",
+      "question": "7 × (3 + 14) = ?",
+      "answer": "119",
+      "explanation": "7×3+7×14=119",
+      "options": [
+        101,
+        119,
+        126,
+        153
+      ]
+    },
+    {
+      "id": "G4_A_105",
+      "type": "choice",
+      "question": "4 × (6 + 15) = ?",
+      "answer": "84",
+      "explanation": "4×6+4×15=84",
+      "options": [
+        66,
+        84,
+        97,
+        124
+      ]
+    },
+    {
+      "id": "G4_A_106",
+      "type": "choice",
+      "question": "13 × (2 + 14) = ?",
+      "answer": "208",
+      "explanation": "13×2+13×14=208",
+      "options": [
+        199,
+        208,
+        215,
+        230
+      ]
+    },
+    {
+      "id": "G4_A_107",
+      "type": "choice",
+      "question": "14 × (12 + 15) = ?",
+      "answer": "378",
+      "explanation": "14×12+14×15=378",
+      "options": [
+        358,
+        378,
+        391,
+        400
+      ]
+    },
+    {
+      "id": "G4_A_108",
+      "type": "choice",
+      "question": "8 × (2 + 12) = ?",
+      "answer": "112",
+      "explanation": "8×2+8×12=112",
+      "options": [
+        104,
+        112,
+        131,
+        141
+      ]
+    },
+    {
+      "id": "G4_A_109",
+      "type": "choice",
+      "question": "14 × (4 + 12) = ?",
+      "answer": "224",
+      "explanation": "14×4+14×12=224",
+      "options": [
+        217,
+        224,
+        229,
+        249
+      ]
+    },
+    {
+      "id": "G4_A_110",
+      "type": "choice",
+      "question": "7 × (12 + 11) = ?",
+      "answer": "161",
+      "explanation": "7×12+7×11=161",
+      "options": [
+        143,
+        161,
+        177,
+        199
+      ]
+    },
+    {
+      "id": "G4_A_111",
+      "type": "choice",
+      "question": "13 × (4 + 7) = ?",
+      "answer": "143",
+      "explanation": "13×4+13×7=143",
+      "options": [
+        138,
+        143,
+        152,
+        170
+      ]
+    },
+    {
+      "id": "G4_A_112",
+      "type": "choice",
+      "question": "4 × (5 + 2) = ?",
+      "answer": "28",
+      "explanation": "4×5+4×2=28",
+      "options": [
+        13,
+        28,
+        36,
+        68
+      ]
+    },
+    {
+      "id": "G4_A_113",
+      "type": "choice",
+      "question": "11 × (12 + 14) = ?",
+      "answer": "286",
+      "explanation": "11×12+11×14=286",
+      "options": [
+        266,
+        286,
+        298,
+        316
+      ]
+    },
+    {
+      "id": "G4_A_114",
+      "type": "choice",
+      "question": "11 × (12 + 9) = ?",
+      "answer": "231",
+      "explanation": "11×12+11×9=231",
+      "options": [
+        211,
+        231,
+        237,
+        257
+      ]
+    },
+    {
+      "id": "G4_A_115",
+      "type": "choice",
+      "question": "6 × (13 + 2) = ?",
+      "answer": "90",
+      "explanation": "6×13+6×2=90",
+      "options": [
+        80,
+        90,
+        109,
+        121
+      ]
+    },
+    {
+      "id": "G4_A_116",
+      "type": "choice",
+      "question": "4 × (11 + 4) = ?",
+      "answer": "60",
+      "explanation": "4×11+4×4=60",
+      "options": [
+        55,
+        60,
+        78,
+        100
+      ]
+    },
+    {
+      "id": "G4_A_117",
+      "type": "choice",
+      "question": "4 × (13 + 2) = ?",
+      "answer": "60",
+      "explanation": "4×13+4×2=60",
+      "options": [
+        49,
+        60,
+        69,
+        96
+      ]
+    },
+    {
+      "id": "G4_A_118",
+      "type": "choice",
+      "question": "15 × (14 + 13) = ?",
+      "answer": "405",
+      "explanation": "15×14+15×13=405",
+      "options": [
+        393,
+        405,
+        413,
+        438
+      ]
+    },
+    {
+      "id": "G4_A_119",
+      "type": "choice",
+      "question": "7 × (14 + 5) = ?",
+      "answer": "133",
+      "explanation": "7×14+7×5=133",
+      "options": [
+        128,
+        133,
+        148,
+        164
+      ]
+    },
+    {
+      "id": "G4_A_120",
+      "type": "choice",
+      "question": "7 × (8 + 8) = ?",
+      "answer": "112",
+      "explanation": "7×8+7×8=112",
+      "options": [
+        101,
+        112,
+        129,
+        140
+      ]
+    },
+    {
+      "id": "G4_A_121",
+      "type": "choice",
+      "question": "长方形长15cm，宽13cm，面积是？",
+      "answer": "195",
+      "explanation": "面积=15×13=195cm²",
+      "options": [
+        181,
+        195,
+        203,
+        218
+      ]
+    },
+    {
+      "id": "G4_A_122",
+      "type": "choice",
+      "question": "长方形长7cm，宽4cm，周长是？",
+      "answer": "22",
+      "explanation": "周长=(7+4)×2=22cm",
+      "options": [
+        17,
+        22,
+        30,
+        42
+      ]
+    },
+    {
+      "id": "G4_A_123",
+      "type": "choice",
+      "question": "长方形长16cm，宽5cm，周长是？",
+      "answer": "42",
+      "explanation": "周长=(16+5)×2=42cm",
+      "options": [
+        40,
+        42,
+        48,
+        57
+      ]
+    },
+    {
+      "id": "G4_A_124",
+      "type": "choice",
+      "question": "长方形长12cm，宽12cm，周长是？",
+      "answer": "48",
+      "explanation": "周长=(12+12)×2=48cm",
+      "options": [
+        39,
+        48,
+        55,
+        75
+      ]
+    },
+    {
+      "id": "G4_A_125",
+      "type": "choice",
+      "question": "长方形长19cm，宽17cm，面积是？",
+      "answer": "323",
+      "explanation": "面积=19×17=323cm²",
+      "options": [
+        311,
+        323,
+        330,
+        349
+      ]
+    },
+    {
+      "id": "G4_A_126",
+      "type": "choice",
+      "question": "长方形长12cm，宽6cm，周长是？",
+      "answer": "36",
+      "explanation": "周长=(12+6)×2=36cm",
+      "options": [
+        32,
+        36,
+        40,
+        49
+      ]
+    },
+    {
+      "id": "G4_A_127",
+      "type": "choice",
+      "question": "长方形长19cm，宽16cm，周长是？",
+      "answer": "70",
+      "explanation": "周长=(19+16)×2=70cm",
+      "options": [
+        64,
+        70,
+        76,
+        82
+      ]
+    },
+    {
+      "id": "G4_A_128",
+      "type": "choice",
+      "question": "长方形长16cm，宽12cm，周长是？",
+      "answer": "56",
+      "explanation": "周长=(16+12)×2=56cm",
+      "options": [
+        50,
+        56,
+        60,
+        85
+      ]
+    },
+    {
+      "id": "G4_A_129",
+      "type": "choice",
+      "question": "长方形长11cm，宽11cm，面积是？",
+      "answer": "121",
+      "explanation": "面积=11×11=121cm²",
+      "options": [
+        102,
+        121,
+        140,
+        156
+      ]
+    },
+    {
+      "id": "G4_A_130",
+      "type": "choice",
+      "question": "长方形长15cm，宽9cm，面积是？",
+      "answer": "135",
+      "explanation": "面积=15×9=135cm²",
+      "options": [
+        125,
+        135,
+        153,
+        182
+      ]
+    },
+    {
+      "id": "G4_A_131",
+      "type": "choice",
+      "question": "长方形长17cm，宽3cm，面积是？",
+      "answer": "51",
+      "explanation": "面积=17×3=51cm²",
+      "options": [
+        37,
+        51,
+        64,
+        81
+      ]
+    },
+    {
+      "id": "G4_A_132",
+      "type": "choice",
+      "question": "长方形长16cm，宽4cm，面积是？",
+      "answer": "64",
+      "explanation": "面积=16×4=64cm²",
+      "options": [
+        53,
+        64,
+        83,
+        85
+      ]
+    },
+    {
+      "id": "G4_A_133",
+      "type": "choice",
+      "question": "长方形长5cm，宽5cm，周长是？",
+      "answer": "20",
+      "explanation": "周长=(5+5)×2=20cm",
+      "options": [
+        13,
+        20,
+        28,
+        42
+      ]
+    },
+    {
+      "id": "G4_A_134",
+      "type": "choice",
+      "question": "长方形长12cm，宽10cm，面积是？",
+      "answer": "120",
+      "explanation": "面积=12×10=120cm²",
+      "options": [
+        105,
+        120,
+        127,
+        158
+      ]
+    },
+    {
+      "id": "G4_A_135",
+      "type": "choice",
+      "question": "长方形长7cm，宽6cm，面积是？",
+      "answer": "42",
+      "explanation": "面积=7×6=42cm²",
+      "options": [
+        29,
+        42,
+        47,
+        75
+      ]
+    },
+    {
+      "id": "G4_A_136",
+      "type": "choice",
+      "question": "长方形长14cm，宽4cm，面积是？",
+      "answer": "56",
+      "explanation": "面积=14×4=56cm²",
+      "options": [
+        50,
+        56,
+        64,
+        92
+      ]
+    },
+    {
+      "id": "G4_A_137",
+      "type": "choice",
+      "question": "长方形长10cm，宽8cm，面积是？",
+      "answer": "80",
+      "explanation": "面积=10×8=80cm²",
+      "options": [
+        75,
+        80,
+        95,
+        111
+      ]
+    },
+    {
+      "id": "G4_A_138",
+      "type": "choice",
+      "question": "长方形长5cm，宽3cm，周长是？",
+      "answer": "16",
+      "explanation": "周长=(5+3)×2=16cm",
+      "options": [
+        9,
+        16,
+        25,
+        42
+      ]
+    },
+    {
+      "id": "G4_A_139",
+      "type": "choice",
+      "question": "长方形长19cm，宽5cm，周长是？",
+      "answer": "48",
+      "explanation": "周长=(19+5)×2=48cm",
+      "options": [
+        39,
+        48,
+        50,
+        72
+      ]
+    },
+    {
+      "id": "G4_A_140",
+      "type": "choice",
+      "question": "长方形长8cm，宽6cm，面积是？",
+      "answer": "48",
+      "explanation": "面积=8×6=48cm²",
+      "options": [
+        38,
+        48,
+        56,
+        80
+      ]
+    },
+    {
+      "id": "G4_A_141",
+      "type": "choice",
+      "question": "长方形长13cm，宽13cm，面积是？",
+      "answer": "169",
+      "explanation": "面积=13×13=169cm²",
+      "options": [
+        156,
+        169,
+        182,
+        209
+      ]
+    },
+    {
+      "id": "G4_A_142",
+      "type": "choice",
+      "question": "长方形长17cm，宽8cm，面积是？",
+      "answer": "136",
+      "explanation": "面积=17×8=136cm²",
+      "options": [
+        125,
+        136,
+        142,
+        167
+      ]
+    },
+    {
+      "id": "G4_A_143",
+      "type": "choice",
+      "question": "长方形长13cm，宽7cm，面积是？",
+      "answer": "91",
+      "explanation": "面积=13×7=91cm²",
+      "options": [
+        76,
+        91,
+        105,
+        133
+      ]
+    },
+    {
+      "id": "G4_A_144",
+      "type": "choice",
+      "question": "长方形长11cm，宽5cm，周长是？",
+      "answer": "32",
+      "explanation": "周长=(11+5)×2=32cm",
+      "options": [
+        26,
+        32,
+        34,
+        44
+      ]
+    },
+    {
+      "id": "G4_A_145",
+      "type": "choice",
+      "question": "长方形长14cm，宽13cm，周长是？",
+      "answer": "54",
+      "explanation": "周长=(14+13)×2=54cm",
+      "options": [
+        48,
+        54,
+        59,
+        81
+      ]
+    },
+    {
+      "id": "G4_A_146",
+      "type": "choice",
+      "question": "长方形长20cm，宽17cm，面积是？",
+      "answer": "340",
+      "explanation": "面积=20×17=340cm²",
+      "options": [
+        322,
+        340,
+        358,
+        363
+      ]
+    },
+    {
+      "id": "G4_A_147",
+      "type": "choice",
+      "question": "长方形长10cm，宽7cm，周长是？",
+      "answer": "34",
+      "explanation": "周长=(10+7)×2=34cm",
+      "options": [
+        32,
+        34,
+        42,
+        54
+      ]
+    },
+    {
+      "id": "G4_A_148",
+      "type": "choice",
+      "question": "长方形长20cm，宽17cm，周长是？",
+      "answer": "74",
+      "explanation": "周长=(20+17)×2=74cm",
+      "options": [
+        65,
+        74,
+        82,
+        94
+      ]
+    },
+    {
+      "id": "G4_A_149",
+      "type": "choice",
+      "question": "长方形长5cm，宽4cm，周长是？",
+      "answer": "18",
+      "explanation": "周长=(5+4)×2=18cm",
+      "options": [
+        9,
+        18,
+        23,
+        41
+      ]
+    },
+    {
+      "id": "G4_A_150",
+      "type": "choice",
+      "question": "长方形长7cm，宽5cm，面积是？",
+      "answer": "35",
+      "explanation": "面积=7×5=35cm²",
+      "options": [
+        25,
+        35,
+        43,
+        62
+      ]
+    },
+    {
+      "id": "G4_A_151",
+      "type": "choice",
+      "question": "长方形长15cm，宽10cm，周长是？",
+      "answer": "50",
+      "explanation": "周长=(15+10)×2=50cm",
+      "options": [
+        46,
+        50,
+        60,
+        67
+      ]
+    },
+    {
+      "id": "G4_A_152",
+      "type": "choice",
+      "question": "长方形长13cm，宽10cm，面积是？",
+      "answer": "130",
+      "explanation": "面积=13×10=130cm²",
+      "options": [
+        124,
+        130,
+        141,
+        157
+      ]
+    },
+    {
+      "id": "G4_A_153",
+      "type": "choice",
+      "question": "长方形长11cm，宽8cm，面积是？",
+      "answer": "88",
+      "explanation": "面积=11×8=88cm²",
+      "options": [
+        70,
+        88,
+        101,
+        132
+      ]
+    },
+    {
+      "id": "G4_A_154",
+      "type": "choice",
+      "question": "长方形长12cm，宽9cm，面积是？",
+      "answer": "108",
+      "explanation": "面积=12×9=108cm²",
+      "options": [
+        97,
+        108,
+        121,
+        147
+      ]
+    },
+    {
+      "id": "G4_A_155",
+      "type": "choice",
+      "question": "长方形长5cm，宽4cm，面积是？",
+      "answer": "20",
+      "explanation": "面积=5×4=20cm²",
+      "options": [
+        6,
+        20,
+        30,
+        66
+      ]
+    },
+    {
+      "id": "G4_A_156",
+      "type": "choice",
+      "question": "长方形长18cm，宽3cm，面积是？",
+      "answer": "54",
+      "explanation": "面积=18×3=54cm²",
+      "options": [
+        41,
+        54,
+        71,
+        97
+      ]
+    },
+    {
+      "id": "G4_A_157",
+      "type": "choice",
+      "question": "长方形长11cm，宽9cm，周长是？",
+      "answer": "40",
+      "explanation": "周长=(11+9)×2=40cm",
+      "options": [
+        38,
+        40,
+        44,
+        70
+      ]
+    },
+    {
+      "id": "G4_A_158",
+      "type": "choice",
+      "question": "长方形长13cm，宽3cm，面积是？",
+      "answer": "39",
+      "explanation": "面积=13×3=39cm²",
+      "options": [
+        34,
+        39,
+        54,
+        65
+      ]
+    },
+    {
+      "id": "G4_A_159",
+      "type": "choice",
+      "question": "长方形长15cm，宽14cm，面积是？",
+      "answer": "210",
+      "explanation": "面积=15×14=210cm²",
+      "options": [
+        202,
+        210,
+        230,
+        249
+      ]
+    },
+    {
+      "id": "G4_A_160",
+      "type": "choice",
+      "question": "长方形长17cm，宽4cm，面积是？",
+      "answer": "68",
+      "explanation": "面积=17×4=68cm²",
+      "options": [
+        59,
+        68,
+        86,
+        106
+      ]
+    },
+    {
+      "id": "G4_A_161",
+      "type": "choice",
+      "question": "长方形长14cm，宽7cm，周长是？",
+      "answer": "42",
+      "explanation": "周长=(14+7)×2=42cm",
+      "options": [
+        39,
+        42,
+        50,
+        54
+      ]
+    },
+    {
+      "id": "G4_A_162",
+      "type": "choice",
+      "question": "长方形长8cm，宽5cm，周长是？",
+      "answer": "26",
+      "explanation": "周长=(8+5)×2=26cm",
+      "options": [
+        18,
+        26,
+        30,
+        43
+      ]
+    },
+    {
+      "id": "G4_A_163",
+      "type": "choice",
+      "question": "长方形长10cm，宽4cm，面积是？",
+      "answer": "40",
+      "explanation": "面积=10×4=40cm²",
+      "options": [
+        23,
+        40,
+        47,
+        85
+      ]
+    },
+    {
+      "id": "G4_A_164",
+      "type": "choice",
+      "question": "长方形长9cm，宽5cm，面积是？",
+      "answer": "45",
+      "explanation": "面积=9×5=45cm²",
+      "options": [
+        35,
+        45,
+        51,
+        74
+      ]
+    },
+    {
+      "id": "G4_A_165",
+      "type": "choice",
+      "question": "长方形长14cm，宽9cm，周长是？",
+      "answer": "46",
+      "explanation": "周长=(14+9)×2=46cm",
+      "options": [
+        39,
+        46,
+        48,
+        70
+      ]
+    },
+    {
+      "id": "G4_A_166",
+      "type": "choice",
+      "question": "长方形长17cm，宽5cm，面积是？",
+      "answer": "85",
+      "explanation": "面积=17×5=85cm²",
+      "options": [
+        73,
+        85,
+        98,
+        116
+      ]
+    },
+    {
+      "id": "G4_A_167",
+      "type": "choice",
+      "question": "长方形长5cm，宽5cm，面积是？",
+      "answer": "25",
+      "explanation": "面积=5×5=25cm²",
+      "options": [
+        16,
+        25,
+        44,
+        65
+      ]
+    },
+    {
+      "id": "G4_A_168",
+      "type": "choice",
+      "question": "长方形长5cm，宽3cm，周长是？",
+      "answer": "16",
+      "explanation": "周长=(5+3)×2=16cm",
+      "options": [
+        11,
+        16,
+        26,
+        35
+      ]
+    },
+    {
+      "id": "G4_A_169",
+      "type": "choice",
+      "question": "长方形长12cm，宽6cm，面积是？",
+      "answer": "72",
+      "explanation": "面积=12×6=72cm²",
+      "options": [
+        52,
+        72,
+        83,
+        102
+      ]
+    },
+    {
+      "id": "G4_A_170",
+      "type": "choice",
+      "question": "长方形长17cm，宽6cm，周长是？",
+      "answer": "46",
+      "explanation": "周长=(17+6)×2=46cm",
+      "options": [
+        40,
+        46,
+        53,
+        60
+      ]
+    },
+    {
+      "id": "G4_A_171",
+      "type": "choice",
+      "question": "长方形长8cm，宽3cm，面积是？",
+      "answer": "24",
+      "explanation": "面积=8×3=24cm²",
+      "options": [
+        6,
+        24,
+        32,
+        48
+      ]
+    },
+    {
+      "id": "G4_A_172",
+      "type": "choice",
+      "question": "长方形长7cm，宽3cm，周长是？",
+      "answer": "20",
+      "explanation": "周长=(7+3)×2=20cm",
+      "options": [
+        18,
+        20,
+        27,
+        43
+      ]
+    },
+    {
+      "id": "G4_A_173",
+      "type": "choice",
+      "question": "长方形长17cm，宽11cm，面积是？",
+      "answer": "187",
+      "explanation": "面积=17×11=187cm²",
+      "options": [
+        179,
+        187,
+        198,
+        216
+      ]
+    },
+    {
+      "id": "G4_A_174",
+      "type": "choice",
+      "question": "长方形长13cm，宽4cm，周长是？",
+      "answer": "34",
+      "explanation": "周长=(13+4)×2=34cm",
+      "options": [
+        24,
+        34,
+        36,
+        60
+      ]
+    },
+    {
+      "id": "G4_A_175",
+      "type": "choice",
+      "question": "长方形长7cm，宽5cm，周长是？",
+      "answer": "24",
+      "explanation": "周长=(7+5)×2=24cm",
+      "options": [
+        18,
+        24,
+        34,
+        36
+      ]
+    },
+    {
+      "id": "G4_A_176",
+      "type": "choice",
+      "question": "长方形长7cm，宽7cm，面积是？",
+      "answer": "49",
+      "explanation": "面积=7×7=49cm²",
+      "options": [
+        33,
+        49,
+        60,
+        89
+      ]
+    },
+    {
+      "id": "G4_A_177",
+      "type": "choice",
+      "question": "长方形长14cm，宽13cm，周长是？",
+      "answer": "54",
+      "explanation": "周长=(14+13)×2=54cm",
+      "options": [
+        46,
+        54,
+        64,
+        81
+      ]
+    },
+    {
+      "id": "G4_A_178",
+      "type": "choice",
+      "question": "长方形长20cm，宽16cm，周长是？",
+      "answer": "72",
+      "explanation": "周长=(20+16)×2=72cm",
+      "options": [
+        66,
+        72,
+        75,
+        87
+      ]
+    },
+    {
+      "id": "G4_A_179",
+      "type": "choice",
+      "question": "长方形长17cm，宽4cm，面积是？",
+      "answer": "68",
+      "explanation": "面积=17×4=68cm²",
+      "options": [
+        60,
+        68,
+        73,
+        118
+      ]
+    },
+    {
+      "id": "G4_A_180",
+      "type": "choice",
+      "question": "长方形长10cm，宽4cm，周长是？",
+      "answer": "28",
+      "explanation": "周长=(10+4)×2=28cm",
+      "options": [
+        26,
+        28,
+        38,
+        51
+      ]
+    },
+    {
+      "id": "G4_A_181",
+      "type": "choice",
+      "question": "长方形长15cm，宽8cm，周长是？",
+      "answer": "46",
+      "explanation": "周长=(15+8)×2=46cm",
+      "options": [
+        42,
+        46,
+        55,
+        60
+      ]
+    },
+    {
+      "id": "G4_A_182",
+      "type": "choice",
+      "question": "长方形长7cm，宽4cm，面积是？",
+      "answer": "28",
+      "explanation": "面积=7×4=28cm²",
+      "options": [
+        17,
+        28,
+        34,
+        64
+      ]
+    },
+    {
+      "id": "G4_A_183",
+      "type": "choice",
+      "question": "长方形长15cm，宽7cm，面积是？",
+      "answer": "105",
+      "explanation": "面积=15×7=105cm²",
+      "options": [
+        93,
+        105,
+        122,
+        139
+      ]
+    },
+    {
+      "id": "G4_A_184",
+      "type": "choice",
+      "question": "长方形长19cm，宽8cm，面积是？",
+      "answer": "152",
+      "explanation": "面积=19×8=152cm²",
+      "options": [
+        137,
+        152,
+        161,
+        198
+      ]
+    },
+    {
+      "id": "G4_A_185",
+      "type": "choice",
+      "question": "长方形长7cm，宽6cm，面积是？",
+      "answer": "42",
+      "explanation": "面积=7×6=42cm²",
+      "options": [
+        34,
+        42,
+        57,
+        78
+      ]
+    },
+    {
+      "id": "G4_A_186",
+      "type": "choice",
+      "question": "长方形长11cm，宽3cm，面积是？",
+      "answer": "33",
+      "explanation": "面积=11×3=33cm²",
+      "options": [
+        14,
+        33,
+        48,
+        58
+      ]
+    },
+    {
+      "id": "G4_A_187",
+      "type": "choice",
+      "question": "长方形长17cm，宽14cm，面积是？",
+      "answer": "238",
+      "explanation": "面积=17×14=238cm²",
+      "options": [
+        228,
+        238,
+        248,
+        270
+      ]
+    },
+    {
+      "id": "G4_A_188",
+      "type": "choice",
+      "question": "长方形长20cm，宽5cm，面积是？",
+      "answer": "100",
+      "explanation": "面积=20×5=100cm²",
+      "options": [
+        92,
+        100,
+        106,
+        122
+      ]
+    },
+    {
+      "id": "G4_A_189",
+      "type": "choice",
+      "question": "长方形长17cm，宽14cm，面积是？",
+      "answer": "238",
+      "explanation": "面积=17×14=238cm²",
+      "options": [
+        223,
+        238,
+        256,
+        273
+      ]
+    },
+    {
+      "id": "G4_A_190",
+      "type": "choice",
+      "question": "长方形长19cm，宽16cm，周长是？",
+      "answer": "70",
+      "explanation": "周长=(19+16)×2=70cm",
+      "options": [
+        62,
+        70,
+        72,
+        90
+      ]
+    },
+    {
+      "id": "G4_A_191",
+      "type": "choice",
+      "question": "长方形长10cm，宽8cm，周长是？",
+      "answer": "36",
+      "explanation": "周长=(10+8)×2=36cm",
+      "options": [
+        34,
+        36,
+        44,
+        51
+      ]
+    },
+    {
+      "id": "G4_A_192",
+      "type": "choice",
+      "question": "长方形长10cm，宽8cm，周长是？",
+      "answer": "36",
+      "explanation": "周长=(10+8)×2=36cm",
+      "options": [
+        29,
+        36,
+        43,
+        48
+      ]
+    },
+    {
+      "id": "G4_A_193",
+      "type": "choice",
+      "question": "长方形长15cm，宽12cm，面积是？",
+      "answer": "180",
+      "explanation": "面积=15×12=180cm²",
+      "options": [
+        164,
+        180,
+        194,
+        211
+      ]
+    },
+    {
+      "id": "G4_A_194",
+      "type": "choice",
+      "question": "长方形长13cm，宽9cm，面积是？",
+      "answer": "117",
+      "explanation": "面积=13×9=117cm²",
+      "options": [
+        111,
+        117,
+        123,
+        142
+      ]
+    },
+    {
+      "id": "G4_A_195",
+      "type": "choice",
+      "question": "长方形长20cm，宽15cm，面积是？",
+      "answer": "300",
+      "explanation": "面积=20×15=300cm²",
+      "options": [
+        285,
+        300,
+        308,
+        344
+      ]
+    },
+    {
+      "id": "G4_A_196",
+      "type": "choice",
+      "question": "长方形长8cm，宽4cm，面积是？",
+      "answer": "32",
+      "explanation": "面积=8×4=32cm²",
+      "options": [
+        12,
+        32,
+        52,
+        57
+      ]
+    },
+    {
+      "id": "G4_A_197",
+      "type": "choice",
+      "question": "长方形长8cm，宽5cm，面积是？",
+      "answer": "40",
+      "explanation": "面积=8×5=40cm²",
+      "options": [
+        25,
+        40,
+        50,
+        87
+      ]
+    },
+    {
+      "id": "G4_A_198",
+      "type": "choice",
+      "question": "长方形长18cm，宽12cm，面积是？",
+      "answer": "216",
+      "explanation": "面积=18×12=216cm²",
+      "options": [
+        204,
+        216,
+        227,
+        257
+      ]
+    },
+    {
+      "id": "G4_A_199",
+      "type": "choice",
+      "question": "长方形长6cm，宽3cm，面积是？",
+      "answer": "18",
+      "explanation": "面积=6×3=18cm²",
+      "options": [
+        5,
+        18,
+        28,
+        54
+      ]
+    },
+    {
+      "id": "G4_A_200",
+      "type": "choice",
+      "question": "长方形长13cm，宽3cm，周长是？",
+      "answer": "32",
+      "explanation": "周长=(13+3)×2=32cm",
+      "options": [
+        30,
+        32,
+        38,
+        44
+      ]
+    },
+    {
+      "id": "G4_A_201",
+      "type": "choice",
+      "question": "长方形长8cm，宽4cm，面积是？",
+      "answer": "32",
+      "explanation": "面积=8×4=32cm²",
+      "options": [
+        20,
+        32,
+        44,
+        69
+      ]
+    },
+    {
+      "id": "G4_A_202",
+      "type": "choice",
+      "question": "长方形长9cm，宽3cm，周长是？",
+      "answer": "24",
+      "explanation": "周长=(9+3)×2=24cm",
+      "options": [
+        18,
+        24,
+        34,
+        54
+      ]
+    },
+    {
+      "id": "G4_A_203",
+      "type": "choice",
+      "question": "长方形长9cm，宽8cm，周长是？",
+      "answer": "34",
+      "explanation": "周长=(9+8)×2=34cm",
+      "options": [
+        30,
+        34,
+        37,
+        58
+      ]
+    },
+    {
+      "id": "G4_A_204",
+      "type": "choice",
+      "question": "长方形长8cm，宽6cm，面积是？",
+      "answer": "48",
+      "explanation": "面积=8×6=48cm²",
+      "options": [
+        43,
+        48,
+        58,
+        98
+      ]
+    },
+    {
+      "id": "G4_A_205",
+      "type": "choice",
+      "question": "长方形长11cm，宽8cm，周长是？",
+      "answer": "38",
+      "explanation": "周长=(11+8)×2=38cm",
+      "options": [
+        35,
+        38,
+        43,
+        52
+      ]
+    },
+    {
+      "id": "G4_A_206",
+      "type": "choice",
+      "question": "长方形长18cm，宽12cm，周长是？",
+      "answer": "60",
+      "explanation": "周长=(18+12)×2=60cm",
+      "options": [
+        55,
+        60,
+        64,
+        83
+      ]
+    },
+    {
+      "id": "G4_A_207",
+      "type": "choice",
+      "question": "长方形长15cm，宽7cm，面积是？",
+      "answer": "105",
+      "explanation": "面积=15×7=105cm²",
+      "options": [
+        100,
+        105,
+        122,
+        134
+      ]
+    },
+    {
+      "id": "G4_A_208",
+      "type": "choice",
+      "question": "长方形长20cm，宽9cm，周长是？",
+      "answer": "58",
+      "explanation": "周长=(20+9)×2=58cm",
+      "options": [
+        54,
+        58,
+        60,
+        82
+      ]
+    },
+    {
+      "id": "G4_A_209",
+      "type": "choice",
+      "question": "长方形长14cm，宽9cm，周长是？",
+      "answer": "46",
+      "explanation": "周长=(14+9)×2=46cm",
+      "options": [
+        39,
+        46,
+        56,
+        75
+      ]
+    },
+    {
+      "id": "G4_A_210",
+      "type": "choice",
+      "question": "长方形长18cm，宽6cm，周长是？",
+      "answer": "48",
+      "explanation": "周长=(18+6)×2=48cm",
+      "options": [
+        44,
+        48,
+        51,
+        73
+      ]
+    },
+    {
+      "id": "G4_A_211",
+      "type": "choice",
+      "question": "长方形长8cm，宽5cm，面积是？",
+      "answer": "40",
+      "explanation": "面积=8×5=40cm²",
+      "options": [
+        32,
+        40,
+        51,
+        70
+      ]
+    },
+    {
+      "id": "G4_A_212",
+      "type": "choice",
+      "question": "长方形长7cm，宽3cm，面积是？",
+      "answer": "21",
+      "explanation": "面积=7×3=21cm²",
+      "options": [
+        12,
+        21,
+        28,
+        67
+      ]
+    },
+    {
+      "id": "G4_A_213",
+      "type": "choice",
+      "question": "长方形长15cm，宽15cm，周长是？",
+      "answer": "60",
+      "explanation": "周长=(15+15)×2=60cm",
+      "options": [
+        54,
+        60,
+        65,
+        86
+      ]
+    },
+    {
+      "id": "G4_A_214",
+      "type": "choice",
+      "question": "长方形长6cm，宽3cm，面积是？",
+      "answer": "18",
+      "explanation": "面积=6×3=18cm²",
+      "options": [
+        5,
+        18,
+        32,
+        57
+      ]
+    },
+    {
+      "id": "G4_A_215",
+      "type": "choice",
+      "question": "长方形长15cm，宽4cm，面积是？",
+      "answer": "60",
+      "explanation": "面积=15×4=60cm²",
+      "options": [
+        51,
+        60,
+        78,
+        84
+      ]
+    },
+    {
+      "id": "G4_A_216",
+      "type": "choice",
+      "question": "长方形长13cm，宽9cm，周长是？",
+      "answer": "44",
+      "explanation": "周长=(13+9)×2=44cm",
+      "options": [
+        38,
+        44,
+        54,
+        62
+      ]
+    },
+    {
+      "id": "G4_A_217",
+      "type": "choice",
+      "question": "长方形长9cm，宽7cm，周长是？",
+      "answer": "32",
+      "explanation": "周长=(9+7)×2=32cm",
+      "options": [
+        27,
+        32,
+        40,
+        62
+      ]
+    },
+    {
+      "id": "G4_A_218",
+      "type": "choice",
+      "question": "长方形长16cm，宽9cm，面积是？",
+      "answer": "144",
+      "explanation": "面积=16×9=144cm²",
+      "options": [
+        127,
+        144,
+        160,
+        181
+      ]
+    },
+    {
+      "id": "G4_A_219",
+      "type": "choice",
+      "question": "长方形长16cm，宽16cm，面积是？",
+      "answer": "256",
+      "explanation": "面积=16×16=256cm²",
+      "options": [
+        249,
+        256,
+        261,
+        279
+      ]
+    },
+    {
+      "id": "G4_A_220",
+      "type": "choice",
+      "question": "长方形长8cm，宽8cm，面积是？",
+      "answer": "64",
+      "explanation": "面积=8×8=64cm²",
+      "options": [
+        51,
+        64,
+        84,
+        88
+      ]
+    },
+    {
+      "id": "G4_A_221",
+      "type": "choice",
+      "question": "长方形长20cm，宽20cm，周长是？",
+      "answer": "80",
+      "explanation": "周长=(20+20)×2=80cm",
+      "options": [
+        73,
+        80,
+        89,
+        110
+      ]
+    },
+    {
+      "id": "G4_A_222",
+      "type": "choice",
+      "question": "长方形长20cm，宽20cm，面积是？",
+      "answer": "400",
+      "explanation": "面积=20×20=400cm²",
+      "options": [
+        393,
+        400,
+        407,
+        422
+      ]
+    },
+    {
+      "id": "G4_A_223",
+      "type": "choice",
+      "question": "长方形长7cm，宽3cm，面积是？",
+      "answer": "21",
+      "explanation": "面积=7×3=21cm²",
+      "options": [
+        14,
+        21,
+        35,
+        61
+      ]
+    },
+    {
+      "id": "G4_A_224",
+      "type": "choice",
+      "question": "长方形长20cm，宽20cm，周长是？",
+      "answer": "80",
+      "explanation": "周长=(20+20)×2=80cm",
+      "options": [
+        76,
+        80,
+        89,
+        107
+      ]
+    },
+    {
+      "id": "G4_A_225",
+      "type": "choice",
+      "question": "长方形长7cm，宽7cm，面积是？",
+      "answer": "49",
+      "explanation": "面积=7×7=49cm²",
+      "options": [
+        32,
+        49,
+        63,
+        85
+      ]
+    },
+    {
+      "id": "G4_A_226",
+      "type": "choice",
+      "question": "长方形长19cm，宽10cm，周长是？",
+      "answer": "58",
+      "explanation": "周长=(19+10)×2=58cm",
+      "options": [
+        48,
+        58,
+        61,
+        73
+      ]
+    },
+    {
+      "id": "G4_A_227",
+      "type": "choice",
+      "question": "长方形长11cm，宽4cm，周长是？",
+      "answer": "30",
+      "explanation": "周长=(11+4)×2=30cm",
+      "options": [
+        24,
+        30,
+        37,
+        46
+      ]
+    },
+    {
+      "id": "G4_A_228",
+      "type": "choice",
+      "question": "长方形长13cm，宽12cm，面积是？",
+      "answer": "156",
+      "explanation": "面积=13×12=156cm²",
+      "options": [
+        146,
+        156,
+        169,
+        193
+      ]
+    },
+    {
+      "id": "G4_A_229",
+      "type": "choice",
+      "question": "长方形长7cm，宽6cm，面积是？",
+      "answer": "42",
+      "explanation": "面积=7×6=42cm²",
+      "options": [
+        32,
+        42,
+        58,
+        67
+      ]
+    },
+    {
+      "id": "G4_A_230",
+      "type": "choice",
+      "question": "长方形长9cm，宽3cm，周长是？",
+      "answer": "24",
+      "explanation": "周长=(9+3)×2=24cm",
+      "options": [
+        22,
+        24,
+        29,
+        41
+      ]
+    },
+    {
+      "id": "G4_A_231",
+      "type": "choice",
+      "question": "长方形长17cm，宽16cm，周长是？",
+      "answer": "66",
+      "explanation": "周长=(17+16)×2=66cm",
+      "options": [
+        58,
+        66,
+        76,
+        89
+      ]
+    },
+    {
+      "id": "G4_A_232",
+      "type": "choice",
+      "question": "长方形长10cm，宽7cm，周长是？",
+      "answer": "34",
+      "explanation": "周长=(10+7)×2=34cm",
+      "options": [
+        28,
+        34,
+        37,
+        63
+      ]
+    },
+    {
+      "id": "G4_A_233",
+      "type": "choice",
+      "question": "长方形长11cm，宽9cm，周长是？",
+      "answer": "40",
+      "explanation": "周长=(11+9)×2=40cm",
+      "options": [
+        33,
+        40,
+        43,
+        58
+      ]
+    },
+    {
+      "id": "G4_A_234",
+      "type": "choice",
+      "question": "长方形长19cm，宽13cm，周长是？",
+      "answer": "64",
+      "explanation": "周长=(19+13)×2=64cm",
+      "options": [
+        60,
+        64,
+        71,
+        82
+      ]
+    },
+    {
+      "id": "G4_A_235",
+      "type": "choice",
+      "question": "长方形长19cm，宽11cm，周长是？",
+      "answer": "60",
+      "explanation": "周长=(19+11)×2=60cm",
+      "options": [
+        58,
+        60,
+        62,
+        88
+      ]
+    },
+    {
+      "id": "G4_A_236",
+      "type": "choice",
+      "question": "长方形长5cm，宽5cm，周长是？",
+      "answer": "20",
+      "explanation": "周长=(5+5)×2=20cm",
+      "options": [
+        15,
+        20,
+        22,
+        38
+      ]
+    },
+    {
+      "id": "G4_A_237",
+      "type": "choice",
+      "question": "长方形长16cm，宽8cm，面积是？",
+      "answer": "128",
+      "explanation": "面积=16×8=128cm²",
+      "options": [
+        111,
+        128,
+        133,
+        161
+      ]
+    },
+    {
+      "id": "G4_A_238",
+      "type": "choice",
+      "question": "长方形长7cm，宽7cm，面积是？",
+      "answer": "49",
+      "explanation": "面积=7×7=49cm²",
+      "options": [
+        36,
+        49,
+        65,
+        72
+      ]
+    },
+    {
+      "id": "G4_A_239",
+      "type": "choice",
+      "question": "长方形长20cm，宽19cm，周长是？",
+      "answer": "78",
+      "explanation": "周长=(20+19)×2=78cm",
+      "options": [
+        69,
+        78,
+        84,
+        95
+      ]
+    },
+    {
+      "id": "G4_A_240",
+      "type": "choice",
+      "question": "长方形长11cm，宽6cm，面积是？",
+      "answer": "66",
+      "explanation": "面积=11×6=66cm²",
+      "options": [
+        54,
+        66,
+        83,
+        102
+      ]
+    },
+    {
+      "id": "G4_A_241",
+      "type": "choice",
+      "question": "正方形边长13cm，周长是？",
+      "answer": "52",
+      "explanation": "周长=13×4=52cm",
+      "options": [
+        43,
+        52,
+        61,
+        82
+      ]
+    },
+    {
+      "id": "G4_A_242",
+      "type": "choice",
+      "question": "正方形边长6cm，周长是？",
+      "answer": "24",
+      "explanation": "周长=6×4=24cm",
+      "options": [
+        15,
+        24,
+        31,
+        44
+      ]
+    },
+    {
+      "id": "G4_A_243",
+      "type": "choice",
+      "question": "正方形边长4cm，面积是？",
+      "answer": "16",
+      "explanation": "面积=4²=16cm²",
+      "options": [
+        7,
+        16,
+        27,
+        59
+      ]
+    },
+    {
+      "id": "G4_A_244",
+      "type": "choice",
+      "question": "正方形边长7cm，面积是？",
+      "answer": "49",
+      "explanation": "面积=7²=49cm²",
+      "options": [
+        36,
+        49,
+        66,
+        94
+      ]
+    },
+    {
+      "id": "G4_A_245",
+      "type": "choice",
+      "question": "正方形边长9cm，周长是？",
+      "answer": "36",
+      "explanation": "周长=9×4=36cm",
+      "options": [
+        32,
+        36,
+        39,
+        66
+      ]
+    },
+    {
+      "id": "G4_A_246",
+      "type": "choice",
+      "question": "正方形边长7cm，面积是？",
+      "answer": "49",
+      "explanation": "面积=7²=49cm²",
+      "options": [
+        40,
+        49,
+        58,
+        83
+      ]
+    },
+    {
+      "id": "G4_A_247",
+      "type": "choice",
+      "question": "正方形边长6cm，周长是？",
+      "answer": "24",
+      "explanation": "周长=6×4=24cm",
+      "options": [
+        20,
+        24,
+        30,
+        50
+      ]
+    },
+    {
+      "id": "G4_A_248",
+      "type": "choice",
+      "question": "正方形边长13cm，面积是？",
+      "answer": "169",
+      "explanation": "面积=13²=169cm²",
+      "options": [
+        156,
+        169,
+        186,
+        201
+      ]
+    },
+    {
+      "id": "G4_A_249",
+      "type": "choice",
+      "question": "正方形边长10cm，面积是？",
+      "answer": "100",
+      "explanation": "面积=10²=100cm²",
+      "options": [
+        81,
+        100,
+        105,
+        149
+      ]
+    },
+    {
+      "id": "G4_A_250",
+      "type": "choice",
+      "question": "正方形边长9cm，周长是？",
+      "answer": "36",
+      "explanation": "周长=9×4=36cm",
+      "options": [
+        26,
+        36,
+        41,
+        59
+      ]
+    },
+    {
+      "id": "G4_A_251",
+      "type": "choice",
+      "question": "正方形边长15cm，面积是？",
+      "answer": "225",
+      "explanation": "面积=15²=225cm²",
+      "options": [
+        219,
+        225,
+        230,
+        271
+      ]
+    },
+    {
+      "id": "G4_A_252",
+      "type": "choice",
+      "question": "正方形边长4cm，周长是？",
+      "answer": "16",
+      "explanation": "周长=4×4=16cm",
+      "options": [
+        9,
+        16,
+        20,
+        44
+      ]
+    },
+    {
+      "id": "G4_A_253",
+      "type": "choice",
+      "question": "正方形边长10cm，周长是？",
+      "answer": "40",
+      "explanation": "周长=10×4=40cm",
+      "options": [
+        35,
+        40,
+        44,
+        53
+      ]
+    },
+    {
+      "id": "G4_A_254",
+      "type": "choice",
+      "question": "正方形边长8cm，面积是？",
+      "answer": "64",
+      "explanation": "面积=8²=64cm²",
+      "options": [
+        49,
+        64,
+        83,
+        95
+      ]
+    },
+    {
+      "id": "G4_A_255",
+      "type": "choice",
+      "question": "正方形边长6cm，周长是？",
+      "answer": "24",
+      "explanation": "周长=6×4=24cm",
+      "options": [
+        18,
+        24,
+        33,
+        52
+      ]
+    },
+    {
+      "id": "G4_A_256",
+      "type": "choice",
+      "question": "正方形边长10cm，周长是？",
+      "answer": "40",
+      "explanation": "周长=10×4=40cm",
+      "options": [
+        37,
+        40,
+        44,
+        63
+      ]
+    },
+    {
+      "id": "G4_A_257",
+      "type": "choice",
+      "question": "正方形边长12cm，面积是？",
+      "answer": "144",
+      "explanation": "面积=12²=144cm²",
+      "options": [
+        131,
+        144,
+        160,
+        191
+      ]
+    },
+    {
+      "id": "G4_A_258",
+      "type": "choice",
+      "question": "正方形边长11cm，面积是？",
+      "answer": "121",
+      "explanation": "面积=11²=121cm²",
+      "options": [
+        109,
+        121,
+        132,
+        162
+      ]
+    },
+    {
+      "id": "G4_A_259",
+      "type": "choice",
+      "question": "正方形边长5cm，面积是？",
+      "answer": "25",
+      "explanation": "面积=5²=25cm²",
+      "options": [
+        7,
+        25,
+        30,
+        75
+      ]
+    },
+    {
+      "id": "G4_A_260",
+      "type": "choice",
+      "question": "正方形边长4cm，面积是？",
+      "answer": "16",
+      "explanation": "面积=4²=16cm²",
+      "options": [
+        10,
+        16,
+        35,
+        56
+      ]
+    },
+    {
+      "id": "G4_A_261",
+      "type": "choice",
+      "question": "正方形边长10cm，面积是？",
+      "answer": "100",
+      "explanation": "面积=10²=100cm²",
+      "options": [
+        89,
+        100,
+        118,
+        127
+      ]
+    },
+    {
+      "id": "G4_A_262",
+      "type": "choice",
+      "question": "正方形边长8cm，面积是？",
+      "answer": "64",
+      "explanation": "面积=8²=64cm²",
+      "options": [
+        49,
+        64,
+        74,
+        96
+      ]
+    },
+    {
+      "id": "G4_A_263",
+      "type": "choice",
+      "question": "正方形边长4cm，面积是？",
+      "answer": "16",
+      "explanation": "面积=4²=16cm²",
+      "options": [
+        9,
+        16,
+        30,
+        44
+      ]
+    },
+    {
+      "id": "G4_A_264",
+      "type": "choice",
+      "question": "正方形边长11cm，周长是？",
+      "answer": "44",
+      "explanation": "周长=11×4=44cm",
+      "options": [
+        41,
+        44,
+        52,
+        63
+      ]
+    },
+    {
+      "id": "G4_A_265",
+      "type": "choice",
+      "question": "正方形边长7cm，周长是？",
+      "answer": "28",
+      "explanation": "周长=7×4=28cm",
+      "options": [
+        18,
+        28,
+        31,
+        53
+      ]
+    },
+    {
+      "id": "G4_A_266",
+      "type": "choice",
+      "question": "正方形边长9cm，面积是？",
+      "answer": "81",
+      "explanation": "面积=9²=81cm²",
+      "options": [
+        66,
+        81,
+        94,
+        118
+      ]
+    },
+    {
+      "id": "G4_A_267",
+      "type": "choice",
+      "question": "正方形边长10cm，周长是？",
+      "answer": "40",
+      "explanation": "周长=10×4=40cm",
+      "options": [
+        35,
+        40,
+        47,
+        52
+      ]
+    },
+    {
+      "id": "G4_A_268",
+      "type": "choice",
+      "question": "正方形边长9cm，周长是？",
+      "answer": "36",
+      "explanation": "周长=9×4=36cm",
+      "options": [
+        29,
+        36,
+        39,
+        64
+      ]
+    },
+    {
+      "id": "G4_A_269",
+      "type": "choice",
+      "question": "正方形边长9cm，周长是？",
+      "answer": "36",
+      "explanation": "周长=9×4=36cm",
+      "options": [
+        30,
+        36,
+        39,
+        53
+      ]
+    },
+    {
+      "id": "G4_A_270",
+      "type": "choice",
+      "question": "正方形边长11cm，面积是？",
+      "answer": "121",
+      "explanation": "面积=11²=121cm²",
+      "options": [
+        115,
+        121,
+        128,
+        148
+      ]
+    },
+    {
+      "id": "G4_A_271",
+      "type": "choice",
+      "question": "正方形边长3cm，周长是？",
+      "answer": "12",
+      "explanation": "周长=3×4=12cm",
+      "options": [
+        9,
+        12,
+        17,
+        24
+      ]
+    },
+    {
+      "id": "G4_A_272",
+      "type": "choice",
+      "question": "正方形边长12cm，周长是？",
+      "answer": "48",
+      "explanation": "周长=12×4=48cm",
+      "options": [
+        45,
+        48,
+        51,
+        72
+      ]
+    },
+    {
+      "id": "G4_A_273",
+      "type": "choice",
+      "question": "正方形边长4cm，周长是？",
+      "answer": "16",
+      "explanation": "周长=4×4=16cm",
+      "options": [
+        8,
+        16,
+        26,
+        35
+      ]
+    },
+    {
+      "id": "G4_A_274",
+      "type": "choice",
+      "question": "正方形边长8cm，周长是？",
+      "answer": "32",
+      "explanation": "周长=8×4=32cm",
+      "options": [
+        24,
+        32,
+        35,
+        57
+      ]
+    },
+    {
+      "id": "G4_A_275",
+      "type": "choice",
+      "question": "正方形边长3cm，面积是？",
+      "answer": "9",
+      "explanation": "面积=3²=9cm²",
+      "options": [
+        -6,
+        9,
+        16,
+        55
+      ]
+    },
+    {
+      "id": "G4_A_276",
+      "type": "choice",
+      "question": "正方形边长12cm，面积是？",
+      "answer": "144",
+      "explanation": "面积=12²=144cm²",
+      "options": [
+        124,
+        144,
+        155,
+        190
+      ]
+    },
+    {
+      "id": "G4_A_277",
+      "type": "choice",
+      "question": "正方形边长13cm，面积是？",
+      "answer": "169",
+      "explanation": "面积=13²=169cm²",
+      "options": [
+        161,
+        169,
+        179,
+        192
+      ]
+    },
+    {
+      "id": "G4_A_278",
+      "type": "choice",
+      "question": "正方形边长11cm，周长是？",
+      "answer": "44",
+      "explanation": "周长=11×4=44cm",
+      "options": [
+        36,
+        44,
+        52,
+        57
+      ]
+    },
+    {
+      "id": "G4_A_279",
+      "type": "choice",
+      "question": "正方形边长15cm，周长是？",
+      "answer": "60",
+      "explanation": "周长=15×4=60cm",
+      "options": [
+        56,
+        60,
+        70,
+        80
+      ]
+    },
+    {
+      "id": "G4_A_280",
+      "type": "choice",
+      "question": "正方形边长7cm，周长是？",
+      "answer": "28",
+      "explanation": "周长=7×4=28cm",
+      "options": [
+        23,
+        28,
+        36,
+        43
+      ]
+    },
+    {
+      "id": "G4_A_281",
+      "type": "choice",
+      "question": "正方形边长9cm，面积是？",
+      "answer": "81",
+      "explanation": "面积=9²=81cm²",
+      "options": [
+        67,
+        81,
+        88,
+        129
+      ]
+    },
+    {
+      "id": "G4_A_282",
+      "type": "choice",
+      "question": "正方形边长12cm，面积是？",
+      "answer": "144",
+      "explanation": "面积=12²=144cm²",
+      "options": [
+        133,
+        144,
+        156,
+        187
+      ]
+    },
+    {
+      "id": "G4_A_283",
+      "type": "choice",
+      "question": "正方形边长4cm，周长是？",
+      "answer": "16",
+      "explanation": "周长=4×4=16cm",
+      "options": [
+        11,
+        16,
+        23,
+        40
+      ]
+    },
+    {
+      "id": "G4_A_284",
+      "type": "choice",
+      "question": "正方形边长6cm，周长是？",
+      "answer": "24",
+      "explanation": "周长=6×4=24cm",
+      "options": [
+        14,
+        24,
+        27,
+        43
+      ]
+    },
+    {
+      "id": "G4_A_285",
+      "type": "choice",
+      "question": "正方形边长4cm，周长是？",
+      "answer": "16",
+      "explanation": "周长=4×4=16cm",
+      "options": [
+        9,
+        16,
+        21,
+        32
+      ]
+    },
+    {
+      "id": "G4_A_286",
+      "type": "choice",
+      "question": "正方形边长15cm，周长是？",
+      "answer": "60",
+      "explanation": "周长=15×4=60cm",
+      "options": [
+        55,
+        60,
+        67,
+        73
+      ]
+    },
+    {
+      "id": "G4_A_287",
+      "type": "choice",
+      "question": "正方形边长3cm，面积是？",
+      "answer": "9",
+      "explanation": "面积=3²=9cm²",
+      "options": [
+        -4,
+        9,
+        28,
+        33
+      ]
+    },
+    {
+      "id": "G4_A_288",
+      "type": "choice",
+      "question": "正方形边长5cm，面积是？",
+      "answer": "25",
+      "explanation": "面积=5²=25cm²",
+      "options": [
+        20,
+        25,
+        34,
+        58
+      ]
+    },
+    {
+      "id": "G4_A_289",
+      "type": "choice",
+      "question": "正方形边长15cm，面积是？",
+      "answer": "225",
+      "explanation": "面积=15²=225cm²",
+      "options": [
+        219,
+        225,
+        230,
+        252
+      ]
+    },
+    {
+      "id": "G4_A_290",
+      "type": "choice",
+      "question": "正方形边长3cm，周长是？",
+      "answer": "12",
+      "explanation": "周长=3×4=12cm",
+      "options": [
+        5,
+        12,
+        20,
+        37
+      ]
+    },
+    {
+      "id": "G4_A_291",
+      "type": "choice",
+      "question": "正方形边长5cm，面积是？",
+      "answer": "25",
+      "explanation": "面积=5²=25cm²",
+      "options": [
+        12,
+        25,
+        36,
+        64
+      ]
+    },
+    {
+      "id": "G4_A_292",
+      "type": "choice",
+      "question": "正方形边长15cm，面积是？",
+      "answer": "225",
+      "explanation": "面积=15²=225cm²",
+      "options": [
+        205,
+        225,
+        242,
+        261
+      ]
+    },
+    {
+      "id": "G4_A_293",
+      "type": "choice",
+      "question": "正方形边长13cm，面积是？",
+      "answer": "169",
+      "explanation": "面积=13²=169cm²",
+      "options": [
+        161,
+        169,
+        178,
+        196
+      ]
+    },
+    {
+      "id": "G4_A_294",
+      "type": "choice",
+      "question": "正方形边长6cm，面积是？",
+      "answer": "36",
+      "explanation": "面积=6²=36cm²",
+      "options": [
+        26,
+        36,
+        47,
+        61
+      ]
+    },
+    {
+      "id": "G4_A_295",
+      "type": "choice",
+      "question": "正方形边长15cm，周长是？",
+      "answer": "60",
+      "explanation": "周长=15×4=60cm",
+      "options": [
+        53,
+        60,
+        63,
+        82
+      ]
+    },
+    {
+      "id": "G4_A_296",
+      "type": "choice",
+      "question": "正方形边长15cm，面积是？",
+      "answer": "225",
+      "explanation": "面积=15²=225cm²",
+      "options": [
+        220,
+        225,
+        240,
+        252
+      ]
+    },
+    {
+      "id": "G4_A_297",
+      "type": "choice",
+      "question": "正方形边长12cm，周长是？",
+      "answer": "48",
+      "explanation": "周长=12×4=48cm",
+      "options": [
+        40,
+        48,
+        58,
+        75
+      ]
+    },
+    {
+      "id": "G4_A_298",
+      "type": "choice",
+      "question": "正方形边长13cm，面积是？",
+      "answer": "169",
+      "explanation": "面积=13²=169cm²",
+      "options": [
+        153,
+        169,
+        177,
+        212
+      ]
+    },
+    {
+      "id": "G4_A_299",
+      "type": "choice",
+      "question": "正方形边长10cm，面积是？",
+      "answer": "100",
+      "explanation": "面积=10²=100cm²",
+      "options": [
+        90,
+        100,
+        107,
+        144
+      ]
+    },
+    {
+      "id": "G4_A_300",
+      "type": "choice",
+      "question": "正方形边长6cm，周长是？",
+      "answer": "24",
+      "explanation": "周长=6×4=24cm",
+      "options": [
+        21,
+        24,
+        30,
+        45
+      ]
+    },
+    {
+      "id": "G4_A_301",
+      "type": "choice",
+      "question": "正方形边长8cm，面积是？",
+      "answer": "64",
+      "explanation": "面积=8²=64cm²",
+      "options": [
+        47,
+        64,
+        71,
+        85
+      ]
+    },
+    {
+      "id": "G4_A_302",
+      "type": "choice",
+      "question": "正方形边长11cm，周长是？",
+      "answer": "44",
+      "explanation": "周长=11×4=44cm",
+      "options": [
+        35,
+        44,
+        51,
+        62
+      ]
+    },
+    {
+      "id": "G4_A_303",
+      "type": "choice",
+      "question": "正方形边长3cm，面积是？",
+      "answer": "9",
+      "explanation": "面积=3²=9cm²",
+      "options": [
+        -1,
+        9,
+        20,
+        33
+      ]
+    },
+    {
+      "id": "G4_A_304",
+      "type": "choice",
+      "question": "正方形边长9cm，面积是？",
+      "answer": "81",
+      "explanation": "面积=9²=81cm²",
+      "options": [
+        66,
+        81,
+        100,
+        117
+      ]
+    },
+    {
+      "id": "G4_A_305",
+      "type": "choice",
+      "question": "正方形边长3cm，面积是？",
+      "answer": "9",
+      "explanation": "面积=3²=9cm²",
+      "options": [
+        -9,
+        9,
+        19,
+        59
+      ]
+    },
+    {
+      "id": "G4_A_306",
+      "type": "choice",
+      "question": "正方形边长3cm，面积是？",
+      "answer": "9",
+      "explanation": "面积=3²=9cm²",
+      "options": [
+        -4,
+        9,
+        21,
+        30
+      ]
+    },
+    {
+      "id": "G4_A_307",
+      "type": "choice",
+      "question": "正方形边长6cm，周长是？",
+      "answer": "24",
+      "explanation": "周长=6×4=24cm",
+      "options": [
+        20,
+        24,
+        29,
+        36
+      ]
+    },
+    {
+      "id": "G4_A_308",
+      "type": "choice",
+      "question": "正方形边长6cm，面积是？",
+      "answer": "36",
+      "explanation": "面积=6²=36cm²",
+      "options": [
+        21,
+        36,
+        52,
+        83
+      ]
+    },
+    {
+      "id": "G4_A_309",
+      "type": "choice",
+      "question": "正方形边长5cm，面积是？",
+      "answer": "25",
+      "explanation": "面积=5²=25cm²",
+      "options": [
+        13,
+        25,
+        44,
+        46
+      ]
+    },
+    {
+      "id": "G4_A_310",
+      "type": "choice",
+      "question": "正方形边长3cm，周长是？",
+      "answer": "12",
+      "explanation": "周长=3×4=12cm",
+      "options": [
+        5,
+        12,
+        22,
+        25
+      ]
+    },
+    {
+      "id": "G4_A_311",
+      "type": "choice",
+      "question": "正方形边长12cm，面积是？",
+      "answer": "144",
+      "explanation": "面积=12²=144cm²",
+      "options": [
+        125,
+        144,
+        155,
+        181
+      ]
+    },
+    {
+      "id": "G4_A_312",
+      "type": "choice",
+      "question": "正方形边长10cm，面积是？",
+      "answer": "100",
+      "explanation": "面积=10²=100cm²",
+      "options": [
+        85,
+        100,
+        117,
+        140
+      ]
+    },
+    {
+      "id": "G4_A_313",
+      "type": "choice",
+      "question": "正方形边长15cm，面积是？",
+      "answer": "225",
+      "explanation": "面积=15²=225cm²",
+      "options": [
+        208,
+        225,
+        243,
+        247
+      ]
+    },
+    {
+      "id": "G4_A_314",
+      "type": "choice",
+      "question": "正方形边长3cm，面积是？",
+      "answer": "9",
+      "explanation": "面积=3²=9cm²",
+      "options": [
+        4,
+        9,
+        25,
+        50
+      ]
+    },
+    {
+      "id": "G4_A_315",
+      "type": "choice",
+      "question": "正方形边长11cm，面积是？",
+      "answer": "121",
+      "explanation": "面积=11²=121cm²",
+      "options": [
+        110,
+        121,
+        140,
+        148
+      ]
+    },
+    {
+      "id": "G4_A_316",
+      "type": "choice",
+      "question": "正方形边长13cm，面积是？",
+      "answer": "169",
+      "explanation": "面积=13²=169cm²",
+      "options": [
+        163,
+        169,
+        180,
+        210
+      ]
+    },
+    {
+      "id": "G4_A_317",
+      "type": "choice",
+      "question": "正方形边长5cm，周长是？",
+      "answer": "20",
+      "explanation": "周长=5×4=20cm",
+      "options": [
+        18,
+        20,
+        22,
+        49
+      ]
+    },
+    {
+      "id": "G4_A_318",
+      "type": "choice",
+      "question": "正方形边长12cm，面积是？",
+      "answer": "144",
+      "explanation": "面积=12²=144cm²",
+      "options": [
+        138,
+        144,
+        164,
+        187
+      ]
+    },
+    {
+      "id": "G4_A_319",
+      "type": "choice",
+      "question": "正方形边长8cm，周长是？",
+      "answer": "32",
+      "explanation": "周长=8×4=32cm",
+      "options": [
+        28,
+        32,
+        37,
+        56
+      ]
+    },
+    {
+      "id": "G4_A_320",
+      "type": "choice",
+      "question": "正方形边长12cm，面积是？",
+      "answer": "144",
+      "explanation": "面积=12²=144cm²",
+      "options": [
+        128,
+        144,
+        162,
+        172
+      ]
+    },
+    {
+      "id": "G4_A_321",
+      "type": "choice",
+      "question": "正方形边长10cm，面积是？",
+      "answer": "100",
+      "explanation": "面积=10²=100cm²",
+      "options": [
+        91,
+        100,
+        112,
+        140
+      ]
+    },
+    {
+      "id": "G4_A_322",
+      "type": "choice",
+      "question": "正方形边长4cm，面积是？",
+      "answer": "16",
+      "explanation": "面积=4²=16cm²",
+      "options": [
+        7,
+        16,
+        34,
+        49
+      ]
+    },
+    {
+      "id": "G4_A_323",
+      "type": "choice",
+      "question": "正方形边长15cm，周长是？",
+      "answer": "60",
+      "explanation": "周长=15×4=60cm",
+      "options": [
+        57,
+        60,
+        65,
+        80
+      ]
+    },
+    {
+      "id": "G4_A_324",
+      "type": "choice",
+      "question": "正方形边长15cm，面积是？",
+      "answer": "225",
+      "explanation": "面积=15²=225cm²",
+      "options": [
+        219,
+        225,
+        235,
+        275
+      ]
+    },
+    {
+      "id": "G4_A_325",
+      "type": "choice",
+      "question": "正方形边长10cm，面积是？",
+      "answer": "100",
+      "explanation": "面积=10²=100cm²",
+      "options": [
+        92,
+        100,
+        120,
+        126
+      ]
+    },
+    {
+      "id": "G4_A_326",
+      "type": "choice",
+      "question": "正方形边长13cm，周长是？",
+      "answer": "52",
+      "explanation": "周长=13×4=52cm",
+      "options": [
+        45,
+        52,
+        60,
+        79
+      ]
+    },
+    {
+      "id": "G4_A_327",
+      "type": "choice",
+      "question": "正方形边长4cm，面积是？",
+      "answer": "16",
+      "explanation": "面积=4²=16cm²",
+      "options": [
+        4,
+        16,
+        33,
+        58
+      ]
+    },
+    {
+      "id": "G4_A_328",
+      "type": "choice",
+      "question": "正方形边长6cm，面积是？",
+      "answer": "36",
+      "explanation": "面积=6²=36cm²",
+      "options": [
+        22,
+        36,
+        49,
+        73
+      ]
+    },
+    {
+      "id": "G4_A_329",
+      "type": "choice",
+      "question": "正方形边长7cm，面积是？",
+      "answer": "49",
+      "explanation": "面积=7²=49cm²",
+      "options": [
+        30,
+        49,
+        63,
+        92
+      ]
+    },
+    {
+      "id": "G4_A_330",
+      "type": "choice",
+      "question": "正方形边长8cm，周长是？",
+      "answer": "32",
+      "explanation": "周长=8×4=32cm",
+      "options": [
+        28,
+        32,
+        40,
+        46
+      ]
+    },
+    {
+      "id": "G4_A_331",
+      "type": "choice",
+      "question": "正方形边长14cm，面积是？",
+      "answer": "196",
+      "explanation": "面积=14²=196cm²",
+      "options": [
+        177,
+        196,
+        204,
+        226
+      ]
+    },
+    {
+      "id": "G4_A_332",
+      "type": "choice",
+      "question": "正方形边长4cm，面积是？",
+      "answer": "16",
+      "explanation": "面积=4²=16cm²",
+      "options": [
+        0,
+        16,
+        26,
+        40
+      ]
+    },
+    {
+      "id": "G4_A_333",
+      "type": "choice",
+      "question": "正方形边长10cm，周长是？",
+      "answer": "40",
+      "explanation": "周长=10×4=40cm",
+      "options": [
+        36,
+        40,
+        46,
+        55
+      ]
+    },
+    {
+      "id": "G4_A_334",
+      "type": "choice",
+      "question": "正方形边长6cm，面积是？",
+      "answer": "36",
+      "explanation": "面积=6²=36cm²",
+      "options": [
+        24,
+        36,
+        54,
+        76
+      ]
+    },
+    {
+      "id": "G4_A_335",
+      "type": "choice",
+      "question": "正方形边长13cm，周长是？",
+      "answer": "52",
+      "explanation": "周长=13×4=52cm",
+      "options": [
+        43,
+        52,
+        59,
+        77
+      ]
+    },
+    {
+      "id": "G4_A_336",
+      "type": "choice",
+      "question": "正方形边长14cm，周长是？",
+      "answer": "56",
+      "explanation": "周长=14×4=56cm",
+      "options": [
+        54,
+        56,
+        60,
+        82
+      ]
+    },
+    {
+      "id": "G4_A_337",
+      "type": "choice",
+      "question": "正方形边长10cm，周长是？",
+      "answer": "40",
+      "explanation": "周长=10×4=40cm",
+      "options": [
+        30,
+        40,
+        50,
+        63
+      ]
+    },
+    {
+      "id": "G4_A_338",
+      "type": "choice",
+      "question": "正方形边长9cm，周长是？",
+      "answer": "36",
+      "explanation": "周长=9×4=36cm",
+      "options": [
+        28,
+        36,
+        38,
+        50
+      ]
+    },
+    {
+      "id": "G4_A_339",
+      "type": "choice",
+      "question": "正方形边长3cm，面积是？",
+      "answer": "9",
+      "explanation": "面积=3²=9cm²",
+      "options": [
+        -7,
+        9,
+        16,
+        40
+      ]
+    },
+    {
+      "id": "G4_A_340",
+      "type": "choice",
+      "question": "正方形边长11cm，面积是？",
+      "answer": "121",
+      "explanation": "面积=11²=121cm²",
+      "options": [
+        101,
+        121,
+        127,
+        161
+      ]
+    },
+    {
+      "id": "G4_A_341",
+      "type": "choice",
+      "question": "正方形边长11cm，面积是？",
+      "answer": "121",
+      "explanation": "面积=11²=121cm²",
+      "options": [
+        113,
+        121,
+        140,
+        168
+      ]
+    },
+    {
+      "id": "G4_A_342",
+      "type": "choice",
+      "question": "正方形边长10cm，面积是？",
+      "answer": "100",
+      "explanation": "面积=10²=100cm²",
+      "options": [
+        82,
+        100,
+        107,
+        123
+      ]
+    },
+    {
+      "id": "G4_A_343",
+      "type": "choice",
+      "question": "正方形边长10cm，面积是？",
+      "answer": "100",
+      "explanation": "面积=10²=100cm²",
+      "options": [
+        90,
+        100,
+        117,
+        132
+      ]
+    },
+    {
+      "id": "G4_A_344",
+      "type": "choice",
+      "question": "正方形边长14cm，周长是？",
+      "answer": "56",
+      "explanation": "周长=14×4=56cm",
+      "options": [
+        51,
+        56,
+        64,
+        78
+      ]
+    },
+    {
+      "id": "G4_A_345",
+      "type": "choice",
+      "question": "正方形边长3cm，面积是？",
+      "answer": "9",
+      "explanation": "面积=3²=9cm²",
+      "options": [
+        -11,
+        9,
+        28,
+        53
+      ]
+    },
+    {
+      "id": "G4_A_346",
+      "type": "choice",
+      "question": "正方形边长12cm，周长是？",
+      "answer": "48",
+      "explanation": "周长=12×4=48cm",
+      "options": [
+        43,
+        48,
+        51,
+        67
+      ]
+    },
+    {
+      "id": "G4_A_347",
+      "type": "choice",
+      "question": "正方形边长3cm，面积是？",
+      "answer": "9",
+      "explanation": "面积=3²=9cm²",
+      "options": [
+        -10,
+        9,
+        23,
+        47
+      ]
+    },
+    {
+      "id": "G4_A_348",
+      "type": "choice",
+      "question": "正方形边长10cm，面积是？",
+      "answer": "100",
+      "explanation": "面积=10²=100cm²",
+      "options": [
+        90,
+        100,
+        117,
+        132
+      ]
+    },
+    {
+      "id": "G4_A_349",
+      "type": "choice",
+      "question": "正方形边长4cm，面积是？",
+      "answer": "16",
+      "explanation": "面积=4²=16cm²",
+      "options": [
+        10,
+        16,
+        29,
+        42
+      ]
+    },
+    {
+      "id": "G4_A_350",
+      "type": "choice",
+      "question": "正方形边长7cm，周长是？",
+      "answer": "28",
+      "explanation": "周长=7×4=28cm",
+      "options": [
+        24,
+        28,
+        35,
+        53
+      ]
+    }
+  ]
+}
