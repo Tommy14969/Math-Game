@@ -17,6 +17,8 @@ export enum Difficulty {
 
 // 题目类型枚举
 export enum QuestionType {
+  Choice = 'choice',           // 选择题
+  Fill = 'fill',               // 填空题
   Addition = 'addition',
   Subtraction = 'subtraction',
   Multiplication = 'multiplication',
